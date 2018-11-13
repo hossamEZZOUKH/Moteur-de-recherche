@@ -1,0 +1,258 @@
+a{
+	text-decoration: none;	
+}
+.nlp-oujda, .team-project, .team-box, .team-member, .post-inner{
+	background-color:#F9F9F9;
+	
+}
+.post-inner{
+	background-color:#F9F9F9;
+	
+}
+/*----------------------------------**
+ **   BORDER BOTTOMS                **
+ **---------------------------------*/
+.white-border-bottom:before {
+	position: absolute;
+	margin: auto;
+	z-index: 1;
+	content: "";
+	width: 50%;
+	height: 2px;
+	background: #F5F5F5;
+	bottom: -9px;
+	left: 25%;
+}
+.dark-border-bottom:before {
+	position: absolute;
+	margin: auto;
+	z-index: 1;
+	content: "";
+	width: 50%;
+	height: 2px;
+	background: #404040;
+	bottom: -9px;
+	left: 25%;
+}
+.red-border-bottom:before {
+	position: absolute;
+	margin: auto;
+	z-index: 1;
+	content: "";
+	width: 75%;
+	height: 2px;
+	background: #e96656;
+	bottom: -9px;
+	left: 12.5%;
+}
+.green-border-bottom:before {
+	position: absolute;
+	margin: auto;
+	z-index: 1;
+	content: "";
+	width: 75%;
+	height: 2px;
+	background: #34d293;
+	bottom: -9px;
+	left: 12.5%;
+}
+.blue-border-bottom:before {
+	position: absolute;
+	margin: auto;
+	z-index: 1;
+	content: "";
+	width: 75%;
+	height: 2px;
+	background: #005DB3;
+	bottom: -9px;
+	left: 12.5%;
+}
+.yellow-border-bottom:before {
+	position: absolute;
+	margin: auto;
+	z-index: 1;
+	content: "";
+	width: 75%;
+	height: 2px;
+	background: #f7d861;
+	bottom: -9px;
+	left: 12.5%;
+}
+
+.team-member {
+	border-radius: 4px;
+	overflow: hidden;
+	position: relative;
+	padding-top: 10px;
+	margin-bottom: 10px;
+	border-bottom:1px solid #DFDFDF;
+	border-left:1px solid #DFDFDF;
+	border-right:1px solid #DFDFDF;
+}
+.team-member .details {
+	text-align: left;
+	font-size: 13px;
+	line-height: 20px;
+	position: absolute;
+	padding: 15px;
+	top: -200px;
+	left: 0;
+	width: 100%;
+	height: 190px;
+	-webkit-transition: all 500ms;
+	transition: all 500ms;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	opacity: 0;
+}
+.team-member .member-details {
+	position: relative;
+	display: inline-block;
+	padding-bottom: 5px;
+	
+	text-align: center;
+}
+.team-member:hover .details {
+	top: 0;
+	background: #DFDFDF;
+	color: white;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	opacity: 1;
+}
+.team-member.team-member-open .details {
+	display: block;
+	top: 0;
+	background: #333;
+	color: white;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	opacity: 1;
+	-webkit-transition: none;
+	-moz-transition: none;
+	-o-transition: none;
+	transition: none;
+}
+.team-member .profile-pic {
+	border-radius: 50%;
+	width: 174px;
+	height: 174px;
+	margin: auto;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+.team-member .profile-pic img {
+	width: 100%;
+	height: 100%;
+}
+.team-member h3 {
+	/*text-transform: uppercase;*/
+	color: #404040;
+	font-weight: 700;
+	font-size: 18px;
+	position: relative;
+	margin-top: 15px;
+	font-weight:bold;
+	font-family: 'Montserrat', Helvetica, sans-serif;
+}
+.team-member .position {
+	font-size: 14px;
+}
+/*---------------*/
+.nlp-header{
+	display:inline;
+	float:left;
+	width: 100%;
+}
+.nlp-header .logo-fso{
+	width: 20%;
+	display:inline;
+	float:left;
+	text-align:left;
+}
+.nlp-header .logo-ump{
+	width: 20%;
+	display:inline;
+	float:left;
+	text-align:right;		
+}
+.nlp-header .logo-nlp{
+	width: 60%;
+	display:inline;
+	float:left;	
+	text-align:center;		
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 900px) {
+	.nlp-header .logo-fso img,
+	.nlp-header .logo-ump img,
+	.nlp-header .logo-nlp img {
+		width: 100%;
+		height: 100%;
+	}
+}
+
+@media only screen and (min-width: 0px) and (max-width: 500px) {
+	.team-box {
+		display:inline;
+		width: 100%;
+		float:left;
+	}
+	.rtldir{
+		float:right;	
+	}
+}
+@media only screen and (min-width: 501px) and (max-width: 800px) {
+	.team-box {
+		display:inline;
+		width: 50%;
+		float:left;
+	}
+	.rtldir{
+		float:right;	
+	}
+}
+@media only screen and (min-width: 801px) and (max-width: 1099px) {
+	.team-box {
+		display:inline;
+		width: 33%;
+		float:left;
+	}	
+	.rtldir{
+		float:right;	
+	}
+}
+@media only screen and  (min-width: 1100px) {
+	.team-box {
+		display:inline;
+		width: 25%;
+		float:left;
+	}
+	.rtldir{
+		float:right;	
+	}
+}
+
+@media only screen and (min-width: 0px) and (max-width: 1000px) {	
+	.team-project{
+		display:inline;
+		width: 100%;
+		float:left;		
+		margin: 5px 0px;
+	}
+}
+
+@media only screen and  (min-width: 1001px) {	
+	.team-project{
+		display:inline;
+		width: 50%;
+		float:left;	
+		margin: 5px 0px;
+	}
+}
+.team-project-1, .team-project-2 {
+	width: 100%;
+}
+
+

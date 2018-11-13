@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MulTed>
+
+<Talk Speaker = "Wingham Rowan" Title= " A new kind of job market" >
+	<Segment id ="1" >
+		<Time-slot>00:00:15,579 --> 00:00:19,161</Time-slot>
+		<Original_text lang="en">This is about a hidden corner of the labor market.</Original_text>
+		<Translation lang="ar">سنتحدث عن الجانب المخفي من سوق العمل.</Translation>
+		<Translation lang="fr">Ceci regarde un coin caché du marché du travail.</Translation>
+	</Segment>
+	<Segment id ="2" >
+		<Time-slot>00:00:19,161 --> 00:00:22,794</Time-slot>
+		<Original_text lang="en">It's the world of people who need to work ultra-flexibly,</Original_text>
+		<Translation lang="ar">انه عالم الأشخاص الذين يحتاجون للعمل بمرونة فائقة،</Translation>
+		<Translation lang="fr">C'est le monde des personnes qui ont besoin de travailler de manière ultra-flexible,</Translation>
+	</Segment>
+	<Segment id ="3" >
+		<Time-slot>00:00:22,795 --> 00:00:24,112</Time-slot>
+		<Original_text lang="en">if they're to work at all.</Original_text>
+		<Translation lang="ar">هذا إن كانوا قادرين على العمل أصلا.</Translation>
+		<Translation lang="fr">si elles arrivent à le faire.</Translation>
+	</Segment>
+	<Segment id ="4" >
+		<Time-slot>00:00:24,111 --> 00:00:25,278</Time-slot>
+		<Original_text lang="en">So think, for instance,</Original_text>
+		<Translation lang="ar">تخيلوا، على سبيل المثال،</Translation>
+		<Translation lang="fr">Pensez par exemple,</Translation>
+	</Segment>
+	<Segment id ="5" >
+		<Time-slot>00:00:25,278 --> 00:00:28,896</Time-slot>
+		<Original_text lang="en">of someone who has a recurring but unpredictable medical condition,</Original_text>
+		<Translation lang="ar">شخصا مصاب بمرض مُزمن لا يمكن التنبؤ به،</Translation>
+		<Translation lang="fr">à quelqu'un qui a une condition médicale récurrente mais imprévisible,</Translation>
+	</Segment>
+	<Segment id ="6" >
+		<Time-slot>00:00:28,896 --> 00:00:31,679</Time-slot>
+		<Original_text lang="en">or somebody who's caring for a dependent adult,</Original_text>
+		<Translation lang="ar">أو شخص عليه الاهتمام بشخص بالغ من ذوي الإعاقة</Translation>
+		<Translation lang="fr">ou quelqu'un qui prend soin d'un adulte qui en dépend,</Translation>
+	</Segment>
+	<Segment id ="7" >
+		<Time-slot>00:00:31,679 --> 00:00:34,527</Time-slot>
+		<Original_text lang="en">or a parent with complex child care needs.</Original_text>
+		<Translation lang="ar">او أبوين لطفل بحاجة لعناية خاصة.</Translation>
+		<Translation lang="fr">ou un parent avec des enfants avec des besoins de santé complexes.</Translation>
+	</Segment>
+	<Segment id ="8" >
+		<Time-slot>00:00:34,527 --> 00:00:37,685</Time-slot>
+		<Original_text lang="en">Their availability for work can be such that it's,</Original_text>
+		<Translation lang="ar">ستكون قابليتهم للعمل كالتالي،</Translation>
+		<Translation lang="fr">Leur disponibilité à travailler peut être</Translation>
+	</Segment>
+	<Segment id ="9" >
+		<Time-slot>00:00:37,685 --> 00:00:39,378</Time-slot>
+		<Original_text lang="en">"A few hours today.</Original_text>
+		<Translation lang="ar">" ساعات قليلة باليوم.</Translation>
+		<Translation lang="fr">« Quelques heures aujourd'hui.</Translation>
+	</Segment>
+	<Segment id ="10" >
+		<Time-slot>00:00:39,378 --> 00:00:42,978</Time-slot>
+		<Original_text lang="en">Maybe I can work tomorrow, but I don't know if and when yet."</Original_text>
+		<Translation lang="ar">من الممكن أن اعمل غداً، لكن لا اعلم بالتحديد متى وإن كان بإمكاني ذلك."</Translation>
+		<Translation lang="fr">Peut-être je peux travailler demain, mais je ne sais pas encore si et quand »</Translation>
+	</Segment>
+	<Segment id ="11" >
+		<Time-slot>00:00:42,978 --> 00:00:45,496</Time-slot>
+		<Original_text lang="en">And it's extraordinarily difficult for these people</Original_text>
+		<Translation lang="ar">وبالنسبة لهؤلاء الأشخاص إيجاد عمل هم في أمس الحاجة إليه</Translation>
+		<Translation lang="fr">Et c'est incroyablement difficile pour ces personnes</Translation>
+	</Segment>
+	<Segment id ="12" >
+		<Time-slot>00:00:45,496 --> 00:00:48,525</Time-slot>
+		<Original_text lang="en">to find the work that they so often need very badly.</Original_text>
+		<Translation lang="ar">يعابر أمرا بالغ الصعوبة.</Translation>
+		<Translation lang="fr">de trouver un emploi dont elles ont souvent terriblement besoin.</Translation>
+	</Segment>
+	<Segment id ="13" >
+		<Time-slot>00:00:48,526 --> 00:00:51,345</Time-slot>
+		<Original_text lang="en">Which is a tragedy because there are employers</Original_text>
+		<Translation lang="ar">وهذا أمر مؤسف لأن هناك أرباب عمل</Translation>
+		<Translation lang="fr">Ce qui est une tragédie parce qu'il y a des employeurs</Translation>
+	</Segment>
+	<Segment id ="14" >
+		<Time-slot>00:00:51,344 --> 00:00:54,650</Time-slot>
+		<Original_text lang="en">who can use pools of very flexible local people</Original_text>
+		<Translation lang="ar">يمكنهم استخدام مجموعات من الأشخاص المحليين المرنين للغاية</Translation>
+		<Translation lang="fr">qui peuvent utiliser des groupes de personnes locales très flexibles</Translation>
+	</Segment>
+	<Segment id ="15" >
+		<Time-slot>00:00:54,651 --> 00:00:58,550</Time-slot>
+		<Original_text lang="en">booked completely ad hoc around when that person wants to work.</Original_text>
+		<Translation lang="ar">والمنشأة فقط للعمل عندما يريد ذلك الشخص أن يعمل.</Translation>
+		<Translation lang="fr">réservées complètement ad hoc quand cette personne veut travailler.</Translation>
+	</Segment>
+	<Segment id ="16" >
+		<Time-slot>00:00:58,549 --> 00:01:01,150</Time-slot>
+		<Original_text lang="en">Imagine that you run a cafe.</Original_text>
+		<Translation lang="ar">تخيلوا أنكم تُديرون مقهى،</Translation>
+		<Translation lang="fr">Imaginez que vous avez un café.</Translation>
+	</Segment>
+	<Segment id ="17" >
+		<Time-slot>00:01:01,151 --> 00:01:02,818</Time-slot>
+		<Original_text lang="en">It's mid-morning, the place is filling up.</Original_text>
+		<Translation lang="ar">وأنكم فى منتصف النهار والمكان مُزدحم للغاية.</Translation>
+		<Translation lang="fr">À la mi-matinée, l'endroit se remplit.</Translation>
+	</Segment>
+	<Segment id ="18" >
+		<Time-slot>00:01:02,817 --> 00:01:04,400</Time-slot>
+		<Original_text lang="en">You're going to have a busy lunchtime rush.</Original_text>
+		<Translation lang="ar">سيكون لديكم فترة غداء جد مزدحمة.</Translation>
+		<Translation lang="fr">Ce sera la bousculade à midi.</Translation>
+	</Segment>
+	<Segment id ="19" >
+		<Time-slot>00:01:04,400 --> 00:01:07,717</Time-slot>
+		<Original_text lang="en">If you could get two extra workers for 90 minutes</Original_text>
+		<Translation lang="ar">إذا كان بإمكانكم توظيف عاملين إضافيين لـ90 دقيقة</Translation>
+		<Translation lang="fr">Si vous pouviez avoir deux employés de plus pour 90 minutes</Translation>
+	</Segment>
+	<Segment id ="20" >
+		<Time-slot>00:01:07,718 --> 00:01:10,371</Time-slot>
+		<Original_text lang="en">to start in an hour's time,</Original_text>
+		<Translation lang="ar">ليبدءوا العمل حلال ساعة من الآن،</Translation>
+		<Translation lang="fr">qui commencent dans une heure,</Translation>
+	</Segment>
+	<Segment id ="21" >
+		<Time-slot>00:01:10,371 --> 00:01:15,329</Time-slot>
+		<Original_text lang="en">you'd do it, but they'd have to be reliable, inducted in how your cafe works.</Original_text>
+		<Translation lang="ar">ستفعلونها، ولكن يجب أن يكونوا محل ثقة وعلى دراية بكيفية إدارة مقهاكم.</Translation>
+		<Translation lang="fr">vous vous en sortiriez, mais ils doivent être fiables et savoir comment marche votre café.</Translation>
+	</Segment>
+	<Segment id ="22" >
+		<Time-slot>00:01:15,329 --> 00:01:17,206</Time-slot>
+		<Original_text lang="en">They'd have to be available at very competitive rates.</Original_text>
+		<Translation lang="ar">يجب أن يكونوا مُتاحين بأسعار تنافسية للغاية.</Translation>
+		<Translation lang="fr">Ils doivent être disponibles pour un salaire très compétitif.</Translation>
+	</Segment>
+	<Segment id ="23" >
+		<Time-slot>00:01:17,206 --> 00:01:20,373</Time-slot>
+		<Original_text lang="en">They'd have to be bookable in about the next minute.</Original_text>
+		<Translation lang="ar">و يجب أن يكونوا مستعدين للعمل فى الدقيقة التالية.</Translation>
+		<Translation lang="fr">Ils doivent pouvoir se réserver dans la minute qui suit.</Translation>
+	</Segment>
+	<Segment id ="24" >
+		<Time-slot>00:01:20,373 --> 00:01:24,305</Time-slot>
+		<Original_text lang="en">In reality, no recruitment agency wants to handle that sort of business,</Original_text>
+		<Translation lang="ar">فى الحقيقة، لا توجد وكالة توظيف تَوَد الاهتمام بمثل هذه الأعمال،</Translation>
+		<Translation lang="fr">En fait, aucune agence de recrutement ne veut traiter ce genre d'affaire,</Translation>
+	</Segment>
+	<Segment id ="25" >
+		<Time-slot>00:01:24,305 --> 00:01:27,688</Time-slot>
+		<Original_text lang="en">so you are going to muddle by, understaffed.</Original_text>
+		<Translation lang="ar">وبالتالي ستتدبرون أموركم بالموظفين المتوفرين.</Translation>
+		<Translation lang="fr">vous allez donc vous débrouiller, avec peu de personnel.</Translation>
+	</Segment>
+	<Segment id ="26" >
+		<Time-slot>00:01:27,688 --> 00:01:30,006</Time-slot>
+		<Original_text lang="en">And it's not just caterers, it's hoteliers, it's retailers,</Original_text>
+		<Translation lang="ar">ولا ينطبق هذا على الممونين فقط، بل وأصحاب الفنادق، وتجار التجزئة،</Translation>
+		<Translation lang="fr">Et il ne s'agit pas seulement de traiteurs, hôteliers, détaillants,</Translation>
+	</Segment>
+	<Segment id ="27" >
+		<Time-slot>00:01:30,006 --> 00:01:33,305</Time-slot>
+		<Original_text lang="en">it's anyone who provides services to the public or businesses.</Original_text>
+		<Translation lang="ar">إنه ينطبق على أي شخص يقدم خدمات للعموم أو للتجار.</Translation>
+		<Translation lang="fr">il s'agit de n'importe qui fournissant un service public ou pour le business.</Translation>
+	</Segment>
+	<Segment id ="28" >
+		<Time-slot>00:01:33,305 --> 00:01:37,838</Time-slot>
+		<Original_text lang="en">There's all sorts of organizations that can use these pools of very flexible people,</Original_text>
+		<Translation lang="ar">هناك الكثير من المنظمات التي يمكنها استخدام مجموعات العمال المرنين تلك.</Translation>
+		<Translation lang="fr">Il y a toutes sortes d'organisations qui peuvent utiliser des groupes de personnes très flexibles,</Translation>
+	</Segment>
+	<Segment id ="29" >
+		<Time-slot>00:01:37,837 --> 00:01:40,988</Time-slot>
+		<Original_text lang="en">possibly already once they've been inducted.</Original_text>
+		<Translation lang="ar">التي قد تكون تشكلت بالفعل.</Translation>
+		<Translation lang="fr">si possible déjà formées.</Translation>
+	</Segment>
+	<Segment id ="30" >
+		<Time-slot>00:01:40,989 --> 00:01:43,022</Time-slot>
+		<Original_text lang="en">At this level of the labor market,</Original_text>
+		<Translation lang="ar">عند هذا المستوى من سوق العمل،</Translation>
+		<Translation lang="fr">À ce niveau du marché du travail,</Translation>
+	</Segment>
+	<Segment id ="31" >
+		<Time-slot>00:01:43,022 --> 00:01:46,871</Time-slot>
+		<Original_text lang="en">what you need is a marketplace for spare hours.</Original_text>
+		<Translation lang="ar">ما تحتاجون إليه هو سوق عمل لساعات الفراغ.</Translation>
+		<Translation lang="fr">ce dont vous avez besoin c'est un marché des heures libres.</Translation>
+	</Segment>
+	<Segment id ="32" >
+		<Time-slot>00:01:46,871 --> 00:01:48,989</Time-slot>
+		<Original_text lang="en">They do exist. Here's how they work.</Original_text>
+		<Translation lang="ar">إنها موجودة. وهذه طريقة عملها.</Translation>
+		<Translation lang="fr">Ils existent. Voilà comment ils marchent.</Translation>
+	</Segment>
+	<Segment id ="33" >
+		<Time-slot>00:01:48,989 --> 00:01:52,456</Time-slot>
+		<Original_text lang="en">So in this example, a distribution company has said,</Original_text>
+		<Translation lang="ar">على سبيل المثال، أعلنت شركة توزيع،</Translation>
+		<Translation lang="fr">Dans cet exemple, une société de distribution a dit,</Translation>
+	</Segment>
+	<Segment id ="34" >
+		<Time-slot>00:01:52,456 --> 00:01:55,739</Time-slot>
+		<Original_text lang="en">we've got a rush order that we've got to get out of the warehouse tomorrow morning.</Original_text>
+		<Translation lang="ar">لدينا طلبية عاجلة علينا إعدادها للخروج من المستودع غدا صباحا.</Translation>
+		<Translation lang="fr">nous avons une commande urgente à faire sortir de l'entrepôt demain matin.</Translation>
+	</Segment>
+	<Segment id ="35" >
+		<Time-slot>00:01:55,739 --> 00:01:57,139</Time-slot>
+		<Original_text lang="en">Show us everyone who's available.</Original_text>
+		<Translation lang="ar">أرونا كل شخص يمكنه القيام بالعمل.</Translation>
+		<Translation lang="fr">Montre-nous tous ceux qui sont disponibles.</Translation>
+	</Segment>
+	<Segment id ="36" >
+		<Time-slot>00:01:57,138 --> 00:01:58,789</Time-slot>
+		<Original_text lang="en">It's found 31 workers.</Original_text>
+		<Translation lang="ar">لقد وجدت 31 عامل.</Translation>
+		<Translation lang="fr">Elle trouve 31 travailleurs.</Translation>
+	</Segment>
+	<Segment id ="37" >
+		<Time-slot>00:01:58,790 --> 00:02:02,322</Time-slot>
+		<Original_text lang="en">Everybody on this screen is genuinely available at those specific hours tomorrow.</Original_text>
+		<Translation lang="ar">كل واحد في هذه الشاشة قادر على العمل في تلك الساعات بالذات غدا.</Translation>
+		<Translation lang="fr">Tous sur cet écran sont absolument disponible à ces heures-ci demain.</Translation>
+	</Segment>
+	<Segment id ="38" >
+		<Time-slot>00:02:02,322 --> 00:02:04,656</Time-slot>
+		<Original_text lang="en">They're all contactable in time for this booking.</Original_text>
+		<Translation lang="ar">يمكن الاتصال بهم جميعا في الوقت المناسب لحجزهم.</Translation>
+		<Translation lang="fr">Ils sont tous joignables à temps pour la réservation.</Translation>
+	</Segment>
+	<Segment id ="39" >
+		<Time-slot>00:02:04,656 --> 00:02:08,657</Time-slot>
+		<Original_text lang="en">They've all defined the terms on which they will accept bookings.</Original_text>
+		<Translation lang="ar">لقد حددوا جميعا الشروط التي يقبلون العمل بها.</Translation>
+		<Translation lang="fr">Ils ont tous précisé les conditions auxquelles ils accepteront la réservation.</Translation>
+	</Segment>
+	<Segment id ="40" >
+		<Time-slot>00:02:08,657 --> 00:02:12,070</Time-slot>
+		<Original_text lang="en">And this booking is within all the parameters for each individual.</Original_text>
+		<Translation lang="ar">ويبقى هذا الحجز في حدود المعايير العامة لكل فرد.</Translation>
+		<Translation lang="fr">Et cette réservation reste dans les limites des paramètres pour chaque individu.</Translation>
+	</Segment>
+	<Segment id ="41" >
+		<Time-slot>00:02:12,070 --> 00:02:14,632</Time-slot>
+		<Original_text lang="en">And they would all be legally compliant by doing this booking.</Original_text>
+		<Translation lang="ar">وبقيامهم بهذا الحجز يكونون جميعا متوافقين مع القانون.</Translation>
+		<Translation lang="fr">Et ils seraient tous conformes à la législation en faisant cette réservation.</Translation>
+	</Segment>
+	<Segment id ="42" >
+		<Time-slot>00:02:14,632 --> 00:02:16,556</Time-slot>
+		<Original_text lang="en">Of course, they're all trained to work in warehouses.</Original_text>
+		<Translation lang="ar">وبالطبع، هم جميعا مكونين في العمل بالمستودعات.</Translation>
+		<Translation lang="fr">Bien sûr, ils sont tous formés pour travailler dans les entrepôts.</Translation>
+	</Segment>
+	<Segment id ="43" >
+		<Time-slot>00:02:16,556 --> 00:02:18,771</Time-slot>
+		<Original_text lang="en">You can select as many of them as you want.</Original_text>
+		<Translation lang="ar">يمكنكم انتقاء أكبر عدد منهم كما تريدون.</Translation>
+		<Translation lang="fr">Vous pouvez en sélectionner autant que vous en voulez.</Translation>
+	</Segment>
+	<Segment id ="44" >
+		<Time-slot>00:02:18,770 --> 00:02:20,222</Time-slot>
+		<Original_text lang="en">They're from multiple agencies.</Original_text>
+		<Translation lang="ar">قادمين من وكالات متعددة.</Translation>
+		<Translation lang="fr">Ils travaillent pour plusieurs agences.</Translation>
+	</Segment>
+	<Segment id ="45" >
+		<Time-slot>00:02:20,223 --> 00:02:24,155</Time-slot>
+		<Original_text lang="en">It's calculated the charge rate for each person for this specific booking.</Original_text>
+		<Translation lang="ar">وقد قامت بحساب سعر التكلفة لكل شخص مقابل هذ الحجز بالذات.</Translation>
+		<Translation lang="fr">Le tarif pour chaque personne réservée est calculé pour cette tâche.</Translation>
+	</Segment>
+	<Segment id ="46" >
+		<Time-slot>00:02:24,155 --> 00:02:26,489</Time-slot>
+		<Original_text lang="en">And it's monitoring their reliability.</Original_text>
+		<Translation lang="ar">وراقبت كفاءتهم.</Translation>
+		<Translation lang="fr">Et elle vérifie leur fiabilité.</Translation>
+	</Segment>
+	<Segment id ="47" >
+		<Time-slot>00:02:26,489 --> 00:02:29,489</Time-slot>
+		<Original_text lang="en">The people on the top row are the provenly reliable ones.</Original_text>
+		<Translation lang="ar">ومن المؤكد بأن أولئك المتواجدين بالصف العلوي هم الأكثر كفاءة.</Translation>
+		<Translation lang="fr">Ceux qui sont en haut sont les plus fiables.</Translation>
+	</Segment>
+	<Segment id ="48" >
+		<Time-slot>00:02:29,489 --> 00:02:31,237</Time-slot>
+		<Original_text lang="en">They're likely to be more expensive.</Original_text>
+		<Translation lang="ar">وهم على الأرجح أكثر تكلفة.</Translation>
+		<Translation lang="fr">Ils sont probablement plus chers.</Translation>
+	</Segment>
+	<Segment id ="49" >
+		<Time-slot>00:02:31,237 --> 00:02:34,438</Time-slot>
+		<Original_text lang="en">In an alternative view of this pool of local, very flexible people,</Original_text>
+		<Translation lang="ar">وفي نظرة مختلفة لهذه المجموعة المحلية، أو الأشخاص المرنين،</Translation>
+		<Translation lang="fr">Dans une vision alternative de ce groupe de locaux, des gens très flexibles,</Translation>
+	</Segment>
+	<Segment id ="50" >
+		<Time-slot>00:02:34,438 --> 00:02:36,121</Time-slot>
+		<Original_text lang="en">here's a market research company,</Original_text>
+		<Translation lang="ar">هناك شركة أبحاث السوق</Translation>
+		<Translation lang="fr">voici une société de recherche de marché,</Translation>
+	</Segment>
+	<Segment id ="51" >
+		<Time-slot>00:02:36,122 --> 00:02:40,072</Time-slot>
+		<Original_text lang="en">and it's inducted maybe 25 local people in how to do street interviewing.</Original_text>
+		<Translation lang="ar">قامت بتكوين 25 من السكان المحليين في كيفية إجراء مقابلات بالشارع.</Translation>
+		<Translation lang="fr">elle a chargé 25 personnes de faire des interviews dans la rue.</Translation>
+	</Segment>
+	<Segment id ="52" >
+		<Time-slot>00:02:40,072 --> 00:02:42,757</Time-slot>
+		<Original_text lang="en">And they've got a new campaign. They want to run it next week.</Original_text>
+		<Translation lang="ar">وعليها القيام بحملة جديدة. وذلك بالأسبوع المقبل.</Translation>
+		<Translation lang="fr">Ils ont une nouvelle campagne. Ils veulent la faire la semaine prochaine.</Translation>
+	</Segment>
+	<Segment id ="53" >
+		<Time-slot>00:02:42,757 --> 00:02:46,156</Time-slot>
+		<Original_text lang="en">And they're looking at how many of the people they've inducted</Original_text>
+		<Translation lang="ar">وهم يتحققون من عدد الأشخاص القادرين على القيام بذلك</Translation>
+		<Translation lang="fr">Ils veulent vérifier combien des personnse qu'ils ont formé</Translation>
+	</Segment>
+	<Segment id ="54" >
+		<Time-slot>00:02:46,156 --> 00:02:48,438</Time-slot>
+		<Original_text lang="en">are available each hour next week.</Original_text>
+		<Translation lang="ar">من بين الذين كونوهم لكل ساعة في الأسبوع المقبل.</Translation>
+		<Translation lang="fr">sont disponibles à chaque heure la semaine prochaine.</Translation>
+	</Segment>
+	<Segment id ="55" >
+		<Time-slot>00:02:48,437 --> 00:02:51,171</Time-slot>
+		<Original_text lang="en">And they'll then decide when to do their street interviews.</Original_text>
+		<Translation lang="ar">وسيقرروا عندها موعد القيام بتلك المقابلات.</Translation>
+		<Translation lang="fr">Ils décideront ensuite quand faire les interviews dans la rue.</Translation>
+	</Segment>
+	<Segment id ="56" >
+		<Time-slot>00:02:51,171 --> 00:02:53,788</Time-slot>
+		<Original_text lang="en">But is there more that could be done</Original_text>
+		<Translation lang="ar">ولكن هل من الممكن القيام بالمزيد</Translation>
+		<Translation lang="fr">Mais peut-on faire plus</Translation>
+	</Segment>
+	<Segment id ="57" >
+		<Time-slot>00:02:53,788 --> 00:02:55,538</Time-slot>
+		<Original_text lang="en">for this corner of the labor market?</Original_text>
+		<Translation lang="ar">لهذا الجانب من سوق العمل؟</Translation>
+		<Translation lang="fr">pour ce coin du marché du travail ?</Translation>
+	</Segment>
+	<Segment id ="58" >
+		<Time-slot>00:02:55,538 --> 00:02:58,224</Time-slot>
+		<Original_text lang="en">Because right now there are so many people</Original_text>
+		<Translation lang="ar">لأنه هناك الكثير من الناس الآن</Translation>
+		<Translation lang="fr">Parce qu'il y a maintenant beaucoup de personnes</Translation>
+	</Segment>
+	<Segment id ="59" >
+		<Time-slot>00:02:58,224 --> 00:03:01,823</Time-slot>
+		<Original_text lang="en">who need whatever economic opportunity they can get.</Original_text>
+		<Translation lang="ar">بحاجة للحصول على أي فرصة اقتصادية مهما كانت.</Translation>
+		<Translation lang="fr">qui ont besoin d'une quelconque opportunité économique.</Translation>
+	</Segment>
+	<Segment id ="60" >
+		<Time-slot>00:03:01,823 --> 00:03:03,873</Time-slot>
+		<Original_text lang="en">Let's make it personal.</Original_text>
+		<Translation lang="ar">دعونا نجعل الأمر شخصي.</Translation>
+		<Translation lang="fr">Voyons le coté personnel.</Translation>
+	</Segment>
+	<Segment id ="61" >
+		<Time-slot>00:03:03,872 --> 00:03:06,655</Time-slot>
+		<Original_text lang="en">Imagine that a young woman -- base of the economic pyramid,</Original_text>
+		<Translation lang="ar">تخيلوا امرأة شابه - قاعدة الهرم الاقتصادي،</Translation>
+		<Translation lang="fr">Imaginez une jeune femme – la base de la pyramide économique,</Translation>
+	</Segment>
+	<Segment id ="62" >
+		<Time-slot>00:03:06,656 --> 00:03:08,855</Time-slot>
+		<Original_text lang="en">very little prospect of getting a job --</Original_text>
+		<Translation lang="ar">احتمال ضئيل جداً للحصول على وظيفة-</Translation>
+		<Translation lang="fr">peut de chances d'obtenir un job –</Translation>
+	</Segment>
+	<Segment id ="63" >
+		<Time-slot>00:03:08,855 --> 00:03:12,572</Time-slot>
+		<Original_text lang="en">what economic activity could she theoretically engage in?</Original_text>
+		<Translation lang="ar">نظرياً ما هو النشاط الاقتصادي الذي يمكنها الانخراط فيه؟</Translation>
+		<Translation lang="fr">dans quelle activité économique devrait-elle s'engager ?</Translation>
+	</Segment>
+	<Segment id ="64" >
+		<Time-slot>00:03:12,572 --> 00:03:14,855</Time-slot>
+		<Original_text lang="en">Well, she might be willing to work odd hours</Original_text>
+		<Translation lang="ar">قد تكون مستعدة للعمل خلال ساعات غريبة</Translation>
+		<Translation lang="fr">Elle pourrait travailler à des heures bizarres</Translation>
+	</Segment>
+	<Segment id ="65" >
+		<Time-slot>00:03:14,855 --> 00:03:18,156</Time-slot>
+		<Original_text lang="en">in a call center, in a reception area, in a mail room.</Original_text>
+		<Translation lang="ar">في مركز الاتصال، في فضاء الاستقبال، في مكتب البريد.</Translation>
+		<Translation lang="fr">dans un centre d'appels, dans une aire d'accueil, dans un bureau de tri,</Translation>
+	</Segment>
+	<Segment id ="66" >
+		<Time-slot>00:03:18,156 --> 00:03:21,487</Time-slot>
+		<Original_text lang="en">She may be interested in providing local services to her community:</Original_text>
+		<Translation lang="ar">قد تكون مهتمة في تقديم خدمات محلية لمجتمعها المحلي :</Translation>
+		<Translation lang="fr">Elle pourrait s'intéresser aux services locaux dans sa communauté :</Translation>
+	</Segment>
+	<Segment id ="67" >
+		<Time-slot>00:03:21,487 --> 00:03:24,038</Time-slot>
+		<Original_text lang="en">babysitting, local deliveries, pet care.</Original_text>
+		<Translation lang="ar">مجالسة الأطفال، والتسليم المحلي، والعناية بالحيوانات الأليفة.</Translation>
+		<Translation lang="fr">babysitting, livraisons locales, soins des animaux.</Translation>
+	</Segment>
+	<Segment id ="68" >
+		<Time-slot>00:03:24,038 --> 00:03:27,175</Time-slot>
+		<Original_text lang="en">She may have possessions that she would like to trade</Original_text>
+		<Translation lang="ar">قد يكون لديها ممتلكات ترغب باستبدالها</Translation>
+		<Translation lang="fr">Elle pourrait avoir des biens qu'elle voudrait échanger</Translation>
+	</Segment>
+	<Segment id ="69" >
+		<Time-slot>00:03:27,175 --> 00:03:28,421</Time-slot>
+		<Original_text lang="en">at times she doesn't need them.</Original_text>
+		<Translation lang="ar">عندما لا تكون بحاجة إليها.</Translation>
+		<Translation lang="fr">quand elle n'en a pas besoin.</Translation>
+	</Segment>
+	<Segment id ="70" >
+		<Time-slot>00:03:28,421 --> 00:03:32,020</Time-slot>
+		<Original_text lang="en">So she might have a sofa bed in her front room that she would like to let out.</Original_text>
+		<Translation lang="ar">قد يكون لديها أريكة-سرير بغرفتها ترغب في التخلي عليها.</Translation>
+		<Translation lang="fr">Elle pourrait avoir un canapé-lit dans sa chambre qu'elle voudrait louer.</Translation>
+	</Segment>
+	<Segment id ="71" >
+		<Time-slot>00:03:32,020 --> 00:03:36,188</Time-slot>
+		<Original_text lang="en">She might have a bike, a video games console she only uses occasionally.</Original_text>
+		<Translation lang="ar">قد يكون لديها دراجة، ولعبة إلكترونية لا تستخدمها إلا أحيانا.</Translation>
+		<Translation lang="fr">Elle pourrait avoir un vélo, une console de jeux vidéos qu'elle utilise occasionnellement.</Translation>
+	</Segment>
+	<Segment id ="72" >
+		<Time-slot>00:03:36,188 --> 00:03:39,590</Time-slot>
+		<Original_text lang="en">And you're probably thinking -- because you're all very web-aware --</Original_text>
+		<Translation lang="ar">وربما أنتم تفكرون - لأنكم تعرفون الأنترنت -</Translation>
+		<Translation lang="fr">Et vous pensez sans doute – parce que vous connaissez le web –</Translation>
+	</Segment>
+	<Segment id ="73" >
+		<Time-slot>00:03:39,590 --> 00:03:42,155</Time-slot>
+		<Original_text lang="en">yes, and we're in the era of collaborative consumption,</Original_text>
+		<Translation lang="ar">ولأننا بعصر الاستهلاك التعاوني،</Translation>
+		<Translation lang="fr">et nous sommes dans l'ère de la consommation collaborative,</Translation>
+	</Segment>
+	<Segment id ="74" >
+		<Time-slot>00:03:42,155 --> 00:03:43,914</Time-slot>
+		<Original_text lang="en">so she can go online and do all this.</Original_text>
+		<Translation lang="ar">يمكنها استخدام شبكة الإنترنت للقيام بكل ذلك.</Translation>
+		<Translation lang="fr">donc elle peut aller en ligne et faire tout cela.</Translation>
+	</Segment>
+	<Segment id ="75" >
+		<Time-slot>00:03:43,914 --> 00:03:46,572</Time-slot>
+		<Original_text lang="en">She can go to Airbnb to list her sofa bed,</Original_text>
+		<Translation lang="ar">يمكنها عرض أريكة-سرير خاصتها على موقع أيربنب ،</Translation>
+		<Translation lang="fr">Elle peut aller sur Airbnb et mettre son canapé dans la liste,</Translation>
+	</Segment>
+	<Segment id ="76" >
+		<Time-slot>00:03:46,573 --> 00:03:50,456</Time-slot>
+		<Original_text lang="en">she can go to TaskRabbit.com and say, "I want to do local deliveries," and so on.</Original_text>
+		<Translation lang="ar">أو موقع تسكرابيت وتقول، "أود القيام بعمليات التسليم المحلي"، وهلم جرا.</Translation>
+		<Translation lang="fr">elle peut aller sur TaskRabbit.com et dire, « Je veux faire des livraisons locales » et ainsi de suite.</Translation>
+	</Segment>
+	<Segment id ="77" >
+		<Time-slot>00:03:50,456 --> 00:03:55,806</Time-slot>
+		<Original_text lang="en">These are good sites, but I believe we can go a step further.</Original_text>
+		<Translation lang="ar">إنها مواقع جيدة، ولكن أعتقد أنه يمكننا الذهاب أبعد من ذلك.</Translation>
+		<Translation lang="fr">Il y a de bon sites, mais je crois que nous pouvons faire mieux que ça.</Translation>
+	</Segment>
+	<Segment id ="78" >
+		<Time-slot>00:03:55,806 --> 00:04:02,420</Time-slot>
+		<Original_text lang="en">And the key to that is a philosophy that we call modern markets for all.</Original_text>
+		<Translation lang="ar">والمفتاح لذلك هي الفلسفة التي نسميها بالأسواق الحديثة للجميع.</Translation>
+		<Translation lang="fr">Et la clé c'est une philosophie que nous appelons marchés modernes pour tous.</Translation>
+	</Segment>
+	<Segment id ="79" >
+		<Time-slot>00:04:02,420 --> 00:04:06,971</Time-slot>
+		<Original_text lang="en">Markets have changed beyond recognition in the last 20 years,</Original_text>
+		<Translation lang="ar">لقد تغيرت الأسواق بشكل جذري في السنوات 20 الأخيرة،</Translation>
+		<Translation lang="fr">Les marchés ont énormément changé au cours des 20 dernières années,</Translation>
+	</Segment>
+	<Segment id ="80" >
+		<Time-slot>00:04:06,972 --> 00:04:10,656</Time-slot>
+		<Original_text lang="en">but only for organizations at the top of the economy.</Original_text>
+		<Translation lang="ar">ولكن فقط للمنظمات المهيمنة على الاقتصاد.</Translation>
+		<Translation lang="fr">mais seulement pour les organisations au top de l'économie.</Translation>
+	</Segment>
+	<Segment id ="81" >
+		<Time-slot>00:04:10,656 --> 00:04:13,656</Time-slot>
+		<Original_text lang="en">If you're a Wall Street trader, you now take it for granted</Original_text>
+		<Translation lang="ar">إذا كنت مضارب بوول ستريت، تعتبر بيع الأصول المالية الخاصة بك</Translation>
+		<Translation lang="fr">Si vous êtes un trader à Wall Street, vous tenez maintenant pour acquis</Translation>
+	</Segment>
+	<Segment id ="82" >
+		<Time-slot>00:04:13,656 --> 00:04:16,572</Time-slot>
+		<Original_text lang="en">that you sell your financial assets in a system of markets</Original_text>
+		<Translation lang="ar">في نظام الأسواق أمرا مفروغا منه</Translation>
+		<Translation lang="fr">que vous vendez vos actifs financiers dans un système de marchés</Translation>
+	</Segment>
+	<Segment id ="83" >
+		<Time-slot>00:04:16,572 --> 00:04:20,155</Time-slot>
+		<Original_text lang="en">that identifies the most profitable opportunities for you in real time,</Original_text>
+		<Translation lang="ar">لأنه يحدد لك الفرص الأكثر ربحية في الوقت الحقيقي،</Translation>
+		<Translation lang="fr">qui identifie pour vous les opportunités les plus rentables en temps réel,</Translation>
+	</Segment>
+	<Segment id ="84" >
+		<Time-slot>00:04:20,154 --> 00:04:23,807</Time-slot>
+		<Original_text lang="en">executes on that in microseconds within the boundaries you've set.</Original_text>
+		<Translation lang="ar">وينفذها في أجزاء من الثانية حسب الحدود التي حددتها.</Translation>
+		<Translation lang="fr">les exécute en quelques micro-secondes dans les limites que vous avez défini.</Translation>
+	</Segment>
+	<Segment id ="85" >
+		<Time-slot>00:04:23,807 --> 00:04:27,240</Time-slot>
+		<Original_text lang="en">It analyzes supply and demand and pricing</Original_text>
+		<Translation lang="ar">ويحلل العرض والطلب والتسعير</Translation>
+		<Translation lang="fr">Il analyse l'offre, la demande et les prix</Translation>
+	</Segment>
+	<Segment id ="86" >
+		<Time-slot>00:04:27,240 --> 00:04:29,333</Time-slot>
+		<Original_text lang="en">and tells you where your next wave of opportunities are coming from.</Original_text>
+		<Translation lang="ar">ويخبرك من أين ستأتي فرصتك القادمة.</Translation>
+		<Translation lang="fr">et vous indique d'où viendra votre prochaine opportunité.</Translation>
+	</Segment>
+	<Segment id ="87" >
+		<Time-slot>00:04:29,333 --> 00:04:32,883</Time-slot>
+		<Original_text lang="en">It manages counterparty risk in incredibly sophisticated ways.</Original_text>
+		<Translation lang="ar">ويدير مخاطر تخلف الطرف الآخر عن الإلتزام بطرق جد معقدة.</Translation>
+		<Translation lang="fr">Il gère le risque de contrepartie de manière incroyablement sophistiqués.</Translation>
+	</Segment>
+	<Segment id ="88" >
+		<Time-slot>00:04:32,882 --> 00:04:35,317</Time-slot>
+		<Original_text lang="en">It's all extremely low overhead.</Original_text>
+		<Translation lang="ar">وجميع النفقات العامة جد منخفضة.</Translation>
+		<Translation lang="fr">Les frais généraux sont extrêmement bas.</Translation>
+	</Segment>
+	<Segment id ="89" >
+		<Time-slot>00:04:35,317 --> 00:04:38,317</Time-slot>
+		<Original_text lang="en">What have we gained at the bottom of the economy</Original_text>
+		<Translation lang="ar">ما الذي ربحناه نحن في الجزء السفلي من الاقتصاد</Translation>
+		<Translation lang="fr">Qu'avons-nous gagné à la base de l'économie</Translation>
+	</Segment>
+	<Segment id ="90" >
+		<Time-slot>00:04:38,317 --> 00:04:42,411</Time-slot>
+		<Original_text lang="en">in terms of markets in the last 20 years?</Original_text>
+		<Translation lang="ar">فيما يتعلق بالأسواق في السنوات ال 20 الماضية؟</Translation>
+		<Translation lang="fr">en termes de marchés au cours des 20 dernières années ?</Translation>
+	</Segment>
+	<Segment id ="91" >
+		<Time-slot>00:04:42,411 --> 00:04:48,570</Time-slot>
+		<Original_text lang="en">Basically classified adverts with a search facility.</Original_text>
+		<Translation lang="ar">بشكل أساسي، إعلانات مصنفة سهل البحث عنها.</Translation>
+		<Translation lang="fr">Fondamentalement, des annonces classées facile à rechercher.</Translation>
+	</Segment>
+	<Segment id ="92" >
+		<Time-slot>00:04:48,571 --> 00:04:50,584</Time-slot>
+		<Original_text lang="en">So why do we have this disparity</Original_text>
+		<Translation lang="ar">لماذا لدينا هذا التفاوت</Translation>
+		<Translation lang="fr">Alors, pourquoi y a-t-il cette disparité</Translation>
+	</Segment>
+	<Segment id ="93" >
+		<Time-slot>00:04:50,584 --> 00:04:54,134</Time-slot>
+		<Original_text lang="en">between these incredibly sophisticated markets at the top of the economy</Original_text>
+		<Translation lang="ar">بين الأسواق المتطورة بشكل لا يصدق في الجزء العلوي من الاقتصاد</Translation>
+		<Translation lang="fr">entre ces marchés incroyablement sophistiqués au sommet de l'économie</Translation>
+	</Segment>
+	<Segment id ="94" >
+		<Time-slot>00:04:54,134 --> 00:04:57,750</Time-slot>
+		<Original_text lang="en">that are increasingly sucking more and more activity and resource</Original_text>
+		<Translation lang="ar">والتي تمص أكثر فأكثر كل الأنشطة والموارد</Translation>
+		<Translation lang="fr">qui absorbent de plus en plus d'activités et de ressources</Translation>
+	</Segment>
+	<Segment id ="95" >
+		<Time-slot>00:04:57,750 --> 00:05:01,199</Time-slot>
+		<Original_text lang="en">out of the main economy into this rarefied level of trading,</Original_text>
+		<Translation lang="ar">الاقتصادية الرئيسية بهذا المستوى النادر من التداول،</Translation>
+		<Translation lang="fr">de l'économie principale à ce niveau de négociation raréfié,</Translation>
+	</Segment>
+	<Segment id ="96" >
+		<Time-slot>00:05:01,199 --> 00:05:03,583</Time-slot>
+		<Original_text lang="en">and what the rest of us have?</Original_text>
+		<Translation lang="ar">وما الذي يبقى لنا؟</Translation>
+		<Translation lang="fr">et que nous reste-t-il ?</Translation>
+	</Segment>
+	<Segment id ="97" >
+		<Time-slot>00:05:03,583 --> 00:05:06,649</Time-slot>
+		<Original_text lang="en">A modern market is more than a website;</Original_text>
+		<Translation lang="ar">السوق الحديثة هي أكثر من مجرد موقع على الإنترنت؛</Translation>
+		<Translation lang="fr">Un marché moderne est plus qu'un site web ;</Translation>
+	</Segment>
+	<Segment id ="98" >
+		<Time-slot>00:05:06,649 --> 00:05:09,268</Time-slot>
+		<Original_text lang="en">it's a web of interoperable marketplaces,</Original_text>
+		<Translation lang="ar">إنها كشبكة من الأسواق القابلة للتشغيل المتبادل،</Translation>
+		<Translation lang="fr">il s'agit d'un réseau de marchés interopérables,</Translation>
+	</Segment>
+	<Segment id ="99" >
+		<Time-slot>00:05:09,267 --> 00:05:11,801</Time-slot>
+		<Original_text lang="en">back office mechanisms, regulatory regimes,</Original_text>
+		<Translation lang="ar">كآليات المكتب الخلفي، كأنظمة تنظيمية،</Translation>
+		<Translation lang="fr">des mécanismes de back office, des régimes de réglementation,</Translation>
+	</Segment>
+	<Segment id ="100" >
+		<Time-slot>00:05:11,802 --> 00:05:16,699</Time-slot>
+		<Original_text lang="en">settlement mechanisms, liquidity sources and so on.</Original_text>
+		<Translation lang="ar">كآليات استقرار، وكمصادر للسيولة وهلم جرا.</Translation>
+		<Translation lang="fr">des mécanismes de stabilité, des sources de liquidité, et ainsi de suite.</Translation>
+	</Segment>
+	<Segment id ="101" >
+		<Time-slot>00:05:16,699 --> 00:05:19,850</Time-slot>
+		<Original_text lang="en">And when a Wall Street trader comes into work in the morning,</Original_text>
+		<Translation lang="ar">وعندما يأتي مضارب وول ستريت للعمل صباحا،</Translation>
+		<Translation lang="fr">Et quand un trader de Wall Street arrive au boulot le matin,</Translation>
+	</Segment>
+	<Segment id ="102" >
+		<Time-slot>00:05:19,850 --> 00:05:25,049</Time-slot>
+		<Original_text lang="en">she does not write a listing for every financial derivative she wants to sell today</Original_text>
+		<Translation lang="ar">فإنها لن تكتب قائمة بكل المشتقات المالية التي تود أن تبيعها اليوم</Translation>
+		<Translation lang="fr">elle n'écrit pas une liste de tous les instruments financiers dérivés qu'elle veut vendre aujourd'hui</Translation>
+	</Segment>
+	<Segment id ="103" >
+		<Time-slot>00:05:25,048 --> 00:05:27,664</Time-slot>
+		<Original_text lang="en">and then post that listing on multiple websites</Original_text>
+		<Translation lang="ar">ثم تنشرها على مواقع متعددة</Translation>
+		<Translation lang="fr">et en publie ensuite la liste sur plusieurs sites web</Translation>
+	</Segment>
+	<Segment id ="104" >
+		<Time-slot>00:05:27,665 --> 00:05:30,165</Time-slot>
+		<Original_text lang="en">and wait for potential buyers to get in touch</Original_text>
+		<Translation lang="ar">وتنتظر مشترين محتملين للاتصال بها</Translation>
+		<Translation lang="fr">en attendant que de potentiels acheteurs se mettent en contact</Translation>
+	</Segment>
+	<Segment id ="105" >
+		<Time-slot>00:05:30,165 --> 00:05:33,882</Time-slot>
+		<Original_text lang="en">and start negotiating the terms on which she might trade.</Original_text>
+		<Translation lang="ar">لتبدء بعدها بالتفاوض حول الشروط البيع.</Translation>
+		<Translation lang="fr">et commence à négocier les conditions de vente.</Translation>
+	</Segment>
+	<Segment id ="106" >
+		<Time-slot>00:05:33,882 --> 00:05:36,781</Time-slot>
+		<Original_text lang="en">In the early days of this modern markets technology,</Original_text>
+		<Translation lang="ar">في بدايات هذه التكنولوجيا الحديثة في الأسواق،</Translation>
+		<Translation lang="fr">Au début de cette technologie des marchés modernes,</Translation>
+	</Segment>
+	<Segment id ="107" >
+		<Time-slot>00:05:36,781 --> 00:05:38,848</Time-slot>
+		<Original_text lang="en">the financial institutions worked out</Original_text>
+		<Translation lang="ar">عملت المؤسسات المالية على إيجاد</Translation>
+		<Translation lang="fr">les institutions financières ont calculé</Translation>
+	</Segment>
+	<Segment id ="108" >
+		<Time-slot>00:05:38,848 --> 00:05:42,480</Time-slot>
+		<Original_text lang="en">how they could leverage their buying power, their back office processes,</Original_text>
+		<Translation lang="ar">طريقة تستغل بها قدرتها الشرائية وعمليات مكتبها الخلفي،</Translation>
+		<Translation lang="fr">comment profiter de leur pouvoir d'achat, de leur mode de travail,</Translation>
+	</Segment>
+	<Segment id ="109" >
+		<Time-slot>00:05:42,480 --> 00:05:44,781</Time-slot>
+		<Original_text lang="en">their relationships, their networks</Original_text>
+		<Translation lang="ar">علاقاتها، وشبكاتها</Translation>
+		<Translation lang="fr">leurs relations, leurs réseaux</Translation>
+	</Segment>
+	<Segment id ="110" >
+		<Time-slot>00:05:44,781 --> 00:05:49,370</Time-slot>
+		<Original_text lang="en">to shape these new markets that would create all this new activity.</Original_text>
+		<Translation lang="ar">ولإنشاء هذه الأسواق الجديدة التي ستخلق كل هذا النشاط الجديد.</Translation>
+		<Translation lang="fr">pour former ces nouveaux marchés qui auraient créé toutes ces nouvelles activités.</Translation>
+	</Segment>
+	<Segment id ="111" >
+		<Time-slot>00:05:49,370 --> 00:05:52,459</Time-slot>
+		<Original_text lang="en">They asked governments for supporting regulatory regimes,</Original_text>
+		<Translation lang="ar">طلبت من الحكومات دعمها بأنظمة تنظيمية،</Translation>
+		<Translation lang="fr">Ils ont demandé aux gouvernements des nouveaux régimes de régulation,</Translation>
+	</Segment>
+	<Segment id ="112" >
+		<Time-slot>00:05:52,459 --> 00:05:55,093</Time-slot>
+		<Original_text lang="en">and in a lot of cases they got it.</Original_text>
+		<Translation lang="ar">وقد حصلت عليه في أغلب الحالات.</Translation>
+		<Translation lang="fr">et dans beaucoup de cas ils les ont obtenus.</Translation>
+	</Segment>
+	<Segment id ="113" >
+		<Time-slot>00:05:55,093 --> 00:05:57,043</Time-slot>
+		<Original_text lang="en">But throughout the economy,</Original_text>
+		<Translation lang="ar">ولكن يوجد في الاقتصاد،</Translation>
+		<Translation lang="fr">Mais dans toute l'économie,</Translation>
+	</Segment>
+	<Segment id ="114" >
+		<Time-slot>00:05:57,043 --> 00:05:59,861</Time-slot>
+		<Original_text lang="en">there are facilities that could likewise leverage</Original_text>
+		<Translation lang="ar">بنيات تحتية يمكن أن تستفيد</Translation>
+		<Translation lang="fr">il y a des installations qui pourraient même tirer parti</Translation>
+	</Segment>
+	<Segment id ="115" >
+		<Time-slot>00:05:59,862 --> 00:06:01,461</Time-slot>
+		<Original_text lang="en">a new generation of markets</Original_text>
+		<Translation lang="ar">من جيل جديد من الأسواق</Translation>
+		<Translation lang="fr">d'une nouvelle génération de marchés</Translation>
+	</Segment>
+	<Segment id ="116" >
+		<Time-slot>00:06:01,461 --> 00:06:04,194</Time-slot>
+		<Original_text lang="en">for the benefit of all of us.</Original_text>
+		<Translation lang="ar">لما فيه مصلحتنا جميعا.</Translation>
+		<Translation lang="fr">à l'avantage de nous tous.</Translation>
+	</Segment>
+	<Segment id ="117" >
+		<Time-slot>00:06:04,194 --> 00:06:06,162</Time-slot>
+		<Original_text lang="en">And those facilities --</Original_text>
+		<Translation lang="ar">وهذه البنيات التحتية --</Translation>
+		<Translation lang="fr">Et ces installations –</Translation>
+	</Segment>
+	<Segment id ="118" >
+		<Time-slot>00:06:06,161 --> 00:06:09,877</Time-slot>
+		<Original_text lang="en">I'm talking about things like the mechanisms that prove our identity,</Original_text>
+		<Translation lang="ar">وأقصد بها أشياء كالآليات التي تثبت هويتنا،</Translation>
+		<Translation lang="fr">je parle de choses comme les mécanismes pour prouver notre identité,</Translation>
+	</Segment>
+	<Segment id ="119" >
+		<Time-slot>00:06:09,877 --> 00:06:12,161</Time-slot>
+		<Original_text lang="en">the licensing authorities</Original_text>
+		<Translation lang="ar">السلطات</Translation>
+		<Translation lang="fr">les autorités</Translation>
+	</Segment>
+	<Segment id ="120" >
+		<Time-slot>00:06:12,161 --> 00:06:15,994</Time-slot>
+		<Original_text lang="en">that know what each of us is allowed to do legally at any given time,</Original_text>
+		<Translation lang="ar">التي تعرف الأشياء القانونية المسموح بها لكل واحد منا في وقت معين،</Translation>
+		<Translation lang="fr">qui savent ce que chacun de nous a le droit de faire légalement à un moment donné,</Translation>
+	</Segment>
+	<Segment id ="121" >
+		<Time-slot>00:06:15,994 --> 00:06:19,662</Time-slot>
+		<Original_text lang="en">the processes by which we resolve disputes through official channels.</Original_text>
+		<Translation lang="ar">العمليات التي يمكننا من خلالها حل النزاعات بفضل الطرق الرسمية.</Translation>
+		<Translation lang="fr">les processus par lesquels nous réglons les disputes par les voies officielles.</Translation>
+	</Segment>
+	<Segment id ="122" >
+		<Time-slot>00:06:19,661 --> 00:06:22,510</Time-slot>
+		<Original_text lang="en">These mechanisms, these facilities</Original_text>
+		<Translation lang="ar">هذه الآليات وهذه البنيات التحتية</Translation>
+		<Translation lang="fr">Ces mécanismes, ces installations</Translation>
+	</Segment>
+	<Segment id ="123" >
+		<Time-slot>00:06:22,511 --> 00:06:26,060</Time-slot>
+		<Original_text lang="en">are not in the gift of Craigslist or Gumtree or Yahoo,</Original_text>
+		<Translation lang="ar">ليست هدية مقدمة من كريغزليست أو جومتري أو ياهو،</Translation>
+		<Translation lang="fr">ne sont pas un cadeau de Craiglist ou Gumtree ou Yahoo,</Translation>
+	</Segment>
+	<Segment id ="124" >
+		<Time-slot>00:06:26,060 --> 00:06:29,161</Time-slot>
+		<Original_text lang="en">they're controlled by the state.</Original_text>
+		<Translation lang="ar">بل إنها تحت سيطرة الدولة.</Translation>
+		<Translation lang="fr">elles sont contrôlées par l'état.</Translation>
+	</Segment>
+	<Segment id ="125" >
+		<Time-slot>00:06:29,161 --> 00:06:31,892</Time-slot>
+		<Original_text lang="en">And the policymakers who sit on top of them</Original_text>
+		<Translation lang="ar">أما صناع القرار المتربعين فوقهم،</Translation>
+		<Translation lang="fr">Et les responsables politiques qui en sont responsables,</Translation>
+	</Segment>
+	<Segment id ="126" >
+		<Time-slot>00:06:31,892 --> 00:06:38,110</Time-slot>
+		<Original_text lang="en">are, I suggest, simply not thinking about how those facilities could be used</Original_text>
+		<Translation lang="ar">في رأيي، لا يفكرون بالطريقة التي يمكن أن تستخدم بها تلك البنيات التحتية</Translation>
+		<Translation lang="fr">à mon avis, ne pensent pas à la façon dont ces installations pourraient être utilisées</Translation>
+	</Segment>
+	<Segment id ="127" >
+		<Time-slot>00:06:38,110 --> 00:06:40,894</Time-slot>
+		<Original_text lang="en">to underpin a whole new era of markets.</Original_text>
+		<Translation lang="ar">لتشكل أساسا لحقبة جديدة بالكامل من الأسواق.</Translation>
+		<Translation lang="fr">pour soutenir une toute nouvelle ère des marchés.</Translation>
+	</Segment>
+	<Segment id ="128" >
+		<Time-slot>00:06:40,894 --> 00:06:45,610</Time-slot>
+		<Original_text lang="en">Like everyone else, those policymakers are taking it for granted</Original_text>
+		<Translation lang="ar">وكأي شخص آخر، يسلم صناع القرار</Translation>
+		<Translation lang="fr">Comme tout le monde, les responsables politiques tiennent pour acquis</Translation>
+	</Segment>
+	<Segment id ="129" >
+		<Time-slot>00:06:45,610 --> 00:06:47,878</Time-slot>
+		<Original_text lang="en">that modern markets are the preserve</Original_text>
+		<Translation lang="ar">بأن الأسواق الجديدة هي حكر على</Translation>
+		<Translation lang="fr">que les marchés modernes sont l'apanage</Translation>
+	</Segment>
+	<Segment id ="130" >
+		<Time-slot>00:06:47,879 --> 00:06:55,790</Time-slot>
+		<Original_text lang="en">of organizations powerful enough to create them for themselves.</Original_text>
+		<Translation lang="ar">منظمات قوية بما فيه الكفاية لخلقها لوحدها.</Translation>
+		<Translation lang="fr">d'organisations assez puissantes pour les créer toutes seules.</Translation>
+	</Segment>
+	<Segment id ="131" >
+		<Time-slot>00:06:55,790 --> 00:06:59,217</Time-slot>
+		<Original_text lang="en">Suppose we stopped taking that for granted.</Original_text>
+		<Translation lang="ar">لنفترض بأننا توقفنا عن اعتبار ذلك أمرا مسلما به.</Translation>
+		<Translation lang="fr">Supposons de ne plus tenir cela pour acquis.</Translation>
+	</Segment>
+	<Segment id ="132" >
+		<Time-slot>00:06:59,216 --> 00:07:02,382</Time-slot>
+		<Original_text lang="en">Suppose tomorrow morning the prime minister of Britain or the president of the U.S.,</Original_text>
+		<Translation lang="ar">لنفترض بأنه استيقظ غدا صباحا رئيس وزراء بريطانيا</Translation>
+		<Translation lang="fr">Supposons que demain matin, le premier ministre de la Grande-Bretagne ou le président des États-Unis,</Translation>
+	</Segment>
+	<Segment id ="133" >
+		<Time-slot>00:07:02,382 --> 00:07:04,564</Time-slot>
+		<Original_text lang="en">or the leader of any other developed nation,</Original_text>
+		<Translation lang="ar">أو الرئيس الأمريكي أو زعيم أي دولة أخرى متقدمة،</Translation>
+		<Translation lang="fr">ou le leader de tout autre pays développé,</Translation>
+	</Segment>
+	<Segment id ="134" >
+		<Time-slot>00:07:04,564 --> 00:07:08,415</Time-slot>
+		<Original_text lang="en">woke up and said, "I'm never going to be able to create</Original_text>
+		<Translation lang="ar">وقال، "لن أكون ابدأ قادرا على خلق</Translation>
+		<Translation lang="fr">se réveille et dise : « Je ne vais jamais être en mesure de créer</Translation>
+	</Segment>
+	<Segment id ="135" >
+		<Time-slot>00:07:08,415 --> 00:07:10,581</Time-slot>
+		<Original_text lang="en">all the jobs I need in the current climate.</Original_text>
+		<Translation lang="ar">جميع فرص العمل التي أحتاجها في المناخ الحالي.</Translation>
+		<Translation lang="fr">tous les emplois dont j'ai besoin dans le climat actuel.</Translation>
+	</Segment>
+	<Segment id ="136" >
+		<Time-slot>00:07:10,581 --> 00:07:15,915</Time-slot>
+		<Original_text lang="en">I have got to focus on whatever economic opportunity I can get to my citizens.</Original_text>
+		<Translation lang="ar">يجب أن أركز على الفرص الاقتصادية التي يمكن أن أخلقها للمواطنين.</Translation>
+		<Translation lang="fr">Je dois me concentrer sur les opportunités économiques que je peux obtenir pour mes citoyens.</Translation>
+	</Segment>
+	<Segment id ="137" >
+		<Time-slot>00:07:15,915 --> 00:07:19,882</Time-slot>
+		<Original_text lang="en">And for that they have to be able to access state-of-the-art markets.</Original_text>
+		<Translation lang="ar">و لأجل هذا يجب أن يكونوا قادرين على الولوج لأحسن أسواق الدولة.</Translation>
+		<Translation lang="fr">Et pour cela, ils doivent pouvoir accéder à des marchés de pointe.</Translation>
+	</Segment>
+	<Segment id ="138" >
+		<Time-slot>00:07:19,882 --> 00:07:22,250</Time-slot>
+		<Original_text lang="en">How do I make that happen?"</Original_text>
+		<Translation lang="ar">كيف يمكنني القيام بذلك؟ "</Translation>
+		<Translation lang="fr">Comment puis-je y arriver ? »</Translation>
+	</Segment>
+	<Segment id ="139" >
+		<Time-slot>00:07:22,250 --> 00:07:25,000</Time-slot>
+		<Original_text lang="en">And I think I can see a few eyes rolling.</Original_text>
+		<Translation lang="ar">أستطيع رأيت بعض العيون التي بدأت تتساءل.</Translation>
+		<Translation lang="fr">Je vois des yeux se lever au plafond.</Translation>
+	</Segment>
+	<Segment id ="140" >
+		<Time-slot>00:07:25,000 --> 00:07:28,781</Time-slot>
+		<Original_text lang="en">Politicians in a big, complex, sophisticated I.T. project?</Original_text>
+		<Translation lang="ar">سياسيين في مشروع تكنولوجي كبير ومعقد ومتطور؟</Translation>
+		<Translation lang="fr">Les politiciens dans un grand projet technologique et sophistiqué ?</Translation>
+	</Segment>
+	<Segment id ="141" >
+		<Time-slot>00:07:28,781 --> 00:07:32,311</Time-slot>
+		<Original_text lang="en">Oh, that's going to be a disaster waiting to happen.</Original_text>
+		<Translation lang="ar">سيكون ذلك كانتظار كارثة على وشك أن تحدث.</Translation>
+		<Translation lang="fr">Oh, ça va être un désastre.</Translation>
+	</Segment>
+	<Segment id ="142" >
+		<Time-slot>00:07:32,312 --> 00:07:35,317</Time-slot>
+		<Original_text lang="en">Not necessarily.</Original_text>
+		<Translation lang="ar">ليس بالضرورة.</Translation>
+		<Translation lang="fr">Pas nécessairement.</Translation>
+	</Segment>
+	<Segment id ="143" >
+		<Time-slot>00:07:35,317 --> 00:07:38,165</Time-slot>
+		<Original_text lang="en">There is a precedent for technology-enabled service</Original_text>
+		<Translation lang="ar">فهناك سابقة لمصالح تكنولوجية</Translation>
+		<Translation lang="fr">Il existe un précédent de service technologique</Translation>
+	</Segment>
+	<Segment id ="144" >
+		<Time-slot>00:07:38,165 --> 00:07:41,867</Time-slot>
+		<Original_text lang="en">that has been initiated by politicians in multiple countries</Original_text>
+		<Translation lang="ar">خلقها سياسيين في بلدان متعددة</Translation>
+		<Translation lang="fr">qui a été initié par les hommes politiques dans plusieurs pays</Translation>
+	</Segment>
+	<Segment id ="145" >
+		<Time-slot>00:07:41,867 --> 00:07:44,682</Time-slot>
+		<Original_text lang="en">and has been hugely successful:</Original_text>
+		<Translation lang="ar">وقد كانت ناجحة بشكل كبير:</Translation>
+		<Translation lang="fr">et a connu un très grand succès :</Translation>
+	</Segment>
+	<Segment id ="146" >
+		<Time-slot>00:07:44,682 --> 00:07:47,132</Time-slot>
+		<Original_text lang="en">national lotteries.</Original_text>
+		<Translation lang="ar">اليانصيب الوطني.</Translation>
+		<Translation lang="fr">les loteries nationales.</Translation>
+	</Segment>
+	<Segment id ="147" >
+		<Time-slot>00:07:47,132 --> 00:07:48,882</Time-slot>
+		<Original_text lang="en">Let's take Britain as an example.</Original_text>
+		<Translation lang="ar">لنأخذ بريطانيا كمثال.</Translation>
+		<Translation lang="fr">Prenons comme exemple la Grande-Bretagne.</Translation>
+	</Segment>
+	<Segment id ="148" >
+		<Time-slot>00:07:48,882 --> 00:07:51,483</Time-slot>
+		<Original_text lang="en">Our government didn't design the national lottery,</Original_text>
+		<Translation lang="ar">لم تصمم حكومتنا اليانصيب الوطنية،</Translation>
+		<Translation lang="fr">Notre gouvernement n'a pas conçu la loterie nationale,</Translation>
+	</Segment>
+	<Segment id ="149" >
+		<Time-slot>00:07:51,483 --> 00:07:54,266</Time-slot>
+		<Original_text lang="en">it didn't fund the national lottery, it doesn't operate the national lottery.</Original_text>
+		<Translation lang="ar">لم تمول اليانصيب الوطني، ولم تسير اليانصيب الوطني.</Translation>
+		<Translation lang="fr">il n'a pas financé la loterie nationale, il ne gère pas la loterie nationale.</Translation>
+	</Segment>
+	<Segment id ="150" >
+		<Time-slot>00:07:54,266 --> 00:07:59,417</Time-slot>
+		<Original_text lang="en">It simply passed the National Lottery Act and this is what followed.</Original_text>
+		<Translation lang="ar">بل قامت فقط بإصدار "قانون اليانصيب الوطني"، وهذا ما جاء فيه.</Translation>
+		<Translation lang="fr">Il a simplement adopté la Loi sur la Loterie Nationale et voici ce qui a suivi.</Translation>
+	</Segment>
+	<Segment id ="151" >
+		<Time-slot>00:07:59,416 --> 00:08:02,681</Time-slot>
+		<Original_text lang="en">This act defines what a national lottery will look like.</Original_text>
+		<Translation lang="ar">يُعَرِّفُ هذا القانون باليانصيب الوطنية.</Translation>
+		<Translation lang="fr">Cette loi définit comment doit marcher une loterie nationale.</Translation>
+	</Segment>
+	<Segment id ="152" >
+		<Time-slot>00:08:02,682 --> 00:08:04,350</Time-slot>
+		<Original_text lang="en">It specifies certain benefits</Original_text>
+		<Translation lang="ar">ويُحدد بعض الامتيازات</Translation>
+		<Translation lang="fr">Elle précise certains avantages</Translation>
+	</Segment>
+	<Segment id ="153" >
+		<Time-slot>00:08:04,350 --> 00:08:07,033</Time-slot>
+		<Original_text lang="en">that the state can uniquely bestow on the operators.</Original_text>
+		<Translation lang="ar">التي تمنحها الدولة للمتعهدين فقط.</Translation>
+		<Translation lang="fr">que l'état peut uniquement accorder aux opérateurs.</Translation>
+	</Segment>
+	<Segment id ="154" >
+		<Time-slot>00:08:07,033 --> 00:08:09,732</Time-slot>
+		<Original_text lang="en">And it puts some obligations on those operators.</Original_text>
+		<Translation lang="ar">وتَفرض بعض الالتزامات على أولئك المتعهدين.</Translation>
+		<Translation lang="fr">Et elle donne des obligations à ces opérateurs.</Translation>
+	</Segment>
+	<Segment id ="155" >
+		<Time-slot>00:08:09,732 --> 00:08:13,082</Time-slot>
+		<Original_text lang="en">In terms of spreading gambling activity to the masses,</Original_text>
+		<Translation lang="ar">من حيث نشر القِمَار للعامة،</Translation>
+		<Translation lang="fr">En termes de diffusion du jeu parmi la population,</Translation>
+	</Segment>
+	<Segment id ="156" >
+		<Time-slot>00:08:13,081 --> 00:08:16,115</Time-slot>
+		<Original_text lang="en">this was an unqualified success.</Original_text>
+		<Translation lang="ar">كان ذلك نجاحا كبيرا.</Translation>
+		<Translation lang="fr">ça a été un franc succès.</Translation>
+	</Segment>
+	<Segment id ="157" >
+		<Time-slot>00:08:16,115 --> 00:08:17,899</Time-slot>
+		<Original_text lang="en">But let's suppose that our aim</Original_text>
+		<Translation lang="ar">لكن دعونا نفترض أن هدفنا</Translation>
+		<Translation lang="fr">Mais supposons que notre objectif</Translation>
+	</Segment>
+	<Segment id ="158" >
+		<Time-slot>00:08:17,899 --> 00:08:21,782</Time-slot>
+		<Original_text lang="en">is to bring new economic activity to the base of the pyramid.</Original_text>
+		<Translation lang="ar">هو أن نأتي بنشاط اقتصادي جديد لقاعدة الهرم.</Translation>
+		<Translation lang="fr">soit d'apporter une nouvelle activité économique à la base de la pyramide.</Translation>
+	</Segment>
+	<Segment id ="159" >
+		<Time-slot>00:08:21,783 --> 00:08:23,932</Time-slot>
+		<Original_text lang="en">Could we use the same model?</Original_text>
+		<Translation lang="ar">هل يمكننا استخدام نفس النموذج؟</Translation>
+		<Translation lang="fr">Pourrions-nous utiliser le même modèle ?</Translation>
+	</Segment>
+	<Segment id ="160" >
+		<Time-slot>00:08:23,932 --> 00:08:25,716</Time-slot>
+		<Original_text lang="en">I believe we could.</Original_text>
+		<Translation lang="ar">أعتقد بأنه يمكننا ذلك.</Translation>
+		<Translation lang="fr">Je crois que oui.</Translation>
+	</Segment>
+	<Segment id ="161" >
+		<Time-slot>00:08:25,716 --> 00:08:29,832</Time-slot>
+		<Original_text lang="en">So imagine that policymakers outlined a facility.</Original_text>
+		<Translation lang="ar">تخيلوا أن صناع القرار خططت لبنية تحتية.</Translation>
+		<Translation lang="fr">Alors, imaginez que les politiques indiquent une installation.</Translation>
+	</Segment>
+	<Segment id ="162" >
+		<Time-slot>00:08:29,833 --> 00:08:33,817</Time-slot>
+		<Original_text lang="en">Let's call it national e-markets, NEMs for short.</Original_text>
+		<Translation lang="ar">فلنسميها الأسواق الإلكترونية الوطنية، واختصارا ب نيمس.</Translation>
+		<Translation lang="fr">Appelons-les les marchés électroniques nationaux, NEM pour faire court.</Translation>
+	</Segment>
+	<Segment id ="163" >
+		<Time-slot>00:08:33,817 --> 00:08:35,666</Time-slot>
+		<Original_text lang="en">Think of it as a regulated public utility.</Original_text>
+		<Translation lang="ar">اعتبروها كالمرافق العامة المُقَنَّنَة.</Translation>
+		<Translation lang="fr">Voyez-les comme des services publics réglementés.</Translation>
+	</Segment>
+	<Segment id ="164" >
+		<Time-slot>00:08:35,666 --> 00:08:38,550</Time-slot>
+		<Original_text lang="en">So it's on a par with the water supply or the road network.</Original_text>
+		<Translation lang="ar">إنها إذا بنفس أهمية التزويد بالمياه أو شبكة الطرق.</Translation>
+		<Translation lang="fr">Ils sont donc sur un pied d'égalité avec l'approvisionnement en eau ou le réseau routier.</Translation>
+	</Segment>
+	<Segment id ="165" >
+		<Time-slot>00:08:38,549 --> 00:08:42,665</Time-slot>
+		<Original_text lang="en">And it's a series of markets for low-level trade</Original_text>
+		<Translation lang="ar">وهي عبارة عن سلسلة من الأسواق التجارية ذات مستوى منخفض</Translation>
+		<Translation lang="fr">Et c'est une série de marchés pour un commerce de bas niveau</Translation>
+	</Segment>
+	<Segment id ="166" >
+		<Time-slot>00:08:42,666 --> 00:08:45,483</Time-slot>
+		<Original_text lang="en">that can be fulfilled by a person or a small company.</Original_text>
+		<Translation lang="ar">يمكن لأي شخص أو شركة صغيرة إنشاؤها.</Translation>
+		<Translation lang="fr">qui peut être accompli par une personne ou une petite entreprise.</Translation>
+	</Segment>
+	<Segment id ="167" >
+		<Time-slot>00:08:45,482 --> 00:08:48,231</Time-slot>
+		<Original_text lang="en">And government has certain benefits</Original_text>
+		<Translation lang="ar">ولدى الحكومة بعض الامتيازات</Translation>
+		<Translation lang="fr">Et le gouvernement a certains avantages</Translation>
+	</Segment>
+	<Segment id ="168" >
+		<Time-slot>00:08:48,231 --> 00:08:50,781</Time-slot>
+		<Original_text lang="en">it can uniquely bestow on these markets.</Original_text>
+		<Translation lang="ar">التي يمكن أن تخص بها هذه الأسواق فقط.</Translation>
+		<Translation lang="fr">qu'il peut accorder uniquement à ces marchés.</Translation>
+	</Segment>
+	<Segment id ="169" >
+		<Time-slot>00:08:50,782 --> 00:08:53,566</Time-slot>
+		<Original_text lang="en">It's about public spending going through these markets</Original_text>
+		<Translation lang="ar">والمتعلقة بالإنفاق العام من خلال هذه الأسواق</Translation>
+		<Translation lang="fr">Il s'agit de dépenses publiques qui passent par ces marchés</Translation>
+	</Segment>
+	<Segment id ="170" >
+		<Time-slot>00:08:53,566 --> 00:08:56,165</Time-slot>
+		<Original_text lang="en">to buy public services at the local level.</Original_text>
+		<Translation lang="ar">لشراء الخدمات العامة على المستوى المحلي.</Translation>
+		<Translation lang="fr">d'acheter des services publics à un niveau local.</Translation>
+	</Segment>
+	<Segment id ="171" >
+		<Time-slot>00:08:56,164 --> 00:08:57,899</Time-slot>
+		<Original_text lang="en">It's about interfacing these markets</Original_text>
+		<Translation lang="ar">وبربط هذه الأسواق</Translation>
+		<Translation lang="fr">Il s'agit de connecter ces marchés</Translation>
+	</Segment>
+	<Segment id ="172" >
+		<Time-slot>00:08:57,899 --> 00:09:01,549</Time-slot>
+		<Original_text lang="en">direct into the highest official channels in the land.</Original_text>
+		<Translation lang="ar">مباشرة بالقنوات الرسمية العليا بالبلاد.</Translation>
+		<Translation lang="fr">avec les voies officielles au plus haut niveau du pays.</Translation>
+	</Segment>
+	<Segment id ="173" >
+		<Time-slot>00:09:01,549 --> 00:09:04,949</Time-slot>
+		<Original_text lang="en">It's about enshrining government's role as a publicist for these markets.</Original_text>
+		<Translation lang="ar">وبإرساء دور الحكومة كجهة داعمة لهذه الأسواق.</Translation>
+		<Translation lang="fr">Il s'agit d'inscrire le gouvernement en tant que promoteur de ces marchés.</Translation>
+	</Segment>
+	<Segment id ="174" >
+		<Time-slot>00:09:04,950 --> 00:09:07,732</Time-slot>
+		<Original_text lang="en">It's about deregulating some sectors</Original_text>
+		<Translation lang="ar">وبتحرير بعض القطاعات</Translation>
+		<Translation lang="fr">Il s'agit de déréglementer certains secteurs</Translation>
+	</Segment>
+	<Segment id ="175" >
+		<Time-slot>00:09:07,731 --> 00:09:09,164</Time-slot>
+		<Original_text lang="en">so that local people can enter them.</Original_text>
+		<Translation lang="ar">التي يمكن للسكان المحليين من ولوجها.</Translation>
+		<Translation lang="fr">de sorte que la population locale puisse y pénétrer.</Translation>
+	</Segment>
+	<Segment id ="176" >
+		<Time-slot>00:09:09,164 --> 00:09:11,416</Time-slot>
+		<Original_text lang="en">So, taxi journeys might be one example.</Original_text>
+		<Translation lang="ar">قد تكون رحلات التاكسي واحدة من الأمثلة.</Translation>
+		<Translation lang="fr">Ainsi, les trajets en taxi peuvent être un exemple.</Translation>
+	</Segment>
+	<Segment id ="177" >
+		<Time-slot>00:09:11,417 --> 00:09:16,199</Time-slot>
+		<Original_text lang="en">And there are certain obligations that should go with those benefits</Original_text>
+		<Translation lang="ar">وهناك بعض الالتزامات التي من المفروض أن ترافق تلك الفوائد</Translation>
+		<Translation lang="fr">Et il y a certaines obligations qui devraient accompagner ces avantages</Translation>
+	</Segment>
+	<Segment id ="178" >
+		<Time-slot>00:09:16,198 --> 00:09:17,799</Time-slot>
+		<Original_text lang="en">to be placed on the operators,</Original_text>
+		<Translation lang="ar">وتمنح للمتعهدين،</Translation>
+		<Translation lang="fr">attribués aux opérateurs,</Translation>
+	</Segment>
+	<Segment id ="179" >
+		<Time-slot>00:09:17,799 --> 00:09:19,299</Time-slot>
+		<Original_text lang="en">and the key one is, of course,</Original_text>
+		<Translation lang="ar">وأهمها، بالطبع،</Translation>
+		<Translation lang="fr">et la principale est, bien sûr,</Translation>
+	</Segment>
+	<Segment id ="180" >
+		<Time-slot>00:09:19,299 --> 00:09:22,165</Time-slot>
+		<Original_text lang="en">that the operators pay for everything,</Original_text>
+		<Translation lang="ar">أن المتعهدين بدفعون مقابل كل شيء،</Translation>
+		<Translation lang="fr">que les opérateurs payent pour tout,</Translation>
+	</Segment>
+	<Segment id ="181" >
+		<Time-slot>00:09:22,166 --> 00:09:25,167</Time-slot>
+		<Original_text lang="en">including all the interfacing into the public sector.</Original_text>
+		<Translation lang="ar">بما في ذلك جميع العلاقات مع القطاع العام.</Translation>
+		<Translation lang="fr">y compris toutes les interfaces avec le secteur public.</Translation>
+	</Segment>
+	<Segment id ="182" >
+		<Time-slot>00:09:25,167 --> 00:09:28,733</Time-slot>
+		<Original_text lang="en">So imagine that the operators make their return</Original_text>
+		<Translation lang="ar">لذا تخيلوا أن المتعهدين يحققون نسبة ربح</Translation>
+		<Translation lang="fr">Alors, imaginez que les opérateurs gagnent</Translation>
+	</Segment>
+	<Segment id ="183" >
+		<Time-slot>00:09:28,732 --> 00:09:31,915</Time-slot>
+		<Original_text lang="en">by building a percentage markup into each transaction.</Original_text>
+		<Translation lang="ar">عن كل عملية.</Translation>
+		<Translation lang="fr">un pourcentage de marge sur chaque opération.</Translation>
+	</Segment>
+	<Segment id ="184" >
+		<Time-slot>00:09:31,916 --> 00:09:34,350</Time-slot>
+		<Original_text lang="en">Imagine that there's a concession period</Original_text>
+		<Translation lang="ar">تخيلوا أن هناك فترة امتيازات</Translation>
+		<Translation lang="fr">Imaginez qu'il y ait une période de concession</Translation>
+	</Segment>
+	<Segment id ="185" >
+		<Time-slot>00:09:34,350 --> 00:09:36,783</Time-slot>
+		<Original_text lang="en">defined of maybe 15 years</Original_text>
+		<Translation lang="ar">محددة ربما في 15 سنة</Translation>
+		<Translation lang="fr">fixée sur une quinzaine d'années</Translation>
+	</Segment>
+	<Segment id ="186" >
+		<Time-slot>00:09:36,783 --> 00:09:41,249</Time-slot>
+		<Original_text lang="en">in which they can take all these benefits and run with them.</Original_text>
+		<Translation lang="ar">يمكنهم خلالها أخذ كل تلك الفوائد وتشغيلها.</Translation>
+		<Translation lang="fr">dans laquelle ils peuvent emporter tous ces bénéfices.</Translation>
+	</Segment>
+	<Segment id ="187" >
+		<Time-slot>00:09:41,249 --> 00:09:44,566</Time-slot>
+		<Original_text lang="en">And imagine that the consortia who bid to run it are told,</Original_text>
+		<Translation lang="ar">وتخيلوا أن يقال للائتلاف الذي يحاول الدخول في العطاء،</Translation>
+		<Translation lang="fr">Et imaginez qu'on dise aux consortiums qui souhaitent participer,</Translation>
+	</Segment>
+	<Segment id ="188" >
+		<Time-slot>00:09:44,566 --> 00:09:48,199</Time-slot>
+		<Original_text lang="en">whoever comes in at the lowest percentage markup on each transaction</Original_text>
+		<Translation lang="ar">من يقدم أقل نسبة عن كل عملية</Translation>
+		<Translation lang="fr">que celui qui arrive avec le pourcentage de marge le plus bas sur chaque transaction</Translation>
+	</Segment>
+	<Segment id ="189" >
+		<Time-slot>00:09:48,198 --> 00:09:49,690</Time-slot>
+		<Original_text lang="en">to fund the whole thing</Original_text>
+		<Translation lang="ar">لتمويل كل شيء</Translation>
+		<Translation lang="fr">pour financer le tout</Translation>
+	</Segment>
+	<Segment id ="190" >
+		<Time-slot>00:09:49,691 --> 00:09:51,066</Time-slot>
+		<Original_text lang="en">will get the deal.</Original_text>
+		<Translation lang="ar">سيحصل على الصفقة.</Translation>
+		<Translation lang="fr">emporte l'affaire.</Translation>
+	</Segment>
+	<Segment id ="191" >
+		<Time-slot>00:09:51,066 --> 00:09:52,865</Time-slot>
+		<Original_text lang="en">So government then exits the frame.</Original_text>
+		<Translation lang="ar">لتخرج بعدها الحكومة من الصورة.</Translation>
+		<Translation lang="fr">Ensuite le gouvernement sort du cadre.</Translation>
+	</Segment>
+	<Segment id ="192" >
+		<Time-slot>00:09:52,865 --> 00:09:54,499</Time-slot>
+		<Original_text lang="en">This is now in the hands of the consortium.</Original_text>
+		<Translation lang="ar">ويبقى الأمر عندها بين أيدي الائتلاف.</Translation>
+		<Translation lang="fr">C'est maintenant dans les mains du consortium.</Translation>
+	</Segment>
+	<Segment id ="193" >
+		<Time-slot>00:09:54,499 --> 00:09:57,050</Time-slot>
+		<Original_text lang="en">Either they are going to unlock an awful lot of economic opportunity</Original_text>
+		<Translation lang="ar">فإما يفتح الباب لفرص اقتصادية مذهلة وعديدة</Translation>
+		<Translation lang="fr">Soit ils débloquent une quantité épouvantable d'opportunités économiques</Translation>
+	</Segment>
+	<Segment id ="194" >
+		<Time-slot>00:09:57,049 --> 00:09:59,133</Time-slot>
+		<Original_text lang="en">and make a percentage on all of it</Original_text>
+		<Translation lang="ar">فيحقق نسبة ربح على كل ذلك</Translation>
+		<Translation lang="fr">et gagnent quelque chose dessus</Translation>
+	</Segment>
+	<Segment id ="195" >
+		<Time-slot>00:09:59,134 --> 00:10:00,733</Time-slot>
+		<Original_text lang="en">or it's all going to crash and burn,</Original_text>
+		<Translation lang="ar">أو أن كل شيء سينهار،</Translation>
+		<Translation lang="fr">ou tout s'effondre,</Translation>
+	</Segment>
+	<Segment id ="196" >
+		<Time-slot>00:10:00,732 --> 00:10:02,349</Time-slot>
+		<Original_text lang="en">which is tough on their shareholders.</Original_text>
+		<Translation lang="ar">الأمر الذي يصعب تقبله من مساهميهم.</Translation>
+		<Translation lang="fr">ce qui est dur pour les actionnaires.</Translation>
+	</Segment>
+	<Segment id ="197" >
+		<Time-slot>00:10:02,350 --> 00:10:04,800</Time-slot>
+		<Original_text lang="en">It doesn't bother the taxpayer necessarily.</Original_text>
+		<Translation lang="ar">وهذا لا يزعج بالضرورة دافعي الضرائب.</Translation>
+		<Translation lang="fr">Ça ne dérange pas nécessairement les contribuables.</Translation>
+	</Segment>
+	<Segment id ="198" >
+		<Time-slot>00:10:04,799 --> 00:10:09,449</Time-slot>
+		<Original_text lang="en">And there would be no constraints on alternative markets.</Original_text>
+		<Translation lang="ar">ولن تكون محدودة فقط بالأسواق البديلة.</Translation>
+		<Translation lang="fr">Et il n'y aurait pas de limitations à d'autres marchés.</Translation>
+	</Segment>
+	<Segment id ="199" >
+		<Time-slot>00:10:09,450 --> 00:10:11,883</Time-slot>
+		<Original_text lang="en">So this would just be one more choice</Original_text>
+		<Translation lang="ar">سيكون ذلك مجرد خيار إضاقي</Translation>
+		<Translation lang="fr">Donc, ce serait juste un choix de plus</Translation>
+	</Segment>
+	<Segment id ="200" >
+		<Time-slot>00:10:11,883 --> 00:10:14,699</Time-slot>
+		<Original_text lang="en">among millions of Internet forums.</Original_text>
+		<Translation lang="ar">من بين ملايين منتديات الإنترنت.</Translation>
+		<Translation lang="fr">parmi des millions de forum Internet.</Translation>
+	</Segment>
+	<Segment id ="201" >
+		<Time-slot>00:10:14,698 --> 00:10:17,248</Time-slot>
+		<Original_text lang="en">But it could be very different,</Original_text>
+		<Translation lang="ar">لكنه سيكون أمرا جد مختلف،</Translation>
+		<Translation lang="fr">Mais ça pourrait être très différent,</Translation>
+	</Segment>
+	<Segment id ="202" >
+		<Time-slot>00:10:17,249 --> 00:10:20,867</Time-slot>
+		<Original_text lang="en">because having access to those state-backed facilities</Original_text>
+		<Translation lang="ar">لأن الوصول إلى تلك المرافق المدعومة من الدولة</Translation>
+		<Translation lang="fr">parce qu'avoir accès à ces installations soutenues par l'état</Translation>
+	</Segment>
+	<Segment id ="203" >
+		<Time-slot>00:10:20,866 --> 00:10:23,199</Time-slot>
+		<Original_text lang="en">could incentivize this consortium</Original_text>
+		<Translation lang="ar">قد يحفز هذا الائتلاف</Translation>
+		<Translation lang="fr">pourrait inciter ce consortium</Translation>
+	</Segment>
+	<Segment id ="204" >
+		<Time-slot>00:10:23,200 --> 00:10:25,317</Time-slot>
+		<Original_text lang="en">to seriously invest in the service.</Original_text>
+		<Translation lang="ar">للاستثمار بجدية في الخدمة.</Translation>
+		<Translation lang="fr">à investir sérieusement dans le service.</Translation>
+	</Segment>
+	<Segment id ="205" >
+		<Time-slot>00:10:25,317 --> 00:10:28,384</Time-slot>
+		<Original_text lang="en">Because they would have to get a lot of these small transactions going</Original_text>
+		<Translation lang="ar">لأنه سيتعين عليهم القيام بالكثير من هذه العمليات الصغيرة</Translation>
+		<Translation lang="fr">Parce qu'ils devraient réaliser un grand nombre de ces petites transactions</Translation>
+	</Segment>
+	<Segment id ="206" >
+		<Time-slot>00:10:28,384 --> 00:10:30,115</Time-slot>
+		<Original_text lang="en">to start making their return.</Original_text>
+		<Translation lang="ar">لكي نحس بالنتيجة.</Translation>
+		<Translation lang="fr">pour commencer à avoir un retour.</Translation>
+	</Segment>
+	<Segment id ="207" >
+		<Time-slot>00:10:30,115 --> 00:10:35,005</Time-slot>
+		<Original_text lang="en">So we're talking about sectors like home hair care,</Original_text>
+		<Translation lang="ar">ونتحدث هنا عن قطاعات مثل الحلاقة في المنازل،</Translation>
+		<Translation lang="fr">Donc, nous parlons des secteurs tels que les coiffeurs à domicile,</Translation>
+	</Segment>
+	<Segment id ="208" >
+		<Time-slot>00:10:35,005 --> 00:10:38,962</Time-slot>
+		<Original_text lang="en">the hire of toys, farm work,</Original_text>
+		<Translation lang="ar">تأجير لعب الأطفال، العمل بالزراعة،</Translation>
+		<Translation lang="fr">la location de jouets, les travaux agricoles,</Translation>
+	</Segment>
+	<Segment id ="209" >
+		<Time-slot>00:10:38,962 --> 00:10:42,581</Time-slot>
+		<Original_text lang="en">hire of clothes even, meals delivered to your door,</Original_text>
+		<Translation lang="ar">بل حتى تأجير الملابس، وتوصيل الوجبات إلى منزلكم،</Translation>
+		<Translation lang="fr">même la location de vêtements, les repas livrés à votre porte,</Translation>
+	</Segment>
+	<Segment id ="210" >
+		<Time-slot>00:10:42,581 --> 00:10:44,389</Time-slot>
+		<Original_text lang="en">services for tourists, home care.</Original_text>
+		<Translation lang="ar">وخدمات للسياح، الرعاية المنزلية.</Translation>
+		<Translation lang="fr">les services pour les touristes, les soins à domicile.</Translation>
+	</Segment>
+	<Segment id ="211" >
+		<Time-slot>00:10:44,389 --> 00:10:51,172</Time-slot>
+		<Original_text lang="en">This would be a world of very small trades, but very well-informed,</Original_text>
+		<Translation lang="ar">سيكون عالما من العمليات الصغيرة، ولكنها قوية الأساس،</Translation>
+		<Translation lang="fr">Ce serait un monde de petites transactions, mais très bien informé,</Translation>
+	</Segment>
+	<Segment id ="212" >
+		<Time-slot>00:10:51,172 --> 00:10:55,038</Time-slot>
+		<Original_text lang="en">because national e-markets will deliver data.</Original_text>
+		<Translation lang="ar">لأن الأسواق الإلكترونية الوطنية تقدم البيانات.</Translation>
+		<Translation lang="fr">parce que les marchés numériques nationaux fourniront des données.</Translation>
+	</Segment>
+	<Segment id ="213" >
+		<Time-slot>00:10:55,038 --> 00:10:57,672</Time-slot>
+		<Original_text lang="en">So this is a local person</Original_text>
+		<Translation lang="ar">فلنفترض أن هناك شخص محلي</Translation>
+		<Translation lang="fr">Voici une personne locale</Translation>
+	</Segment>
+	<Segment id ="214" >
+		<Time-slot>00:10:57,672 --> 00:11:00,672</Time-slot>
+		<Original_text lang="en">potentially deciding whether to enter the babysitting market.</Original_text>
+		<Translation lang="ar">يحتمل أن يُقَرِّر ما إذا كان سيلج سوق مجالسه الأطفال.</Translation>
+		<Translation lang="fr">qui doit potentiellement décider d'entrer ou pas dans le marché du babysitting.</Translation>
+	</Segment>
+	<Segment id ="215" >
+		<Time-slot>00:11:00,672 --> 00:11:03,521</Time-slot>
+		<Original_text lang="en">And they might be aware that they would have to fund vetting and training</Original_text>
+		<Translation lang="ar">وقد يكونون على علم بأنه عليهم تمويل عمليات الفحص والتدريب</Translation>
+		<Translation lang="fr">Et ils pourraient savoir qu'ils doivent financer la sélection et la formation</Translation>
+	</Segment>
+	<Segment id ="216" >
+		<Time-slot>00:11:03,520 --> 00:11:04,920</Time-slot>
+		<Original_text lang="en">if they wanted to go into that market.</Original_text>
+		<Translation lang="ar">إذا كانوا يريدون ولوج تلك السوق.</Translation>
+		<Translation lang="fr">s'ils veulent entrer dans le marché.</Translation>
+	</Segment>
+	<Segment id ="217" >
+		<Time-slot>00:11:04,921 --> 00:11:07,539</Time-slot>
+		<Original_text lang="en">They'd have to do assessment interviews with local parents</Original_text>
+		<Translation lang="ar">سيكون عليهم القيام بمقابلات مع الآباء المحليين</Translation>
+		<Translation lang="fr">Ils auraient à faire des entretiens d'évaluation avec les parents locaux</Translation>
+	</Segment>
+	<Segment id ="218" >
+		<Time-slot>00:11:07,538 --> 00:11:09,038</Time-slot>
+		<Original_text lang="en">who wanted a pool of babysitters.</Original_text>
+		<Translation lang="ar">الذين بحاجة لمجموعة الحاضنات.</Translation>
+		<Translation lang="fr">qui veulent un groupe de baby-sitters.</Translation>
+	</Segment>
+	<Segment id ="219" >
+		<Time-slot>00:11:09,038 --> 00:11:10,439</Time-slot>
+		<Original_text lang="en">Is it worth their while?</Original_text>
+		<Translation lang="ar">هل يستحق الأمر كل ذلك؟</Translation>
+		<Translation lang="fr">En vaut-il la peine ?</Translation>
+	</Segment>
+	<Segment id ="220" >
+		<Time-slot>00:11:10,440 --> 00:11:12,140</Time-slot>
+		<Original_text lang="en">Should they be looking at other sectors?</Original_text>
+		<Translation lang="ar">هل عليهم أن يبحثوا في القطاعات الأخرى؟</Translation>
+		<Translation lang="fr">Devraient-ils regarder d'autres secteurs ?</Translation>
+	</Segment>
+	<Segment id ="221" >
+		<Time-slot>00:11:12,139 --> 00:11:14,024</Time-slot>
+		<Original_text lang="en">Should they be moving to another part of the country</Original_text>
+		<Translation lang="ar">هل عليهم الانتقال إلى جزء آخر من البلد</Translation>
+		<Translation lang="fr">Devraient-ils se déplacer dans une autre partie du pays</Translation>
+	</Segment>
+	<Segment id ="222" >
+		<Time-slot>00:11:14,024 --> 00:11:16,273</Time-slot>
+		<Original_text lang="en">where there's a shortage of babysitters?</Original_text>
+		<Translation lang="ar">حيث يوجد حصاص في الحاضنات؟</Translation>
+		<Translation lang="fr">qui manque de baby-sitters ?</Translation>
+	</Segment>
+	<Segment id ="223" >
+		<Time-slot>00:11:16,273 --> 00:11:18,623</Time-slot>
+		<Original_text lang="en">This kind of data can become routine.</Original_text>
+		<Translation lang="ar">يمكن أن يصبح هذا النوع من البيانات روتينا.</Translation>
+		<Translation lang="fr">Ce genre de données peut devenir la routine.</Translation>
+	</Segment>
+	<Segment id ="224" >
+		<Time-slot>00:11:18,623 --> 00:11:20,657</Time-slot>
+		<Original_text lang="en">And this data can be used by investors.</Original_text>
+		<Translation lang="ar">ويمكن للمستثمرين استخدامها.</Translation>
+		<Translation lang="fr">Et ces données peuvent être utilsées par les investisseurs.</Translation>
+	</Segment>
+	<Segment id ="225" >
+		<Time-slot>00:11:20,657 --> 00:11:23,823</Time-slot>
+		<Original_text lang="en">So if there's a problem with a shortage of babysitters in some parts of the country</Original_text>
+		<Translation lang="ar">بالتالي إذا كانت هناك مشكلة خصاص بالحاضنات في بعض أجزاء البلد</Translation>
+		<Translation lang="fr">Donc, s'il y a un problème de manque de baby-sitters dans certaines parties du pays</Translation>
+	</Segment>
+	<Segment id ="226" >
+		<Time-slot>00:11:23,822 --> 00:11:26,721</Time-slot>
+		<Original_text lang="en">and the problem is nobody can afford the vetting and training,</Original_text>
+		<Translation lang="ar">والمشكلة هي أن لا أحد يستطيع الفرز والتدريب،</Translation>
+		<Translation lang="fr">et le problème est que personne ne peut se permettre la sélection et la formation,</Translation>
+	</Segment>
+	<Segment id ="227" >
+		<Time-slot>00:11:26,721 --> 00:11:28,305</Time-slot>
+		<Original_text lang="en">an investor can pay for it</Original_text>
+		<Translation lang="ar">يمكن لمستثمر أن يدفع ثمنها</Translation>
+		<Translation lang="fr">un investisseur peut payer</Translation>
+	</Segment>
+	<Segment id ="228" >
+		<Time-slot>00:11:28,306 --> 00:11:31,990</Time-slot>
+		<Original_text lang="en">and the system will tithe back the enhanced earnings of the individuals</Original_text>
+		<Translation lang="ar">وربما سيرد النظام الأرباح المعززة للأفراد</Translation>
+		<Translation lang="fr">et le système remboursera les gains augmentés des individus</Translation>
+	</Segment>
+	<Segment id ="229" >
+		<Time-slot>00:11:31,990 --> 00:11:33,639</Time-slot>
+		<Original_text lang="en">for maybe the next two years.</Original_text>
+		<Translation lang="ar">للسنتين المقبلتين.</Translation>
+		<Translation lang="fr">les deux années suivantes.</Translation>
+	</Segment>
+	<Segment id ="230" >
+		<Time-slot>00:11:33,639 --> 00:11:36,940</Time-slot>
+		<Original_text lang="en">This is a world of atomized capitalism.</Original_text>
+		<Translation lang="ar">إنه عالم رأسمالي مُتذرٍّ.</Translation>
+		<Translation lang="fr">C'est un monde au capitalisme atomisé.</Translation>
+	</Segment>
+	<Segment id ="231" >
+		<Time-slot>00:11:36,940 --> 00:11:38,972</Time-slot>
+		<Original_text lang="en">So it's small trades by small people,</Original_text>
+		<Translation lang="ar">إنها مبادلات تجارية صغيرة بين أشخاص بسطاء،</Translation>
+		<Translation lang="fr">Ce sont des petits échanges de simples individus,</Translation>
+	</Segment>
+	<Segment id ="232" >
+		<Time-slot>00:11:38,971 --> 00:11:45,838</Time-slot>
+		<Original_text lang="en">but it's very informed, safe, convenient, low-overhead and immediate.</Original_text>
+		<Translation lang="ar">لكنها قوية الأساس وآمنة ومريحة ومنخفضة التكلفة وفورية.</Translation>
+		<Translation lang="fr">mais c'est très informé, sûr, pratique, avec peu de frais généraux et immédiat.</Translation>
+	</Segment>
+	<Segment id ="233" >
+		<Time-slot>00:11:45,839 --> 00:11:48,764</Time-slot>
+		<Original_text lang="en">Some rough research suggests this could unlock</Original_text>
+		<Translation lang="ar">وتشير بعض البحوث الأولية لاحتمالية أن تنتج</Translation>
+		<Translation lang="fr">Des recherches approximatives suggèrent que cela pourrait débloquer</Translation>
+	</Segment>
+	<Segment id ="234" >
+		<Time-slot>00:11:48,764 --> 00:11:52,965</Time-slot>
+		<Original_text lang="en">around 100 million pounds' worth a day of new economic activity</Original_text>
+		<Translation lang="ar">حوالي 100 مليون جنيه باليوم كأنشطة اقتصادية جديدة</Translation>
+		<Translation lang="fr">l'équivalent d'environ 100 millions de livres par jour en nouvelles activités économiques</Translation>
+	</Segment>
+	<Segment id ="235" >
+		<Time-slot>00:11:52,965 --> 00:11:54,915</Time-slot>
+		<Original_text lang="en">in a country the size of the U.K.</Original_text>
+		<Translation lang="ar">في بلد بحجم المملكة المتحدة.</Translation>
+		<Translation lang="fr">dans un pays de la taille du Royaume-Uni.</Translation>
+	</Segment>
+	<Segment id ="236" >
+		<Time-slot>00:11:54,914 --> 00:11:57,647</Time-slot>
+		<Original_text lang="en">Does that sound improbable to you?</Original_text>
+		<Translation lang="ar">هل يبدوا لكم هذا أمرا غير وارد؟</Translation>
+		<Translation lang="fr">Cela vous paraît-il improbable ?</Translation>
+	</Segment>
+	<Segment id ="237" >
+		<Time-slot>00:11:57,648 --> 00:12:01,781</Time-slot>
+		<Original_text lang="en">That's what a lot of people said about turbo trading</Original_text>
+		<Translation lang="ar">هذا ما قاله الكثيرين عن توربو ترادينغ</Translation>
+		<Translation lang="fr">C'est ce que beaucoup de gens disaient du turbo trading</Translation>
+	</Segment>
+	<Segment id ="238" >
+		<Time-slot>00:12:01,780 --> 00:12:04,832</Time-slot>
+		<Original_text lang="en">in financial exchanges 20 years ago.</Original_text>
+		<Translation lang="ar">في التبادلات المالية قبل 20 عاماً.</Translation>
+		<Translation lang="fr">dans les transactions financières il y a 20 ans.</Translation>
+	</Segment>
+	<Segment id ="239" >
+		<Time-slot>00:12:04,832 --> 00:12:07,932</Time-slot>
+		<Original_text lang="en">Do not underestimate the transformative power</Original_text>
+		<Translation lang="ar">لا نقلل من قوة التغيير</Translation>
+		<Translation lang="fr">Ne sous-estimez pas le pouvoir de transformation</Translation>
+	</Segment>
+	<Segment id ="240" >
+		<Time-slot>00:12:07,932 --> 00:12:11,088</Time-slot>
+		<Original_text lang="en">of truly modern markets.</Original_text>
+		<Translation lang="ar">لدى الأسواق الحديثة بحق.</Translation>
+		<Translation lang="fr">des marchés vraiment modernes.</Translation>
+	</Segment>
+	<Segment id ="241" >
+		<Time-slot>00:12:11,089 --> 00:12:12,715</Time-slot>
+		<Original_text lang="en">Thank you.</Original_text>
+		<Translation lang="ar">شكرا.</Translation>
+		<Translation lang="fr">Merci.</Translation>
+	</Segment>
+	<Segment id ="242" >
+		<Time-slot>00:12:12,715 --> 00:12:14,300</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+</Talk>
+</MulTed>

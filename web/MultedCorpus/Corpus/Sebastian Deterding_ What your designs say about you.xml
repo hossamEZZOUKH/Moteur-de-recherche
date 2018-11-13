@@ -1,0 +1,1776 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MulTed>
+
+<Talk Speaker = "Sebastian Deterding" Title= " What your designs say about you" >
+	<Segment id ="1" >
+		<Time-slot>00:00:15,651 --> 00:00:18,302</Time-slot>
+		<Original_text lang="en">We are today talking about moral persuasion.</Original_text>
+		<Translation lang="ar">نحن نتحدث اليوم عن الإقناع الأخلاقي.</Translation>
+		<Translation lang="fr">Aujourd'hui nous parlons de persuasion morale.</Translation>
+	</Segment>
+	<Segment id ="2" >
+		<Time-slot>00:00:18,303 --> 00:00:19,852</Time-slot>
+		<Original_text lang="en">What is moral and immoral</Original_text>
+		<Translation lang="ar">ما هو "الأخلاقي" و "الغير أخلاقي"</Translation>
+		<Translation lang="fr">Qu'est-ce qui est moral et immoral</Translation>
+	</Segment>
+	<Segment id ="3" >
+		<Time-slot>00:00:19,852 --> 00:00:22,268</Time-slot>
+		<Original_text lang="en">in trying to change people's behaviors</Original_text>
+		<Translation lang="ar">في محاولة تغيير سلوكيات الناس</Translation>
+		<Translation lang="fr">dans le fait de changer les comportements des gens</Translation>
+	</Segment>
+	<Segment id ="4" >
+		<Time-slot>00:00:22,268 --> 00:00:24,618</Time-slot>
+		<Original_text lang="en">by using technology and using design?</Original_text>
+		<Translation lang="ar">عن طريق استخدام التكنولوجيا واستخدام التصميم؟</Translation>
+		<Translation lang="fr">en ayant recours à la technologie et au design ?</Translation>
+	</Segment>
+	<Segment id ="5" >
+		<Time-slot>00:00:24,618 --> 00:00:26,471</Time-slot>
+		<Original_text lang="en">And I don't know what you expect,</Original_text>
+		<Translation lang="ar">وأنا لا أعلم ماذا يمكن أن تتوقعوه،</Translation>
+		<Translation lang="fr">Et je ne sais pas à quoi vous vous attendez,</Translation>
+	</Segment>
+	<Segment id ="6" >
+		<Time-slot>00:00:26,471 --> 00:00:28,518</Time-slot>
+		<Original_text lang="en">but when I was thinking about that issue,</Original_text>
+		<Translation lang="ar">لكنني عندما كنت أفكر في تلك المسألة،</Translation>
+		<Translation lang="fr">mais pendant que je réfléchissais à la question,</Translation>
+	</Segment>
+	<Segment id ="7" >
+		<Time-slot>00:00:28,518 --> 00:00:29,751</Time-slot>
+		<Original_text lang="en">I early on realized</Original_text>
+		<Translation lang="ar">أدركت مبكرا</Translation>
+		<Translation lang="fr">je me suis vite rendu compte</Translation>
+	</Segment>
+	<Segment id ="8" >
+		<Time-slot>00:00:29,751 --> 00:00:33,085</Time-slot>
+		<Original_text lang="en">what I'm not able to give you are answers.</Original_text>
+		<Translation lang="ar">أن ما لا أستطيع تقديمه لكم هو الإجابات.</Translation>
+		<Translation lang="fr">que je ne suis pas en mesure de vous apporter des réponses.</Translation>
+	</Segment>
+	<Segment id ="9" >
+		<Time-slot>00:00:33,085 --> 00:00:35,402</Time-slot>
+		<Original_text lang="en">I'm not able to tell you what is moral or immoral</Original_text>
+		<Translation lang="ar">أنني لا أستطيع أن أقول لكم ماهو "الأخلاقي" أو "غير الأخلاقي"</Translation>
+		<Translation lang="fr">Je ne suis pas capable de vous dire ce qui est moral et immoral</Translation>
+	</Segment>
+	<Segment id ="10" >
+		<Time-slot>00:00:35,402 --> 00:00:38,317</Time-slot>
+		<Original_text lang="en">because we're living in a pluralist society.</Original_text>
+		<Translation lang="ar">ذلك لأننا نعيش في مجتمع تعددي.</Translation>
+		<Translation lang="fr">parce que nous vivons dans une société pluraliste.</Translation>
+	</Segment>
+	<Segment id ="11" >
+		<Time-slot>00:00:38,317 --> 00:00:40,951</Time-slot>
+		<Original_text lang="en">My values can be radically different</Original_text>
+		<Translation lang="ar">يمكن لقيمي أن تكون مختلفة بشكل جذري</Translation>
+		<Translation lang="fr">Mes valeurs peuvent être radicalement différentes</Translation>
+	</Segment>
+	<Segment id ="12" >
+		<Time-slot>00:00:40,951 --> 00:00:42,835</Time-slot>
+		<Original_text lang="en">from your values.</Original_text>
+		<Translation lang="ar">عن قيمكم.</Translation>
+		<Translation lang="fr">de vos valeurs.</Translation>
+	</Segment>
+	<Segment id ="13" >
+		<Time-slot>00:00:42,835 --> 00:00:46,253</Time-slot>
+		<Original_text lang="en">Which means that what I consider moral or immoral based on that</Original_text>
+		<Translation lang="ar">مما يعني استنادا لذلك ، أن ما أعتبره انا أخلاقيا أو غير أخلاقي</Translation>
+		<Translation lang="fr">Ce qui signifie que ce que je considère comme moral ou immoral d'après ça</Translation>
+	</Segment>
+	<Segment id ="14" >
+		<Time-slot>00:00:46,253 --> 00:00:49,984</Time-slot>
+		<Original_text lang="en">might not necessarily be what you consider moral or immoral.</Original_text>
+		<Translation lang="ar">قد لا يكون بالضرورة مماثلا لما تعتبرونه أنتم أخلاقيا أو غير أخلاقي.</Translation>
+		<Translation lang="fr">ne serait pas forcément ce que vous considdérez moral ou immoral.</Translation>
+	</Segment>
+	<Segment id ="15" >
+		<Time-slot>00:00:49,984 --> 00:00:52,850</Time-slot>
+		<Original_text lang="en">But I also realized that there is one thing that I could give you.</Original_text>
+		<Translation lang="ar">لكنني أيضا أدركت أن هناك شيء واحد أستطيع أن أقدمه لكم.</Translation>
+		<Translation lang="fr">Mais je me suis aussi rendu compte qu'il y a une chose que je pouvais vous donner.</Translation>
+	</Segment>
+	<Segment id ="16" >
+		<Time-slot>00:00:52,850 --> 00:00:55,909</Time-slot>
+		<Original_text lang="en">And that is what this guy behind me gave the world --</Original_text>
+		<Translation lang="ar">وهو الشيء الذي قدمه الشخص الذي خلفي هنا إلى العالم</Translation>
+		<Translation lang="fr">Et c'est ce que ce type derrière moi a donné au monde,</Translation>
+	</Segment>
+	<Segment id ="17" >
+		<Time-slot>00:00:55,909 --> 00:00:56,820</Time-slot>
+		<Original_text lang="en">Socrates.</Original_text>
+		<Translation lang="ar">"سقراط"</Translation>
+		<Translation lang="fr">Socrate.</Translation>
+	</Segment>
+	<Segment id ="18" >
+		<Time-slot>00:00:56,820 --> 00:00:58,268</Time-slot>
+		<Original_text lang="en">It is questions.</Original_text>
+		<Translation lang="ar">وهي عبارة عن أسئلة.</Translation>
+		<Translation lang="fr">Ce sont des questions.</Translation>
+	</Segment>
+	<Segment id ="19" >
+		<Time-slot>00:00:58,268 --> 00:01:00,893</Time-slot>
+		<Original_text lang="en">What I can do and what I would like to do with you</Original_text>
+		<Translation lang="ar">ما أستطيع فعله، والذي أود أن أفعله معكم</Translation>
+		<Translation lang="fr">Ce que je peux faire et ce que je souhaite faire avec vous</Translation>
+	</Segment>
+	<Segment id ="20" >
+		<Time-slot>00:01:00,893 --> 00:01:02,913</Time-slot>
+		<Original_text lang="en">is give you, like that initial question,</Original_text>
+		<Translation lang="ar">هو أن أعطيكم متل ذلك السؤال الأولي،</Translation>
+		<Translation lang="fr">c'est vous donner, comme cette question de départ,</Translation>
+	</Segment>
+	<Segment id ="21" >
+		<Time-slot>00:01:02,912 --> 00:01:04,227</Time-slot>
+		<Original_text lang="en">a set of questions</Original_text>
+		<Translation lang="ar">مجموعة من الأسئلة</Translation>
+		<Translation lang="fr">un ensemble de questions</Translation>
+	</Segment>
+	<Segment id ="22" >
+		<Time-slot>00:01:04,227 --> 00:01:06,260</Time-slot>
+		<Original_text lang="en">to figure out for yourself,</Original_text>
+		<Translation lang="ar">لتكتشفوا بأنفسكم،</Translation>
+		<Translation lang="fr">pour que vous trouviez par vous-mêmes</Translation>
+	</Segment>
+	<Segment id ="23" >
+		<Time-slot>00:01:06,260 --> 00:01:07,694</Time-slot>
+		<Original_text lang="en">layer by layer,</Original_text>
+		<Translation lang="ar">طبقة بعد طبقة،</Translation>
+		<Translation lang="fr">couche après couche,</Translation>
+	</Segment>
+	<Segment id ="24" >
+		<Time-slot>00:01:07,694 --> 00:01:09,911</Time-slot>
+		<Original_text lang="en">like peeling an onion,</Original_text>
+		<Translation lang="ar">مثل تقشير بصلة،</Translation>
+		<Translation lang="fr">comme quand on pèle un oignon</Translation>
+	</Segment>
+	<Segment id ="25" >
+		<Time-slot>00:01:09,912 --> 00:01:12,128</Time-slot>
+		<Original_text lang="en">getting at the core of what you believe</Original_text>
+		<Translation lang="ar">لتصلوا إلى جوهر ما تعتقدون أنتم</Translation>
+		<Translation lang="fr">pour arriver au coeur de ce en quoi vous croyez</Translation>
+	</Segment>
+	<Segment id ="26" >
+		<Time-slot>00:01:12,128 --> 00:01:15,459</Time-slot>
+		<Original_text lang="en">is moral or immoral persuasion.</Original_text>
+		<Translation lang="ar">أنه إقناع أخلاقي أو غير أخلاقي.</Translation>
+		<Translation lang="fr">être la persuasion morale ou immorale.</Translation>
+	</Segment>
+	<Segment id ="27" >
+		<Time-slot>00:01:15,459 --> 00:01:18,327</Time-slot>
+		<Original_text lang="en">And I'd like to do that with a couple of examples</Original_text>
+		<Translation lang="ar">وأود أن أفعل ذلك عن طريق بعض الأمثلة</Translation>
+		<Translation lang="fr">Et j'aimerais le faire avec deux ou trois exemples</Translation>
+	</Segment>
+	<Segment id ="28" >
+		<Time-slot>00:01:18,328 --> 00:01:21,311</Time-slot>
+		<Original_text lang="en">of technologies where people have used game elements</Original_text>
+		<Translation lang="ar">التكنولوجية، حيث استخدم الناس عناصر ألعاب</Translation>
+		<Translation lang="fr">de technologies où les gens ont utilisé des éléments de jeux</Translation>
+	</Segment>
+	<Segment id ="29" >
+		<Time-slot>00:01:21,311 --> 00:01:24,628</Time-slot>
+		<Original_text lang="en">to get people to do things.</Original_text>
+		<Translation lang="ar">لحمل أناس على فعل أشياء ما.</Translation>
+		<Translation lang="fr">pour amener les gens à faire des choses.</Translation>
+	</Segment>
+	<Segment id ="30" >
+		<Time-slot>00:01:24,628 --> 00:01:28,093</Time-slot>
+		<Original_text lang="en">So it's a first very simple, a very obvious question</Original_text>
+		<Translation lang="ar">لذا، فهو سؤال أولي بسيط وبديهي</Translation>
+		<Translation lang="fr">J'aimerais donc vous soumettre</Translation>
+	</Segment>
+	<Segment id ="31" >
+		<Time-slot>00:01:28,093 --> 00:01:29,626</Time-slot>
+		<Original_text lang="en">I would like to give you:</Original_text>
+		<Translation lang="ar">أود أن أطرحه عليك:</Translation>
+		<Translation lang="fr">une première question très simple et très évidente :</Translation>
+	</Segment>
+	<Segment id ="32" >
+		<Time-slot>00:01:29,626 --> 00:01:32,444</Time-slot>
+		<Original_text lang="en">What are your intentions if you are designing something?</Original_text>
+		<Translation lang="ar">ما هي نواياكم إذا كنتم تقومون بتصميم شيء ما؟</Translation>
+		<Translation lang="fr">Quelles sont vos intentions si vous concevez quelque chose ?</Translation>
+	</Segment>
+	<Segment id ="33" >
+		<Time-slot>00:01:32,444 --> 00:01:35,677</Time-slot>
+		<Original_text lang="en">And obviously intentions are not the only thing,</Original_text>
+		<Translation lang="ar">وبوضوح، فإن النوايا ليست هي الشيء الوحيد هنا،</Translation>
+		<Translation lang="fr">Et évidemment, il n'y a pas que les intentions manifestes,</Translation>
+	</Segment>
+	<Segment id ="34" >
+		<Time-slot>00:01:35,677 --> 00:01:39,060</Time-slot>
+		<Original_text lang="en">so here is another example for one of these applications.</Original_text>
+		<Translation lang="ar">إذا، هنا مثال آخر لأحد هذه التطبيقات.</Translation>
+		<Translation lang="fr">alors voici un autre exemple d'une de ces applications.</Translation>
+	</Segment>
+	<Segment id ="35" >
+		<Time-slot>00:01:39,061 --> 00:01:41,960</Time-slot>
+		<Original_text lang="en">There are a couple of these kinds of eco-dashboards right now --</Original_text>
+		<Translation lang="ar">هناك بعض من هذه "اللوحات البيئية" حاليا --</Translation>
+		<Translation lang="fr">Il y a deux ou trois de ces tableaux de bord écologiques en ce moment,</Translation>
+	</Segment>
+	<Segment id ="36" >
+		<Time-slot>00:01:41,959 --> 00:01:43,860</Time-slot>
+		<Original_text lang="en">so dashboards built into cars</Original_text>
+		<Translation lang="ar">وهي لوحات مدمجة داخل السيارات</Translation>
+		<Translation lang="fr">des tableaux de bord installés dans des voitures</Translation>
+	</Segment>
+	<Segment id ="37" >
+		<Time-slot>00:01:43,861 --> 00:01:46,594</Time-slot>
+		<Original_text lang="en">which try to motivate you to drive more fuel efficiently.</Original_text>
+		<Translation lang="ar">والتي تحاول تحفيزك لتقود بشكل أكثر كفاءة من حيث استهلاك الوقود.</Translation>
+		<Translation lang="fr">qui essayent de vous motiver à adapter votre conduite pour économiser du carburant.</Translation>
+	</Segment>
+	<Segment id ="38" >
+		<Time-slot>00:01:46,593 --> 00:01:48,210</Time-slot>
+		<Original_text lang="en">This here is Nissan's MyLeaf,</Original_text>
+		<Translation lang="ar">هذه هنا سيارة "نيسان - ماي ليف" (Nissan - MyLeaf)</Translation>
+		<Translation lang="fr">Voici le Nissan MyLeaf,</Translation>
+	</Segment>
+	<Segment id ="39" >
+		<Time-slot>00:01:48,210 --> 00:01:50,507</Time-slot>
+		<Original_text lang="en">where your driving behavior is compared</Original_text>
+		<Translation lang="ar">حيث يتم مقارنة أسلوبك في القيادة</Translation>
+		<Translation lang="fr">où votre style de conduite est comparé</Translation>
+	</Segment>
+	<Segment id ="40" >
+		<Time-slot>00:01:50,507 --> 00:01:52,226</Time-slot>
+		<Original_text lang="en">with the driving behavior of other people,</Original_text>
+		<Translation lang="ar">مع أسلوب قيادة أناس آخرين،</Translation>
+		<Translation lang="fr">à celui d'autres gens,</Translation>
+	</Segment>
+	<Segment id ="41" >
+		<Time-slot>00:01:52,227 --> 00:01:54,180</Time-slot>
+		<Original_text lang="en">so you can compete for who drives around</Original_text>
+		<Translation lang="ar">فباستطاعتكم التنافس حول من يقود</Translation>
+		<Translation lang="fr">pour que vous puissiez rivaliser et être celui qui a</Translation>
+	</Segment>
+	<Segment id ="42" >
+		<Time-slot>00:01:54,180 --> 00:01:55,578</Time-slot>
+		<Original_text lang="en">the most fuel efficiently.</Original_text>
+		<Translation lang="ar">بأسلوب أكثر كفاءة في استهلاق الوقود.</Translation>
+		<Translation lang="fr">la conduite la plus économe en carburant.</Translation>
+	</Segment>
+	<Segment id ="43" >
+		<Time-slot>00:01:55,578 --> 00:01:57,844</Time-slot>
+		<Original_text lang="en">And these things are very effective, it turns out,</Original_text>
+		<Translation lang="ar">وهذه الأشياء تبين أنها مؤثرة جدا،</Translation>
+		<Translation lang="fr">Et ces trucs-là s'avèrent très efficaces,</Translation>
+	</Segment>
+	<Segment id ="44" >
+		<Time-slot>00:01:57,843 --> 00:02:00,460</Time-slot>
+		<Original_text lang="en">so effective that they motivate people</Original_text>
+		<Translation lang="ar">مؤثرة جدا لدرجة أنها تحفز الناس</Translation>
+		<Translation lang="fr">si efficaces qu'ils motivent les gens</Translation>
+	</Segment>
+	<Segment id ="45" >
+		<Time-slot>00:02:00,460 --> 00:02:02,542</Time-slot>
+		<Original_text lang="en">to engage in unsafe driving behaviors --</Original_text>
+		<Translation lang="ar">لينخرطوا في أساليب قيادة غير آمنة --</Translation>
+		<Translation lang="fr">à adopter des styles de conduite à risque,</Translation>
+	</Segment>
+	<Segment id ="46" >
+		<Time-slot>00:02:02,543 --> 00:02:04,285</Time-slot>
+		<Original_text lang="en">like not stopping on a red headlight.</Original_text>
+		<Translation lang="ar">مثل عدم التوقف عند إشارة حمراء.</Translation>
+		<Translation lang="fr">comme de ne pas s'arrêter à un feu rouge.</Translation>
+	</Segment>
+	<Segment id ="47" >
+		<Time-slot>00:02:04,284 --> 00:02:06,506</Time-slot>
+		<Original_text lang="en">Because that way you have to stop and restart the engine,</Original_text>
+		<Translation lang="ar">وذلك بسبب أنه، سوف يستلزمك إبطال المحرك ثم إعادة تشغيله.</Translation>
+		<Translation lang="fr">Parce que si vous le faites, vous devez arrêter et redémarrer le moteur,</Translation>
+	</Segment>
+	<Segment id ="48" >
+		<Time-slot>00:02:06,506 --> 00:02:10,425</Time-slot>
+		<Original_text lang="en">and that would use quite some fuel, wouldn't it?</Original_text>
+		<Translation lang="ar">وذلك قد يتسبب في استهلاك بعض الوقود، أليس كذلك؟</Translation>
+		<Translation lang="fr">et ça consommerait pas mal de carburant, non ?</Translation>
+	</Segment>
+	<Segment id ="49" >
+		<Time-slot>00:02:10,425 --> 00:02:14,770</Time-slot>
+		<Original_text lang="en">So despite this being a very well-intended application,</Original_text>
+		<Translation lang="ar">لذلك فعلى الرغم من كونه تطبيق حسن النية جدا،</Translation>
+		<Translation lang="fr">Alors même si c'est une application très bien intentionnée,</Translation>
+	</Segment>
+	<Segment id ="50" >
+		<Time-slot>00:02:14,770 --> 00:02:17,350</Time-slot>
+		<Original_text lang="en">obviously there was a side effect of that.</Original_text>
+		<Translation lang="ar">فبشكل واضح، كانت له أعراض جانبية.</Translation>
+		<Translation lang="fr">elle a manifestement un effet secondaire.</Translation>
+	</Segment>
+	<Segment id ="51" >
+		<Time-slot>00:02:17,350 --> 00:02:19,500</Time-slot>
+		<Original_text lang="en">And here's another example for one of these side effects.</Original_text>
+		<Translation lang="ar">وهنا مثال آخر لأحد تلك الأعراض الجانبية.</Translation>
+		<Translation lang="fr">Et voici un autre exemple de ces effets secondaires.</Translation>
+	</Segment>
+	<Segment id ="52" >
+		<Time-slot>00:02:19,500 --> 00:02:20,901</Time-slot>
+		<Original_text lang="en">Commendable:</Original_text>
+		<Translation lang="ar">Commendable = (جدير بالثناء)</Translation>
+		<Translation lang="fr">Recommandable :</Translation>
+	</Segment>
+	<Segment id ="53" >
+		<Time-slot>00:02:20,901 --> 00:02:24,550</Time-slot>
+		<Original_text lang="en">a site that allows parents to give their kids little badges</Original_text>
+		<Translation lang="ar">وهو موقع إلكتروني يتيح للآباء منح "شارات" لأبنائهم</Translation>
+		<Translation lang="fr">un site qui permet aux parents de donner à leurs enfants de petits badges</Translation>
+	</Segment>
+	<Segment id ="54" >
+		<Time-slot>00:02:24,550 --> 00:02:26,750</Time-slot>
+		<Original_text lang="en">for doing the things that parents want their kids to do --</Original_text>
+		<Translation lang="ar">في مقابل فعلهم للأشياء التي يريدها آباؤهم منهم فعلها ..</Translation>
+		<Translation lang="fr">pour avoir fait les choses que les parents veulent que leurs enfants fassent,</Translation>
+	</Segment>
+	<Segment id ="55" >
+		<Time-slot>00:02:26,750 --> 00:02:28,085</Time-slot>
+		<Original_text lang="en">like tying their shoes.</Original_text>
+		<Translation lang="ar">كربط أحذيتهم مثلا.</Translation>
+		<Translation lang="fr">comme de lacer leurs chaussures.</Translation>
+	</Segment>
+	<Segment id ="56" >
+		<Time-slot>00:02:28,085 --> 00:02:30,439</Time-slot>
+		<Original_text lang="en">And at first that sounds very nice,</Original_text>
+		<Translation lang="ar">وفي بداية ذلك، يبدو ذلك لطيفا جدا،</Translation>
+		<Translation lang="fr">Et de prime abord, ça a l'air très sympa,</Translation>
+	</Segment>
+	<Segment id ="57" >
+		<Time-slot>00:02:30,438 --> 00:02:32,400</Time-slot>
+		<Original_text lang="en">very benign, well intended.</Original_text>
+		<Translation lang="ar">وحميدا جدا وحسن النية.</Translation>
+		<Translation lang="fr">très innocent et plein de bonnes intentions.</Translation>
+	</Segment>
+	<Segment id ="58" >
+		<Time-slot>00:02:32,400 --> 00:02:36,283</Time-slot>
+		<Original_text lang="en">But it turns out, if you look into research on people's mindset,</Original_text>
+		<Translation lang="ar">ولكن يتبين عندما تلقي نظرة على أبحاث عن عقليات الناس،</Translation>
+		<Translation lang="fr">Mais il s'avère, si vous examinez les recherches sur l'état d'esprit des gens,</Translation>
+	</Segment>
+	<Segment id ="59" >
+		<Time-slot>00:02:36,283 --> 00:02:38,318</Time-slot>
+		<Original_text lang="en">that caring about outcomes,</Original_text>
+		<Translation lang="ar">الذين يهتمون بعوائد ذلك،</Translation>
+		<Translation lang="fr">que se soucier des résultats,</Translation>
+	</Segment>
+	<Segment id ="60" >
+		<Time-slot>00:02:38,318 --> 00:02:40,115</Time-slot>
+		<Original_text lang="en">caring about public recognition,</Original_text>
+		<Translation lang="ar">الذين يهتمون بـ "التقدير الشعبي" لهم.</Translation>
+		<Translation lang="fr">se soucier de la reconnaissance publique,</Translation>
+	</Segment>
+	<Segment id ="61" >
+		<Time-slot>00:02:40,116 --> 00:02:43,501</Time-slot>
+		<Original_text lang="en">caring about these kinds of public tokens of recognition</Original_text>
+		<Translation lang="ar">الذين يهتمون بهذه النوعية من علامات "التقدير الشعبي"</Translation>
+		<Translation lang="fr">se soucier de ce genre de marques de reconnaissance publique</Translation>
+	</Segment>
+	<Segment id ="62" >
+		<Time-slot>00:02:43,501 --> 00:02:46,019</Time-slot>
+		<Original_text lang="en">is not necessarily very helpful</Original_text>
+		<Translation lang="ar">أن ذلك ليس بالضرورة مفيدا جدا</Translation>
+		<Translation lang="fr">n'est pas forcément très utile</Translation>
+	</Segment>
+	<Segment id ="63" >
+		<Time-slot>00:02:46,019 --> 00:02:48,216</Time-slot>
+		<Original_text lang="en">for your long-term psychological well-being.</Original_text>
+		<Translation lang="ar">من أجل "سلامتك النفسية" على المدى البعيد.</Translation>
+		<Translation lang="fr">pour votre bien-être psychologique à long terme.</Translation>
+	</Segment>
+	<Segment id ="64" >
+		<Time-slot>00:02:48,216 --> 00:02:51,050</Time-slot>
+		<Original_text lang="en">It's better if you care about learning something.</Original_text>
+		<Translation lang="ar">الأفضل من ذلك أن تتعلم شيئا ما.</Translation>
+		<Translation lang="fr">C'est mieux si vous vous souciez d'apprendre quelque chose.</Translation>
+	</Segment>
+	<Segment id ="65" >
+		<Time-slot>00:02:51,050 --> 00:02:52,883</Time-slot>
+		<Original_text lang="en">It's better when you care about yourself</Original_text>
+		<Translation lang="ar">من الأفضل اهتمامك بنفسك</Translation>
+		<Translation lang="fr">C'est mieux quand vous vous souciez de vous-même</Translation>
+	</Segment>
+	<Segment id ="66" >
+		<Time-slot>00:02:52,883 --> 00:02:55,868</Time-slot>
+		<Original_text lang="en">than how you appear in front of other people.</Original_text>
+		<Translation lang="ar">عن اهتمامك بكيفية ظهورك أمام الناس.</Translation>
+		<Translation lang="fr">plutôt que de l'apparence que vous donnez aux autres.</Translation>
+	</Segment>
+	<Segment id ="67" >
+		<Time-slot>00:02:55,868 --> 00:02:59,050</Time-slot>
+		<Original_text lang="en">So that kind of motivational tool that is used</Original_text>
+		<Translation lang="ar">هكذا فإن ذلك النوع المستعمل من أدوات التحفيز</Translation>
+		<Translation lang="fr">Ce genre d'outil destiné à vous motiver qu'on utilise</Translation>
+	</Segment>
+	<Segment id ="68" >
+		<Time-slot>00:02:59,050 --> 00:03:00,834</Time-slot>
+		<Original_text lang="en">actually in and of itself</Original_text>
+		<Translation lang="ar">في حد ذاته</Translation>
+		<Translation lang="fr">en fait pour lui-même</Translation>
+	</Segment>
+	<Segment id ="69" >
+		<Time-slot>00:03:00,834 --> 00:03:03,018</Time-slot>
+		<Original_text lang="en">has a long-term side effect</Original_text>
+		<Translation lang="ar">له أعراض جانبية طويلة الأمد</Translation>
+		<Translation lang="fr">a un effet secondaire à long terme</Translation>
+	</Segment>
+	<Segment id ="70" >
+		<Time-slot>00:03:03,018 --> 00:03:04,735</Time-slot>
+		<Original_text lang="en">in that every time we use a technology</Original_text>
+		<Translation lang="ar">وبذلك فإن كل مرة نستخدم تكنولوجيا</Translation>
+		<Translation lang="fr">dans la mesure où chaque fois qu'une technologie</Translation>
+	</Segment>
+	<Segment id ="71" >
+		<Time-slot>00:03:04,735 --> 00:03:08,050</Time-slot>
+		<Original_text lang="en">that uses something like public recognition or status,</Original_text>
+		<Translation lang="ar">تعتمد على شيء مثل "التقدير الشعبي" أو "الحالة"</Translation>
+		<Translation lang="fr">qui utilise quelque chose comme la reconnaissance ou le statut publics,</Translation>
+	</Segment>
+	<Segment id ="72" >
+		<Time-slot>00:03:08,050 --> 00:03:10,450</Time-slot>
+		<Original_text lang="en">we're actually positively endorsing this</Original_text>
+		<Translation lang="ar">فإننا في الحقيقة بذلك، نؤيدها إيجابيا</Translation>
+		<Translation lang="fr">nous l'entérinons en fait positivement</Translation>
+	</Segment>
+	<Segment id ="73" >
+		<Time-slot>00:03:10,449 --> 00:03:13,883</Time-slot>
+		<Original_text lang="en">as a good and a normal thing to care about --</Original_text>
+		<Translation lang="ar">كشيء جيد وطبيعي الاهتمام به..</Translation>
+		<Translation lang="fr">comme quelque chose de bon et de normal dont se soucier,</Translation>
+	</Segment>
+	<Segment id ="74" >
+		<Time-slot>00:03:13,883 --> 00:03:16,568</Time-slot>
+		<Original_text lang="en">that way, possibly having a detrimental effect</Original_text>
+		<Translation lang="ar">بهذه الطريقة، محتمل أن يكون له تأثير مؤذ</Translation>
+		<Translation lang="fr">et de cette façon, on a potentiellement un effet préjudiciable</Translation>
+	</Segment>
+	<Segment id ="75" >
+		<Time-slot>00:03:16,568 --> 00:03:20,650</Time-slot>
+		<Original_text lang="en">on the long-term psychological well-being of ourselves as a culture.</Original_text>
+		<Translation lang="ar">على "سلامتنا النفسية" - كحضارة - على المدى البعيد.</Translation>
+		<Translation lang="fr">au bien-être psychologique à long terme pour nous-mêmes en tant que culture.</Translation>
+	</Segment>
+	<Segment id ="76" >
+		<Time-slot>00:03:20,651 --> 00:03:23,118</Time-slot>
+		<Original_text lang="en">So that's a second, very obvious question:</Original_text>
+		<Translation lang="ar">لذا هذا ثاني سؤال بديهي :</Translation>
+		<Translation lang="fr">Et donc, c'est une deuxième question évidente :</Translation>
+	</Segment>
+	<Segment id ="77" >
+		<Time-slot>00:03:23,118 --> 00:03:25,751</Time-slot>
+		<Original_text lang="en">What are the effects of what you're doing?</Original_text>
+		<Translation lang="ar">ما هي تأثيرات ما تفوم به؟</Translation>
+		<Translation lang="fr">Quels sont les effets de ce que vous faites ?</Translation>
+	</Segment>
+	<Segment id ="78" >
+		<Time-slot>00:03:25,751 --> 00:03:27,855</Time-slot>
+		<Original_text lang="en">The effects that you're having with the device,</Original_text>
+		<Translation lang="ar">التأثيرات التي تحدثها بالآلة،</Translation>
+		<Translation lang="fr">Les effets que vous avez avec le dispositif,</Translation>
+	</Segment>
+	<Segment id ="79" >
+		<Time-slot>00:03:27,855 --> 00:03:29,272</Time-slot>
+		<Original_text lang="en">like less fuel,</Original_text>
+		<Translation lang="ar">مثل "وقود أقل"</Translation>
+		<Translation lang="fr">comme l'économie de carburant</Translation>
+	</Segment>
+	<Segment id ="80" >
+		<Time-slot>00:03:29,272 --> 00:03:32,055</Time-slot>
+		<Original_text lang="en">as well as the effects of the actual tools you're using</Original_text>
+		<Translation lang="ar">وكذلك تأثيرات الأدوات التي تستعملها</Translation>
+		<Translation lang="fr">de même que les effets des outils mêmes que vous utilisez</Translation>
+	</Segment>
+	<Segment id ="81" >
+		<Time-slot>00:03:32,056 --> 00:03:34,088</Time-slot>
+		<Original_text lang="en">to get people to do things --</Original_text>
+		<Translation lang="ar">لحمل الناس على فعل أشياء معينة --</Translation>
+		<Translation lang="fr">pour amener les gens à faire des choses -</Translation>
+	</Segment>
+	<Segment id ="82" >
+		<Time-slot>00:03:34,087 --> 00:03:35,670</Time-slot>
+		<Original_text lang="en">public recognition.</Original_text>
+		<Translation lang="ar">التقدير الشعبي.</Translation>
+		<Translation lang="fr">la reconnaissance publique.</Translation>
+	</Segment>
+	<Segment id ="83" >
+		<Time-slot>00:03:35,670 --> 00:03:38,620</Time-slot>
+		<Original_text lang="en">Now is that all -- intention, effect?</Original_text>
+		<Translation lang="ar">الآن، هل هذا كل شيء -- النوايا والتأثيرات؟</Translation>
+		<Translation lang="fr">C'est tout ? L'intention, l'effet ?</Translation>
+	</Segment>
+	<Segment id ="84" >
+		<Time-slot>00:03:38,621 --> 00:03:40,141</Time-slot>
+		<Original_text lang="en">Well there are some technologies</Original_text>
+		<Translation lang="ar">حسنا هناك بعض التكنولوجيا</Translation>
+		<Translation lang="fr">Hé bien il y a des technologies</Translation>
+	</Segment>
+	<Segment id ="85" >
+		<Time-slot>00:03:40,140 --> 00:03:41,875</Time-slot>
+		<Original_text lang="en">which obviously combine both.</Original_text>
+		<Translation lang="ar">التي بوضوح، تضم كلا الأمرين.</Translation>
+		<Translation lang="fr">qui combine manifestement les deux.</Translation>
+	</Segment>
+	<Segment id ="86" >
+		<Time-slot>00:03:41,875 --> 00:03:44,240</Time-slot>
+		<Original_text lang="en">Both good long-term and short-term effects</Original_text>
+		<Translation lang="ar">كلا من التأثيرات الجيدة طويلة وقصيرة المدى</Translation>
+		<Translation lang="fr">Les effets à court terme et à long terme</Translation>
+	</Segment>
+	<Segment id ="87" >
+		<Time-slot>00:03:44,240 --> 00:03:47,292</Time-slot>
+		<Original_text lang="en">and a positive intention like Fred Stutzman's Freedom,</Original_text>
+		<Translation lang="ar">و النية الحسنة مثل تطبيق "فريدوم" لـفريد ستاتزمان</Translation>
+		<Translation lang="fr">et une intention positive comme la liberté de Fred Stutzman,</Translation>
+	</Segment>
+	<Segment id ="88" >
+		<Time-slot>00:03:47,292 --> 00:03:48,850</Time-slot>
+		<Original_text lang="en">where the whole point of that application</Original_text>
+		<Translation lang="ar">حيث الهدف الأساسي من التطبيق</Translation>
+		<Translation lang="fr">où le but de cette application</Translation>
+	</Segment>
+	<Segment id ="89" >
+		<Time-slot>00:03:48,850 --> 00:03:52,121</Time-slot>
+		<Original_text lang="en">is, well, we're usually so bombarded</Original_text>
+		<Translation lang="ar">هو، حسنا، نحن عادة يتم قصفنا</Translation>
+		<Translation lang="fr">est, en fait, nous sommes généralement tellement bombardés</Translation>
+	</Segment>
+	<Segment id ="90" >
+		<Time-slot>00:03:52,122 --> 00:03:53,323</Time-slot>
+		<Original_text lang="en">with calls and requests by other people,</Original_text>
+		<Translation lang="ar">بوابل من مكالمات من أناس آخرين،</Translation>
+		<Translation lang="fr">d'appels et de demandes d'autres personnes,</Translation>
+	</Segment>
+	<Segment id ="91" >
+		<Time-slot>00:03:53,323 --> 00:03:55,939</Time-slot>
+		<Original_text lang="en">with this device you can shut off the Internet connectivity</Original_text>
+		<Translation lang="ar">عن طريق هذه الأداة تستطيع قطع اتصال الانترنت</Translation>
+		<Translation lang="fr">avec ce dispositif, vous pouvez fermer la connectivité Internet</Translation>
+	</Segment>
+	<Segment id ="92" >
+		<Time-slot>00:03:55,938 --> 00:03:59,322</Time-slot>
+		<Original_text lang="en">of your PC of choice for a preset amount of time</Original_text>
+		<Translation lang="ar">عن جهاز الكمبيوتر باختيارك مقدار من الوقت معين مسبقا</Translation>
+		<Translation lang="fr">du PC de votre choix pour une durée prédéfinie</Translation>
+	</Segment>
+	<Segment id ="93" >
+		<Time-slot>00:03:59,323 --> 00:04:01,522</Time-slot>
+		<Original_text lang="en">to actually get some work done.</Original_text>
+		<Translation lang="ar">لإنجاز بعض العمل بالفعل.</Translation>
+		<Translation lang="fr">pour pouvoir vraiment travailler.</Translation>
+	</Segment>
+	<Segment id ="94" >
+		<Time-slot>00:04:01,522 --> 00:04:02,855</Time-slot>
+		<Original_text lang="en">And I think most of us will agree,</Original_text>
+		<Translation lang="ar">وأنا أعتقد أن أغلبيتنا سوف توافق،</Translation>
+		<Translation lang="fr">Et je pense que la plupart d'entre nous conviendront,</Translation>
+	</Segment>
+	<Segment id ="95" >
+		<Time-slot>00:04:02,855 --> 00:04:04,305</Time-slot>
+		<Original_text lang="en">well that's something well intended</Original_text>
+		<Translation lang="ar">حسنا.. هذا أمر حسن النية بالفعل</Translation>
+		<Translation lang="fr">que c'est un truc bien intentionné</Translation>
+	</Segment>
+	<Segment id ="96" >
+		<Time-slot>00:04:04,305 --> 00:04:06,421</Time-slot>
+		<Original_text lang="en">and also has good consequences.</Original_text>
+		<Translation lang="ar">وله أيضا نتائج حميدة.</Translation>
+		<Translation lang="fr">et qui a également de bonnes conséquences.</Translation>
+	</Segment>
+	<Segment id ="97" >
+		<Time-slot>00:04:06,421 --> 00:04:08,538</Time-slot>
+		<Original_text lang="en">In the words of Michel Foucault,</Original_text>
+		<Translation lang="ar">على حد تعبير "ميشيل فوكو"،</Translation>
+		<Translation lang="fr">Pour reprendre les mots de Michel Foucault,</Translation>
+	</Segment>
+	<Segment id ="98" >
+		<Time-slot>00:04:08,538 --> 00:04:10,756</Time-slot>
+		<Original_text lang="en">"It is a technology of the self."</Original_text>
+		<Translation lang="ar">"إنها تكنولوجيا من أجل الذات"</Translation>
+		<Translation lang="fr">« C'est une technologie du soi ».</Translation>
+	</Segment>
+	<Segment id ="99" >
+		<Time-slot>00:04:10,756 --> 00:04:13,106</Time-slot>
+		<Original_text lang="en">It is a technology that empowers the individual</Original_text>
+		<Translation lang="ar">إنها تكنولوجيا تمكن الفرد</Translation>
+		<Translation lang="fr">C'est une technologie qui permet à l'individu</Translation>
+	</Segment>
+	<Segment id ="100" >
+		<Time-slot>00:04:13,106 --> 00:04:15,455</Time-slot>
+		<Original_text lang="en">to determine its own life course,</Original_text>
+		<Translation lang="ar">من تحديد مسار حياته بذاته.</Translation>
+		<Translation lang="fr">de déterminer sa propre trajectoire de vie,</Translation>
+	</Segment>
+	<Segment id ="101" >
+		<Time-slot>00:04:15,455 --> 00:04:17,338</Time-slot>
+		<Original_text lang="en">to shape itself.</Original_text>
+		<Translation lang="ar">لتشكيل ذاته.</Translation>
+		<Translation lang="fr">de se façonner.</Translation>
+	</Segment>
+	<Segment id ="102" >
+		<Time-slot>00:04:17,338 --> 00:04:18,454</Time-slot>
+		<Original_text lang="en">But the problem is,</Original_text>
+		<Translation lang="ar">لكن المشكلة هي،</Translation>
+		<Translation lang="fr">Mais le problème c'est,</Translation>
+	</Segment>
+	<Segment id ="103" >
+		<Time-slot>00:04:18,454 --> 00:04:20,255</Time-slot>
+		<Original_text lang="en">as Foucault points out,</Original_text>
+		<Translation lang="ar">كما يشير "فوكو" إليها</Translation>
+		<Translation lang="fr">comme Foucault le souligne ,</Translation>
+	</Segment>
+	<Segment id ="104" >
+		<Time-slot>00:04:20,255 --> 00:04:22,054</Time-slot>
+		<Original_text lang="en">that every technology of the self</Original_text>
+		<Translation lang="ar">أن كل تكنولوجيا للذات</Translation>
+		<Translation lang="fr">que chaque technologie du soi</Translation>
+	</Segment>
+	<Segment id ="105" >
+		<Time-slot>00:04:22,055 --> 00:04:25,221</Time-slot>
+		<Original_text lang="en">has a technology of domination as its flip side.</Original_text>
+		<Translation lang="ar">لديها تكنولوجيا للسيطرة في جانبها الآخر.</Translation>
+		<Translation lang="fr">a pour revers une technologie de domination.</Translation>
+	</Segment>
+	<Segment id ="106" >
+		<Time-slot>00:04:25,221 --> 00:04:29,555</Time-slot>
+		<Original_text lang="en">As you see in today's modern liberal democracies,</Original_text>
+		<Translation lang="ar">كما ترى في الديموقراطيات التحررية اليوم،</Translation>
+		<Translation lang="fr">Comme on le voit dans les démocraties libérales modernes d'aujourd'hui,</Translation>
+	</Segment>
+	<Segment id ="107" >
+		<Time-slot>00:04:29,555 --> 00:04:31,675</Time-slot>
+		<Original_text lang="en">the society, the state,</Original_text>
+		<Translation lang="ar">المجتمع والدولة</Translation>
+		<Translation lang="fr">la société, l'État,</Translation>
+	</Segment>
+	<Segment id ="108" >
+		<Time-slot>00:04:31,675 --> 00:04:36,054</Time-slot>
+		<Original_text lang="en">not only allows us to determine our self, to shape our self,</Original_text>
+		<Translation lang="ar">لا تسمح لنا فقط بتحديد ذواتنا وتشكيل ذواتنا،</Translation>
+		<Translation lang="fr">non seulement nous permet de déterminer notre moi, de le façonner,</Translation>
+	</Segment>
+	<Segment id ="109" >
+		<Time-slot>00:04:36,053 --> 00:04:37,871</Time-slot>
+		<Original_text lang="en">it also demands it of us.</Original_text>
+		<Translation lang="ar">بل تطلب أيضا منا ذلك.</Translation>
+		<Translation lang="fr">elle l'exige aussi de nous.</Translation>
+	</Segment>
+	<Segment id ="110" >
+		<Time-slot>00:04:37,872 --> 00:04:40,206</Time-slot>
+		<Original_text lang="en">It demands that we optimize ourselves,</Original_text>
+		<Translation lang="ar">إنها تطب منا أن نحسن ذواتنا،</Translation>
+		<Translation lang="fr">Elle exige que nous nous auto-optimisions</Translation>
+	</Segment>
+	<Segment id ="111" >
+		<Time-slot>00:04:40,206 --> 00:04:41,756</Time-slot>
+		<Original_text lang="en">that we control ourselves,</Original_text>
+		<Translation lang="ar">أن نتحكم في ذواتنا،</Translation>
+		<Translation lang="fr">que nous nous contrôlions nous-mêmes,</Translation>
+	</Segment>
+	<Segment id ="112" >
+		<Time-slot>00:04:41,755 --> 00:04:44,204</Time-slot>
+		<Original_text lang="en">that we self-manage continuously</Original_text>
+		<Translation lang="ar">أن ندير الذات باستمرار</Translation>
+		<Translation lang="fr">que nous nous gérions en permanence</Translation>
+	</Segment>
+	<Segment id ="113" >
+		<Time-slot>00:04:44,204 --> 00:04:46,005</Time-slot>
+		<Original_text lang="en">because that's the only way</Original_text>
+		<Translation lang="ar">لأن هذا هو السبيل الوحيد</Translation>
+		<Translation lang="fr">parce que c'est la seule façon</Translation>
+	</Segment>
+	<Segment id ="114" >
+		<Time-slot>00:04:46,005 --> 00:04:48,720</Time-slot>
+		<Original_text lang="en">in which such a liberal society works.</Original_text>
+		<Translation lang="ar">لاستمرار مجتمع تحرري مماثل.</Translation>
+		<Translation lang="fr">de fonctionner pour une telle société libérale.</Translation>
+	</Segment>
+	<Segment id ="115" >
+		<Time-slot>00:04:48,721 --> 00:04:53,014</Time-slot>
+		<Original_text lang="en">These technologies want us to stay in the game</Original_text>
+		<Translation lang="ar">هذه التكنولوجيا تريد منا أن نظل داخل اللعبة</Translation>
+		<Translation lang="fr">Ces technologies veulent que nous restions dans le jeu</Translation>
+	</Segment>
+	<Segment id ="116" >
+		<Time-slot>00:04:53,014 --> 00:04:55,656</Time-slot>
+		<Original_text lang="en">that society has devised for us.</Original_text>
+		<Translation lang="ar">التي ابتكرها لنا المجتمع.</Translation>
+		<Translation lang="fr">que la société a mis au point pour nous.</Translation>
+	</Segment>
+	<Segment id ="117" >
+		<Time-slot>00:04:55,656 --> 00:04:58,120</Time-slot>
+		<Original_text lang="en">They want us to fit in even better.</Original_text>
+		<Translation lang="ar">تريد منا أن نلائمه بشكل أفضل.</Translation>
+		<Translation lang="fr">Elles veulent que nous y adaptions mieux encore.</Translation>
+	</Segment>
+	<Segment id ="118" >
+		<Time-slot>00:04:58,120 --> 00:05:00,979</Time-slot>
+		<Original_text lang="en">They want us to optimize ourselves to fit in.</Original_text>
+		<Translation lang="ar">تريد منا أن نطور ذواتنا لنلائمه.</Translation>
+		<Translation lang="fr">Elles veulent que nous nous optimisions pour nous y adapter.</Translation>
+	</Segment>
+	<Segment id ="119" >
+		<Time-slot>00:05:00,980 --> 00:05:04,509</Time-slot>
+		<Original_text lang="en">Now I don't say that is necessarily a bad thing.</Original_text>
+		<Translation lang="ar">الآن أنا لا أقول أن هذا بالضرورة شيء سيء.</Translation>
+		<Translation lang="fr">Je ne dis pas que c'est forcément un mal.</Translation>
+	</Segment>
+	<Segment id ="120" >
+		<Time-slot>00:05:04,509 --> 00:05:07,142</Time-slot>
+		<Original_text lang="en">I just think that this example</Original_text>
+		<Translation lang="ar">أنا فقط أعتقد ان هذا المثال</Translation>
+		<Translation lang="fr">Je pense simplement que cet exemple</Translation>
+	</Segment>
+	<Segment id ="121" >
+		<Time-slot>00:05:07,142 --> 00:05:09,458</Time-slot>
+		<Original_text lang="en">points us to a general realization,</Original_text>
+		<Translation lang="ar">يرشدنا إلى إدراك عام،</Translation>
+		<Translation lang="fr">nous indique une prise de conscience générale,</Translation>
+	</Segment>
+	<Segment id ="122" >
+		<Time-slot>00:05:09,459 --> 00:05:13,177</Time-slot>
+		<Original_text lang="en">and that is no matter what technology or design you look at,</Original_text>
+		<Translation lang="ar">وأنه أيا كان ما تعاينه من تكنولوجيا أو تصميم،</Translation>
+		<Translation lang="fr">que peu importe quelle technologie ou quelle conception on considère,</Translation>
+	</Segment>
+	<Segment id ="123" >
+		<Time-slot>00:05:13,177 --> 00:05:18,243</Time-slot>
+		<Original_text lang="en">even something we consider as well intended and as good in its effects --</Original_text>
+		<Translation lang="ar">حتى إذا كان شيئا نعتبره حسن النية بقدر ما هو حميد التأثير ..</Translation>
+		<Translation lang="fr">même ce que nous considérons ainsi bien intentionné et aussi bon dans ses effets,</Translation>
+	</Segment>
+	<Segment id ="124" >
+		<Time-slot>00:05:18,244 --> 00:05:19,477</Time-slot>
+		<Original_text lang="en">like Stutzman's Freedom --</Original_text>
+		<Translation lang="ar">مثل تطبيق "فريدوم" لستاتزمان --</Translation>
+		<Translation lang="fr">comme la liberté de Stutzman,</Translation>
+	</Segment>
+	<Segment id ="125" >
+		<Time-slot>00:05:19,476 --> 00:05:22,176</Time-slot>
+		<Original_text lang="en">comes with certain values embedded in it.</Original_text>
+		<Translation lang="ar">يأتي بقيم معينة مدمجة داخله.</Translation>
+		<Translation lang="fr">comporte certaines valeurs.</Translation>
+	</Segment>
+	<Segment id ="126" >
+		<Time-slot>00:05:22,177 --> 00:05:23,860</Time-slot>
+		<Original_text lang="en">And we can question these values.</Original_text>
+		<Translation lang="ar">ونحن باستطاعتنا التساؤل عن هذه القيم.</Translation>
+		<Translation lang="fr">Et nous pouvons nous interroger sur ces valeurs.</Translation>
+	</Segment>
+	<Segment id ="127" >
+		<Time-slot>00:05:23,860 --> 00:05:25,790</Time-slot>
+		<Original_text lang="en">We can question: Is it a good thing</Original_text>
+		<Translation lang="ar">نستطيع التساؤل: هل هو شيء جيد</Translation>
+		<Translation lang="fr">Nous pouvons nous demander : est-ce une bonne chose</Translation>
+	</Segment>
+	<Segment id ="128" >
+		<Time-slot>00:05:25,790 --> 00:05:29,673</Time-slot>
+		<Original_text lang="en">that all of us continuously self-optimize ourselves</Original_text>
+		<Translation lang="ar">أن جميعنا باستمرار، نقوم بتحسين ذواتنا</Translation>
+		<Translation lang="fr">que nous nous auto-optimisions en permanence</Translation>
+	</Segment>
+	<Segment id ="129" >
+		<Time-slot>00:05:29,673 --> 00:05:31,575</Time-slot>
+		<Original_text lang="en">to fit better into that society?</Original_text>
+		<Translation lang="ar">لنلائم المجتمع بشكل أكبر؟</Translation>
+		<Translation lang="fr">pour nous adapter mieux à cette société ?</Translation>
+	</Segment>
+	<Segment id ="130" >
+		<Time-slot>00:05:31,576 --> 00:05:33,075</Time-slot>
+		<Original_text lang="en">Or to give you another example,</Original_text>
+		<Translation lang="ar">أو لإعطائكم مثال آخر،</Translation>
+		<Translation lang="fr">Ou pour vous donner un autre exemple,</Translation>
+	</Segment>
+	<Segment id ="131" >
+		<Time-slot>00:05:33,074 --> 00:05:34,959</Time-slot>
+		<Original_text lang="en">what about a piece of persuasive technology</Original_text>
+		<Translation lang="ar">ماذا عن نموذج من تكنولوجيا الإقناع</Translation>
+		<Translation lang="fr">que pensez-vous d'une technologie persuasive</Translation>
+	</Segment>
+	<Segment id ="132" >
+		<Time-slot>00:05:34,959 --> 00:05:38,658</Time-slot>
+		<Original_text lang="en">that convinces Muslim women to wear their headscarves?</Original_text>
+		<Translation lang="ar">التي تقوم بـإقناع النساء المسلمات على ارتداء الحجاب؟</Translation>
+		<Translation lang="fr">qui convainc les femmes musulmanes de porter leur foulard ?</Translation>
+	</Segment>
+	<Segment id ="133" >
+		<Time-slot>00:05:38,658 --> 00:05:40,942</Time-slot>
+		<Original_text lang="en">Is that a good or a bad technology</Original_text>
+		<Translation lang="ar">هل هي تكنولوجيا حميدة أم خبيثة</Translation>
+		<Translation lang="fr">Est-ce une bonne ou une mauvaise technologie</Translation>
+	</Segment>
+	<Segment id ="134" >
+		<Time-slot>00:05:40,942 --> 00:05:43,459</Time-slot>
+		<Original_text lang="en">in its intentions or in its effects?</Original_text>
+		<Translation lang="ar">فيما يخص نواياها أو تأثيراتها؟</Translation>
+		<Translation lang="fr">dans ses intentions ou ses effets ?</Translation>
+	</Segment>
+	<Segment id ="135" >
+		<Time-slot>00:05:43,459 --> 00:05:44,858</Time-slot>
+		<Original_text lang="en">Well that basically depends</Original_text>
+		<Translation lang="ar">حسنا، هذا بالأساس يعتمد</Translation>
+		<Translation lang="fr">Hé bien ça dépend essentiellement</Translation>
+	</Segment>
+	<Segment id ="136" >
+		<Time-slot>00:05:44,858 --> 00:05:47,543</Time-slot>
+		<Original_text lang="en">on the kind of values that you bring to bear</Original_text>
+		<Translation lang="ar">على نوع القيم التي تقوم بتطبيقها</Translation>
+		<Translation lang="fr">du type de valeurs que vous apportez</Translation>
+	</Segment>
+	<Segment id ="137" >
+		<Time-slot>00:05:47,543 --> 00:05:49,658</Time-slot>
+		<Original_text lang="en">to make these kinds of judgments.</Original_text>
+		<Translation lang="ar">لاتخاذ هذا النوع من الأحكام؟</Translation>
+		<Translation lang="fr">pour rendre ce genre de jugements.</Translation>
+	</Segment>
+	<Segment id ="138" >
+		<Time-slot>00:05:49,658 --> 00:05:51,692</Time-slot>
+		<Original_text lang="en">So that's a third question:</Original_text>
+		<Translation lang="ar">إذا، ذلك سؤال ثالث:</Translation>
+		<Translation lang="fr">Voilà une troisième question :</Translation>
+	</Segment>
+	<Segment id ="139" >
+		<Time-slot>00:05:51,692 --> 00:05:53,245</Time-slot>
+		<Original_text lang="en">What values do you use to judge?</Original_text>
+		<Translation lang="ar">ما القيم التي تستخدمها للحكم؟</Translation>
+		<Translation lang="fr">Quelles valeurs utilisez-vous pour juger ?</Translation>
+	</Segment>
+	<Segment id ="140" >
+		<Time-slot>00:05:53,245 --> 00:05:55,093</Time-slot>
+		<Original_text lang="en">And speaking of values,</Original_text>
+		<Translation lang="ar">وبالحديث عن القيم،</Translation>
+		<Translation lang="fr">Et en parlant de valeurs,</Translation>
+	</Segment>
+	<Segment id ="141" >
+		<Time-slot>00:05:55,093 --> 00:05:58,379</Time-slot>
+		<Original_text lang="en">I've noticed that in the discussion about moral persuasion online,</Original_text>
+		<Translation lang="ar">قد لاحظت في المناقشات حول الحث الأخلاقي على الانترنت،</Translation>
+		<Translation lang="fr">j'ai remarqué que dans le débat en ligne sur la persuasion morale,</Translation>
+	</Segment>
+	<Segment id ="142" >
+		<Time-slot>00:05:58,379 --> 00:06:00,177</Time-slot>
+		<Original_text lang="en">and when I'm talking with people,</Original_text>
+		<Translation lang="ar">وعند حديثي مع الناس،</Translation>
+		<Translation lang="fr">et quand je parle avec les gens,</Translation>
+	</Segment>
+	<Segment id ="143" >
+		<Time-slot>00:06:00,177 --> 00:06:02,966</Time-slot>
+		<Original_text lang="en">more often than not there is a weird bias.</Original_text>
+		<Translation lang="ar">أن في أغلب الأحيان هناك تحيز غريب.</Translation>
+		<Translation lang="fr">très souvent, il y a un préjugé bizarre.</Translation>
+	</Segment>
+	<Segment id ="144" >
+		<Time-slot>00:06:02,966 --> 00:06:06,226</Time-slot>
+		<Original_text lang="en">And that bias is that we're asking,</Original_text>
+		<Translation lang="ar">وذلك التحيز هو أننا نسأل</Translation>
+		<Translation lang="fr">Et ce préjugé est que nous demandons,</Translation>
+	</Segment>
+	<Segment id ="145" >
+		<Time-slot>00:06:06,226 --> 00:06:09,343</Time-slot>
+		<Original_text lang="en">is this or that "still" ethical?</Original_text>
+		<Translation lang="ar">هل "يظل" هذا أو ذاك أخلاقيا؟</Translation>
+		<Translation lang="fr">est-ce que ceci ou cela est « toujours» éthique ?</Translation>
+	</Segment>
+	<Segment id ="146" >
+		<Time-slot>00:06:09,343 --> 00:06:11,677</Time-slot>
+		<Original_text lang="en">Is it "still" permissible?</Original_text>
+		<Translation lang="ar">هل "يظل" مباحا؟</Translation>
+		<Translation lang="fr">C'est « toujours » acceptable ?</Translation>
+	</Segment>
+	<Segment id ="147" >
+		<Time-slot>00:06:11,677 --> 00:06:12,945</Time-slot>
+		<Original_text lang="en">We're asking things like,</Original_text>
+		<Translation lang="ar">نحن نسأل أسئلة مثل،</Translation>
+		<Translation lang="fr">Nous demandons des choses comme,</Translation>
+	</Segment>
+	<Segment id ="148" >
+		<Time-slot>00:06:12,946 --> 00:06:15,212</Time-slot>
+		<Original_text lang="en">Is this Oxfam donation form --</Original_text>
+		<Translation lang="ar">هل هذه الاستمارة للتبرع لمؤسسة "أوكسفام" --</Translation>
+		<Translation lang="fr">Est-ce que ce formulaire de don à Oxfam,</Translation>
+	</Segment>
+	<Segment id ="149" >
+		<Time-slot>00:06:15,211 --> 00:06:18,228</Time-slot>
+		<Original_text lang="en">where the regular monthly donation is the preset default</Original_text>
+		<Translation lang="ar">حيث التبرع الشهري الاعتيادي هو الاختيار الافتراضي</Translation>
+		<Translation lang="fr">où le don mensuel régulier est la valeur prédéfinie par défaut</Translation>
+	</Segment>
+	<Segment id ="150" >
+		<Time-slot>00:06:18,228 --> 00:06:20,312</Time-slot>
+		<Original_text lang="en">and people, maybe without intending it,</Original_text>
+		<Translation lang="ar">والناس، ربما بدون نية منهم،</Translation>
+		<Translation lang="fr">et que les gens, peut-être sans que ce soit voulu,</Translation>
+	</Segment>
+	<Segment id ="151" >
+		<Time-slot>00:06:20,312 --> 00:06:23,127</Time-slot>
+		<Original_text lang="en">are that way encouraged or nudged</Original_text>
+		<Translation lang="ar">بهذه الطريقة يتم تشجيعهم أو حثهم</Translation>
+		<Translation lang="fr">sont ainsi encouragés ou poussés</Translation>
+	</Segment>
+	<Segment id ="152" >
+		<Time-slot>00:06:23,127 --> 00:06:25,524</Time-slot>
+		<Original_text lang="en">into giving a regular donation instead of a one-time donation --</Original_text>
+		<Translation lang="ar">لتقديم تبرع بشكل شهري اعتيادي ، بدل التبرع لمرة واحدة --</Translation>
+		<Translation lang="fr">à faire un don régulièrement au lieu d'un don unique,</Translation>
+	</Segment>
+	<Segment id ="153" >
+		<Time-slot>00:06:25,524 --> 00:06:26,889</Time-slot>
+		<Original_text lang="en">is that still permissible?</Original_text>
+		<Translation lang="ar">هل يظل ذلك مباحا؟</Translation>
+		<Translation lang="fr">est-ce encore acceptable ?</Translation>
+	</Segment>
+	<Segment id ="154" >
+		<Time-slot>00:06:26,889 --> 00:06:28,276</Time-slot>
+		<Original_text lang="en">Is it still ethical?</Original_text>
+		<Translation lang="ar">هل يظل هذا أخلاقيا؟</Translation>
+		<Translation lang="fr">Est-ce encore éthique ?</Translation>
+	</Segment>
+	<Segment id ="155" >
+		<Time-slot>00:06:28,276 --> 00:06:29,960</Time-slot>
+		<Original_text lang="en">We're fishing at the low end.</Original_text>
+		<Translation lang="ar">نحن نصطاد في الطرف المنخفض.</Translation>
+		<Translation lang="fr">On prend les choses par le mauvais bout.</Translation>
+	</Segment>
+	<Segment id ="156" >
+		<Time-slot>00:06:29,959 --> 00:06:31,836</Time-slot>
+		<Original_text lang="en">But in fact, that question</Original_text>
+		<Translation lang="ar">لكن في الحقيقة، ذلك السؤال</Translation>
+		<Translation lang="fr">Mais en fait, cette question</Translation>
+	</Segment>
+	<Segment id ="157" >
+		<Time-slot>00:06:31,836 --> 00:06:32,747</Time-slot>
+		<Original_text lang="en">"Is it still ethical?"</Original_text>
+		<Translation lang="ar">"هل يظل ذلك مراعيا للأخلاقيات؟"</Translation>
+		<Translation lang="fr">« Est-ce encore éthique? »</Translation>
+	</Segment>
+	<Segment id ="158" >
+		<Time-slot>00:06:32,747 --> 00:06:35,076</Time-slot>
+		<Original_text lang="en">is just one way of looking at ethics.</Original_text>
+		<Translation lang="ar">هو مجرد طريقة واحدة للنظر إلى الأخلاقيات.</Translation>
+		<Translation lang="fr">n'est qu'une façon de voir l'éthique.</Translation>
+	</Segment>
+	<Segment id ="159" >
+		<Time-slot>00:06:35,076 --> 00:06:37,668</Time-slot>
+		<Original_text lang="en">Because if you look at the beginning of ethics</Original_text>
+		<Translation lang="ar">لأنك إذا نظرت إلى بدايات الاخلاقيات</Translation>
+		<Translation lang="fr">Parce que si vous regardez le début de l'éthique</Translation>
+	</Segment>
+	<Segment id ="160" >
+		<Time-slot>00:06:37,668 --> 00:06:39,893</Time-slot>
+		<Original_text lang="en">in Western culture,</Original_text>
+		<Translation lang="ar">في الحضارة الغربية،</Translation>
+		<Translation lang="fr">dans la culture occidentale,</Translation>
+	</Segment>
+	<Segment id ="161" >
+		<Time-slot>00:06:39,892 --> 00:06:42,057</Time-slot>
+		<Original_text lang="en">you see a very different idea</Original_text>
+		<Translation lang="ar">تجد فكرة مختلفة تماما</Translation>
+		<Translation lang="fr">vous voyez une idée très différente</Translation>
+	</Segment>
+	<Segment id ="162" >
+		<Time-slot>00:06:42,057 --> 00:06:43,593</Time-slot>
+		<Original_text lang="en">of what ethics also could be.</Original_text>
+		<Translation lang="ar">عما يمكن أن تكون عليه الأخلاقيات.</Translation>
+		<Translation lang="fr">de ce que l'éthique pourrait aussi bien être.</Translation>
+	</Segment>
+	<Segment id ="163" >
+		<Time-slot>00:06:43,593 --> 00:06:47,692</Time-slot>
+		<Original_text lang="en">For Aristotle, ethics was not about the question,</Original_text>
+		<Translation lang="ar">بالنسبة لـ "أرسطو"، الأخلاقيات لم تكن متعلقة بسؤال،</Translation>
+		<Translation lang="fr">Pour Aristote, l'éthique ne concernait pas la question,</Translation>
+	</Segment>
+	<Segment id ="164" >
+		<Time-slot>00:06:47,692 --> 00:06:50,177</Time-slot>
+		<Original_text lang="en">is that still good, or is it bad?</Original_text>
+		<Translation lang="ar">ما إذا ظل هذا حميدا أم خبيثا.</Translation>
+		<Translation lang="fr">est-ce toujours bien ou est-ce mal ?</Translation>
+	</Segment>
+	<Segment id ="165" >
+		<Time-slot>00:06:50,177 --> 00:06:53,627</Time-slot>
+		<Original_text lang="en">Ethics was about the question of how to live life well.</Original_text>
+		<Translation lang="ar">الأخلاقيات تتعلق بالتساؤل عن كيفية عيش الحياة جيدا.</Translation>
+		<Translation lang="fr">L'éthique concernait la question de savoir comment vivre bien.</Translation>
+	</Segment>
+	<Segment id ="166" >
+		<Time-slot>00:06:53,627 --> 00:06:55,788</Time-slot>
+		<Original_text lang="en">And he put that in the word "arete,"</Original_text>
+		<Translation lang="ar">ووضع ذلك في كلمة "arete"</Translation>
+		<Translation lang="fr">Et il a mis cette notion dans le mot « arete»</Translation>
+	</Segment>
+	<Segment id ="167" >
+		<Time-slot>00:06:55,788 --> 00:06:58,709</Time-slot>
+		<Original_text lang="en">which we, from the [Ancient Greek], translate as "virtue."</Original_text>
+		<Translation lang="ar">التي نترجمها -عن الإغريقية القديمة- إلى "virtue = فضيلة"</Translation>
+		<Translation lang="fr">que nous traduisons à partir du grec ancien, par « vertu. »</Translation>
+	</Segment>
+	<Segment id ="168" >
+		<Time-slot>00:06:58,709 --> 00:07:00,334</Time-slot>
+		<Original_text lang="en">But really it means excellence.</Original_text>
+		<Translation lang="ar">لكنها حقيقة تعني الامتياز.</Translation>
+		<Translation lang="fr">Mais il signifie en fait excellence.</Translation>
+	</Segment>
+	<Segment id ="169" >
+		<Time-slot>00:07:00,334 --> 00:07:04,334</Time-slot>
+		<Original_text lang="en">It means living up to your own full potential</Original_text>
+		<Translation lang="ar">تعني الحياة وفقا لإمكانياتك بأكملها</Translation>
+		<Translation lang="fr">Cela signifie vivre votre plein potentiel</Translation>
+	</Segment>
+	<Segment id ="170" >
+		<Time-slot>00:07:04,334 --> 00:07:06,562</Time-slot>
+		<Original_text lang="en">as a human being.</Original_text>
+		<Translation lang="ar">كإنسان.</Translation>
+		<Translation lang="fr">d'être humain.</Translation>
+	</Segment>
+	<Segment id ="171" >
+		<Time-slot>00:07:06,562 --> 00:07:07,746</Time-slot>
+		<Original_text lang="en">And that is an idea</Original_text>
+		<Translation lang="ar">وهذه فكرة</Translation>
+		<Translation lang="fr">Et c'est une idée,</Translation>
+	</Segment>
+	<Segment id ="172" >
+		<Time-slot>00:07:07,745 --> 00:07:11,251</Time-slot>
+		<Original_text lang="en">that, I think, that Paul Richard Buchanan nicely put in a recent essay</Original_text>
+		<Translation lang="ar">في اعتقادي، أن "بول ريتشارد بوكانان" وضعها مؤخرا في طرحه</Translation>
+		<Translation lang="fr">je crois, que Paul Richard Buchanan a joliment exprimée dans un essai récent</Translation>
+	</Segment>
+	<Segment id ="173" >
+		<Time-slot>00:07:11,252 --> 00:07:13,703</Time-slot>
+		<Original_text lang="en">where he said, "Products are vivid arguments</Original_text>
+		<Translation lang="ar">حيث قال، "المنتجات هي براهين حية</Translation>
+		<Translation lang="fr">lorsqu'il a dit, « Les produits sont des arguments vifs</Translation>
+	</Segment>
+	<Segment id ="174" >
+		<Time-slot>00:07:13,702 --> 00:07:15,800</Time-slot>
+		<Original_text lang="en">about how we should live our lives."</Original_text>
+		<Translation lang="ar">عن كيف يجب أن نحيا حياتنا".</Translation>
+		<Translation lang="fr">sur la façon dont nous devons vivre nos vies. »</Translation>
+	</Segment>
+	<Segment id ="175" >
+		<Time-slot>00:07:15,800 --> 00:07:18,687</Time-slot>
+		<Original_text lang="en">Our designs are not ethical or unethical</Original_text>
+		<Translation lang="ar">منتجاتنا ليست بأخلاقية أو غير الاخلاقية</Translation>
+		<Translation lang="fr">Nos modèles ne sont pas éthiques ou contraire à l'éthique</Translation>
+	</Segment>
+	<Segment id ="176" >
+		<Time-slot>00:07:18,687 --> 00:07:23,300</Time-slot>
+		<Original_text lang="en">in that they're using ethical or unethical means of persuading us.</Original_text>
+		<Translation lang="ar">باستخدامها لأساليب أخلاقية أو غير أخلاقية في حثها لنا.</Translation>
+		<Translation lang="fr">dans la mesure où ils utilisent des moyens éthiques ou contraire à l'éthique pour nous persuader.</Translation>
+	</Segment>
+	<Segment id ="177" >
+		<Time-slot>00:07:23,300 --> 00:07:24,867</Time-slot>
+		<Original_text lang="en">They have a moral component</Original_text>
+		<Translation lang="ar">لديها مكون أخلاقي</Translation>
+		<Translation lang="fr">Ils ont une composante morale</Translation>
+	</Segment>
+	<Segment id ="178" >
+		<Time-slot>00:07:24,867 --> 00:07:28,956</Time-slot>
+		<Original_text lang="en">just in the kind of vision and the aspiration of the good life</Original_text>
+		<Translation lang="ar">فقط في ذلك النوع من التصور والتطلع للحياة الجيدة</Translation>
+		<Translation lang="fr">seulement dans le genre de vision et d'aspiration à la belle vie</Translation>
+	</Segment>
+	<Segment id ="179" >
+		<Time-slot>00:07:28,956 --> 00:07:31,653</Time-slot>
+		<Original_text lang="en">that they present to us.</Original_text>
+		<Translation lang="ar">التي تقدمه لنا.</Translation>
+		<Translation lang="fr">qu'ils nous présentent.</Translation>
+	</Segment>
+	<Segment id ="180" >
+		<Time-slot>00:07:31,653 --> 00:07:34,968</Time-slot>
+		<Original_text lang="en">And if you look into the designed environment around us</Original_text>
+		<Translation lang="ar">وإذا نظرتم إلى البيئة المصممة حولنا</Translation>
+		<Translation lang="fr">Et si vous examinez l'environnement conçu autour de nous</Translation>
+	</Segment>
+	<Segment id ="181" >
+		<Time-slot>00:07:34,968 --> 00:07:36,164</Time-slot>
+		<Original_text lang="en">with that kind of lens,</Original_text>
+		<Translation lang="ar">بهذا النوع من العدسات،</Translation>
+		<Translation lang="fr">à travers ce filtre,</Translation>
+	</Segment>
+	<Segment id ="182" >
+		<Time-slot>00:07:36,163 --> 00:07:38,384</Time-slot>
+		<Original_text lang="en">asking, "What is the vision of the good life</Original_text>
+		<Translation lang="ar">متسائلين، "ما هو تصور الحياة الجيدة</Translation>
+		<Translation lang="fr">en vous demandant, « Quelle est la vision de la belle vie</Translation>
+	</Segment>
+	<Segment id ="183" >
+		<Time-slot>00:07:38,384 --> 00:07:41,402</Time-slot>
+		<Original_text lang="en">that our products, our design, present to us?",</Original_text>
+		<Translation lang="ar">الذي تقدمه لنا منتجاتنا أو تصميماتنا؟" ،</Translation>
+		<Translation lang="fr">que nos produits, notre conception, nous présentent? «,</Translation>
+	</Segment>
+	<Segment id ="184" >
+		<Time-slot>00:07:41,403 --> 00:07:43,703</Time-slot>
+		<Original_text lang="en">then you often get the shivers,</Original_text>
+		<Translation lang="ar">حينها غالبا ما تنتابك رعشات،</Translation>
+		<Translation lang="fr">alors ça vous donne souvent des frissons,</Translation>
+	</Segment>
+	<Segment id ="185" >
+		<Time-slot>00:07:43,702 --> 00:07:46,054</Time-slot>
+		<Original_text lang="en">because of how little we expect of each other,</Original_text>
+		<Translation lang="ar">بسبب ضآلة ما نتوقعه من بعضنا البعض،</Translation>
+		<Translation lang="fr">en raison du peu que nous attendons l'un de l'autre,</Translation>
+	</Segment>
+	<Segment id ="186" >
+		<Time-slot>00:07:46,055 --> 00:07:48,773</Time-slot>
+		<Original_text lang="en">of how little we actually seem to expect</Original_text>
+		<Translation lang="ar">بسبب ضآلة ما يبدو فعلا أننا نتوقعه</Translation>
+		<Translation lang="fr">du peu que nous semblons réellement attendre</Translation>
+	</Segment>
+	<Segment id ="187" >
+		<Time-slot>00:07:48,773 --> 00:07:52,356</Time-slot>
+		<Original_text lang="en">of our life and what the good life looks like.</Original_text>
+		<Translation lang="ar">من حياتنا وما الذي تبدو عليه الحياة الجيدة.</Translation>
+		<Translation lang="fr">de notre vie et de ce à quoi ressemble la belle vie.</Translation>
+	</Segment>
+	<Segment id ="188" >
+		<Time-slot>00:07:52,355 --> 00:07:56,156</Time-slot>
+		<Original_text lang="en">So that's the fourth question I'd like to leave you with:</Original_text>
+		<Translation lang="ar">إذا ، هذا هو السؤال الرابع الذي أود أن أتركه لكم:</Translation>
+		<Translation lang="fr">Donc, voilà la quatrième question, sur laquelle je voudrais vous laisser :</Translation>
+	</Segment>
+	<Segment id ="189" >
+		<Time-slot>00:07:56,156 --> 00:07:57,639</Time-slot>
+		<Original_text lang="en">What vision of the good life</Original_text>
+		<Translation lang="ar">ما هو تصور الحياة الجيدة</Translation>
+		<Translation lang="fr">Quelle vision de la belle vie</Translation>
+	</Segment>
+	<Segment id ="190" >
+		<Time-slot>00:07:57,639 --> 00:08:01,305</Time-slot>
+		<Original_text lang="en">do your designs convey?</Original_text>
+		<Translation lang="ar">الذي تحمله تصميماتك؟</Translation>
+		<Translation lang="fr">transparaissent dans vos conceptions ?</Translation>
+	</Segment>
+	<Segment id ="191" >
+		<Time-slot>00:08:01,305 --> 00:08:02,406</Time-slot>
+		<Original_text lang="en">And speaking of design,</Original_text>
+		<Translation lang="ar">وبالحديث عن التصميم،</Translation>
+		<Translation lang="fr">Et en parlant de conception,</Translation>
+	</Segment>
+	<Segment id ="192" >
+		<Time-slot>00:08:02,406 --> 00:08:06,139</Time-slot>
+		<Original_text lang="en">you notice that I already broadened the discussion.</Original_text>
+		<Translation lang="ar">تلاحظ أنني بالفعل وسعت النقاش.</Translation>
+		<Translation lang="fr">vous remarquez que j'ai déjà élargi la discussion.</Translation>
+	</Segment>
+	<Segment id ="193" >
+		<Time-slot>00:08:06,139 --> 00:08:10,874</Time-slot>
+		<Original_text lang="en">Because it's not just persuasive technology that we're talking about here,</Original_text>
+		<Translation lang="ar">بسبب أنها ليست فقط تكنولوجيا الإقناع هي التي نتحدث عنها هنا،</Translation>
+		<Translation lang="fr">Parce que nous ne parlons pas que de technologie persuasive ici,</Translation>
+	</Segment>
+	<Segment id ="194" >
+		<Time-slot>00:08:10,874 --> 00:08:15,074</Time-slot>
+		<Original_text lang="en">it's any piece of design that we put out here in the world.</Original_text>
+		<Translation lang="ar">بل هو أي تصميم نخرجه إلى العالم.</Translation>
+		<Translation lang="fr">mais de toute conception que nous apportons dans le monde.</Translation>
+	</Segment>
+	<Segment id ="195" >
+		<Time-slot>00:08:15,074 --> 00:08:16,456</Time-slot>
+		<Original_text lang="en">I don't know whether you know</Original_text>
+		<Translation lang="ar">لا أعلم إذا كنتم تعرفون</Translation>
+		<Translation lang="fr">Je ne sais pas si vous connaissez</Translation>
+	</Segment>
+	<Segment id ="196" >
+		<Time-slot>00:08:16,456 --> 00:08:18,124</Time-slot>
+		<Original_text lang="en">the great communication researcher Paul Watzlawick</Original_text>
+		<Translation lang="ar">باحث الاتصالات العظيم "بول فاتسلافيك"</Translation>
+		<Translation lang="fr">le grand chercheur en communication Paul Watzlawick</Translation>
+	</Segment>
+	<Segment id ="197" >
+		<Time-slot>00:08:18,124 --> 00:08:19,972</Time-slot>
+		<Original_text lang="en">who, back in the '60s, made the argument</Original_text>
+		<Translation lang="ar">الذي قام في الستينيات بإثبات</Translation>
+		<Translation lang="fr">qui, dans les années 1960, a soutenu que</Translation>
+	</Segment>
+	<Segment id ="198" >
+		<Time-slot>00:08:19,971 --> 00:08:21,306</Time-slot>
+		<Original_text lang="en">we cannot not communicate.</Original_text>
+		<Translation lang="ar">أننا لا نستطيع "عدم التواصل"</Translation>
+		<Translation lang="fr">nous ne pouvons pas ne pas communiquer.</Translation>
+	</Segment>
+	<Segment id ="199" >
+		<Time-slot>00:08:21,307 --> 00:08:23,840</Time-slot>
+		<Original_text lang="en">Even if we choose to be silent,</Original_text>
+		<Translation lang="ar">حتى وإن اخترنا أن نبقى صامتين،</Translation>
+		<Translation lang="fr">Même si nous choisissons de garder le silence,</Translation>
+	</Segment>
+	<Segment id ="200" >
+		<Time-slot>00:08:23,839 --> 00:08:28,236</Time-slot>
+		<Original_text lang="en">we chose to be silent. We're communicating something by choosing to be silent.</Original_text>
+		<Translation lang="ar">نختار الصمت. نحن نتواصل مع شيء ما عبر اختيارنا أن نكون صامتين.</Translation>
+		<Translation lang="fr">nous avons choisi de garder le silence. Nous communiquons quelque chose en choisissant de garder le silence.</Translation>
+	</Segment>
+	<Segment id ="201" >
+		<Time-slot>00:08:28,237 --> 00:08:30,841</Time-slot>
+		<Original_text lang="en">And in the same way that we cannot not communicate,</Original_text>
+		<Translation lang="ar">وبنفس منطلق أننا لا نستطيع "عدم التواصل"،</Translation>
+		<Translation lang="fr">Et de la même manière que nous ne pouvons pas ne pas communiquer,</Translation>
+	</Segment>
+	<Segment id ="202" >
+		<Time-slot>00:08:30,841 --> 00:08:32,358</Time-slot>
+		<Original_text lang="en">we cannot not persuade.</Original_text>
+		<Translation lang="ar">فنحن لا نستطيع "عدم الحث".</Translation>
+		<Translation lang="fr">nous ne pouvons pas ne pas convaincre.</Translation>
+	</Segment>
+	<Segment id ="203" >
+		<Time-slot>00:08:32,357 --> 00:08:34,656</Time-slot>
+		<Original_text lang="en">Whatever we do or refrain from doing,</Original_text>
+		<Translation lang="ar">أيا كان ما نفعله أو نمتنع عن فعله،</Translation>
+		<Translation lang="fr">Tout ce que nous faisons ou nous abstenons de faire,</Translation>
+	</Segment>
+	<Segment id ="204" >
+		<Time-slot>00:08:34,657 --> 00:08:37,523</Time-slot>
+		<Original_text lang="en">whatever we put out there as a piece of design</Original_text>
+		<Translation lang="ar">أيا كان ما نخرجه على أنه تصميم ما</Translation>
+		<Translation lang="fr">tout ce que nous apportons comme morceau de conception</Translation>
+	</Segment>
+	<Segment id ="205" >
+		<Time-slot>00:08:37,523 --> 00:08:38,790</Time-slot>
+		<Original_text lang="en">into the world</Original_text>
+		<Translation lang="ar">إلى العالم</Translation>
+		<Translation lang="fr">dans le monde</Translation>
+	</Segment>
+	<Segment id ="206" >
+		<Time-slot>00:08:38,789 --> 00:08:41,073</Time-slot>
+		<Original_text lang="en">has a persuasive component.</Original_text>
+		<Translation lang="ar">يحمل مكونا للحث.</Translation>
+		<Translation lang="fr">a une composante persuasive.</Translation>
+	</Segment>
+	<Segment id ="207" >
+		<Time-slot>00:08:41,073 --> 00:08:43,189</Time-slot>
+		<Original_text lang="en">It tries to affect people.</Original_text>
+		<Translation lang="ar">يحاول أن يؤثرعلى الناس.</Translation>
+		<Translation lang="fr">Il essaie d'affecter les gens.</Translation>
+	</Segment>
+	<Segment id ="208" >
+		<Time-slot>00:08:43,190 --> 00:08:45,374</Time-slot>
+		<Original_text lang="en">It puts a certain vision of the good life</Original_text>
+		<Translation lang="ar">يضع تصورا معين للحياة الجيدة</Translation>
+		<Translation lang="fr">Il met en place une certaine vision de la belle vie</Translation>
+	</Segment>
+	<Segment id ="209" >
+		<Time-slot>00:08:45,374 --> 00:08:46,711</Time-slot>
+		<Original_text lang="en">out there in front of us.</Original_text>
+		<Translation lang="ar">أمامنا هناك.</Translation>
+		<Translation lang="fr">là devant nous.</Translation>
+	</Segment>
+	<Segment id ="210" >
+		<Time-slot>00:08:46,711 --> 00:08:48,697</Time-slot>
+		<Original_text lang="en">Which is what Peter-Paul Verbeek,</Original_text>
+		<Translation lang="ar">وهو ما قام "بيتر-باول فيربيك"،</Translation>
+		<Translation lang="fr">Et c'est ce que Peter-Paul Verbeek,</Translation>
+	</Segment>
+	<Segment id ="211" >
+		<Time-slot>00:08:48,697 --> 00:08:50,842</Time-slot>
+		<Original_text lang="en">the Dutch philosopher of technology, says.</Original_text>
+		<Translation lang="ar">فيلسوف التكنولوجيا الهولندي، بقوله.</Translation>
+		<Translation lang="fr">le philosophe néerlandais de la technologie, dit.</Translation>
+	</Segment>
+	<Segment id ="212" >
+		<Time-slot>00:08:50,842 --> 00:08:55,408</Time-slot>
+		<Original_text lang="en">No matter whether we as designers intend it or not,</Original_text>
+		<Translation lang="ar">مهما اعتزمنا نحن كمصممين أم لم نعتزم ذلك،</Translation>
+		<Translation lang="fr">Peu importe que nous en tant que concepteurs en ayons l'intention ou pas,</Translation>
+	</Segment>
+	<Segment id ="213" >
+		<Time-slot>00:08:55,408 --> 00:08:57,173</Time-slot>
+		<Original_text lang="en">we materialize morality.</Original_text>
+		<Translation lang="ar">فإننا نجسد الأخلاقيات.</Translation>
+		<Translation lang="fr">nous matérialisons la moralité.</Translation>
+	</Segment>
+	<Segment id ="214" >
+		<Time-slot>00:08:57,173 --> 00:09:00,224</Time-slot>
+		<Original_text lang="en">We make certain things harder and easier to do.</Original_text>
+		<Translation lang="ar">نجعل عمل أشياء معينة أصعب أو أسهل .</Translation>
+		<Translation lang="fr">Nous rendons certaines choses plus difficiles et plus faciles à faire.</Translation>
+	</Segment>
+	<Segment id ="215" >
+		<Time-slot>00:09:00,224 --> 00:09:02,174</Time-slot>
+		<Original_text lang="en">We organize the existence of people.</Original_text>
+		<Translation lang="ar">نحن ننظم كينونة الناس.</Translation>
+		<Translation lang="fr">Nous organisons l'existence des gens.</Translation>
+	</Segment>
+	<Segment id ="216" >
+		<Time-slot>00:09:02,173 --> 00:09:04,923</Time-slot>
+		<Original_text lang="en">We put a certain vision of what good or bad</Original_text>
+		<Translation lang="ar">نحن نضع تصورا معينا عما هو جيد أو سيء</Translation>
+		<Translation lang="fr">Nous mettons une certaine vision de ce qui est bon ou mauvais</Translation>
+	</Segment>
+	<Segment id ="217" >
+		<Time-slot>00:09:04,923 --> 00:09:08,292</Time-slot>
+		<Original_text lang="en">or normal or usual is in front of people</Original_text>
+		<Translation lang="ar">أو عادي أو اعتيادي أمام الناس</Translation>
+		<Translation lang="fr">ou normal ou habituel devant les gens</Translation>
+	</Segment>
+	<Segment id ="218" >
+		<Time-slot>00:09:08,292 --> 00:09:10,841</Time-slot>
+		<Original_text lang="en">by everything we put out there in the world.</Original_text>
+		<Translation lang="ar">بواسطة كل شيء نخرجه إلى العالم.</Translation>
+		<Translation lang="fr">par tout ce que nous mettons dans le monde.</Translation>
+	</Segment>
+	<Segment id ="219" >
+		<Time-slot>00:09:10,841 --> 00:09:14,356</Time-slot>
+		<Original_text lang="en">Even something as innocuous as a set of school chairs</Original_text>
+		<Translation lang="ar">حتى لو كانت أشياء عديمة الضرر كمجموعة من الكراسي المدرسية</Translation>
+		<Translation lang="fr">Même quelque chose d'aussi anodin que l'arrangement des chaises à l'école</Translation>
+	</Segment>
+	<Segment id ="220" >
+		<Time-slot>00:09:14,356 --> 00:09:15,790</Time-slot>
+		<Original_text lang="en">is a persuasive technology.</Original_text>
+		<Translation lang="ar">فإنها تكنولوجيا حاثة،</Translation>
+		<Translation lang="fr">est une technologie persuasive.</Translation>
+	</Segment>
+	<Segment id ="221" >
+		<Time-slot>00:09:15,791 --> 00:09:18,607</Time-slot>
+		<Original_text lang="en">Because it presents and materializes</Original_text>
+		<Translation lang="ar">لأنها تقدم وتجسد</Translation>
+		<Translation lang="fr">Parce qu'il présente et matérialise</Translation>
+	</Segment>
+	<Segment id ="222" >
+		<Time-slot>00:09:18,606 --> 00:09:20,540</Time-slot>
+		<Original_text lang="en">a certain vision of the good life --</Original_text>
+		<Translation lang="ar">تصورا معينا للحياة الجيدة --</Translation>
+		<Translation lang="fr">une certaine vision de la belle vie,</Translation>
+	</Segment>
+	<Segment id ="223" >
+		<Time-slot>00:09:20,541 --> 00:09:24,023</Time-slot>
+		<Original_text lang="en">the good life in which teaching and learning and listening</Original_text>
+		<Translation lang="ar">الحياة الجيدة في كيفية أن التدريس والتعلم والاستماع</Translation>
+		<Translation lang="fr">la belle vie dans laquelle l'enseignement et l'apprentissage et l'écoute</Translation>
+	</Segment>
+	<Segment id ="224" >
+		<Time-slot>00:09:24,023 --> 00:09:26,957</Time-slot>
+		<Original_text lang="en">is about one person teaching, the others listening,</Original_text>
+		<Translation lang="ar">متعلق بشخص واحد يُدرس، والآخرين يستمعون.</Translation>
+		<Translation lang="fr">se résume à une personne qui enseigne, et les autres qui l'écoutent,</Translation>
+	</Segment>
+	<Segment id ="225" >
+		<Time-slot>00:09:26,957 --> 00:09:30,709</Time-slot>
+		<Original_text lang="en">in which it is about, learning is done while sitting,</Original_text>
+		<Translation lang="ar">في كيفية أن ، التعلم يتم أثناء الجلوس،</Translation>
+		<Translation lang="fr">dans laquelle l'apprentissage se fait en étant assis,</Translation>
+	</Segment>
+	<Segment id ="226" >
+		<Time-slot>00:09:30,710 --> 00:09:32,940</Time-slot>
+		<Original_text lang="en">in which you learn for yourself,</Original_text>
+		<Translation lang="ar">في كيفية أنك تتعلم لنفسك،</Translation>
+		<Translation lang="fr">dans laquelle vous apprenez par vous-même,</Translation>
+	</Segment>
+	<Segment id ="227" >
+		<Time-slot>00:09:32,940 --> 00:09:35,190</Time-slot>
+		<Original_text lang="en">in which you're not supposed to change these rules</Original_text>
+		<Translation lang="ar">في كيفية أنك لا ينبغي أن تغير هذه القواعد</Translation>
+		<Translation lang="fr">dans laquelle vous n'êtes pas censé changer ces règles</Translation>
+	</Segment>
+	<Segment id ="228" >
+		<Time-slot>00:09:35,190 --> 00:09:38,440</Time-slot>
+		<Original_text lang="en">because the chairs are fixed to the ground.</Original_text>
+		<Translation lang="ar">لأن الكراسي مثبتة في الأرض.</Translation>
+		<Translation lang="fr">parce que les chaises sont fixées au sol.</Translation>
+	</Segment>
+	<Segment id ="229" >
+		<Time-slot>00:09:38,440 --> 00:09:41,823</Time-slot>
+		<Original_text lang="en">And even something as innocuous as a single design chair --</Original_text>
+		<Translation lang="ar">وحتى شيء عديم الضرر مثل كرسي تصميم منفرد --</Translation>
+		<Translation lang="fr">Et même quelque chose d'aussi anodin qu'une seule chaise design,</Translation>
+	</Segment>
+	<Segment id ="230" >
+		<Time-slot>00:09:41,822 --> 00:09:43,124</Time-slot>
+		<Original_text lang="en">like this one by Arne Jacobsen --</Original_text>
+		<Translation lang="ar">كهذا الذي صممه "آرني ياكوبسون" --</Translation>
+		<Translation lang="fr">comme celle-ci par Arne Jacobsen,</Translation>
+	</Segment>
+	<Segment id ="231" >
+		<Time-slot>00:09:43,124 --> 00:09:44,825</Time-slot>
+		<Original_text lang="en">is a persuasive technology.</Original_text>
+		<Translation lang="ar">هو تكنولوجية حاثة.</Translation>
+		<Translation lang="fr">est une technologie persuasive.</Translation>
+	</Segment>
+	<Segment id ="232" >
+		<Time-slot>00:09:44,825 --> 00:09:48,240</Time-slot>
+		<Original_text lang="en">Because, again, it communicates an idea of the good life.</Original_text>
+		<Translation lang="ar">بسبب أنه، مجددا، يبعث بتصور عن الحياة الجيدة.</Translation>
+		<Translation lang="fr">Parce que, une fois encore, elle communique une idée de la belle vie.</Translation>
+	</Segment>
+	<Segment id ="233" >
+		<Time-slot>00:09:48,240 --> 00:09:49,739</Time-slot>
+		<Original_text lang="en">A good life --</Original_text>
+		<Translation lang="ar">حياة جيدة --</Translation>
+		<Translation lang="fr">Une belle vie,</Translation>
+	</Segment>
+	<Segment id ="234" >
+		<Time-slot>00:09:49,739 --> 00:09:51,940</Time-slot>
+		<Original_text lang="en">a life that you say you as a designer consent to</Original_text>
+		<Translation lang="ar">حياة تقول أنك كمصمم تتفق</Translation>
+		<Translation lang="fr">une vie à la quelle vous consentez en tant que concepteur</Translation>
+	</Segment>
+	<Segment id ="235" >
+		<Time-slot>00:09:51,940 --> 00:09:54,027</Time-slot>
+		<Original_text lang="en">by saying, "In the good life,</Original_text>
+		<Translation lang="ar">مع قولك، "في الحياة الجيدة،</Translation>
+		<Translation lang="fr">en disant, « Dans la belle vie,</Translation>
+	</Segment>
+	<Segment id ="236" >
+		<Time-slot>00:09:54,027 --> 00:09:58,041</Time-slot>
+		<Original_text lang="en">goods are produced as sustainably or unsustainably as this chair.</Original_text>
+		<Translation lang="ar">السلع يتم إنتاجها بطريقة مستديمة أو غير مستديمة بقدر هذا الكرسي.</Translation>
+		<Translation lang="fr">les biens sont produits aussi durablement ou non que cette chaise.</Translation>
+	</Segment>
+	<Segment id ="237" >
+		<Time-slot>00:09:58,041 --> 00:10:00,663</Time-slot>
+		<Original_text lang="en">Workers are treated as well or as badly</Original_text>
+		<Translation lang="ar">العمال تتم معاملتهم بقدر الحسن أو السوء</Translation>
+		<Translation lang="fr">Les travailleurs sont traités aussi bien ou mal</Translation>
+	</Segment>
+	<Segment id ="238" >
+		<Time-slot>00:10:00,663 --> 00:10:03,307</Time-slot>
+		<Original_text lang="en">as the workers were treated who built that chair."</Original_text>
+		<Translation lang="ar">الذي عومل به العمال اللذين صنعوا هذا الكرسي".</Translation>
+		<Translation lang="fr">qu'on été traités les travailleurs qui ont construit cette chaise. »</Translation>
+	</Segment>
+	<Segment id ="239" >
+		<Time-slot>00:10:03,307 --> 00:10:05,639</Time-slot>
+		<Original_text lang="en">The good life is a life where design is important</Original_text>
+		<Translation lang="ar">الحياة الجيدة هي حياة حيث التصميم أمر مهم</Translation>
+		<Translation lang="fr">La belle vie est une vie où la conception est importante</Translation>
+	</Segment>
+	<Segment id ="240" >
+		<Time-slot>00:10:05,639 --> 00:10:08,374</Time-slot>
+		<Original_text lang="en">because somebody obviously took the time and spent the money</Original_text>
+		<Translation lang="ar">لأن شخص ما بوضوح بذل من وقته وأنفق من ماله</Translation>
+		<Translation lang="fr">parce que de toute évidence, quelqu'un a pris le temps et a dépensé l'argent</Translation>
+	</Segment>
+	<Segment id ="241" >
+		<Time-slot>00:10:08,374 --> 00:10:10,238</Time-slot>
+		<Original_text lang="en">for that kind of well-designed chair,</Original_text>
+		<Translation lang="ar">من أجل هذا الكرسي المصمم بعناية.</Translation>
+		<Translation lang="fr">pour ce genre de chaise bien conçue,</Translation>
+	</Segment>
+	<Segment id ="242" >
+		<Time-slot>00:10:10,238 --> 00:10:11,657</Time-slot>
+		<Original_text lang="en">where tradition is important</Original_text>
+		<Translation lang="ar">حيث التقاليد مهمة.</Translation>
+		<Translation lang="fr">où la tradition est importante</Translation>
+	</Segment>
+	<Segment id ="243" >
+		<Time-slot>00:10:11,657 --> 00:10:13,458</Time-slot>
+		<Original_text lang="en">because this is a traditional classic</Original_text>
+		<Translation lang="ar">لأن هذا كلاسيكي تقليدي</Translation>
+		<Translation lang="fr">parce que c'est un classique traditionnel</Translation>
+	</Segment>
+	<Segment id ="244" >
+		<Time-slot>00:10:13,457 --> 00:10:14,969</Time-slot>
+		<Original_text lang="en">and someone cared about this,</Original_text>
+		<Translation lang="ar">وشخص ما اهتم بذلك،</Translation>
+		<Translation lang="fr">et quelqu'un s'est soucié de ça,</Translation>
+	</Segment>
+	<Segment id ="245" >
+		<Time-slot>00:10:14,970 --> 00:10:16,922</Time-slot>
+		<Original_text lang="en">and where there is something as conspicuous consumption,</Original_text>
+		<Translation lang="ar">وحيث يوجد شيء كاستهلاك واضح،</Translation>
+		<Translation lang="fr">et où il y a quelque chose comme la consommation flagrante,</Translation>
+	</Segment>
+	<Segment id ="246" >
+		<Time-slot>00:10:16,922 --> 00:10:18,490</Time-slot>
+		<Original_text lang="en">where it is okay and normal</Original_text>
+		<Translation lang="ar">حيث من المسموح والعادي</Translation>
+		<Translation lang="fr">où 'il est bien et normal</Translation>
+	</Segment>
+	<Segment id ="247" >
+		<Time-slot>00:10:18,490 --> 00:10:21,509</Time-slot>
+		<Original_text lang="en">to spend a humungous amount of money on such a chair</Original_text>
+		<Translation lang="ar">أن تنفق كم هائل من المال مقابل كرسي مماثل</Translation>
+		<Translation lang="fr">de dépenser une gigantesque somme d'argent pour une telle chaise</Translation>
+	</Segment>
+	<Segment id ="248" >
+		<Time-slot>00:10:21,509 --> 00:10:24,923</Time-slot>
+		<Original_text lang="en">to signal to other people what your social status is.</Original_text>
+		<Translation lang="ar">للإشارة أمام الآخرين إلى ماهية وضعك الاجتماعي.</Translation>
+		<Translation lang="fr">pour signaler votre statut social à d'autres personnes.</Translation>
+	</Segment>
+	<Segment id ="249" >
+		<Time-slot>00:10:24,923 --> 00:10:28,091</Time-slot>
+		<Original_text lang="en">So these are the kinds of layers, the kinds of questions</Original_text>
+		<Translation lang="ar">إذأً هذه هي نوعيات الطبقات، ونوعيات التساؤلات</Translation>
+		<Translation lang="fr">Donc c'est le genre de couches, le genre de questions</Translation>
+	</Segment>
+	<Segment id ="250" >
+		<Time-slot>00:10:28,091 --> 00:10:29,844</Time-slot>
+		<Original_text lang="en">I wanted to lead you through today --</Original_text>
+		<Translation lang="ar">التي وددت ان أقودكم من خلالها اليوم --</Translation>
+		<Translation lang="fr">que je voulais vous faire traverser aujourd'hui,</Translation>
+	</Segment>
+	<Segment id ="251" >
+		<Time-slot>00:10:29,844 --> 00:10:31,992</Time-slot>
+		<Original_text lang="en">the question of, What are the intentions</Original_text>
+		<Translation lang="ar">تساؤل، ما هي النوايا</Translation>
+		<Translation lang="fr">la question de ce que sont les intentions</Translation>
+	</Segment>
+	<Segment id ="252" >
+		<Time-slot>00:10:31,991 --> 00:10:34,457</Time-slot>
+		<Original_text lang="en">that you bring to bear when you're designing something?</Original_text>
+		<Translation lang="ar">التي تعتنقها عند تصميمك لشيء ما؟</Translation>
+		<Translation lang="fr">que vous apportez lorsque vous concevez une chose.</Translation>
+	</Segment>
+	<Segment id ="253" >
+		<Time-slot>00:10:34,457 --> 00:10:37,957</Time-slot>
+		<Original_text lang="en">What are the effects, intended and unintended, that you're having?</Original_text>
+		<Translation lang="ar">ما هي التأثيرات ، المقصودة والغير مقصودة، التي تنتجها؟</Translation>
+		<Translation lang="fr">Quels sont les effets, prévus et involontaires, que vous avez ?</Translation>
+	</Segment>
+	<Segment id ="254" >
+		<Time-slot>00:10:37,957 --> 00:10:39,523</Time-slot>
+		<Original_text lang="en">What are the values you're using</Original_text>
+		<Translation lang="ar">ما هي القيم التي تستخدمها</Translation>
+		<Translation lang="fr">Quelles sont les valeurs que vous utilisez</Translation>
+	</Segment>
+	<Segment id ="255" >
+		<Time-slot>00:10:39,523 --> 00:10:40,875</Time-slot>
+		<Original_text lang="en">to judge those?</Original_text>
+		<Translation lang="ar">للحكم على ذلك؟</Translation>
+		<Translation lang="fr">pour les juger ?</Translation>
+	</Segment>
+	<Segment id ="256" >
+		<Time-slot>00:10:40,875 --> 00:10:42,341</Time-slot>
+		<Original_text lang="en">What are the virtues, the aspirations</Original_text>
+		<Translation lang="ar">ما هي الفضائل، التطلعات</Translation>
+		<Translation lang="fr">Quelles sont les vertus, les aspirations</Translation>
+	</Segment>
+	<Segment id ="257" >
+		<Time-slot>00:10:42,341 --> 00:10:45,061</Time-slot>
+		<Original_text lang="en">that you're actually expressing in that?</Original_text>
+		<Translation lang="ar">التي تعبر عنها في ذلك؟</Translation>
+		<Translation lang="fr">que vous exprimez réellement dans cette chose ?</Translation>
+	</Segment>
+	<Segment id ="258" >
+		<Time-slot>00:10:45,061 --> 00:10:47,156</Time-slot>
+		<Original_text lang="en">And how does that apply,</Original_text>
+		<Translation lang="ar">وكيف ينطبق ذلك،</Translation>
+		<Translation lang="fr">Et comment cela s'applique-t-il,</Translation>
+	</Segment>
+	<Segment id ="259" >
+		<Time-slot>00:10:47,155 --> 00:10:49,147</Time-slot>
+		<Original_text lang="en">not just to persuasive technology,</Original_text>
+		<Translation lang="ar">ليس فقط على التكنولوجيا الحاثة،</Translation>
+		<Translation lang="fr">non seulement à la technologie persuasive</Translation>
+	</Segment>
+	<Segment id ="260" >
+		<Time-slot>00:10:49,148 --> 00:10:51,481</Time-slot>
+		<Original_text lang="en">but to everything you design?</Original_text>
+		<Translation lang="ar">بل على كل شيء تقوم بتصميمه؟</Translation>
+		<Translation lang="fr">mais à tout ce que vous concevez ?</Translation>
+	</Segment>
+	<Segment id ="261" >
+		<Time-slot>00:10:51,481 --> 00:10:53,384</Time-slot>
+		<Original_text lang="en">Do we stop there?</Original_text>
+		<Translation lang="ar">هل نتوقف هنا؟</Translation>
+		<Translation lang="fr">Est-ce qu'on s'arrête là ?</Translation>
+	</Segment>
+	<Segment id ="262" >
+		<Time-slot>00:10:53,384 --> 00:10:55,017</Time-slot>
+		<Original_text lang="en">I don't think so.</Original_text>
+		<Translation lang="ar">لا أعتقد ذلك.</Translation>
+		<Translation lang="fr">Je ne le pense pas.</Translation>
+	</Segment>
+	<Segment id ="263" >
+		<Time-slot>00:10:55,017 --> 00:10:59,482</Time-slot>
+		<Original_text lang="en">I think that all of these things are eventually informed</Original_text>
+		<Translation lang="ar">أعتقد أن كل هذه الأشياء في النهاية سوف يُطلع عليها</Translation>
+		<Translation lang="fr">Je pense que toutes ces choses sont finalement informés</Translation>
+	</Segment>
+	<Segment id ="264" >
+		<Time-slot>00:10:59,481 --> 00:11:01,199</Time-slot>
+		<Original_text lang="en">by the core of all of this --</Original_text>
+		<Translation lang="ar">من خلال جوهر هذا كله --</Translation>
+		<Translation lang="fr">par le cœur de tout cela,</Translation>
+	</Segment>
+	<Segment id ="265" >
+		<Time-slot>00:11:01,200 --> 00:11:04,315</Time-slot>
+		<Original_text lang="en">and this is nothing but life itself.</Original_text>
+		<Translation lang="ar">وهو لا شيء غير الحياة في حد ذاتها.</Translation>
+		<Translation lang="fr">et ce n'est rien d'autre que la vie elle-même.</Translation>
+	</Segment>
+	<Segment id ="266" >
+		<Time-slot>00:11:04,315 --> 00:11:07,215</Time-slot>
+		<Original_text lang="en">Why, when the question of what the good life is</Original_text>
+		<Translation lang="ar">لماذا، عندما يقوم التساؤل عن ماهية الحياة الجيدة</Translation>
+		<Translation lang="fr">Pourquoi, lorsque la question de ce qu'est la belle vie</Translation>
+	</Segment>
+	<Segment id ="267" >
+		<Time-slot>00:11:07,215 --> 00:11:09,566</Time-slot>
+		<Original_text lang="en">informs everything that we design,</Original_text>
+		<Translation lang="ar">بإطلاعنا على كل ما نقوم بتتصميمه،</Translation>
+		<Translation lang="fr">informe tout ce que nous concevons,</Translation>
+	</Segment>
+	<Segment id ="268" >
+		<Time-slot>00:11:09,566 --> 00:11:12,149</Time-slot>
+		<Original_text lang="en">should we stop at design and not ask ourselves,</Original_text>
+		<Translation lang="ar">يتوجب علينا التوقف عن التصميم وليس سؤال أنفسنا ،</Translation>
+		<Translation lang="fr">devrions-nous nous arrêter à la conception et ne pas nous demander,</Translation>
+	</Segment>
+	<Segment id ="269" >
+		<Time-slot>00:11:12,149 --> 00:11:14,881</Time-slot>
+		<Original_text lang="en">how does it apply to our own life?</Original_text>
+		<Translation lang="ar">كيف ينطبق ذلك على حياتنا؟</Translation>
+		<Translation lang="fr">comment cela s'applique-t-il à notre propre vie ?</Translation>
+	</Segment>
+	<Segment id ="270" >
+		<Time-slot>00:11:14,881 --> 00:11:17,616</Time-slot>
+		<Original_text lang="en">"Why should the lamp or the house be an art object,</Original_text>
+		<Translation lang="ar">"لماذا ينبغي أن يكون المصباح أو البيت غرضا فنيا،</Translation>
+		<Translation lang="fr">« Pourquoi la lampe ou la maison devrait-elle être un objet d'art,</Translation>
+	</Segment>
+	<Segment id ="271" >
+		<Time-slot>00:11:17,616 --> 00:11:18,847</Time-slot>
+		<Original_text lang="en">but not our life?"</Original_text>
+		<Translation lang="ar">ولا ينبغي لحياتنا؟"</Translation>
+		<Translation lang="fr">mais pas notre vie ? »</Translation>
+	</Segment>
+	<Segment id ="272" >
+		<Time-slot>00:11:18,847 --> 00:11:20,463</Time-slot>
+		<Original_text lang="en">as Michel Foucault puts it.</Original_text>
+		<Translation lang="ar">على حد تعبير "ميشيل فوكو".</Translation>
+		<Translation lang="fr">comme le dit Michel Foucault.</Translation>
+	</Segment>
+	<Segment id ="273" >
+		<Time-slot>00:11:20,464 --> 00:11:24,015</Time-slot>
+		<Original_text lang="en">Just to give you a practical example of Buster Benson.</Original_text>
+		<Translation lang="ar">من أجل إعطائكم مثال عملي لـ "باستر بنسون".</Translation>
+		<Translation lang="fr">Juste pour vous donner un exemple concret de Buster Benson.</Translation>
+	</Segment>
+	<Segment id ="274" >
+		<Time-slot>00:11:24,014 --> 00:11:26,529</Time-slot>
+		<Original_text lang="en">This is Buster setting up a pull-up machine</Original_text>
+		<Translation lang="ar">هذا "باستر" يقوم بتجهيز جهاز لتمارين السحب</Translation>
+		<Translation lang="fr">Voici Buster en train de construire un appareil de musculation</Translation>
+	</Segment>
+	<Segment id ="275" >
+		<Time-slot>00:11:26,529 --> 00:11:28,982</Time-slot>
+		<Original_text lang="en">at the office of his new startup Habit Labs,</Original_text>
+		<Translation lang="ar">في المكتب أثناء بدء تشغيله الجديد لمختبرات "هابيت لاب"</Translation>
+		<Translation lang="fr">au bureau de sa nouvelle compagnie Habit Labs,</Translation>
+	</Segment>
+	<Segment id ="276" >
+		<Time-slot>00:11:28,982 --> 00:11:31,000</Time-slot>
+		<Original_text lang="en">where they're trying to build up other applications</Original_text>
+		<Translation lang="ar">حيث يحاولون تجهيز تطبيقات أخرى</Translation>
+		<Translation lang="fr">où ils essayaient de construire d'autres applications</Translation>
+	</Segment>
+	<Segment id ="277" >
+		<Time-slot>00:11:31,000 --> 00:11:32,981</Time-slot>
+		<Original_text lang="en">like Health Month for people.</Original_text>
+		<Translation lang="ar">مثل "شهر الصحة" للناس.</Translation>
+		<Translation lang="fr">comme Health Month (le mois de la santé) pour les gens.</Translation>
+	</Segment>
+	<Segment id ="278" >
+		<Time-slot>00:11:32,981 --> 00:11:35,562</Time-slot>
+		<Original_text lang="en">And why is he building a thing like this?</Original_text>
+		<Translation lang="ar">ولماذا يقوم هو ببناء شيء كهذا؟</Translation>
+		<Translation lang="fr">Et pourquoi construit-il un truc pareil?</Translation>
+	</Segment>
+	<Segment id ="279" >
+		<Time-slot>00:11:35,562 --> 00:11:37,567</Time-slot>
+		<Original_text lang="en">Well here is the set of axioms</Original_text>
+		<Translation lang="ar">حسنا, هنا مجموعة من المسَلمات</Translation>
+		<Translation lang="fr">Bien, voici l'ensemble des axiomes</Translation>
+	</Segment>
+	<Segment id ="280" >
+		<Time-slot>00:11:37,567 --> 00:11:40,769</Time-slot>
+		<Original_text lang="en">that Habit Labs, Buster's startup, put up for themselves</Original_text>
+		<Translation lang="ar">التي وضعها بدء تشغيل "باستر" لـ "هابيت لاب" لأنفسهم</Translation>
+		<Translation lang="fr">que Habit Labs, la compagnie de Buster, a établi pour eux-mêmes</Translation>
+	</Segment>
+	<Segment id ="281" >
+		<Time-slot>00:11:40,769 --> 00:11:43,890</Time-slot>
+		<Original_text lang="en">on how they wanted to work together as a team</Original_text>
+		<Translation lang="ar">حول كيف أرادوا أن يشتغلوا مع بعضهم البعض كفريق</Translation>
+		<Translation lang="fr">sur la façon dont ils voulaient travailler en équipe</Translation>
+	</Segment>
+	<Segment id ="282" >
+		<Time-slot>00:11:43,890 --> 00:11:45,714</Time-slot>
+		<Original_text lang="en">when they're building these applications --</Original_text>
+		<Translation lang="ar">حينما كانوا يبنون هذه التطبيقات --</Translation>
+		<Translation lang="fr">quand ils construisent ces applications,</Translation>
+	</Segment>
+	<Segment id ="283" >
+		<Time-slot>00:11:45,715 --> 00:11:47,767</Time-slot>
+		<Original_text lang="en">a set of moral principles they set themselves</Original_text>
+		<Translation lang="ar">مجموعة من المبادئ الأخلاقية أعدوها لأنفسهم</Translation>
+		<Translation lang="fr">un ensemble de principes moraux qu'ils se fixent</Translation>
+	</Segment>
+	<Segment id ="284" >
+		<Time-slot>00:11:47,767 --> 00:11:49,515</Time-slot>
+		<Original_text lang="en">for working together --</Original_text>
+		<Translation lang="ar">للعمل معا --</Translation>
+		<Translation lang="fr">pour travailler ensemble,</Translation>
+	</Segment>
+	<Segment id ="285" >
+		<Time-slot>00:11:49,514 --> 00:11:50,913</Time-slot>
+		<Original_text lang="en">and one of them being,</Original_text>
+		<Translation lang="ar">وواحد منها هو،</Translation>
+		<Translation lang="fr">et l'un d'eux étant,</Translation>
+	</Segment>
+	<Segment id ="286" >
+		<Time-slot>00:11:50,913 --> 00:11:53,995</Time-slot>
+		<Original_text lang="en">"We take care of our own health and manage our own burnout."</Original_text>
+		<Translation lang="ar">"أننا نحرص على صحتنا ونتحكم في ما نقوم بحرقه."</Translation>
+		<Translation lang="fr">« Nous prenons soin de notre propre santé et gérons notre propre épuisement. »</Translation>
+	</Segment>
+	<Segment id ="287" >
+		<Time-slot>00:11:53,995 --> 00:11:57,745</Time-slot>
+		<Original_text lang="en">Because ultimately how can you ask yourselves</Original_text>
+		<Translation lang="ar">لأنه في نهاية المطاف، كيف يمكنكم أن تسألوا أنفسكم</Translation>
+		<Translation lang="fr">Parce qu'en fin de compte, comment pouvez-vous vous poser la question à vous-même</Translation>
+	</Segment>
+	<Segment id ="288" >
+		<Time-slot>00:11:57,745 --> 00:11:59,211</Time-slot>
+		<Original_text lang="en">and how can you find an answer</Original_text>
+		<Translation lang="ar">وكيف يمكنكم الحصول على إجابة</Translation>
+		<Translation lang="fr">et comment pouvez-vous trouver une réponse</Translation>
+	</Segment>
+	<Segment id ="289" >
+		<Time-slot>00:11:59,211 --> 00:12:01,511</Time-slot>
+		<Original_text lang="en">on what vision of the good life</Original_text>
+		<Translation lang="ar">عن أي تصورعن الحياة الجيدة</Translation>
+		<Translation lang="fr">quant à quelle vision de la belle vie</Translation>
+	</Segment>
+	<Segment id ="290" >
+		<Time-slot>00:12:01,511 --> 00:12:04,612</Time-slot>
+		<Original_text lang="en">you want to convey and create with your designs</Original_text>
+		<Translation lang="ar">التي تود إيصاله أو ابتكاره عن طريق تصميمك.</Translation>
+		<Translation lang="fr">vous voulez transmettre et créer avec vos conceptions</Translation>
+	</Segment>
+	<Segment id ="291" >
+		<Time-slot>00:12:04,613 --> 00:12:06,295</Time-slot>
+		<Original_text lang="en">without asking the question,</Original_text>
+		<Translation lang="ar">بدون طرح سؤال،</Translation>
+		<Translation lang="fr">sans poser la question,</Translation>
+	</Segment>
+	<Segment id ="292" >
+		<Time-slot>00:12:06,294 --> 00:12:07,778</Time-slot>
+		<Original_text lang="en">what vision of the good life</Original_text>
+		<Translation lang="ar">ما هو تصور الحياة الجيدة</Translation>
+		<Translation lang="fr">quelle vision de la belle vie</Translation>
+	</Segment>
+	<Segment id ="293" >
+		<Time-slot>00:12:07,778 --> 00:12:10,678</Time-slot>
+		<Original_text lang="en">do you yourself want to live?</Original_text>
+		<Translation lang="ar">الذي تريد أنت بنفسك أن تحياه؟</Translation>
+		<Translation lang="fr">voulez-vous vivre vous-même ?</Translation>
+	</Segment>
+	<Segment id ="294" >
+		<Time-slot>00:12:10,678 --> 00:12:14,928</Time-slot>
+		<Original_text lang="en">And with that, I thank you.</Original_text>
+		<Translation lang="ar">وبهذا، أشكركم.</Translation>
+		<Translation lang="fr">Et sur ce, je vous remercie.</Translation>
+	</Segment>
+	<Segment id ="295" >
+		<Time-slot>00:12:14,928 --> 00:12:17,891</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+</Talk>
+</MulTed>

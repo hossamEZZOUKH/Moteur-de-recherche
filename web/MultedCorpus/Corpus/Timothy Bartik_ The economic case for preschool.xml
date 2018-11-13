@@ -1,0 +1,1788 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MulTed>
+
+<Talk Speaker = "Timothy Bartik" Title= " The economic case for preschool" >
+	<Segment id ="1" >
+		<Time-slot>00:00:13,285 --> 00:00:17,774</Time-slot>
+		<Original_text lang="en">In this talk today, I want to present a different idea</Original_text>
+		<Translation lang="ar">في حديث اليوم، أريد أن أقدم فكرة مختلفة</Translation>
+		<Translation lang="fr">Aujourd'hui, je veux montrer d'une nouvelle façon</Translation>
+	</Segment>
+	<Segment id ="2" >
+		<Time-slot>00:00:17,774 --> 00:00:21,995</Time-slot>
+		<Original_text lang="en">for why investing in early childhood education</Original_text>
+		<Translation lang="ar">عن سبب يجعل من الاستثمار في التعليم المبكر للأطفال</Translation>
+		<Translation lang="fr">pourquoi investir dans l'éducation de la petite enfance</Translation>
+	</Segment>
+	<Segment id ="3" >
+		<Time-slot>00:00:21,995 --> 00:00:24,694</Time-slot>
+		<Original_text lang="en">makes sense as a public investment.</Original_text>
+		<Translation lang="ar">هي فكرة وجيهة باعتبارها استثمارا عاما.</Translation>
+		<Translation lang="fr">a du sens en tant qu'investissement public.</Translation>
+	</Segment>
+	<Segment id ="4" >
+		<Time-slot>00:00:24,693 --> 00:00:26,931</Time-slot>
+		<Original_text lang="en">It's a different idea, because usually,</Original_text>
+		<Translation lang="ar">إنها فكرة مختلفة، لأن العادة اقتضت</Translation>
+		<Translation lang="fr">C'est une nouvelle façon, car normalement,</Translation>
+	</Segment>
+	<Segment id ="5" >
+		<Time-slot>00:00:26,931 --> 00:00:28,304</Time-slot>
+		<Original_text lang="en">when people talk about early childhood programs,</Original_text>
+		<Translation lang="ar">بأن الناس عندما يتحدثون عن برامج التعليم المبكر،</Translation>
+		<Translation lang="fr">quand les gens parlent de programmes pour la petite enfance,</Translation>
+	</Segment>
+	<Segment id ="6" >
+		<Time-slot>00:00:28,304 --> 00:00:31,646</Time-slot>
+		<Original_text lang="en">they talk about all the wonderful benefits for participants</Original_text>
+		<Translation lang="ar">فإنهم يتكلمون عن المزايا الرائعة للمشاركين فيها</Translation>
+		<Translation lang="fr">ils parlent de tous les merveilleux avantages pour les enfants</Translation>
+	</Segment>
+	<Segment id ="7" >
+		<Time-slot>00:00:31,646 --> 00:00:34,927</Time-slot>
+		<Original_text lang="en">in terms of former participants, in preschool,</Original_text>
+		<Translation lang="ar">من ناحية المشاركين السابقين، في روضة الأطفال،</Translation>
+		<Translation lang="fr">en termes d'anciens élèves de maternelle :</Translation>
+	</Segment>
+	<Segment id ="8" >
+		<Time-slot>00:00:34,927 --> 00:00:37,192</Time-slot>
+		<Original_text lang="en">they have better K-12 test scores,</Original_text>
+		<Translation lang="ar">وأنهم يحوزون على علامات أفضل في المراحل المدرسية الإثنتى عشر</Translation>
+		<Translation lang="fr">ils ont de meilleures notes durant leur scolarité,</Translation>
+	</Segment>
+	<Segment id ="9" >
+		<Time-slot>00:00:37,192 --> 00:00:39,307</Time-slot>
+		<Original_text lang="en">better adult earnings.</Original_text>
+		<Translation lang="ar">وحيازات أفضل في مرحلة الرشد.</Translation>
+		<Translation lang="fr">de meilleurs revenus une fois adultes.</Translation>
+	</Segment>
+	<Segment id ="10" >
+		<Time-slot>00:00:39,307 --> 00:00:41,423</Time-slot>
+		<Original_text lang="en">Now that's all very important,</Original_text>
+		<Translation lang="ar">إن كل هذا مهمٌ جداً ،</Translation>
+		<Translation lang="fr">Tout ça, c'est très important.</Translation>
+	</Segment>
+	<Segment id ="11" >
+		<Time-slot>00:00:41,423 --> 00:00:45,519</Time-slot>
+		<Original_text lang="en">but what I want to talk about is what preschool does</Original_text>
+		<Translation lang="ar">ولكن الذي أود التحدث به هو ما يقدمه التعليم ما قبل المدرسي</Translation>
+		<Translation lang="fr">Mais ce dont je veux parler, c'est du rôle que la maternelle tient</Translation>
+	</Segment>
+	<Segment id ="12" >
+		<Time-slot>00:00:45,518 --> 00:00:47,341</Time-slot>
+		<Original_text lang="en">for state economies</Original_text>
+		<Translation lang="ar">لاقتصاد الدولة</Translation>
+		<Translation lang="fr">dans l'économie du pays,</Translation>
+	</Segment>
+	<Segment id ="13" >
+		<Time-slot>00:00:47,341 --> 00:00:50,637</Time-slot>
+		<Original_text lang="en">and for promoting state economic development.</Original_text>
+		<Translation lang="ar">ولتعزيز التنمية الاقتصادية للدولة.</Translation>
+		<Translation lang="fr">et dans le développement économique.</Translation>
+	</Segment>
+	<Segment id ="14" >
+		<Time-slot>00:00:50,637 --> 00:00:53,930</Time-slot>
+		<Original_text lang="en">And that's actually crucial</Original_text>
+		<Translation lang="ar">وهذا أمر أساسي</Translation>
+		<Translation lang="fr">Et en fait, c'est crucial,</Translation>
+	</Segment>
+	<Segment id ="15" >
+		<Time-slot>00:00:53,930 --> 00:00:57,254</Time-slot>
+		<Original_text lang="en">because if we're going to get increased investment</Original_text>
+		<Translation lang="ar">لأننا إن أردنا الحصول على زيادة الاستثمار</Translation>
+		<Translation lang="fr">car si nous voulons obtenir plus d'investissement</Translation>
+	</Segment>
+	<Segment id ="16" >
+		<Time-slot>00:00:57,255 --> 00:00:59,597</Time-slot>
+		<Original_text lang="en">in early childhood programs,</Original_text>
+		<Translation lang="ar">في التعليم المبكر للأطفال</Translation>
+		<Translation lang="fr">dans les programmes de la petite enfance,</Translation>
+	</Segment>
+	<Segment id ="17" >
+		<Time-slot>00:00:59,597 --> 00:01:03,121</Time-slot>
+		<Original_text lang="en">we need to interest state governments in this.</Original_text>
+		<Translation lang="ar">فعلينا أن نجعل حكومة الولاية تهتم بالأمر .</Translation>
+		<Translation lang="fr">nous devons éveiller l'intérêt des gouvernements des états.</Translation>
+	</Segment>
+	<Segment id ="18" >
+		<Time-slot>00:01:03,121 --> 00:01:05,347</Time-slot>
+		<Original_text lang="en">The federal government has a lot on its plate,</Original_text>
+		<Translation lang="ar">إن الحكومة الفيدرالية لديها ما يكفي من المسؤوليات،</Translation>
+		<Translation lang="fr">Le gouvernement fédéral ayant déjà beaucoup à faire,</Translation>
+	</Segment>
+	<Segment id ="19" >
+		<Time-slot>00:01:05,346 --> 00:01:07,844</Time-slot>
+		<Original_text lang="en">and state governments are going to have to step up.</Original_text>
+		<Translation lang="ar">وستقوم حكومات الولايات بتصعيد الموقف.</Translation>
+		<Translation lang="fr">ce sont les gouvernements des états qui devront s'en charger.</Translation>
+	</Segment>
+	<Segment id ="20" >
+		<Time-slot>00:01:07,844 --> 00:01:10,027</Time-slot>
+		<Original_text lang="en">So we have to appeal to them,</Original_text>
+		<Translation lang="ar">لذا علينا أن نناشدهم</Translation>
+		<Translation lang="fr">On doit donc faire appel à eux,</Translation>
+	</Segment>
+	<Segment id ="21" >
+		<Time-slot>00:01:10,028 --> 00:01:12,581</Time-slot>
+		<Original_text lang="en">the legislators in the state government,</Original_text>
+		<Translation lang="ar">أقصد المشرعين في الحكومة</Translation>
+		<Translation lang="fr">les législateurs des gouvernements des états,</Translation>
+	</Segment>
+	<Segment id ="22" >
+		<Time-slot>00:01:12,581 --> 00:01:14,570</Time-slot>
+		<Original_text lang="en">and turn to something they understand,</Original_text>
+		<Translation lang="ar">واللجوء الى شيء يفهمون به،</Translation>
+		<Translation lang="fr">et le faire en termes qu'ils comprennent :</Translation>
+	</Segment>
+	<Segment id ="23" >
+		<Time-slot>00:01:14,570 --> 00:01:16,868</Time-slot>
+		<Original_text lang="en">that they have to promote the economic development</Original_text>
+		<Translation lang="ar">وأن عليهم أن يدعموا التنمية الاقتصادية</Translation>
+		<Translation lang="fr">ils doivent promouvoir le développement économique</Translation>
+	</Segment>
+	<Segment id ="24" >
+		<Time-slot>00:01:16,868 --> 00:01:18,555</Time-slot>
+		<Original_text lang="en">of their state economy.</Original_text>
+		<Translation lang="ar">لاقتصاد ولايتهم.</Translation>
+		<Translation lang="fr">de leur état.</Translation>
+	</Segment>
+	<Segment id ="25" >
+		<Time-slot>00:01:18,555 --> 00:01:20,371</Time-slot>
+		<Original_text lang="en">Now, by promoting economic development,</Original_text>
+		<Translation lang="ar">والآن، عن طريق دعم التنمية الاقتصادية،</Translation>
+		<Translation lang="fr">Mais en parlant de promouvoir le développement économique,</Translation>
+	</Segment>
+	<Segment id ="26" >
+		<Time-slot>00:01:20,371 --> 00:01:22,085</Time-slot>
+		<Original_text lang="en">I don't mean anything magical.</Original_text>
+		<Translation lang="ar">لا أقصد الإشارة الى أي شيء سحري.</Translation>
+		<Translation lang="fr">je ne parle pas de quelque chose de magique.</Translation>
+	</Segment>
+	<Segment id ="27" >
+		<Time-slot>00:01:22,085 --> 00:01:25,548</Time-slot>
+		<Original_text lang="en">All I mean is, is that early childhood education</Original_text>
+		<Translation lang="ar">كل ما أقصده هو، أن التعليم المبكر للأطقال</Translation>
+		<Translation lang="fr">Tout ce que je veux dire, c'est que l'éducation de la petite enfance</Translation>
+	</Segment>
+	<Segment id ="28" >
+		<Time-slot>00:01:25,549 --> 00:01:29,452</Time-slot>
+		<Original_text lang="en">can bring more and better jobs to a state</Original_text>
+		<Translation lang="ar">بإمكانه أن يجلب المزيد من الوظائف الأحسن</Translation>
+		<Translation lang="fr">peut apporter un plus grand nombre et de meilleurs emplois à un état</Translation>
+	</Segment>
+	<Segment id ="29" >
+		<Time-slot>00:01:29,451 --> 00:01:32,629</Time-slot>
+		<Original_text lang="en">and can thereby promote higher per capita earnings</Original_text>
+		<Translation lang="ar">وبذلك سيساهم في في زيادة ناتج الفرد والدخل</Translation>
+		<Translation lang="fr">et ainsi procurer de plus hauts revenus par habitant</Translation>
+	</Segment>
+	<Segment id ="30" >
+		<Time-slot>00:01:32,629 --> 00:01:34,579</Time-slot>
+		<Original_text lang="en">for the state's residents.</Original_text>
+		<Translation lang="ar">العام لسكان الولاية.</Translation>
+		<Translation lang="fr">pour les résidents de l'état.</Translation>
+	</Segment>
+	<Segment id ="31" >
+		<Time-slot>00:01:34,579 --> 00:01:38,572</Time-slot>
+		<Original_text lang="en">Now, I think it's fair to say that when people think about</Original_text>
+		<Translation lang="ar">إذاً، أعتقد أن المعقول أن نقول بأن الناس عندما يفكرون بـ...</Translation>
+		<Translation lang="fr">Je pense que l'on peut dire que quand les gens pensent</Translation>
+	</Segment>
+	<Segment id ="32" >
+		<Time-slot>00:01:38,572 --> 00:01:40,576</Time-slot>
+		<Original_text lang="en">state and local economic development,</Original_text>
+		<Translation lang="ar">التنمية على مستوى الولاية وعلى المستوى المحلي،</Translation>
+		<Translation lang="fr">au développement économique, local ou national,</Translation>
+	</Segment>
+	<Segment id ="33" >
+		<Time-slot>00:01:40,576 --> 00:01:44,358</Time-slot>
+		<Original_text lang="en">they don't generally think first about what they're doing</Original_text>
+		<Translation lang="ar">فإنهم لا يفكرون بشكل عام أولاً عما يفعلون</Translation>
+		<Translation lang="fr">ils ne pensent généralement pas en premier à ce qu'ils font</Translation>
+	</Segment>
+	<Segment id ="34" >
+		<Time-slot>00:01:44,358 --> 00:01:46,914</Time-slot>
+		<Original_text lang="en">about childcare and early childhood programs.</Original_text>
+		<Translation lang="ar">بخصوص رعاية الأطفال وبرامج الطفولة المبكرة.</Translation>
+		<Translation lang="fr">pour les enfants et les programmes de la petite enfance.</Translation>
+	</Segment>
+	<Segment id ="35" >
+		<Time-slot>00:01:46,914 --> 00:01:50,817</Time-slot>
+		<Original_text lang="en">I know this. I've spent most of my career researching these programs.</Original_text>
+		<Translation lang="ar">أنا أعرف ذلك من واقع. وقد أمضيت أغلب سيرتي المهنية في البحث عن هذه البرنامج.</Translation>
+		<Translation lang="fr">Je le sais. J'ai passé la plupart de ma carrière à étudier ces programmes.</Translation>
+	</Segment>
+	<Segment id ="36" >
+		<Time-slot>00:01:50,816 --> 00:01:52,439</Time-slot>
+		<Original_text lang="en">I've talked to a lot of directors</Original_text>
+		<Translation lang="ar">وقد تحدثت للكثير من موجهي</Translation>
+		<Translation lang="fr">J'ai discuté de ces problèmes</Translation>
+	</Segment>
+	<Segment id ="37" >
+		<Time-slot>00:01:52,439 --> 00:01:54,768</Time-slot>
+		<Original_text lang="en">of state economic development agencies about these issues,</Original_text>
+		<Translation lang="ar">وكالات التنمية الاقتصادية في الولايات عن هذا الموضوع</Translation>
+		<Translation lang="fr">avec beaucoup de directeurs d'agences de développement économique au niveau des états,</Translation>
+	</Segment>
+	<Segment id ="38" >
+		<Time-slot>00:01:54,768 --> 00:01:57,310</Time-slot>
+		<Original_text lang="en">a lot of legislators about these issues.</Original_text>
+		<Translation lang="ar">والكثير من المشرعين بهذا الخصوص.</Translation>
+		<Translation lang="fr">et de nombreux législateurs.</Translation>
+	</Segment>
+	<Segment id ="39" >
+		<Time-slot>00:01:57,310 --> 00:02:00,368</Time-slot>
+		<Original_text lang="en">When legislators and others think about economic development,</Original_text>
+		<Translation lang="ar">عندما يقوم المشرعون وغيرهم بالتفكير بالتنمية الاقتصادية</Translation>
+		<Translation lang="fr">Quand les législateurs, entre autres, réfléchissent au développement économique,</Translation>
+	</Segment>
+	<Segment id ="40" >
+		<Time-slot>00:02:00,368 --> 00:02:03,625</Time-slot>
+		<Original_text lang="en">what they first of all think about are business tax incentives,</Original_text>
+		<Translation lang="ar">فإن أول ما يجول في أذهانهم هي محفزات ضرائب الأعمال،</Translation>
+		<Translation lang="fr">ils pensent d'abord aux avatanges fiscaux pour les entreprises,</Translation>
+	</Segment>
+	<Segment id ="41" >
+		<Time-slot>00:02:03,625 --> 00:02:06,503</Time-slot>
+		<Original_text lang="en">property tax abatements, job creation tax credits,</Original_text>
+		<Translation lang="ar">وإرجاء الضرائب على الممتلكات، والائتمان الضريبي على خلق الفرص الوظيفية،</Translation>
+		<Translation lang="fr">à des diminutions des taxes foncières, aux crédits d'impôts à la création d'emploi,</Translation>
+	</Segment>
+	<Segment id ="42" >
+		<Time-slot>00:02:06,503 --> 00:02:09,189</Time-slot>
+		<Original_text lang="en">you know, there are a million of these programs all over the place.</Original_text>
+		<Translation lang="ar">وأنتم تعرفون أن هناك الملايين من هذه البرامج في كل الأنحاء</Translation>
+		<Translation lang="fr">vous savez, il y a des millions de ces programmes partout.</Translation>
+	</Segment>
+	<Segment id ="43" >
+		<Time-slot>00:02:09,189 --> 00:02:11,795</Time-slot>
+		<Original_text lang="en">So for example, states compete very vigorously</Original_text>
+		<Translation lang="ar">على سبيل المثال، فإن الولايات تتنافس بشكل فاعل</Translation>
+		<Translation lang="fr">Par exemple, les états se font une concurrencent vigoureuse</Translation>
+	</Segment>
+	<Segment id ="44" >
+		<Time-slot>00:02:11,795 --> 00:02:15,460</Time-slot>
+		<Original_text lang="en">to attract new auto plants or expanded auto plants.</Original_text>
+		<Translation lang="ar">لجذب مصانع السيارات الجديدة أو توسعة المصانع الراهنة.</Translation>
+		<Translation lang="fr">pour attirer ou agrandir les usines de voitures.</Translation>
+	</Segment>
+	<Segment id ="45" >
+		<Time-slot>00:02:15,461 --> 00:02:17,600</Time-slot>
+		<Original_text lang="en">They hand out all kinds of business tax breaks.</Original_text>
+		<Translation lang="ar">وهم يقومون بمنح الاعفاءات الضريبية بكل أنواعها.</Translation>
+		<Translation lang="fr">Ils accordent toutes sortes d'avantages fiscaux aux entreprises.</Translation>
+	</Segment>
+	<Segment id ="46" >
+		<Time-slot>00:02:17,600 --> 00:02:19,799</Time-slot>
+		<Original_text lang="en">Now, those programs can make sense</Original_text>
+		<Translation lang="ar">وقد تكون هذه البرامج معقولة</Translation>
+		<Translation lang="fr">Ces programmes peuvent avoir du sens</Translation>
+	</Segment>
+	<Segment id ="47" >
+		<Time-slot>00:02:19,799 --> 00:02:22,801</Time-slot>
+		<Original_text lang="en">if they in fact induce new location decisions,</Original_text>
+		<Translation lang="ar">إن كانت بالفعل تبعث على تحسين القرارات المحلية</Translation>
+		<Translation lang="fr">si, en fait, ils entraînent de nouvelles implantations.</Translation>
+	</Segment>
+	<Segment id ="48" >
+		<Time-slot>00:02:22,800 --> 00:02:24,185</Time-slot>
+		<Original_text lang="en">and the way they can make sense is,</Original_text>
+		<Translation lang="ar">والطريقة التي يمكن لها أن تكون معقولة هي</Translation>
+		<Translation lang="fr">Et pour pouvoir avoir du sens, ils doivent</Translation>
+	</Segment>
+	<Segment id ="49" >
+		<Time-slot>00:02:24,186 --> 00:02:26,498</Time-slot>
+		<Original_text lang="en">by creating more and better jobs,</Original_text>
+		<Translation lang="ar">خلق المزيد من الوظائف الأفضل</Translation>
+		<Translation lang="fr">créer un plus grand nombre d'emplois meilleurs,</Translation>
+	</Segment>
+	<Segment id ="50" >
+		<Time-slot>00:02:26,498 --> 00:02:30,081</Time-slot>
+		<Original_text lang="en">they raise employment rates, raise per capita earnings of state residents.</Original_text>
+		<Translation lang="ar">وهي تزيد من معدلات التوظيف، وتزيد من مستوى دخل الفرد بين قاطني الولاية.</Translation>
+		<Translation lang="fr">qui augmentent le taux d'emploi et les revenus par habitant des résidents de l'état.</Translation>
+	</Segment>
+	<Segment id ="51" >
+		<Time-slot>00:02:30,081 --> 00:02:32,151</Time-slot>
+		<Original_text lang="en">So there is a benefit to state residents</Original_text>
+		<Translation lang="ar">إذاً فهنالك فائدة لسكان الولاية</Translation>
+		<Translation lang="fr">Il y a donc un avantage pour les résidents de l'état</Translation>
+	</Segment>
+	<Segment id ="52" >
+		<Time-slot>00:02:32,151 --> 00:02:34,300</Time-slot>
+		<Original_text lang="en">that corresponds to the costs that they're paying</Original_text>
+		<Translation lang="ar">وهي تتوافق مع التكلفة التي يدفعونها</Translation>
+		<Translation lang="fr">qui correspond au coût qu'ils paient</Translation>
+	</Segment>
+	<Segment id ="53" >
+		<Time-slot>00:02:34,300 --> 00:02:36,573</Time-slot>
+		<Original_text lang="en">by paying for these business tax breaks.</Original_text>
+		<Translation lang="ar">عبر منحهم لهذه الأعمال الاعفاءات الضريبية.</Translation>
+		<Translation lang="fr">en finançant les avantages fiscaux accordés aux entreprises.</Translation>
+	</Segment>
+	<Segment id ="54" >
+		<Time-slot>00:02:36,574 --> 00:02:40,382</Time-slot>
+		<Original_text lang="en">My argument is essentially that early childhood programs</Original_text>
+		<Translation lang="ar">إن حجتي بشكل جوهري بأن التعليم المبكر للاطفال</Translation>
+		<Translation lang="fr">Je soutiens que les programmes de la petite enfance</Translation>
+	</Segment>
+	<Segment id ="55" >
+		<Time-slot>00:02:40,382 --> 00:02:44,106</Time-slot>
+		<Original_text lang="en">can do exactly the same thing,</Original_text>
+		<Translation lang="ar">بإمكانه أن يؤدي الى نفس النتيجة تماماً</Translation>
+		<Translation lang="fr">peuvent faire exactement la même chose,</Translation>
+	</Segment>
+	<Segment id ="56" >
+		<Time-slot>00:02:44,106 --> 00:02:48,015</Time-slot>
+		<Original_text lang="en">create more and better jobs, but in a different way.</Original_text>
+		<Translation lang="ar">وهو خلق المزيد من الفرص الوظيفية الأفضل.</Translation>
+		<Translation lang="fr">créer un plus grand nombre de meilleurs emplois, mais d'une façon différente.</Translation>
+	</Segment>
+	<Segment id ="57" >
+		<Time-slot>00:02:48,015 --> 00:02:50,433</Time-slot>
+		<Original_text lang="en">It's a somewhat more indirect way.</Original_text>
+		<Translation lang="ar">وهي نوعاً ما طريقة غير مباشرة.</Translation>
+		<Translation lang="fr">D'une manière plus indirecte, en quelque sorte.</Translation>
+	</Segment>
+	<Segment id ="58" >
+		<Time-slot>00:02:50,433 --> 00:02:54,079</Time-slot>
+		<Original_text lang="en">These programs can promote more and better jobs by,</Original_text>
+		<Translation lang="ar">إن هذه البرامج بإمكانها أن تعزز المزيد من الفرص الوظيفية الأفضل عبر مبدأ</Translation>
+		<Translation lang="fr">Ces programmes peuvent promouvoir un plus grand nombre de meilleurs emplois</Translation>
+	</Segment>
+	<Segment id ="59" >
+		<Time-slot>00:02:54,080 --> 00:02:56,955</Time-slot>
+		<Original_text lang="en">you build it, you invest in high-quality preschool,</Original_text>
+		<Translation lang="ar">إبنه أنت، واستثمر في رياض الأطفال ذات الجودة العالية</Translation>
+		<Translation lang="fr">si vous les mettez en place, vous investissez dans des maternelles de grande qualité,</Translation>
+	</Segment>
+	<Segment id ="60" >
+		<Time-slot>00:02:56,955 --> 00:03:00,773</Time-slot>
+		<Original_text lang="en">it develops the skills of your local workforce</Original_text>
+		<Translation lang="ar">وهي تطور من مهارات عمالتك المحلية</Translation>
+		<Translation lang="fr">cela développe les compétences de votre main d’œuvre locale</Translation>
+	</Segment>
+	<Segment id ="61" >
+		<Time-slot>00:03:00,772 --> 00:03:04,515</Time-slot>
+		<Original_text lang="en">if enough of them stick around, and, in turn,</Original_text>
+		<Translation lang="ar">إن بقي ما يكفي منهم في الجوار، ثم، بدورهم</Translation>
+		<Translation lang="fr">si un nombre suffisant d'entre eux restent sur place.</Translation>
+	</Segment>
+	<Segment id ="62" >
+		<Time-slot>00:03:04,515 --> 00:03:06,668</Time-slot>
+		<Original_text lang="en">that higher-quality local workforce</Original_text>
+		<Translation lang="ar">فإن هذه العمالة المحلية الأكثر جودة</Translation>
+		<Translation lang="fr">Et de plus, cette main d’œuvre locale de grande qualité</Translation>
+	</Segment>
+	<Segment id ="63" >
+		<Time-slot>00:03:06,669 --> 00:03:11,361</Time-slot>
+		<Original_text lang="en">will be a key driver of creating jobs and creating</Original_text>
+		<Translation lang="ar">ستكون الدافع الرئيسي لخلق الفرص الوظيفية وخلق</Translation>
+		<Translation lang="fr">sera un facteur clé de création d'emploi</Translation>
+	</Segment>
+	<Segment id ="64" >
+		<Time-slot>00:03:11,360 --> 00:03:13,868</Time-slot>
+		<Original_text lang="en">higher earnings per capita in the local community.</Original_text>
+		<Translation lang="ar">معدلات أعلى لمدخول الفرد في المجتمع المحلي.</Translation>
+		<Translation lang="fr">et de plus hauts revenus par habitant dans la population locale.</Translation>
+	</Segment>
+	<Segment id ="65" >
+		<Time-slot>00:03:13,868 --> 00:03:16,832</Time-slot>
+		<Original_text lang="en">Now, let me turn to some numbers on this.</Original_text>
+		<Translation lang="ar">والآن، دعوني ألتفت لأمر آخر من هذه الصعيد</Translation>
+		<Translation lang="fr">Maintenant, regardons quelques chiffres.</Translation>
+	</Segment>
+	<Segment id ="66" >
+		<Time-slot>00:03:16,832 --> 00:03:21,415</Time-slot>
+		<Original_text lang="en">Okay. If you look at the research evidence --</Original_text>
+		<Translation lang="ar">حسناً. إن نظرتم الى الأدلة التي تقدمها البحوث --</Translation>
+		<Translation lang="fr">Ok. Si on regarde les résultats des études,</Translation>
+	</Segment>
+	<Segment id ="67" >
+		<Time-slot>00:03:21,415 --> 00:03:26,079</Time-slot>
+		<Original_text lang="en">that's extensive -- on how much early childhood programs</Original_text>
+		<Translation lang="ar">فإنها تزخر بالدلالة على كيف أن برنامج التعليم المبكر</Translation>
+		<Translation lang="fr">qui sont nombreuses, sur l'effet des programmes de la petite enfance</Translation>
+	</Segment>
+	<Segment id ="68" >
+		<Time-slot>00:03:26,079 --> 00:03:30,676</Time-slot>
+		<Original_text lang="en">affect the educational attainment, wages and skills</Original_text>
+		<Translation lang="ar">تؤثر على التحصيل التعليمي، والأجور والمهارات</Translation>
+		<Translation lang="fr">sur la réussite scolaire, les salaires et les compétences</Translation>
+	</Segment>
+	<Segment id ="69" >
+		<Time-slot>00:03:30,675 --> 00:03:34,184</Time-slot>
+		<Original_text lang="en">of former participants in preschool as adults,</Original_text>
+		<Translation lang="ar">للمشاركين السابقين في رياض الأطفال بعد بلوغهم سن الرشد</Translation>
+		<Translation lang="fr">des anciens élèves de maternelle une fois devenus adultes,</Translation>
+	</Segment>
+	<Segment id ="70" >
+		<Time-slot>00:03:34,185 --> 00:03:36,820</Time-slot>
+		<Original_text lang="en">you take those known effects,</Original_text>
+		<Translation lang="ar">إذاً خذ هذه التأثيرات المعروفة</Translation>
+		<Translation lang="fr">si on prend ces effets connus,</Translation>
+	</Segment>
+	<Segment id ="71" >
+		<Time-slot>00:03:36,820 --> 00:03:39,508</Time-slot>
+		<Original_text lang="en">you take how many of those folks will be expected</Original_text>
+		<Translation lang="ar">خذوا ما يُتوقع من هؤلاء الذين</Translation>
+		<Translation lang="fr">si on prend l'estimation du nombre de ces personnes</Translation>
+	</Segment>
+	<Segment id ="72" >
+		<Time-slot>00:03:39,508 --> 00:03:43,209</Time-slot>
+		<Original_text lang="en">to stick around the state or local economy and not move out,</Original_text>
+		<Translation lang="ar">سيبقون معكم في الولاية وفي الاقتصاد المحلي ولن يرحلوا الى الخارج</Translation>
+		<Translation lang="fr">qui vont rester dans l'économie locale sans quitter l'état,</Translation>
+	</Segment>
+	<Segment id ="73" >
+		<Time-slot>00:03:43,210 --> 00:03:47,030</Time-slot>
+		<Original_text lang="en">and you take research on how much skills</Original_text>
+		<Translation lang="ar">ثم خذوا البحوث عن كمية المهارات</Translation>
+		<Translation lang="fr">et si on prend les études sur l'effet des compétences</Translation>
+	</Segment>
+	<Segment id ="74" >
+		<Time-slot>00:03:47,030 --> 00:03:50,200</Time-slot>
+		<Original_text lang="en">drive job creation, you will conclude,</Original_text>
+		<Translation lang="ar">التي ستدفع بعجلة خلق الوظائف، وستكون نتيجتكم</Translation>
+		<Translation lang="fr">sur la création de l'emploi, on conclura</Translation>
+	</Segment>
+	<Segment id ="75" >
+		<Time-slot>00:03:50,200 --> 00:03:52,243</Time-slot>
+		<Original_text lang="en">from these three separate lines of research,</Original_text>
+		<Translation lang="ar">من هذه الخطوط الثلاثة من البحوث المستقلة</Translation>
+		<Translation lang="fr">de ces trois types de recherches bien différents</Translation>
+	</Segment>
+	<Segment id ="76" >
+		<Time-slot>00:03:52,243 --> 00:03:56,323</Time-slot>
+		<Original_text lang="en">that for every dollar invested in early childhood programs,</Original_text>
+		<Translation lang="ar">بأن لكل دولار خصص للاستثمار في برنامج التعليم المبكر،</Translation>
+		<Translation lang="fr">que pour chaque dollar investi dans les programmes de la petite enfance,</Translation>
+	</Segment>
+	<Segment id ="77" >
+		<Time-slot>00:03:56,323 --> 00:03:59,776</Time-slot>
+		<Original_text lang="en">the per capita earnings of state residents</Original_text>
+		<Translation lang="ar">فإن معدل الدخولات الفردية لسكان الولاية</Translation>
+		<Translation lang="fr">le revenu par habitants des résidents de l'état</Translation>
+	</Segment>
+	<Segment id ="78" >
+		<Time-slot>00:03:59,776 --> 00:04:02,542</Time-slot>
+		<Original_text lang="en">go up by two dollars and 78 cents,</Original_text>
+		<Translation lang="ar">سترتفع بدولارين و78 سنتاً</Translation>
+		<Translation lang="fr">augmente de 2,78 dollars,</Translation>
+	</Segment>
+	<Segment id ="79" >
+		<Time-slot>00:04:02,542 --> 00:04:04,408</Time-slot>
+		<Original_text lang="en">so that's a three-to-one return.</Original_text>
+		<Translation lang="ar">إذا فذلك عائد يقدر بـ 3-الى-1.</Translation>
+		<Translation lang="fr">soit un retour de trois pour un.</Translation>
+	</Segment>
+	<Segment id ="80" >
+		<Time-slot>00:04:04,408 --> 00:04:07,441</Time-slot>
+		<Original_text lang="en">Now you can get much higher returns,</Original_text>
+		<Translation lang="ar">وبإمكانكم أن تحصلوا على عوائد أكثر بكثير</Translation>
+		<Translation lang="fr">On peut trouver des retours bien plus importants,</Translation>
+	</Segment>
+	<Segment id ="81" >
+		<Time-slot>00:04:07,442 --> 00:04:11,516</Time-slot>
+		<Original_text lang="en">of up to 16-to-one, if you include anti-crime benefits,</Original_text>
+		<Translation lang="ar">وقد تصل الى 16-الى-1، إن كنتم ستضيفون فوائد مكافحة الجريمة</Translation>
+		<Translation lang="fr">jusqu'à seize pour un, si l'on inclut les bénéfices sur la criminalité,</Translation>
+	</Segment>
+	<Segment id ="82" >
+		<Time-slot>00:04:11,515 --> 00:04:16,230</Time-slot>
+		<Original_text lang="en">if you include benefits to former preschool participants</Original_text>
+		<Translation lang="ar">أو إن أضفتم فوائد المشاركين السابقين في رياض الأطفال</Translation>
+		<Translation lang="fr">et les avantages des anciens élèves de maternelle</Translation>
+	</Segment>
+	<Segment id ="83" >
+		<Time-slot>00:04:16,230 --> 00:04:18,414</Time-slot>
+		<Original_text lang="en">who move to some other state,</Original_text>
+		<Translation lang="ar">والذين انتقلوا لولايات أخرى،</Translation>
+		<Translation lang="fr">qui vont vivre dans d'autres états.</Translation>
+	</Segment>
+	<Segment id ="84" >
+		<Time-slot>00:04:18,413 --> 00:04:21,425</Time-slot>
+		<Original_text lang="en">but there's a good reason for focusing on these three dollars</Original_text>
+		<Translation lang="ar">ولكن، هناك أسباب جيدة للتركيز على هذه الدولارات الثلاثة</Translation>
+		<Translation lang="fr">Mais il y a une bonne raison de se concentrer sur ces trois dollars</Translation>
+	</Segment>
+	<Segment id ="85" >
+		<Time-slot>00:04:21,425 --> 00:04:23,512</Time-slot>
+		<Original_text lang="en">because this is salient and important</Original_text>
+		<Translation lang="ar">لأن ذلك بارز ومهم</Translation>
+		<Translation lang="fr">parce que c'est visible et important</Translation>
+	</Segment>
+	<Segment id ="86" >
+		<Time-slot>00:04:23,512 --> 00:04:25,802</Time-slot>
+		<Original_text lang="en">to state legislators and state policy makers,</Original_text>
+		<Translation lang="ar">بالنسبة لمشرعي الولاية و صانعي السياسة المحلية</Translation>
+		<Translation lang="fr">aux yeux des législateurs et des décideurs politiques au niveau des états.</Translation>
+	</Segment>
+	<Segment id ="87" >
+		<Time-slot>00:04:25,802 --> 00:04:27,946</Time-slot>
+		<Original_text lang="en">and it's the states that are going to have to act.</Original_text>
+		<Translation lang="ar">والواجب يقع على الولايات أن تتصرف إزاء ذلك.</Translation>
+		<Translation lang="fr">Et ce sont les états qui devront agir.</Translation>
+	</Segment>
+	<Segment id ="88" >
+		<Time-slot>00:04:27,946 --> 00:04:31,245</Time-slot>
+		<Original_text lang="en">So there is this key benefit that is relevant</Original_text>
+		<Translation lang="ar">إذاً فهذه هي المنفعة الرئيسية التي تهم</Translation>
+		<Translation lang="fr">Donc voilà l'avantage clé qui est pertinent</Translation>
+	</Segment>
+	<Segment id ="89" >
+		<Time-slot>00:04:31,245 --> 00:04:34,494</Time-slot>
+		<Original_text lang="en">to state policy makers in terms of economic development.</Original_text>
+		<Translation lang="ar">صناع سياسة الولاية على صعيد التنمية الاقتصادية.</Translation>
+		<Translation lang="fr">pour les décideurs politiques en termes de développement économique.</Translation>
+	</Segment>
+	<Segment id ="90" >
+		<Time-slot>00:04:34,494 --> 00:04:37,912</Time-slot>
+		<Original_text lang="en">Now, one objection you often hear,</Original_text>
+		<Translation lang="ar">والآن، من الاعتراضات التي عادة ما تسمعها</Translation>
+		<Translation lang="fr">Une objection que vous entendez souvent,</Translation>
+	</Segment>
+	<Segment id ="91" >
+		<Time-slot>00:04:37,911 --> 00:04:42,808</Time-slot>
+		<Original_text lang="en">or maybe you don't hear it because people are too polite to say it, is,</Original_text>
+		<Translation lang="ar">أو ربما لا تسمعونها لأن بعض الناس أطيب من أن يصرحوا بها، هي</Translation>
+		<Translation lang="fr">ou que vous n'entendez peut-être pas parce que les gens sont trop polis pour le dire,</Translation>
+	</Segment>
+	<Segment id ="92" >
+		<Time-slot>00:04:42,809 --> 00:04:47,272</Time-slot>
+		<Original_text lang="en">why should I pay more taxes</Original_text>
+		<Translation lang="ar">لم ينبغي عليّ أن أدفع المزيد من الضرائب</Translation>
+		<Translation lang="fr">c'est : pourquoi devrais-je payer plus d'impôts</Translation>
+	</Segment>
+	<Segment id ="93" >
+		<Time-slot>00:04:47,271 --> 00:04:51,550</Time-slot>
+		<Original_text lang="en">to invest in other people's children?</Original_text>
+		<Translation lang="ar">للاستثمار في أطفال الآخرين؟</Translation>
+		<Translation lang="fr">pour investir dans les enfants des autres ?</Translation>
+	</Segment>
+	<Segment id ="94" >
+		<Time-slot>00:04:51,550 --> 00:04:54,044</Time-slot>
+		<Original_text lang="en">What's in it for me?</Original_text>
+		<Translation lang="ar">ما هي الفائدة التي أرتجيها ؟</Translation>
+		<Translation lang="fr">Qu'est-ce que ça me rapporte ?</Translation>
+	</Segment>
+	<Segment id ="95" >
+		<Time-slot>00:04:54,043 --> 00:04:56,322</Time-slot>
+		<Original_text lang="en">And the trouble with that objection,</Original_text>
+		<Translation lang="ar">والمشكلة في ذلك الاعتراض</Translation>
+		<Translation lang="fr">Et le problème avec cet argument,</Translation>
+	</Segment>
+	<Segment id ="96" >
+		<Time-slot>00:04:56,322 --> 00:05:00,324</Time-slot>
+		<Original_text lang="en">it reflects a total misunderstanding</Original_text>
+		<Translation lang="ar">أنها تعكس سوء فهم تام</Translation>
+		<Translation lang="fr">c'est que cela reflète une incompréhension totale</Translation>
+	</Segment>
+	<Segment id ="97" >
+		<Time-slot>00:05:00,324 --> 00:05:03,341</Time-slot>
+		<Original_text lang="en">of how much local economies</Original_text>
+		<Translation lang="ar">حيال كيف أن الاقتصادات المحلية</Translation>
+		<Translation lang="fr">de la façon dont les économies locales</Translation>
+	</Segment>
+	<Segment id ="98" >
+		<Time-slot>00:05:03,341 --> 00:05:06,847</Time-slot>
+		<Original_text lang="en">involve everyone being interdependent.</Original_text>
+		<Translation lang="ar">تؤثر على كل من يكون مرتبطاً بها.</Translation>
+		<Translation lang="fr">rendent interdépendants tous leurs habitants.</Translation>
+	</Segment>
+	<Segment id ="99" >
+		<Time-slot>00:05:06,848 --> 00:05:10,764</Time-slot>
+		<Original_text lang="en">Specifically, the interdependency here is, is that</Original_text>
+		<Translation lang="ar">وخصوصاً أن الارتباط هنا، هو بأن</Translation>
+		<Translation lang="fr">Précisément, l'interdépendance ici se situe</Translation>
+	</Segment>
+	<Segment id ="100" >
+		<Time-slot>00:05:10,764 --> 00:05:14,298</Time-slot>
+		<Original_text lang="en">there are huge spillovers of skills --</Original_text>
+		<Translation lang="ar">هناك كمية ضخمة من التداعيات على المهارات --</Translation>
+		<Translation lang="fr">dans les énormes retombées de compétences ;</Translation>
+	</Segment>
+	<Segment id ="101" >
+		<Time-slot>00:05:14,298 --> 00:05:19,617</Time-slot>
+		<Original_text lang="en">that when other people's children get more skills,</Original_text>
+		<Translation lang="ar">ذلك بأن المهارات التي يكتسبها أبناء الناس،</Translation>
+		<Translation lang="fr">lorsque les enfants des autres développent plus de compétences,</Translation>
+	</Segment>
+	<Segment id ="102" >
+		<Time-slot>00:05:19,617 --> 00:05:23,387</Time-slot>
+		<Original_text lang="en">that actually increases the prosperity of everyone,</Original_text>
+		<Translation lang="ar">والتي يمكن أن تزيد من رفاهية الجميع</Translation>
+		<Translation lang="fr">ça augmente réellement la prospérité de tout le monde,</Translation>
+	</Segment>
+	<Segment id ="103" >
+		<Time-slot>00:05:23,387 --> 00:05:26,740</Time-slot>
+		<Original_text lang="en">including people whose skills don't change.</Original_text>
+		<Translation lang="ar">بما في ذلك زيادة الرفاهية تشمل أولئك الذين لم يحصلوا على مهارات جديدة.</Translation>
+		<Translation lang="fr">y compris des gens dont les compétences ne changent pas.</Translation>
+	</Segment>
+	<Segment id ="104" >
+		<Time-slot>00:05:26,740 --> 00:05:29,144</Time-slot>
+		<Original_text lang="en">So for example, numerous research studies have shown</Original_text>
+		<Translation lang="ar">إذاَ فعلى سبيل المثال، هناك العديد من البحوث والدراسات التي تظهر</Translation>
+		<Translation lang="fr">Par exemple, de nombreuses études ont montré</Translation>
+	</Segment>
+	<Segment id ="105" >
+		<Time-slot>00:05:29,144 --> 00:05:31,723</Time-slot>
+		<Original_text lang="en">if you look at what really drives</Original_text>
+		<Translation lang="ar">بأنك لو تفحصت ذلك الشيء الذي يدفع</Translation>
+		<Translation lang="fr">que si l'on regarde ce qui crée réellement</Translation>
+	</Segment>
+	<Segment id ="106" >
+		<Time-slot>00:05:31,723 --> 00:05:34,187</Time-slot>
+		<Original_text lang="en">the growth rate of metropolitan areas,</Original_text>
+		<Translation lang="ar">عجلة معدل التنمية في الحواضر الكبرى</Translation>
+		<Translation lang="fr">le taux de croissance des métropoles,</Translation>
+	</Segment>
+	<Segment id ="107" >
+		<Time-slot>00:05:34,187 --> 00:05:39,858</Time-slot>
+		<Original_text lang="en">it's not so much low taxes, low cost, low wages;</Original_text>
+		<Translation lang="ar">فإنها ليست الضرائب المخفضة، أو تقليل المصاريف، أو تقليل الأجور؛</Translation>
+		<Translation lang="fr">ce ne sont pas tellement les faibles taxes, les faibles coûts et les faibles salaires,</Translation>
+	</Segment>
+	<Segment id ="108" >
+		<Time-slot>00:05:39,858 --> 00:05:43,480</Time-slot>
+		<Original_text lang="en">it's the skills of the area. Particularly, the proxy for skills</Original_text>
+		<Translation lang="ar">بل هي المهارات الموجودة في تلك المنطقة. وخصوصاً توفر المهارات القريبة</Translation>
+		<Translation lang="fr">ce sont les compétences dans la région. Plus particulièrement, l'outil de mesure des compétences</Translation>
+	</Segment>
+	<Segment id ="109" >
+		<Time-slot>00:05:43,480 --> 00:05:47,016</Time-slot>
+		<Original_text lang="en">that people use is percentage of college graduates in the area.</Original_text>
+		<Translation lang="ar">والتي يمكن للناس استعمالها هي نسبة من خريجي الجامعات في المنطقة.</Translation>
+		<Translation lang="fr">que les gens utilisent, c'est le pourcentage de diplômés des universités dans la région.</Translation>
+	</Segment>
+	<Segment id ="110" >
+		<Time-slot>00:05:47,016 --> 00:05:50,095</Time-slot>
+		<Original_text lang="en">So when you look, for example, at metropolitan areas</Original_text>
+		<Translation lang="ar">إذا فعندما تنظرون، مثلاً، الى الحواضر الكبرى</Translation>
+		<Translation lang="fr">Quand on regarde des métropoles comme par exemple</Translation>
+	</Segment>
+	<Segment id ="111" >
+		<Time-slot>00:05:50,095 --> 00:05:53,608</Time-slot>
+		<Original_text lang="en">such as the Boston area, Minneapolis-St. Paul,</Original_text>
+		<Translation lang="ar">مثل منطقة، بوسطون، مينيابوليس، سنت بول،</Translation>
+		<Translation lang="fr">celle de Boston, celle de Minneapolis-St Paul,</Translation>
+	</Segment>
+	<Segment id ="112" >
+		<Time-slot>00:05:53,608 --> 00:05:58,944</Time-slot>
+		<Original_text lang="en">Silicon Valley, these areas are not doing well economically</Original_text>
+		<Translation lang="ar">سيليكون فالي، فإن تلك المناطق لا تبلي جيداً من الناحية الاقتصادية</Translation>
+		<Translation lang="fr">la Silicon Valley, la prospérité économique de ces régions</Translation>
+	</Segment>
+	<Segment id ="113" >
+		<Time-slot>00:05:58,944 --> 00:06:01,253</Time-slot>
+		<Original_text lang="en">because they're low-cost.</Original_text>
+		<Translation lang="ar">بسبب انخفاض تكاليفها.</Translation>
+		<Translation lang="fr">n'est pas due à leurs faibles coûts.</Translation>
+	</Segment>
+	<Segment id ="114" >
+		<Time-slot>00:06:01,252 --> 00:06:03,177</Time-slot>
+		<Original_text lang="en">I don't know if you ever tried to buy a house in Silicon Valley.</Original_text>
+		<Translation lang="ar">ولا أعلم إن سبق لكم أن حاولتم شراء منزل في سيليكون فالي.</Translation>
+		<Translation lang="fr">Je ne sais pas si vous avez jamais essayé d'acheter une maison dans la Silicon Valley.</Translation>
+	</Segment>
+	<Segment id ="115" >
+		<Time-slot>00:06:03,177 --> 00:06:05,995</Time-slot>
+		<Original_text lang="en">It's not exactly a low-cost proposition.</Original_text>
+		<Translation lang="ar">فهي ليست صفقة منخفضة التكاليف بالضبط.</Translation>
+		<Translation lang="fr">Ce n'est pas exactement ce qu'il y a de moins cher.</Translation>
+	</Segment>
+	<Segment id ="116" >
+		<Time-slot>00:06:05,995 --> 00:06:11,939</Time-slot>
+		<Original_text lang="en">They are growing because they have high levels of skills.</Original_text>
+		<Translation lang="ar">إنهم يحققون التنمية لأنهم يملكون مستوىً عالٍ من المهارات.</Translation>
+		<Translation lang="fr">Elles prospèrent grâce à leur haut niveau de compétences.</Translation>
+	</Segment>
+	<Segment id ="117" >
+		<Time-slot>00:06:11,939 --> 00:06:15,094</Time-slot>
+		<Original_text lang="en">So when we invest in other people's children,</Original_text>
+		<Translation lang="ar">إذاً، فعندما نستثمر في أبناء الآخرين</Translation>
+		<Translation lang="fr">Donc, quand on investit dans les enfants des autres,</Translation>
+	</Segment>
+	<Segment id ="118" >
+		<Time-slot>00:06:15,095 --> 00:06:19,280</Time-slot>
+		<Original_text lang="en">and build up those skills, we increase the overall job growth</Original_text>
+		<Translation lang="ar">ونبني مهاراتهم، فإننا نرفع من نمو الفرص الوظيفية بشكل كلي</Translation>
+		<Translation lang="fr">et que l'on crée ces compétences, on augmente la croissance globale des emplois</Translation>
+	</Segment>
+	<Segment id ="119" >
+		<Time-slot>00:06:19,279 --> 00:06:20,800</Time-slot>
+		<Original_text lang="en">of a metro area.</Original_text>
+		<Translation lang="ar">لمنطقة حضرية.</Translation>
+		<Translation lang="fr">dans la métropole.</Translation>
+	</Segment>
+	<Segment id ="120" >
+		<Time-slot>00:06:20,800 --> 00:06:24,688</Time-slot>
+		<Original_text lang="en">As another example, if we look</Original_text>
+		<Translation lang="ar">وكمثال آخر، لو نظرنا</Translation>
+		<Translation lang="fr">Un autre exemple : si nous regardons</Translation>
+	</Segment>
+	<Segment id ="121" >
+		<Time-slot>00:06:24,689 --> 00:06:27,924</Time-slot>
+		<Original_text lang="en">at what determines an individual's wages,</Original_text>
+		<Translation lang="ar">الى ما هو الشيء الذي يحدد أجر شخص ما،</Translation>
+		<Translation lang="fr">ce qui détermine le salaire d'un individu,</Translation>
+	</Segment>
+	<Segment id ="122" >
+		<Time-slot>00:06:27,923 --> 00:06:32,149</Time-slot>
+		<Original_text lang="en">and we do statistical exploration of that, what determines wages,</Original_text>
+		<Translation lang="ar">ونقوم بالاستكشاف الاحصائي لمعرفة، "ما هو الشيء الذي يحدد أجر شخص ما"</Translation>
+		<Translation lang="fr">et que nous en faisons une exploration statistique,</Translation>
+	</Segment>
+	<Segment id ="123" >
+		<Time-slot>00:06:32,149 --> 00:06:36,672</Time-slot>
+		<Original_text lang="en">we know that the individual's wages will depend, in part,</Original_text>
+		<Translation lang="ar">فسنعرف أن أجر ذلك الشخص سيعتمد جزئياً</Translation>
+		<Translation lang="fr">nous savons que le salaire d'un individu dépend,</Translation>
+	</Segment>
+	<Segment id ="124" >
+		<Time-slot>00:06:36,672 --> 00:06:39,103</Time-slot>
+		<Original_text lang="en">on that individual's education,</Original_text>
+		<Translation lang="ar">على مستوى تعليمه</Translation>
+		<Translation lang="fr">en partie, de son niveau d'études.</Translation>
+	</Segment>
+	<Segment id ="125" >
+		<Time-slot>00:06:39,103 --> 00:06:42,096</Time-slot>
+		<Original_text lang="en">for example whether or not they have a college degree.</Original_text>
+		<Translation lang="ar">على سبيل المثال لو كان حائزاً على شهادة جامعية أم لا.</Translation>
+		<Translation lang="fr">Par exemple, s'il a ou non un diplôme universitaire.</Translation>
+	</Segment>
+	<Segment id ="126" >
+		<Time-slot>00:06:42,096 --> 00:06:45,434</Time-slot>
+		<Original_text lang="en">One of the very interesting facts is that, in addition,</Original_text>
+		<Translation lang="ar">وإحدى الحقائق المثيرة للاهتمام أيضاً</Translation>
+		<Translation lang="fr">Une des choses très intéressantes, c'est que, en plus de cela,</Translation>
+	</Segment>
+	<Segment id ="127" >
+		<Time-slot>00:06:45,434 --> 00:06:49,481</Time-slot>
+		<Original_text lang="en">we find that even once we hold constant, statistically,</Original_text>
+		<Translation lang="ar">هي أننا نجد عندما نبقى في حالة ثبات ، إحصائياً</Translation>
+		<Translation lang="fr">même quand on garde statistiquement constants</Translation>
+	</Segment>
+	<Segment id ="128" >
+		<Time-slot>00:06:49,480 --> 00:06:52,384</Time-slot>
+		<Original_text lang="en">the effect of your own education,</Original_text>
+		<Translation lang="ar">فإن الأثر لمستوى تعليمك</Translation>
+		<Translation lang="fr">les effets de votre propre niveau d'études,</Translation>
+	</Segment>
+	<Segment id ="129" >
+		<Time-slot>00:06:52,384 --> 00:06:55,584</Time-slot>
+		<Original_text lang="en">the education of everyone else in your metropolitan area</Original_text>
+		<Translation lang="ar">وتعليم كل الآخرين في منطقتك الحضرية الكبرى</Translation>
+		<Translation lang="fr">le niveau des autres personnes dans la région</Translation>
+	</Segment>
+	<Segment id ="130" >
+		<Time-slot>00:06:55,584 --> 00:06:57,556</Time-slot>
+		<Original_text lang="en">also affects your wages.</Original_text>
+		<Translation lang="ar">سيؤثر على مستوى أجرك.</Translation>
+		<Translation lang="fr">affecte aussi votre salaire.</Translation>
+	</Segment>
+	<Segment id ="131" >
+		<Time-slot>00:06:57,557 --> 00:07:01,761</Time-slot>
+		<Original_text lang="en">So specifically, if you hold constant your education,</Original_text>
+		<Translation lang="ar">وعلى وجه التحديد، إن أبقيت مستوى تعليمك ثابتاً،</Translation>
+		<Translation lang="fr">Précisément, si on garde constant votre niveau d'études,</Translation>
+	</Segment>
+	<Segment id ="132" >
+		<Time-slot>00:07:01,761 --> 00:07:05,864</Time-slot>
+		<Original_text lang="en">you stick in percentage of college graduates in your metro area,</Original_text>
+		<Translation lang="ar">ثم تقحمه في نسبة خريجي الجامعات في منطقتك الحضرية الكبرى،</Translation>
+		<Translation lang="fr">vous ajoutez le pourcentage de diplômés universitaires de votre région,</Translation>
+	</Segment>
+	<Segment id ="133" >
+		<Time-slot>00:07:05,863 --> 00:07:09,823</Time-slot>
+		<Original_text lang="en">you will find that has a significant positive effect on your wages</Original_text>
+		<Translation lang="ar">فإنك ستجد أن ذلك سيكون له أثر كبير على أجرك أنت</Translation>
+		<Translation lang="fr">vous verrez que ça a un effet positif significatif sur votre salaire</Translation>
+	</Segment>
+	<Segment id ="134" >
+		<Time-slot>00:07:09,824 --> 00:07:13,294</Time-slot>
+		<Original_text lang="en">without changing your education at all.</Original_text>
+		<Translation lang="ar">دون تغيير مستوى تعليمك على الاطلاق.</Translation>
+		<Translation lang="fr">sans rien changer de votre niveau d'études.</Translation>
+	</Segment>
+	<Segment id ="135" >
+		<Time-slot>00:07:13,293 --> 00:07:16,444</Time-slot>
+		<Original_text lang="en">In fact, this effect is so strong</Original_text>
+		<Translation lang="ar">وفي الواقع، فإن ذلك التأثير قوي للغاية</Translation>
+		<Translation lang="fr">En fait, cet effet est tellement puissant,</Translation>
+	</Segment>
+	<Segment id ="136" >
+		<Time-slot>00:07:16,444 --> 00:07:20,257</Time-slot>
+		<Original_text lang="en">that when someone gets a college degree,</Original_text>
+		<Translation lang="ar">الى درجة أن الشخص إن حصل على شهادة جامعية،</Translation>
+		<Translation lang="fr">que quand quelqu'un obtient un diplôme universitaire,</Translation>
+	</Segment>
+	<Segment id ="137" >
+		<Time-slot>00:07:20,257 --> 00:07:22,698</Time-slot>
+		<Original_text lang="en">the spillover effects of this on the wages</Original_text>
+		<Translation lang="ar">فإن تداعياتها على أجور</Translation>
+		<Translation lang="fr">les retombées sur les salaires</Translation>
+	</Segment>
+	<Segment id ="138" >
+		<Time-slot>00:07:22,699 --> 00:07:24,591</Time-slot>
+		<Original_text lang="en">of others in the metropolitan area</Original_text>
+		<Translation lang="ar">بقية العاملية في تلك المنطقة</Translation>
+		<Translation lang="fr">des autres personnes de la métropole</Translation>
+	</Segment>
+	<Segment id ="139" >
+		<Time-slot>00:07:24,591 --> 00:07:27,693</Time-slot>
+		<Original_text lang="en">are actually greater than the direct effects.</Original_text>
+		<Translation lang="ar">هي في الواقع أكبر من التأثيرات المباشرة.</Translation>
+		<Translation lang="fr">sont en fait plus grandes que les effets directs.</Translation>
+	</Segment>
+	<Segment id ="140" >
+		<Time-slot>00:07:27,694 --> 00:07:31,146</Time-slot>
+		<Original_text lang="en">So if someone gets a college degree, their lifetime earnings</Original_text>
+		<Translation lang="ar">فلو حصل أحدهم على شهادة جامعية ، فإن حصيلة أجور عمرهم</Translation>
+		<Translation lang="fr">Si quelqu'un obtient un diplôme universitaire, ce qu'il gagnera dans toute sa vie</Translation>
+	</Segment>
+	<Segment id ="141" >
+		<Time-slot>00:07:31,146 --> 00:07:34,461</Time-slot>
+		<Original_text lang="en">go up by a huge amount, over 700,000 dollars.</Original_text>
+		<Translation lang="ar">سوف تزيد بقدر كبير جداً، لتفوق 700 ألف دولار.</Translation>
+		<Translation lang="fr">augmente d'un montant énorme, plus de 700 000 dollars.</Translation>
+	</Segment>
+	<Segment id ="142" >
+		<Time-slot>00:07:34,461 --> 00:07:36,976</Time-slot>
+		<Original_text lang="en">There's an effect on everyone else in the metro area</Original_text>
+		<Translation lang="ar">وهنالك أثر على كل الأشخاص الآخرين في المنطقة ذاتها</Translation>
+		<Translation lang="fr">L’augmentation du pourcentage de diplômés dans la métropole</Translation>
+	</Segment>
+	<Segment id ="143" >
+		<Time-slot>00:07:36,976 --> 00:07:40,839</Time-slot>
+		<Original_text lang="en">of driving up the percentage of college graduates in the metro area,</Original_text>
+		<Translation lang="ar">وذلك عبر دفع نسبة الخريجين في تلك المنطقة الحضرية الكبرى</Translation>
+		<Translation lang="fr">a un effet sur tous les autres salariés,</Translation>
+	</Segment>
+	<Segment id ="144" >
+		<Time-slot>00:07:40,839 --> 00:07:44,255</Time-slot>
+		<Original_text lang="en">and if you add that up -- it's a small effect for each person,</Original_text>
+		<Translation lang="ar">ولو أنك جمعت تلك النسب -- فستكون ذات تأثير قليل لكل شخص،</Translation>
+		<Translation lang="fr">et si vous additionnez cela, c'est un petit effet pour chacune des personnes</Translation>
+	</Segment>
+	<Segment id ="145" >
+		<Time-slot>00:07:44,255 --> 00:07:47,687</Time-slot>
+		<Original_text lang="en">but if you add that up across all the people in the metro area,</Original_text>
+		<Translation lang="ar">ولكن إن جمعت النسب لكل الناس في المنطقة،</Translation>
+		<Translation lang="fr">mais si vous l'additionnez sur toute la population de la métropole,</Translation>
+	</Segment>
+	<Segment id ="146" >
+		<Time-slot>00:07:47,687 --> 00:07:51,313</Time-slot>
+		<Original_text lang="en">you actually get that the increase in wages for everyone else</Original_text>
+		<Translation lang="ar">فإنك في الواقع ستحصل على زيادة في الأجور للكل</Translation>
+		<Translation lang="fr">vous obtenez en fait que l'augmentation de tous salaires</Translation>
+	</Segment>
+	<Segment id ="147" >
+		<Time-slot>00:07:51,314 --> 00:07:54,227</Time-slot>
+		<Original_text lang="en">in the metropolitan area adds up to almost a million dollars.</Original_text>
+		<Translation lang="ar">في تلك المنطقة لترتفع لمليون دولار.</Translation>
+		<Translation lang="fr">dans la métropole totalise presque un million de dollars.</Translation>
+	</Segment>
+	<Segment id ="148" >
+		<Time-slot>00:07:54,226 --> 00:07:56,304</Time-slot>
+		<Original_text lang="en">That's actually greater than the direct benefits</Original_text>
+		<Translation lang="ar">وذلك في الواقع أعظم من الفوائد المباشرة</Translation>
+		<Translation lang="fr">C'est en fait plus important que les avantages directs</Translation>
+	</Segment>
+	<Segment id ="149" >
+		<Time-slot>00:07:56,305 --> 00:07:59,358</Time-slot>
+		<Original_text lang="en">of the person choosing to get education.</Original_text>
+		<Translation lang="ar">للشخص الذي اختار الحصول على التعليم.</Translation>
+		<Translation lang="fr">de la personne qui choisit d'aller à l'université.</Translation>
+	</Segment>
+	<Segment id ="150" >
+		<Time-slot>00:07:59,358 --> 00:08:00,717</Time-slot>
+		<Original_text lang="en">Now, what's going on here?</Original_text>
+		<Translation lang="ar">والآن، ما الذي يحدث هنا؟</Translation>
+		<Translation lang="fr">Mais en fait, comment cela se fait-il ?</Translation>
+	</Segment>
+	<Segment id ="151" >
+		<Time-slot>00:08:00,718 --> 00:08:04,641</Time-slot>
+		<Original_text lang="en">What can explain these huge spillover effects of education?</Original_text>
+		<Translation lang="ar">ما الذي قد يفسر ظاهرة التداعيات الضخمة على التعليم؟</Translation>
+		<Translation lang="fr">Qu'est-ce qui peut expliquer ces énormes retombées du niveau d'études ?</Translation>
+	</Segment>
+	<Segment id ="152" >
+		<Time-slot>00:08:04,641 --> 00:08:06,115</Time-slot>
+		<Original_text lang="en">Well, let's think about it this way.</Original_text>
+		<Translation lang="ar">حسناً، فلنفكر في الموضوع على النحو التالي.</Translation>
+		<Translation lang="fr">Eh bien, regardons ça ainsi :</Translation>
+	</Segment>
+	<Segment id ="153" >
+		<Time-slot>00:08:06,115 --> 00:08:09,437</Time-slot>
+		<Original_text lang="en">I can be the most skilled person in the world,</Original_text>
+		<Translation lang="ar">إن بإمكاني أن أكون أكثر الأشخاص مهارة في العالم،</Translation>
+		<Translation lang="fr">Je peux être la personne la plus compétente du monde,</Translation>
+	</Segment>
+	<Segment id ="154" >
+		<Time-slot>00:08:09,437 --> 00:08:13,238</Time-slot>
+		<Original_text lang="en">but if everyone else at my firm lacks skills,</Original_text>
+		<Translation lang="ar">ولكن إن كان كل الأشخاص الآخرين في مؤسستي يفتقرون الى المهارات،</Translation>
+		<Translation lang="fr">mais si toutes les autres personnes dans mon entreprise manquent de compétence,</Translation>
+	</Segment>
+	<Segment id ="155" >
+		<Time-slot>00:08:13,238 --> 00:08:16,207</Time-slot>
+		<Original_text lang="en">my employer is going to find it more difficult</Original_text>
+		<Translation lang="ar">فإن رب عملي سيجد من الصعوبة له</Translation>
+		<Translation lang="fr">mon employeur va trouver qu'il est plus difficile</Translation>
+	</Segment>
+	<Segment id ="156" >
+		<Time-slot>00:08:16,208 --> 00:08:20,264</Time-slot>
+		<Original_text lang="en">to introduce new technology, new production techniques.</Original_text>
+		<Translation lang="ar">إدخال التقنيات الجديدة، وأساليب الانتاج الحديثة.</Translation>
+		<Translation lang="fr">d'introduire de nouvelles technologies, de nouvelles techniques de production.</Translation>
+	</Segment>
+	<Segment id ="157" >
+		<Time-slot>00:08:20,264 --> 00:08:23,865</Time-slot>
+		<Original_text lang="en">So as a result, my employer is going to be less productive.</Original_text>
+		<Translation lang="ar">ونتيجة لذلك، فإن رب العمل سيكون أقل انتاجية.</Translation>
+		<Translation lang="fr">Résultat, mon employeur sera moins productif.</Translation>
+	</Segment>
+	<Segment id ="158" >
+		<Time-slot>00:08:23,865 --> 00:08:27,466</Time-slot>
+		<Original_text lang="en">They will not be able to afford to pay me as good wages.</Original_text>
+		<Translation lang="ar">ولن يكون بمقدورهم أن يدفعوا الأجور المجزية.</Translation>
+		<Translation lang="fr">Il ne sera pas capable de me payer un aussi bon salaire.</Translation>
+	</Segment>
+	<Segment id ="159" >
+		<Time-slot>00:08:27,466 --> 00:08:31,147</Time-slot>
+		<Original_text lang="en">Even if everyone at my firm has good skills,</Original_text>
+		<Translation lang="ar">وحتى لوكان الجميع في المؤسسة ذوي مهارات جيدة،</Translation>
+		<Translation lang="fr">Même si tout le monde dans mon entreprise a de bons niveaux de compétence,</Translation>
+	</Segment>
+	<Segment id ="160" >
+		<Time-slot>00:08:31,148 --> 00:08:34,656</Time-slot>
+		<Original_text lang="en">if the workers at the suppliers to my firm</Original_text>
+		<Translation lang="ar">فإن كان العاملون من ناحية المورد الذي يدعم مؤسستي</Translation>
+		<Translation lang="fr">si les travailleurs chez les fournisseurs de mon entreprise</Translation>
+	</Segment>
+	<Segment id ="161" >
+		<Time-slot>00:08:34,655 --> 00:08:36,625</Time-slot>
+		<Original_text lang="en">do not have good skills,</Original_text>
+		<Translation lang="ar">لا يملكون المهارات الجيدة،</Translation>
+		<Translation lang="fr">n'ont pas de bons niveaux de compétence,</Translation>
+	</Segment>
+	<Segment id ="162" >
+		<Time-slot>00:08:36,625 --> 00:08:39,023</Time-slot>
+		<Original_text lang="en">my firm is going to be less competitive</Original_text>
+		<Translation lang="ar">فإن مؤسستي ستكون أقل قدرة على المنافسة</Translation>
+		<Translation lang="fr">mon entreprise va être moins compétitive</Translation>
+	</Segment>
+	<Segment id ="163" >
+		<Time-slot>00:08:39,023 --> 00:08:41,408</Time-slot>
+		<Original_text lang="en">competing in national and international markets.</Original_text>
+		<Translation lang="ar">ولن تتمكن من منافسة البقية على المستوى الوطني والدولي.</Translation>
+		<Translation lang="fr">sur le marché national et mondial.</Translation>
+	</Segment>
+	<Segment id ="164" >
+		<Time-slot>00:08:41,408 --> 00:08:44,502</Time-slot>
+		<Original_text lang="en">And again, the firm that's less competitive</Original_text>
+		<Translation lang="ar">ومرة أخرى، إن المؤسسة التي لا تتمكن من المنافسة</Translation>
+		<Translation lang="fr">Et encore une fois, l'entreprise qui est moins compétitive</Translation>
+	</Segment>
+	<Segment id ="165" >
+		<Time-slot>00:08:44,501 --> 00:08:47,190</Time-slot>
+		<Original_text lang="en">will not be able to pay as good wages,</Original_text>
+		<Translation lang="ar">فلن تكون قادرة على تقديم الأجور المجزية،</Translation>
+		<Translation lang="fr">ne sera pas capable de payer d'aussi bons salaires.</Translation>
+	</Segment>
+	<Segment id ="166" >
+		<Time-slot>00:08:47,191 --> 00:08:51,324</Time-slot>
+		<Original_text lang="en">and then, particularly in high-tech businesses,</Original_text>
+		<Translation lang="ar">ثم، وبالخصوص على صعيد شركات التقنية المتقدمة،</Translation>
+		<Translation lang="fr">Et alors, en particulier dans le secteur high-tech,</Translation>
+	</Segment>
+	<Segment id ="167" >
+		<Time-slot>00:08:51,323 --> 00:08:54,584</Time-slot>
+		<Original_text lang="en">they're constantly stealing ideas and workers from other businesses.</Original_text>
+		<Translation lang="ar">فإنهم دائمي السرقة للأفكار والعاملين من الشركات الأخرى.</Translation>
+		<Translation lang="fr">les entreprises sont constamment en train de se piquer l'une l'autre les idées et les employés.</Translation>
+	</Segment>
+	<Segment id ="168" >
+		<Time-slot>00:08:54,585 --> 00:08:57,805</Time-slot>
+		<Original_text lang="en">So clearly the productivity of firms in Silicon Valley</Original_text>
+		<Translation lang="ar">فالواضح، أن إنتاجية مؤسسات سيليكون فالي</Translation>
+		<Translation lang="fr">Clairement, la productivité des entreprises dans la Silicon Valley</Translation>
+	</Segment>
+	<Segment id ="169" >
+		<Time-slot>00:08:57,804 --> 00:09:01,599</Time-slot>
+		<Original_text lang="en">has a lot to do with the skills not only of the workers at their firm,</Original_text>
+		<Translation lang="ar">تملك الكثير من ناحية التعامل مع المهارات ليس على العاملين في مؤسساتهم وحسب،</Translation>
+		<Translation lang="fr">repose beaucoup sur les compétences, non seulement des employés de ces entreprises,</Translation>
+	</Segment>
+	<Segment id ="170" >
+		<Time-slot>00:09:01,600 --> 00:09:06,019</Time-slot>
+		<Original_text lang="en">but the workers at all the other firms in the metro area.</Original_text>
+		<Translation lang="ar">بل على سائر العاملين في كل المؤسسات في المنطقة الحضرية.</Translation>
+		<Translation lang="fr">mais aussi des employés de toutes les autres entreprises de la métropole.</Translation>
+	</Segment>
+	<Segment id ="171" >
+		<Time-slot>00:09:06,019 --> 00:09:09,552</Time-slot>
+		<Original_text lang="en">So as a result, if we can invest in other people's children</Original_text>
+		<Translation lang="ar">خلاصة الأمر، أننا إن تمكنا من الاستثمار في أبناء الآخرين</Translation>
+		<Translation lang="fr">Résultat, si nous pouvons investir dans les enfants des autres,</Translation>
+	</Segment>
+	<Segment id ="172" >
+		<Time-slot>00:09:09,552 --> 00:09:11,955</Time-slot>
+		<Original_text lang="en">through preschool and other early childhood programs</Original_text>
+		<Translation lang="ar">عبر إنشاء رياض الأطفال وبرامج التعليم المبكر</Translation>
+		<Translation lang="fr">dans des maternelles et autres programmes de la petite enfance</Translation>
+	</Segment>
+	<Segment id ="173" >
+		<Time-slot>00:09:11,955 --> 00:09:15,610</Time-slot>
+		<Original_text lang="en">that are high-quality, we not only help those children,</Original_text>
+		<Translation lang="ar">التي تتميز بجودتها العالية، فإننا لا نساعد هؤلاء الأطفال وحسب</Translation>
+		<Translation lang="fr">qui seraient de haute qualité, nous n'aidons pas seulement nos enfants,</Translation>
+	</Segment>
+	<Segment id ="174" >
+		<Time-slot>00:09:15,610 --> 00:09:19,231</Time-slot>
+		<Original_text lang="en">we help everyone in the metropolitan area</Original_text>
+		<Translation lang="ar">بل نساعد كل الأشخاص في تلك المنطقة الحضرية</Translation>
+		<Translation lang="fr">nous aidons tout le monde dans la métropole</Translation>
+	</Segment>
+	<Segment id ="175" >
+		<Time-slot>00:09:19,231 --> 00:09:22,903</Time-slot>
+		<Original_text lang="en">gain in wages and we'll have the metropolitan area</Original_text>
+		<Translation lang="ar">لأنهم سيتحسنون في أجورهم وسنكون قد حسنّا على متسوى المنطقة الحضرية</Translation>
+		<Translation lang="fr">à gagner un meilleur salaire, et nous allons avoir</Translation>
+	</Segment>
+	<Segment id ="176" >
+		<Time-slot>00:09:22,903 --> 00:09:24,925</Time-slot>
+		<Original_text lang="en">gain in job growth.</Original_text>
+		<Translation lang="ar">عدد الفرص الوظيفية.</Translation>
+		<Translation lang="fr">une croissance des emplois dans la métropole.</Translation>
+	</Segment>
+	<Segment id ="177" >
+		<Time-slot>00:09:24,924 --> 00:09:27,455</Time-slot>
+		<Original_text lang="en">Another objection used sometimes here</Original_text>
+		<Translation lang="ar">ومن بين الاعتراضات الأخرى المطروحة هنا أحياناً</Translation>
+		<Translation lang="fr">Une autre objection parfois employée ici</Translation>
+	</Segment>
+	<Segment id ="178" >
+		<Time-slot>00:09:27,456 --> 00:09:29,683</Time-slot>
+		<Original_text lang="en">to invest in early childhood programs</Original_text>
+		<Translation lang="ar">للاستثمار في برامج التعليم المبكر</Translation>
+		<Translation lang="fr">contre l'investissement dans les programmes de la petite enfance,</Translation>
+	</Segment>
+	<Segment id ="179" >
+		<Time-slot>00:09:29,683 --> 00:09:33,404</Time-slot>
+		<Original_text lang="en">is concern about people moving out.</Original_text>
+		<Translation lang="ar">هو القلق حيال انتقال الناس.</Translation>
+		<Translation lang="fr">c'est le problème des gens qui déménagent.</Translation>
+	</Segment>
+	<Segment id ="180" >
+		<Time-slot>00:09:33,404 --> 00:09:37,639</Time-slot>
+		<Original_text lang="en">So, you know, maybe Ohio's thinking about investing</Original_text>
+		<Translation lang="ar">إذا، فكما تعلمون، ربما ولاية أوهايو تفكر في الاستثمار في</Translation>
+		<Translation lang="fr">Vous voyez, peut-être que l'Ohio envisage</Translation>
+	</Segment>
+	<Segment id ="181" >
+		<Time-slot>00:09:37,639 --> 00:09:39,884</Time-slot>
+		<Original_text lang="en">in more preschool education</Original_text>
+		<Translation lang="ar">في تعليم رياض الأطفال</Translation>
+		<Translation lang="fr">d'investir dans plus d'écoles maternelles</Translation>
+	</Segment>
+	<Segment id ="182" >
+		<Time-slot>00:09:39,884 --> 00:09:43,693</Time-slot>
+		<Original_text lang="en">for children in Columbus, Ohio,</Original_text>
+		<Translation lang="ar">لأطفال منطقة كولومبوس، أوهايو</Translation>
+		<Translation lang="fr">pour les enfants de Columbus, Ohio,</Translation>
+	</Segment>
+	<Segment id ="183" >
+		<Time-slot>00:09:43,693 --> 00:09:45,952</Time-slot>
+		<Original_text lang="en">but they're worried that these little Buckeyes will,</Original_text>
+		<Translation lang="ar">لكنهم قلقين إزاء بريعمات الكستناء الصغيرة</Translation>
+		<Translation lang="fr">mais ils redoutent que ces petits bambins décident,</Translation>
+	</Segment>
+	<Segment id ="184" >
+		<Time-slot>00:09:45,952 --> 00:09:48,870</Time-slot>
+		<Original_text lang="en">for some strange reason, decide to move to Ann Arbor, Michigan,</Original_text>
+		<Translation lang="ar">ولسبب غامض وغريب، أن هذه البريعمات ستقرر يوما ما الانتقال لمدينة (آن آربور) في ولاية ميشيغان</Translation>
+		<Translation lang="fr">pour d'étranges raisons,</Translation>
+	</Segment>
+	<Segment id ="185" >
+		<Time-slot>00:09:48,870 --> 00:09:50,387</Time-slot>
+		<Original_text lang="en">and become Wolverines.</Original_text>
+		<Translation lang="ar">ليصبحوا سباع الولفورين فيها. (لقب لسكان ميشيغان)</Translation>
+		<Translation lang="fr">d'aller vivre à Ann Arbor, Michigan.</Translation>
+	</Segment>
+	<Segment id ="186" >
+		<Time-slot>00:09:50,386 --> 00:09:53,680</Time-slot>
+		<Original_text lang="en">And maybe Michigan will be thinking about investing</Original_text>
+		<Translation lang="ar">وربما سوف يكون التفكير في ميشيغان حول الاستثمار</Translation>
+		<Translation lang="fr">Et peut-être que le Michigan envisage d'investir</Translation>
+	</Segment>
+	<Segment id ="187" >
+		<Time-slot>00:09:53,681 --> 00:09:56,122</Time-slot>
+		<Original_text lang="en">in preschool in Ann Arbor, Michigan, and be worried</Original_text>
+		<Translation lang="ar">في رياض (أن أربر، ميشيغان) وهم قلقون من أن</Translation>
+		<Translation lang="fr">dans les maternelles à Ann Arbor, mais redoute</Translation>
+	</Segment>
+	<Segment id ="188" >
+		<Time-slot>00:09:56,121 --> 00:09:59,356</Time-slot>
+		<Original_text lang="en">these little Wolverines will end up moving to Ohio and becoming Buckeyes.</Original_text>
+		<Translation lang="ar">هذه الولفيرين الصغيرة في نهاية المطاف ستنتقل إلى ولاية أوهايو وسصبحون منها</Translation>
+		<Translation lang="fr">que leurs petits finissent par aller vivre en Ohio.</Translation>
+	</Segment>
+	<Segment id ="189" >
+		<Time-slot>00:09:59,356 --> 00:10:03,348</Time-slot>
+		<Original_text lang="en">And so they'll both underinvest because everyone's going to move out.</Original_text>
+		<Translation lang="ar">و بالتالي سيستثمرون بصورة أقل لأن الجميع سيرحلون في النهاية.</Translation>
+		<Translation lang="fr">Et donc chacun va sous-investir car tout le monde va aller vivre ailleurs.</Translation>
+	</Segment>
+	<Segment id ="190" >
+		<Time-slot>00:10:03,349 --> 00:10:06,290</Time-slot>
+		<Original_text lang="en">Well, the reality is, if you look at the data,</Original_text>
+		<Translation lang="ar">حسنا، الواقع يقول، إن نظرتم إلى البيانات</Translation>
+		<Translation lang="fr">Eh bien, la réalité, c'est que, si vous regardez les chiffres,</Translation>
+	</Segment>
+	<Segment id ="191" >
+		<Time-slot>00:10:06,289 --> 00:10:10,502</Time-slot>
+		<Original_text lang="en">Americans aren't as hyper-mobile as people sometimes assume.</Original_text>
+		<Translation lang="ar">أن الأميركيين ليست دائمي التنقل كما يعتقد البعض.</Translation>
+		<Translation lang="fr">les Américains ne sont pas aussi mobiles que les gens le croient parfois.</Translation>
+	</Segment>
+	<Segment id ="192" >
+		<Time-slot>00:10:10,503 --> 00:10:15,623</Time-slot>
+		<Original_text lang="en">The data is that over 60 percent of Americans</Original_text>
+		<Translation lang="ar">البيانات توضح أن أكثر من 60% من الأميركيين</Translation>
+		<Translation lang="fr">Les chiffres montrent que plus de 60% des Américains</Translation>
+	</Segment>
+	<Segment id ="193" >
+		<Time-slot>00:10:15,623 --> 00:10:18,061</Time-slot>
+		<Original_text lang="en">spend most of their working careers</Original_text>
+		<Translation lang="ar">يقضون معظم حياتهم المهنية العاملة</Translation>
+		<Translation lang="fr">passent la plupart de leur carrière</Translation>
+	</Segment>
+	<Segment id ="194" >
+		<Time-slot>00:10:18,061 --> 00:10:21,831</Time-slot>
+		<Original_text lang="en">in the state they were born in, over 60 percent.</Original_text>
+		<Translation lang="ar">في الولاية التي ولدوا فيها، أكثر من 60 في المائة !</Translation>
+		<Translation lang="fr">dans l'état où ils sont nés. Plus de 60%.</Translation>
+	</Segment>
+	<Segment id ="195" >
+		<Time-slot>00:10:21,831 --> 00:10:25,926</Time-slot>
+		<Original_text lang="en">That percentage does not vary much from state to state.</Original_text>
+		<Translation lang="ar">أن النسبة المئوية لا تختلف كثيرا من ولاية إلى أخرى.</Translation>
+		<Translation lang="fr">Ce pourcentage ne varie pas beaucoup d'un état à l'autre.</Translation>
+	</Segment>
+	<Segment id ="196" >
+		<Time-slot>00:10:25,926 --> 00:10:29,030</Time-slot>
+		<Original_text lang="en">It doesn't vary much with the state's economy,</Original_text>
+		<Translation lang="ar">أنها لا تختلف كثيرا عن الاقتصاد في الدولة</Translation>
+		<Translation lang="fr">Il ne varie pas beaucoup avec l'économie de l'état,</Translation>
+	</Segment>
+	<Segment id ="197" >
+		<Time-slot>00:10:29,029 --> 00:10:30,827</Time-slot>
+		<Original_text lang="en">whether it's depressed or booming,</Original_text>
+		<Translation lang="ar">سواء كان ضامراً أو مزدهراً</Translation>
+		<Translation lang="fr">qu'il soit en baisse ou en plein essor,</Translation>
+	</Segment>
+	<Segment id ="198" >
+		<Time-slot>00:10:30,827 --> 00:10:33,149</Time-slot>
+		<Original_text lang="en">it doesn't vary much over time.</Original_text>
+		<Translation lang="ar">و لا تختلف كثيراً مع مرور الوقت.</Translation>
+		<Translation lang="fr">il ne varie pas beaucoup à travers le temps.</Translation>
+	</Segment>
+	<Segment id ="199" >
+		<Time-slot>00:10:33,149 --> 00:10:38,961</Time-slot>
+		<Original_text lang="en">So the reality is, if you invest in kids,</Original_text>
+		<Translation lang="ar">إذا في الواقع إن كنت ستستثمر في الأطفال</Translation>
+		<Translation lang="fr">Donc la réalité, c'est que si vous investissez dans les enfants,</Translation>
+	</Segment>
+	<Segment id ="200" >
+		<Time-slot>00:10:38,961 --> 00:10:41,461</Time-slot>
+		<Original_text lang="en">they will stay.</Original_text>
+		<Translation lang="ar">فإنهم سوف يبقون.</Translation>
+		<Translation lang="fr">ils vont rester.</Translation>
+	</Segment>
+	<Segment id ="201" >
+		<Time-slot>00:10:41,461 --> 00:10:44,499</Time-slot>
+		<Original_text lang="en">Or at least, enough of them will stay</Original_text>
+		<Translation lang="ar">أو على الأقل، ما يكفي من منهم سيبقى</Translation>
+		<Translation lang="fr">Ou au moins, assez d'entre eux vont rester</Translation>
+	</Segment>
+	<Segment id ="202" >
+		<Time-slot>00:10:44,499 --> 00:10:47,920</Time-slot>
+		<Original_text lang="en">that it will pay off for your state economy.</Original_text>
+		<Translation lang="ar">الأمر الذي سيؤتي ثماره على إقتصاد ولايتك.</Translation>
+		<Translation lang="fr">pour que ça soit payant pour l'économie de l'état.</Translation>
+	</Segment>
+	<Segment id ="203" >
+		<Time-slot>00:10:47,919 --> 00:10:51,843</Time-slot>
+		<Original_text lang="en">Okay, so to sum up, there is a lot of research evidence</Original_text>
+		<Translation lang="ar">حسناً ، إذا خلاصة القول، هناك الكثير من الأدلة البحثية</Translation>
+		<Translation lang="fr">Ok. Donc pour résumer, il y a beaucoup de résultats d'études</Translation>
+	</Segment>
+	<Segment id ="204" >
+		<Time-slot>00:10:51,844 --> 00:10:54,998</Time-slot>
+		<Original_text lang="en">that early childhood programs, if run in a high-quality way,</Original_text>
+		<Translation lang="ar">أن برامج الطفولة المبكرة، في حالة تأديتها بصورة عالية الجودة</Translation>
+		<Translation lang="fr">qui montrent que les programmes de la petite enfance, s'ils sont de qualité,</Translation>
+	</Segment>
+	<Segment id ="205" >
+		<Time-slot>00:10:54,998 --> 00:10:57,854</Time-slot>
+		<Original_text lang="en">pay off in higher adult skills.</Original_text>
+		<Translation lang="ar">تؤتي ثمارها من ناحية زيادة المهارة عند الكبار.</Translation>
+		<Translation lang="fr">portent leurs fruits en créant de hauts niveaux de compétence une fois adulte.</Translation>
+	</Segment>
+	<Segment id ="206" >
+		<Time-slot>00:10:57,854 --> 00:10:59,421</Time-slot>
+		<Original_text lang="en">There's a lot of research evidence</Original_text>
+		<Translation lang="ar">وهناك الكثير من الأدلة البحثية</Translation>
+		<Translation lang="fr">Il y a de nombreux résultats d'études</Translation>
+	</Segment>
+	<Segment id ="207" >
+		<Time-slot>00:10:59,421 --> 00:11:03,045</Time-slot>
+		<Original_text lang="en">that those folks will stick around the state economy,</Original_text>
+		<Translation lang="ar">أن هؤلاء الناس سيقفون خلف اقتصاد الدولة</Translation>
+		<Translation lang="fr">qui prouvent que les gens restent dans leur état,</Translation>
+	</Segment>
+	<Segment id ="208" >
+		<Time-slot>00:11:03,044 --> 00:11:06,361</Time-slot>
+		<Original_text lang="en">and there's a lot of evidence that having more workers</Original_text>
+		<Translation lang="ar">وهناك الكثير من الأدلة أن وجود عدد أكبر من العمال</Translation>
+		<Translation lang="fr">et il est prouvé qu'avoir plus de travailleurs</Translation>
+	</Segment>
+	<Segment id ="209" >
+		<Time-slot>00:11:06,361 --> 00:11:08,451</Time-slot>
+		<Original_text lang="en">with higher skills in your local economy</Original_text>
+		<Translation lang="ar">مع مهارات أعلى، في الاقتصاد المحلي الخاص بك</Translation>
+		<Translation lang="fr">avec un haut niveau de compétence dans votre économie locale</Translation>
+	</Segment>
+	<Segment id ="210" >
+		<Time-slot>00:11:08,451 --> 00:11:12,130</Time-slot>
+		<Original_text lang="en">pays off in higher wages and job growth for your local economy,</Original_text>
+		<Translation lang="ar">يؤتي ثماره في زيادة الأجور ونمو فرص العمل للاقتصاد المحلي الخاص بك</Translation>
+		<Translation lang="fr">génère de plus hauts salaires et une croissance de l'emploi,</Translation>
+	</Segment>
+	<Segment id ="211" >
+		<Time-slot>00:11:12,130 --> 00:11:15,573</Time-slot>
+		<Original_text lang="en">and if you calculate the numbers for each dollar,</Original_text>
+		<Translation lang="ar">وإذا قمت بحساب الأرقام لكل دولار</Translation>
+		<Translation lang="fr">et si vous faites les calculs, pour chaque dollar,</Translation>
+	</Segment>
+	<Segment id ="212" >
+		<Time-slot>00:11:15,573 --> 00:11:18,302</Time-slot>
+		<Original_text lang="en">we get about three dollars back</Original_text>
+		<Translation lang="ar">ستستعيد حوالي ثلاثة دولارات</Translation>
+		<Translation lang="fr">on obtient environ 3 dollars en retour</Translation>
+	</Segment>
+	<Segment id ="213" >
+		<Time-slot>00:11:18,302 --> 00:11:20,477</Time-slot>
+		<Original_text lang="en">in benefits for the state economy.</Original_text>
+		<Translation lang="ar">و بالتالي ستكون الفائدة لإقتصاد الدولة.</Translation>
+		<Translation lang="fr">en bénéfices pour l'économie de l'état.</Translation>
+	</Segment>
+	<Segment id ="214" >
+		<Time-slot>00:11:20,477 --> 00:11:24,089</Time-slot>
+		<Original_text lang="en">So in my opinion, the research evidence is compelling</Original_text>
+		<Translation lang="ar">لذا في رأيي، الأدلة البحثية مقنعة</Translation>
+		<Translation lang="fr">A, mon avis, les résultats des études sont très convaincants</Translation>
+	</Segment>
+	<Segment id ="215" >
+		<Time-slot>00:11:24,090 --> 00:11:26,913</Time-slot>
+		<Original_text lang="en">and the logic of this is compelling.</Original_text>
+		<Translation lang="ar">و منطق هذا الأمر مقنع أيضاً</Translation>
+		<Translation lang="fr">et la logique de tout cela est très convaincante.</Translation>
+	</Segment>
+	<Segment id ="216" >
+		<Time-slot>00:11:26,913 --> 00:11:30,604</Time-slot>
+		<Original_text lang="en">So what are the barriers to getting it done?</Original_text>
+		<Translation lang="ar">إذاً ما هي العوائق التي ستعترض القيام به؟</Translation>
+		<Translation lang="fr">Quels sont donc les obstacles qui se dressent contre la mise en oeuvre ?</Translation>
+	</Segment>
+	<Segment id ="217" >
+		<Time-slot>00:11:30,604 --> 00:11:33,868</Time-slot>
+		<Original_text lang="en">Well, one obvious barrier is cost.</Original_text>
+		<Translation lang="ar">حسناً ، أبرز المعوقات سيكون التكلفة.</Translation>
+		<Translation lang="fr">Eh bien, un obstacle évident, c'est le coût.</Translation>
+	</Segment>
+	<Segment id ="218" >
+		<Time-slot>00:11:33,868 --> 00:11:38,198</Time-slot>
+		<Original_text lang="en">So if you look at what it would cost</Original_text>
+		<Translation lang="ar">لذا إذا نظرتم إلي تكلفته</Translation>
+		<Translation lang="fr">Si vous regardez combien cela coûterait</Translation>
+	</Segment>
+	<Segment id ="219" >
+		<Time-slot>00:11:38,197 --> 00:11:41,024</Time-slot>
+		<Original_text lang="en">if every state government invested</Original_text>
+		<Translation lang="ar">إن قامت كل ولاية حكومية بالإستثمار</Translation>
+		<Translation lang="fr">si chacun des gouvernements d'état investissait</Translation>
+	</Segment>
+	<Segment id ="220" >
+		<Time-slot>00:11:41,024 --> 00:11:45,230</Time-slot>
+		<Original_text lang="en">in universal preschool at age four, full-day preschool at age four,</Original_text>
+		<Translation lang="ar">في التعليم قبل المدرسي الشامل لسن الرابعة</Translation>
+		<Translation lang="fr">dans une maternelle pour tous, ouverte toute la journée pour les enfants de 4 ans,</Translation>
+	</Segment>
+	<Segment id ="221" >
+		<Time-slot>00:11:45,230 --> 00:11:48,644</Time-slot>
+		<Original_text lang="en">the total annual national cost would be roughly</Original_text>
+		<Translation lang="ar">مجموع التكلفة السنوية الوطنية سيكون تقريباً</Translation>
+		<Translation lang="fr">le coût total annuel serait d'environ</Translation>
+	</Segment>
+	<Segment id ="222" >
+		<Time-slot>00:11:48,644 --> 00:11:50,949</Time-slot>
+		<Original_text lang="en">30 billion dollars.</Original_text>
+		<Translation lang="ar">30 مليار دولار.</Translation>
+		<Translation lang="fr">30 milliards de dollars.</Translation>
+	</Segment>
+	<Segment id ="223" >
+		<Time-slot>00:11:50,950 --> 00:11:53,375</Time-slot>
+		<Original_text lang="en">So, 30 billion dollars is a lot of money.</Original_text>
+		<Translation lang="ar">و بالتالي 30 مليون دولار هو مبلغ كبير من المال.</Translation>
+		<Translation lang="fr">30 milliards de dollars, c'est beaucoup d'argent.</Translation>
+	</Segment>
+	<Segment id ="224" >
+		<Time-slot>00:11:53,375 --> 00:11:57,120</Time-slot>
+		<Original_text lang="en">On the other hand, if you reflect on</Original_text>
+		<Translation lang="ar">من ناحية أخرى، إن عكست ذلك على حقيقة</Translation>
+		<Translation lang="fr">D'un autre côté, si vous pensez que</Translation>
+	</Segment>
+	<Segment id ="225" >
+		<Time-slot>00:11:57,120 --> 00:12:00,980</Time-slot>
+		<Original_text lang="en">that the U.S.'s population is over 300 million,</Original_text>
+		<Translation lang="ar">أن السكان في الولايات المتحدة يزيدون عن 300 مليون</Translation>
+		<Translation lang="fr">la population des Etats-Unis est d'environ 300 millions,</Translation>
+	</Segment>
+	<Segment id ="226" >
+		<Time-slot>00:12:00,980 --> 00:12:03,663</Time-slot>
+		<Original_text lang="en">we're talking about an amount of money</Original_text>
+		<Translation lang="ar">ستجد أننا نتحدث عن مبلغ من المال</Translation>
+		<Translation lang="fr">on parle d'une somme d'argent</Translation>
+	</Segment>
+	<Segment id ="227" >
+		<Time-slot>00:12:03,663 --> 00:12:06,283</Time-slot>
+		<Original_text lang="en">that amounts to 100 dollars per capita.</Original_text>
+		<Translation lang="ar">يصل إلى 100 دولار للفرد الواحد.</Translation>
+		<Translation lang="fr">qui s'élève à 100 dollars par habitant.</Translation>
+	</Segment>
+	<Segment id ="228" >
+		<Time-slot>00:12:06,283 --> 00:12:09,260</Time-slot>
+		<Original_text lang="en">Okay? A hundred dollars per capita, per person,</Original_text>
+		<Translation lang="ar">حسناً ؟ مئة دولار للفرد الواحد</Translation>
+		<Translation lang="fr">D'accord ? Une centaine de dollars par personne,</Translation>
+	</Segment>
+	<Segment id ="229" >
+		<Time-slot>00:12:09,260 --> 00:12:13,265</Time-slot>
+		<Original_text lang="en">is something that any state government can afford to do.</Original_text>
+		<Translation lang="ar">هو شيء يمكن لكل ولاية حكومية القيام به.</Translation>
+		<Translation lang="fr">c'est quelque chose que chaque gouvernement peut se permettre de dépenser.</Translation>
+	</Segment>
+	<Segment id ="230" >
+		<Time-slot>00:12:13,265 --> 00:12:18,014</Time-slot>
+		<Original_text lang="en">It's just a simple matter of political will to do it.</Original_text>
+		<Translation lang="ar">الأمر مجرد مسألة بسيطة من الإرادة السياسية للقيام به.</Translation>
+		<Translation lang="fr">C'est juste une question de volonté politique.</Translation>
+	</Segment>
+	<Segment id ="231" >
+		<Time-slot>00:12:18,014 --> 00:12:19,894</Time-slot>
+		<Original_text lang="en">And, of course, as I mentioned,</Original_text>
+		<Translation lang="ar">وبطبيعة الحال، كما ذكرت،</Translation>
+		<Translation lang="fr">Et bien sûr, comme je l'ai dit,</Translation>
+	</Segment>
+	<Segment id ="232" >
+		<Time-slot>00:12:19,894 --> 00:12:22,048</Time-slot>
+		<Original_text lang="en">this cost has corresponding benefits.</Original_text>
+		<Translation lang="ar">التكلفة لها فوائد مقابلة.</Translation>
+		<Translation lang="fr">à ce coût correspondent des bénéfices.</Translation>
+	</Segment>
+	<Segment id ="233" >
+		<Time-slot>00:12:22,048 --> 00:12:24,225</Time-slot>
+		<Original_text lang="en">I mentioned there's a multiplier of about three,</Original_text>
+		<Translation lang="ar">لقد ذكرت هنا المضاعفة ستكون حوالي ثلاثة</Translation>
+		<Translation lang="fr">J'ai parlé d'un multiplicateur par trois,</Translation>
+	</Segment>
+	<Segment id ="234" >
+		<Time-slot>00:12:24,225 --> 00:12:26,325</Time-slot>
+		<Original_text lang="en">2.78, for the state economy,</Original_text>
+		<Translation lang="ar">تحديداً (2.78) ضعفاً لإقتصاد الدولة</Translation>
+		<Translation lang="fr">2,78, pour l'économie de l'état,</Translation>
+	</Segment>
+	<Segment id ="235" >
+		<Time-slot>00:12:26,325 --> 00:12:29,354</Time-slot>
+		<Original_text lang="en">in terms of over 80 billion in extra earnings.</Original_text>
+		<Translation lang="ar">بالتالي ما يزيد عن 80 مليار إيرادات إضافية.</Translation>
+		<Translation lang="fr">c'est à dire plus de 80 milliards de revenu supplémentaire.</Translation>
+	</Segment>
+	<Segment id ="236" >
+		<Time-slot>00:12:29,354 --> 00:12:32,378</Time-slot>
+		<Original_text lang="en">And if we want to translate that from just billions of dollars</Original_text>
+		<Translation lang="ar">وإذا كنا نريد ترجمة ذلك من مجرد بلايين الدولارات</Translation>
+		<Translation lang="fr">Et si nous voulons traduire ces milliards de dollars</Translation>
+	</Segment>
+	<Segment id ="237" >
+		<Time-slot>00:12:32,378 --> 00:12:34,271</Time-slot>
+		<Original_text lang="en">to something that might mean something,</Original_text>
+		<Translation lang="ar">إلى أمر قد يعني شيئاً</Translation>
+		<Translation lang="fr">en quelque chose de plus significatif,</Translation>
+	</Segment>
+	<Segment id ="238" >
+		<Time-slot>00:12:34,270 --> 00:12:37,858</Time-slot>
+		<Original_text lang="en">what we're talking about is that, for the average low-income kid,</Original_text>
+		<Translation lang="ar">ما نتحدث عنه أنه، لطفل متوسط الدخل المنخفض</Translation>
+		<Translation lang="fr">ce dont nous parlons, c'est, pour le gamin moyen d'une famille à faible revenu,</Translation>
+	</Segment>
+	<Segment id ="239" >
+		<Time-slot>00:12:37,859 --> 00:12:40,975</Time-slot>
+		<Original_text lang="en">that would increase earnings by about 10 percent</Original_text>
+		<Translation lang="ar">ستزيد إيراداته بحوالي 10 في المائة</Translation>
+		<Translation lang="fr">une augmentation de ses revenus d'environ 10%</Translation>
+	</Segment>
+	<Segment id ="240" >
+		<Time-slot>00:12:40,975 --> 00:12:44,174</Time-slot>
+		<Original_text lang="en">over their whole career, just doing the preschool,</Original_text>
+		<Translation lang="ar">على مدى حياته كلها، بمجرد القيام بمرحلة ما قبل المدرسة</Translation>
+		<Translation lang="fr">sur toute sa carrière, juste en ajoutant la maternelle,</Translation>
+	</Segment>
+	<Segment id ="241" >
+		<Time-slot>00:12:44,174 --> 00:12:46,689</Time-slot>
+		<Original_text lang="en">not improving K-12 or anything else after that,</Original_text>
+		<Translation lang="ar">بدون تحسين المراحل الإعدادية و الثانوية و ما يلي بعدها</Translation>
+		<Translation lang="fr">sans améliorer le reste du système scolaire ou n'importe quoi d'autre après ça,</Translation>
+	</Segment>
+	<Segment id ="242" >
+		<Time-slot>00:12:46,690 --> 00:12:49,238</Time-slot>
+		<Original_text lang="en">not doing anything with college tuition or access,</Original_text>
+		<Translation lang="ar">عدم القيام بأي شيء يخص الرسوم الدراسية للدخول أو التعليم الجامعي</Translation>
+		<Translation lang="fr">sans changer les frais de scolarité ou l'accès aux universités.</Translation>
+	</Segment>
+	<Segment id ="243" >
+		<Time-slot>00:12:49,238 --> 00:12:51,934</Time-slot>
+		<Original_text lang="en">just directly improving preschool,</Original_text>
+		<Translation lang="ar">فقط مباشرة تحسين التعليم ما قبل المدرسي</Translation>
+		<Translation lang="fr">Simplement en améliorant les maternelles,</Translation>
+	</Segment>
+	<Segment id ="244" >
+		<Time-slot>00:12:51,933 --> 00:12:54,232</Time-slot>
+		<Original_text lang="en">and we would get five percent higher earnings</Original_text>
+		<Translation lang="ar">وسوف نحصل على أرباح أعلى من خمسة بالمئة</Translation>
+		<Translation lang="fr">vous obtiendrez 5% de revenu en plus</Translation>
+	</Segment>
+	<Segment id ="245" >
+		<Time-slot>00:12:54,232 --> 00:12:55,628</Time-slot>
+		<Original_text lang="en">for middle-class kids.</Original_text>
+		<Translation lang="ar">لأطفال الطبقة المتوسطة.</Translation>
+		<Translation lang="fr">pour les enfants de la classe moyenne.</Translation>
+	</Segment>
+	<Segment id ="246" >
+		<Time-slot>00:12:55,629 --> 00:12:57,694</Time-slot>
+		<Original_text lang="en">So this is an investment</Original_text>
+		<Translation lang="ar">لذلك هذا استثمار</Translation>
+		<Translation lang="fr">C'est donc un investissement</Translation>
+	</Segment>
+	<Segment id ="247" >
+		<Time-slot>00:12:57,693 --> 00:13:00,601</Time-slot>
+		<Original_text lang="en">that pays off in very concrete terms</Original_text>
+		<Translation lang="ar">يؤتي ثماره بشكل ملموس جداً</Translation>
+		<Translation lang="fr">qui génère des retours très concrets</Translation>
+	</Segment>
+	<Segment id ="248" >
+		<Time-slot>00:13:00,601 --> 00:13:05,021</Time-slot>
+		<Original_text lang="en">for a broad range of income groups in the state's population</Original_text>
+		<Translation lang="ar">لمجموعة واسعة من فئات الدخل في السكان للدولة</Translation>
+		<Translation lang="fr">pour un large éventail de revenus dans la population de l'état</Translation>
+	</Segment>
+	<Segment id ="249" >
+		<Time-slot>00:13:05,022 --> 00:13:09,532</Time-slot>
+		<Original_text lang="en">and produces large and tangible benefits.</Original_text>
+		<Translation lang="ar">و ينتج فوائد كبيرة وملموسة.</Translation>
+		<Translation lang="fr">et produit de larges bénéfices tangibles.</Translation>
+	</Segment>
+	<Segment id ="250" >
+		<Time-slot>00:13:09,532 --> 00:13:12,086</Time-slot>
+		<Original_text lang="en">Now, that's one barrier.</Original_text>
+		<Translation lang="ar">الآن، هذه إحدى المعوّقات.</Translation>
+		<Translation lang="fr">C'est un premier obstacle.</Translation>
+	</Segment>
+	<Segment id ="251" >
+		<Time-slot>00:13:12,086 --> 00:13:15,508</Time-slot>
+		<Original_text lang="en">I actually think the more profound barrier</Original_text>
+		<Translation lang="ar">وأعتقد فعلاً أن المعوّق الأكثر تأثيراً</Translation>
+		<Translation lang="fr">Je pense, en fait, que l'obstacle le plus important</Translation>
+	</Segment>
+	<Segment id ="252" >
+		<Time-slot>00:13:15,508 --> 00:13:19,937</Time-slot>
+		<Original_text lang="en">is the long-term nature of the benefits from early childhood programs.</Original_text>
+		<Translation lang="ar">هو الطبيعة طويلة الأجل للإستفادة من برامج الطفولة المبكرة.</Translation>
+		<Translation lang="fr">est le côté long terme des bénéfices des programmes de la petite enfance.</Translation>
+	</Segment>
+	<Segment id ="253" >
+		<Time-slot>00:13:19,937 --> 00:13:22,783</Time-slot>
+		<Original_text lang="en">So the argument I'm making is, is that we're increasing</Original_text>
+		<Translation lang="ar">إذا الحجة التي أتيت بها ، هي أننا نزيد</Translation>
+		<Translation lang="fr">L'argument que je donne, c'est que nous augmentons</Translation>
+	</Segment>
+	<Segment id ="254" >
+		<Time-slot>00:13:22,783 --> 00:13:24,538</Time-slot>
+		<Original_text lang="en">the quality of our local workforce,</Original_text>
+		<Translation lang="ar">جودة قوتنا العاملة المحلية</Translation>
+		<Translation lang="fr">la qualité de notre main d'oeuvre locale</Translation>
+	</Segment>
+	<Segment id ="255" >
+		<Time-slot>00:13:24,538 --> 00:13:27,205</Time-slot>
+		<Original_text lang="en">and thereby increasing economic development.</Original_text>
+		<Translation lang="ar">ومما يزيد من التنمية الاقتصادية.</Translation>
+		<Translation lang="fr">et donc augmentons le développement économique.</Translation>
+	</Segment>
+	<Segment id ="256" >
+		<Time-slot>00:13:27,205 --> 00:13:30,585</Time-slot>
+		<Original_text lang="en">Obviously if we have a preschool with four-year-olds,</Original_text>
+		<Translation lang="ar">من الواضح أنه إن كان لدينا مرحلة ما قبل المدرسة مدتها 4 أعوام</Translation>
+		<Translation lang="fr">Bien sûr, si nous avons des maternelles pour les enfants de 4 ans,</Translation>
+	</Segment>
+	<Segment id ="257" >
+		<Time-slot>00:13:30,585 --> 00:13:32,953</Time-slot>
+		<Original_text lang="en">we're not sending these kids out at age five</Original_text>
+		<Translation lang="ar">فإننا لا نرسل هؤلاء الأطفال في سن الخامسة</Translation>
+		<Translation lang="fr">nous n'allons pas les envoyer à 5 ans</Translation>
+	</Segment>
+	<Segment id ="258" >
+		<Time-slot>00:13:32,952 --> 00:13:36,467</Time-slot>
+		<Original_text lang="en">to work in the sweatshops, right? At least I hope not.</Original_text>
+		<Translation lang="ar">للعمل في المصانع المستغلة للعمال، أليس كذلك؟ على الأقل أتمنى ذلك.</Translation>
+		<Translation lang="fr">dans des ateliers pour les exploiter. Enfin j'espère.</Translation>
+	</Segment>
+	<Segment id ="259" >
+		<Time-slot>00:13:36,467 --> 00:13:39,879</Time-slot>
+		<Original_text lang="en">So we're talking about an investment</Original_text>
+		<Translation lang="ar">لذلك نحن نتحدث عن استثمار</Translation>
+		<Translation lang="fr">Nous parlons donc d'un investissement</Translation>
+	</Segment>
+	<Segment id ="260" >
+		<Time-slot>00:13:39,879 --> 00:13:42,350</Time-slot>
+		<Original_text lang="en">that in terms of impacts on the state economy</Original_text>
+		<Translation lang="ar">من حيث تأثيره على اقتصاد الدولة</Translation>
+		<Translation lang="fr">dont les effets sur l'économie de l'état</Translation>
+	</Segment>
+	<Segment id ="261" >
+		<Time-slot>00:13:42,350 --> 00:13:46,311</Time-slot>
+		<Original_text lang="en">is not going to really pay off for 15 or 20 years,</Original_text>
+		<Translation lang="ar">لن تظهر نتائجه حقاً إلا بعد 15 أو 20 عاماً</Translation>
+		<Translation lang="fr">ne seront pas vraiment visibles avant 15 ou 20 ans.</Translation>
+	</Segment>
+	<Segment id ="262" >
+		<Time-slot>00:13:46,311 --> 00:13:49,168</Time-slot>
+		<Original_text lang="en">and of course America is notorious for being</Original_text>
+		<Translation lang="ar">وطبعا أمريكا سيئة السمعة لكونها</Translation>
+		<Translation lang="fr">Et bien sûr, les Etats-Unis sont bien connus</Translation>
+	</Segment>
+	<Segment id ="263" >
+		<Time-slot>00:13:49,168 --> 00:13:52,175</Time-slot>
+		<Original_text lang="en">a short term-oriented society.</Original_text>
+		<Translation lang="ar">مجتمع توجهه على المدى قصير.</Translation>
+		<Translation lang="fr">pour être une société court-termiste.</Translation>
+	</Segment>
+	<Segment id ="264" >
+		<Time-slot>00:13:52,176 --> 00:13:53,836</Time-slot>
+		<Original_text lang="en">Now one response you can make to this,</Original_text>
+		<Translation lang="ar">الآن إحدى الإستجابات التي يمكنك القيام بها لذلك</Translation>
+		<Translation lang="fr">Mais une réponse que l'on peut faire à cela,</Translation>
+	</Segment>
+	<Segment id ="265" >
+		<Time-slot>00:13:53,836 --> 00:13:55,360</Time-slot>
+		<Original_text lang="en">and I sometimes have done this in talks,</Original_text>
+		<Translation lang="ar">و أحياناً قمت بذلك في المحاضرات</Translation>
+		<Translation lang="fr">et je l'ai donnée moi-même lors de conférences,</Translation>
+	</Segment>
+	<Segment id ="266" >
+		<Time-slot>00:13:55,360 --> 00:13:58,437</Time-slot>
+		<Original_text lang="en">is people can talk about, there are benefits for these programs</Original_text>
+		<Translation lang="ar">هي أن الناس يمكنهم الحديث عن فوائد هذه البرامج</Translation>
+		<Translation lang="fr">c'est que les gens parlent des avantages de ces programmes</Translation>
+	</Segment>
+	<Segment id ="267" >
+		<Time-slot>00:13:58,437 --> 00:14:02,085</Time-slot>
+		<Original_text lang="en">in reducing special ed and remedial education costs,</Original_text>
+		<Translation lang="ar">في الحد من تكاليف التعليم الخاص وتكاليف التعليم العلاجي،</Translation>
+		<Translation lang="fr">pour la réduction des aides spécialisées et des cours de soutien éducatif,</Translation>
+	</Segment>
+	<Segment id ="268" >
+		<Time-slot>00:14:02,085 --> 00:14:04,391</Time-slot>
+		<Original_text lang="en">there are benefits, parents care about preschool,</Original_text>
+		<Translation lang="ar">وهناك فوائد، إهتمام الوالدين بمرحلة ما قبل المدرسة،</Translation>
+		<Translation lang="fr">les maternelles sont intéressantes pour les parents,</Translation>
+	</Segment>
+	<Segment id ="269" >
+		<Time-slot>00:14:04,390 --> 00:14:06,640</Time-slot>
+		<Original_text lang="en">maybe we'll get some migration effects</Original_text>
+		<Translation lang="ar">ربما سوف سنحصل على بعض التأثيرات على الهجرة</Translation>
+		<Translation lang="fr">peut-être aurons-nous des effets de migration</Translation>
+	</Segment>
+	<Segment id ="270" >
+		<Time-slot>00:14:06,640 --> 00:14:08,958</Time-slot>
+		<Original_text lang="en">from parents seeking good preschool,</Original_text>
+		<Translation lang="ar">من الآباء والأمهات الذين يسعون إلى تعليم ما قبل مدرسي جيد.</Translation>
+		<Translation lang="fr">par des parents qui recherchent de bonnes maternelles.</Translation>
+	</Segment>
+	<Segment id ="271" >
+		<Time-slot>00:14:08,958 --> 00:14:10,605</Time-slot>
+		<Original_text lang="en">and I think those are true,</Original_text>
+		<Translation lang="ar">وأعتقد أن تلك حقيقة</Translation>
+		<Translation lang="fr">Et je pense que tout cela est exact,</Translation>
+	</Segment>
+	<Segment id ="272" >
+		<Time-slot>00:14:10,605 --> 00:14:12,768</Time-slot>
+		<Original_text lang="en">but in some sense they're missing the point.</Original_text>
+		<Translation lang="ar">ولكن في بعض الأحيان لا يدركون جوهر الأمر.</Translation>
+		<Translation lang="fr">Mais, dans un certain sens, on passe à côté de l'essentiel.</Translation>
+	</Segment>
+	<Segment id ="273" >
+		<Time-slot>00:14:12,768 --> 00:14:15,339</Time-slot>
+		<Original_text lang="en">Ultimately, this is something</Original_text>
+		<Translation lang="ar">و في نهاية المطاف</Translation>
+		<Translation lang="fr">En fin de compte, c'est une chose</Translation>
+	</Segment>
+	<Segment id ="274" >
+		<Time-slot>00:14:15,339 --> 00:14:19,264</Time-slot>
+		<Original_text lang="en">we're investing in now for the future.</Original_text>
+		<Translation lang="ar">نحن نستثمر في الحاضر من أجل المستقبل.</Translation>
+		<Translation lang="fr">dans laquelle nous investissons maintenant, pour l'avenir.</Translation>
+	</Segment>
+	<Segment id ="275" >
+		<Time-slot>00:14:19,264 --> 00:14:23,212</Time-slot>
+		<Original_text lang="en">And so what I want to leave you with is</Original_text>
+		<Translation lang="ar">وما أريد أن أدعه لكم هو</Translation>
+		<Translation lang="fr">Et ce que je veux vous laisser comme message,</Translation>
+	</Segment>
+	<Segment id ="276" >
+		<Time-slot>00:14:23,212 --> 00:14:25,519</Time-slot>
+		<Original_text lang="en">what I think is the ultimate question.</Original_text>
+		<Translation lang="ar">ما أعتقد أنه السؤال الأهم.</Translation>
+		<Translation lang="fr">c'est la question ultime selon moi.</Translation>
+	</Segment>
+	<Segment id ="277" >
+		<Time-slot>00:14:25,519 --> 00:14:28,352</Time-slot>
+		<Original_text lang="en">I mean, I'm an economist, but this is ultimately</Original_text>
+		<Translation lang="ar">أعني، أنا خبير اقتصادي، ولكن في نهاية المطاف</Translation>
+		<Translation lang="fr">Je veux dire, je suis économiste, mais ceci</Translation>
+	</Segment>
+	<Segment id ="278" >
+		<Time-slot>00:14:28,352 --> 00:14:33,897</Time-slot>
+		<Original_text lang="en">not an economic question, it's a moral question:</Original_text>
+		<Translation lang="ar">هذه ليست مسألة اقتصادية أو مسألة أخلاقية ..</Translation>
+		<Translation lang="fr">n'est finalement pas une question économique, c'est une question morale.</Translation>
+	</Segment>
+	<Segment id ="279" >
+		<Time-slot>00:14:33,898 --> 00:14:38,105</Time-slot>
+		<Original_text lang="en">Are we willing, as Americans,</Original_text>
+		<Translation lang="ar">هل نحن على إستعداد، كأميريكيين</Translation>
+		<Translation lang="fr">Sommes-nous, en tant qu'Américains,</Translation>
+	</Segment>
+	<Segment id ="280" >
+		<Time-slot>00:14:38,105 --> 00:14:41,555</Time-slot>
+		<Original_text lang="en">are we as a society still capable</Original_text>
+		<Translation lang="ar">هل نحن كمجتمع ما زلنا قادرين</Translation>
+		<Translation lang="fr">sommes-nous une société encore capable</Translation>
+	</Segment>
+	<Segment id ="281" >
+		<Time-slot>00:14:41,554 --> 00:14:46,338</Time-slot>
+		<Original_text lang="en">of making the political choice to sacrifice now</Original_text>
+		<Translation lang="ar">على القيام بالخيار السياسي، أن نضحي الآن</Translation>
+		<Translation lang="fr">de faire des choix politiques qui demandent des sacrifices maintenant,</Translation>
+	</Segment>
+	<Segment id ="282" >
+		<Time-slot>00:14:46,339 --> 00:14:48,988</Time-slot>
+		<Original_text lang="en">by paying more taxes</Original_text>
+		<Translation lang="ar">بدفع المزيد من الضرائب</Translation>
+		<Translation lang="fr">en payant plus d'impôts,</Translation>
+	</Segment>
+	<Segment id ="283" >
+		<Time-slot>00:14:48,988 --> 00:14:54,193</Time-slot>
+		<Original_text lang="en">in order to improve the long-term future</Original_text>
+		<Translation lang="ar">من أجل تحسين مستقبل على المدى الطويل</Translation>
+		<Translation lang="fr">afin d'améliorer le futur à long terme,</Translation>
+	</Segment>
+	<Segment id ="284" >
+		<Time-slot>00:14:54,192 --> 00:14:57,610</Time-slot>
+		<Original_text lang="en">of not only our kids, but our community?</Original_text>
+		<Translation lang="ar">ليس فقط لأطفالنا، بل لمجتمعنا ؟</Translation>
+		<Translation lang="fr">non seulement de nos enfants, mais de notre communauté ?</Translation>
+	</Segment>
+	<Segment id ="285" >
+		<Time-slot>00:14:57,610 --> 00:15:02,057</Time-slot>
+		<Original_text lang="en">Are we still capable of that as a country?</Original_text>
+		<Translation lang="ar">هل ما زلنا قادرين على ذلك ، كدولة ؟</Translation>
+		<Translation lang="fr">En sommes-nous encore capables en tant que nation ?</Translation>
+	</Segment>
+	<Segment id ="286" >
+		<Time-slot>00:15:02,057 --> 00:15:04,498</Time-slot>
+		<Original_text lang="en">And that's something that each and every citizen</Original_text>
+		<Translation lang="ar">وهذا شيء يجب على كل مواطن</Translation>
+		<Translation lang="fr">Et c'est une question que chaque citoyen</Translation>
+	</Segment>
+	<Segment id ="287" >
+		<Time-slot>00:15:04,498 --> 00:15:07,041</Time-slot>
+		<Original_text lang="en">and voter needs to ask themselves.</Original_text>
+		<Translation lang="ar">و ناخب أن يسأله لنفسه.</Translation>
+		<Translation lang="fr">et chaque électeur doit se poser.</Translation>
+	</Segment>
+	<Segment id ="288" >
+		<Time-slot>00:15:07,041 --> 00:15:09,986</Time-slot>
+		<Original_text lang="en">Is that something that you are still invested in,</Original_text>
+		<Translation lang="ar">هل هذا شئ ما زلت تستثمر فيه ؟</Translation>
+		<Translation lang="fr">Est-ce une chose dans laquelle vous vous sentez encore impliqué ?</Translation>
+	</Segment>
+	<Segment id ="289" >
+		<Time-slot>00:15:09,985 --> 00:15:12,720</Time-slot>
+		<Original_text lang="en">that you still believe in the notion of investment?</Original_text>
+		<Translation lang="ar">هل ما زلت تؤمن بمفهوم الاستثمار؟</Translation>
+		<Translation lang="fr">Croyez-vous encore à la notion d'investissement ?</Translation>
+	</Segment>
+	<Segment id ="290" >
+		<Time-slot>00:15:12,720 --> 00:15:14,119</Time-slot>
+		<Original_text lang="en">That is the notion of investment.</Original_text>
+		<Translation lang="ar">هذا هو مفهوم الإستثمار.</Translation>
+		<Translation lang="fr">C'est cela, la notion d'investissement.</Translation>
+	</Segment>
+	<Segment id ="291" >
+		<Time-slot>00:15:14,119 --> 00:15:16,692</Time-slot>
+		<Original_text lang="en">You sacrifice now for a return later.</Original_text>
+		<Translation lang="ar">أن ثضحي الآن لتحصد لاحقاً.</Translation>
+		<Translation lang="fr">Vous sacrifiez maintenant pour un gain plus tard.</Translation>
+	</Segment>
+	<Segment id ="292" >
+		<Time-slot>00:15:16,692 --> 00:15:20,331</Time-slot>
+		<Original_text lang="en">So I think the research evidence</Original_text>
+		<Translation lang="ar">لذا أعتقد أن الأدلة البحثية</Translation>
+		<Translation lang="fr">Donc je pense que les résultats des études</Translation>
+	</Segment>
+	<Segment id ="293" >
+		<Time-slot>00:15:20,331 --> 00:15:22,969</Time-slot>
+		<Original_text lang="en">on the benefits of early childhood programs</Original_text>
+		<Translation lang="ar">عن فوائد برامج الطفولة المبكرة</Translation>
+		<Translation lang="fr">sur les bénéfices des programmes de la petite enfance</Translation>
+	</Segment>
+	<Segment id ="294" >
+		<Time-slot>00:15:22,969 --> 00:15:26,576</Time-slot>
+		<Original_text lang="en">for the local economy is extremely strong.</Original_text>
+		<Translation lang="ar">للاقتصاد المحلي ، قوية للغاية.</Translation>
+		<Translation lang="fr">pour l'économie locale sont extrêmement probants.</Translation>
+	</Segment>
+	<Segment id ="295" >
+		<Time-slot>00:15:26,576 --> 00:15:30,858</Time-slot>
+		<Original_text lang="en">However, the moral and political choice</Original_text>
+		<Translation lang="ar">ومع ذلك، فإن الخيار الأخلاقي والسياسي</Translation>
+		<Translation lang="fr">Cependant, les choix politiques et moraux</Translation>
+	</Segment>
+	<Segment id ="296" >
+		<Time-slot>00:15:30,857 --> 00:15:35,961</Time-slot>
+		<Original_text lang="en">is still up to us, as citizens and as voters.</Original_text>
+		<Translation lang="ar">لا يزال متروكاً لنا، كمواطنين و ناخبين.</Translation>
+		<Translation lang="fr">dépendent toujours de nous tous, citoyens et électeurs.</Translation>
+	</Segment>
+	<Segment id ="297" >
+		<Time-slot>00:15:35,961 --> 00:15:39,985</Time-slot>
+		<Original_text lang="en">Thank you very much. (Applause)</Original_text>
+		<Translation lang="ar">شكرا جزيلاً. (تصفيق)</Translation>
+		<Translation lang="fr">Merci beaucoup. (Applaudissements)</Translation>
+	</Segment>
+</Talk>
+</MulTed>

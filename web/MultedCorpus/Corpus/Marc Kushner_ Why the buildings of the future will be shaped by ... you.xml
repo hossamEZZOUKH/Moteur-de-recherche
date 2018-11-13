@@ -1,0 +1,2100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MulTed>
+
+<Talk Speaker = "Marc Kushner" Title= " Why the buildings of the future will be shaped by ... you" >
+	<Segment id ="1" >
+		<Time-slot>00:00:13,827 --> 00:00:15,448</Time-slot>
+		<Original_text lang="en">Today I'm going to speak to you</Original_text>
+		<Translation lang="ar">سأحدثكم اليوم</Translation>
+		<Translation lang="fr">Je vais vous parler aujourd'hui</Translation>
+	</Segment>
+	<Segment id ="2" >
+		<Time-slot>00:00:15,471 --> 00:00:18,501</Time-slot>
+		<Translation lang="en">about the last 30 years of architectural history.</Translation>
+		<Translation lang="ar">عن 30 عاما من تاريخ الهندسة.</Translation>
+		<Translation lang="fr">des 30 dernières années de l'histoire architecturale.</Translation>
+	</Segment>
+	<Segment id ="3" >
+		<Time-slot>00:00:19,684 --> 00:00:22,143</Time-slot>
+		<Original_text lang="en">That's a lot to pack into 18 minutes.</Original_text>
+		<Translation lang="ar">هذا أمر كبير جدا لألخصه في 18 دقيقة.</Translation>
+		<Translation lang="fr">Ça fait beaucoup à faire tenir en 18 minutes.</Translation>
+	</Segment>
+	<Segment id ="4" >
+		<Time-slot>00:00:22,167 --> 00:00:23,854</Time-slot>
+		<Original_text lang="en">It's a complex topic,</Original_text>
+		<Translation lang="ar">إنه موضوع معقد،</Translation>
+		<Translation lang="fr">C'est un sujet complexe,</Translation>
+	</Segment>
+	<Segment id ="5" >
+		<Time-slot>00:00:23,878 --> 00:00:28,251</Time-slot>
+		<Translation lang="en">so we're just going to dive right in at a complex place:</Translation>
+		<Translation lang="ar">لذلك فإننا سنتوجه مباشرة إلى مكان معقد:</Translation>
+		<Translation lang="fr">nous allons donc aller directement dans un endroit complexe :</Translation>
+	</Segment>
+	<Segment id ="6" >
+		<Time-slot>00:00:28,275 --> 00:00:29,481</Time-slot>
+		<Original_text lang="en">New Jersey.</Original_text>
+		<Translation lang="ar">إلى نيو جيرسي،</Translation>
+		<Translation lang="fr">le New Jersey.</Translation>
+	</Segment>
+	<Segment id ="7" >
+		<Time-slot>00:00:29,506 --> 00:00:32,695</Time-slot>
+		<Original_text lang="en">Because 30 years ago, I'm from Jersey,</Original_text>
+		<Translation lang="ar">لأنه منذ 30 سنة، أنا من نيوجيرسي،</Translation>
+		<Translation lang="fr">J'en suis, et il y a 30 ans,</Translation>
+	</Segment>
+	<Segment id ="8" >
+		<Time-slot>00:00:32,719 --> 00:00:36,561</Time-slot>
+		<Translation lang="en">and I was six, and I lived there in my parents' house</Translation>
+		<Translation lang="ar">كنت في السادسة من عمري، وكنت أعيش هناك مع والدي</Translation>
+		<Translation lang="fr">j'avais 6 ans, je vivais dans la maison de mes parents,</Translation>
+	</Segment>
+	<Segment id ="9" >
+		<Time-slot>00:00:36,585 --> 00:00:38,210</Time-slot>
+		<Original_text lang="en">in a town called Livingston,</Original_text>
+		<Translation lang="ar">في مدينة تدعى ليفينغستون،</Translation>
+		<Translation lang="fr">dans une ville appelée Livingston.</Translation>
+	</Segment>
+	<Segment id ="10" >
+		<Time-slot>00:00:38,234 --> 00:00:41,164</Time-slot>
+		<Original_text lang="en">and this was my childhood bedroom.</Original_text>
+		<Translation lang="ar">وكانت هذه غرفة نومي.</Translation>
+		<Translation lang="fr">Voici ma chambre à l'époque.</Translation>
+	</Segment>
+	<Segment id ="11" >
+		<Time-slot>00:00:41,689 --> 00:00:44,124</Time-slot>
+		<Original_text lang="en">Around the corner from my bedroom</Original_text>
+		<Translation lang="ar">عند زاوية غرفتي</Translation>
+		<Translation lang="fr">Juste à côté de ma chambre</Translation>
+	</Segment>
+	<Segment id ="12" >
+		<Time-slot>00:00:44,148 --> 00:00:47,010</Time-slot>
+		<Translation lang="en">was the bathroom that I used to share with my sister.</Translation>
+		<Translation lang="ar">كان هناك حمام أتقاسمه مع أختي.</Translation>
+		<Translation lang="fr">se trouvait la salle de bains que je partageais avec ma sœur.</Translation>
+	</Segment>
+	<Segment id ="13" >
+		<Time-slot>00:00:47,225 --> 00:00:50,137</Time-slot>
+		<Original_text lang="en">And in between my bedroom and the bathroom</Original_text>
+		<Translation lang="ar">وبين غرفتي والحمام</Translation>
+		<Translation lang="fr">Entre ma chambre et la salle de bains</Translation>
+	</Segment>
+	<Segment id ="14" >
+		<Time-slot>00:00:50,161 --> 00:00:52,963</Time-slot>
+		<Translation lang="en">was a balcony that overlooked the family room.</Translation>
+		<Translation lang="ar">كانت هناك شرفة تطل على غرفة المعيشة.</Translation>
+		<Translation lang="fr">se trouvait un balcon qui surplombait le salon.</Translation>
+	</Segment>
+	<Segment id ="15" >
+		<Time-slot>00:00:53,412 --> 00:00:57,094</Time-slot>
+		<Translation lang="en">And that's where everyone would hang out and watch TV,</Translation>
+		<Translation lang="ar">وهناك حيث كان يجتمع الجميع لمشاهدة التلفاز،</Translation>
+		<Translation lang="fr">C'était là où on traînait, où on regardait la télé,</Translation>
+	</Segment>
+	<Segment id ="16" >
+		<Time-slot>00:00:57,118 --> 00:01:01,281</Time-slot>
+		<Translation lang="en">so that every time that I walked from my bedroom to the bathroom,</Translation>
+		<Translation lang="ar">لذلك فإنه في كل مرة أذهب من غرفتي إلى الحمام،</Translation>
+		<Translation lang="fr">donc, à chaque fois que j'allais de ma chambre à la salle de bains,</Translation>
+	</Segment>
+	<Segment id ="17" >
+		<Time-slot>00:01:01,305 --> 00:01:02,641</Time-slot>
+		<Original_text lang="en">everyone would see me,</Original_text>
+		<Translation lang="ar">كان الجميع يراني،</Translation>
+		<Translation lang="fr">tout le monde me regardait.</Translation>
+	</Segment>
+	<Segment id ="18" >
+		<Time-slot>00:01:02,665 --> 00:01:06,420</Time-slot>
+		<Translation lang="en">and every time I took a shower and would come back in a towel,</Translation>
+		<Translation lang="ar">وفي كل مرة أستحم وأخرج ملتحفا فوطتي،</Translation>
+		<Translation lang="fr">A chaque fois que je prenais une douche et revenais avec ma serviette,</Translation>
+	</Segment>
+	<Segment id ="19" >
+		<Time-slot>00:01:06,444 --> 00:01:07,820</Time-slot>
+		<Original_text lang="en">everyone would see me.</Original_text>
+		<Translation lang="ar">كان الجميع يراني.</Translation>
+		<Translation lang="fr">tout le monde me regardait.</Translation>
+	</Segment>
+	<Segment id ="20" >
+		<Time-slot>00:01:08,162 --> 00:01:09,543</Time-slot>
+		<Original_text lang="en">And I looked like this.</Original_text>
+		<Translation lang="ar">كنت أبدو هكذا.</Translation>
+		<Translation lang="fr">Et je ressemblais à ça.</Translation>
+	</Segment>
+	<Segment id ="21" >
+		<Time-slot>00:01:10,718 --> 00:01:13,740</Time-slot>
+		<Original_text lang="en">I was awkward,</Original_text>
+		<Translation lang="ar">كنت أحس بالغرابة،</Translation>
+		<Translation lang="fr">Je me sentais bizarre,</Translation>
+	</Segment>
+	<Segment id ="22" >
+		<Time-slot>00:01:13,765 --> 00:01:15,855</Time-slot>
+		<Original_text lang="en">insecure, and I hated it.</Original_text>
+		<Translation lang="ar">وعدم الأمان، فكنت أكره هذا الشعور.</Translation>
+		<Translation lang="fr">mal à l'aise, et je détestais ça.</Translation>
+	</Segment>
+	<Segment id ="23" >
+		<Time-slot>00:01:15,879 --> 00:01:18,918</Time-slot>
+		<Original_text lang="en">I hated that walk, I hated that balcony,</Original_text>
+		<Translation lang="ar">كنت أكره ذلك الممشى، تلك الشرفة،</Translation>
+		<Translation lang="fr">Je détestais ce trajet, je détestais ce balcon,</Translation>
+	</Segment>
+	<Segment id ="24" >
+		<Time-slot>00:01:18,942 --> 00:01:21,966</Time-slot>
+		<Original_text lang="en">I hated that room, and I hated that house.</Original_text>
+		<Translation lang="ar">كنت أكره تلك الغرفة، وذلك البيت.</Translation>
+		<Translation lang="fr">je détestais cette chambre, je détestais cette maison.</Translation>
+	</Segment>
+	<Segment id ="25" >
+		<Time-slot>00:01:22,769 --> 00:01:24,457</Time-slot>
+		<Original_text lang="en">And that's architecture.</Original_text>
+		<Translation lang="ar">وتلك هي الهندسة المعمارية.</Translation>
+		<Translation lang="fr">Et c'est de l'architecture.</Translation>
+	</Segment>
+	<Segment id ="26" >
+		<Time-slot>00:01:24,917 --> 00:01:26,233</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="27" >
+		<Time-slot>00:01:26,257 --> 00:01:27,575</Time-slot>
+		<Original_text lang="en">Done.</Original_text>
+		<Translation lang="ar">انتهى.</Translation>
+		<Translation lang="fr">Ça, c'est fait.</Translation>
+	</Segment>
+	<Segment id ="28" >
+		<Time-slot>00:01:28,087 --> 00:01:31,461</Time-slot>
+		<Original_text lang="en">That feeling, those emotions that I felt,</Original_text>
+		<Translation lang="ar">ذلك الشعور، تلك الأحاسيس التي أحسها،</Translation>
+		<Translation lang="fr">Ces sentiments, ces émotions,</Translation>
+	</Segment>
+	<Segment id ="29" >
+		<Time-slot>00:01:31,486 --> 00:01:34,179</Time-slot>
+		<Original_text lang="en">that's the power of architecture,</Original_text>
+		<Translation lang="ar">تلك هي قوة الهندسة المعمارية،</Translation>
+		<Translation lang="fr">c'est la force de l'architecture.</Translation>
+	</Segment>
+	<Segment id ="30" >
+		<Time-slot>00:01:34,203 --> 00:01:37,740</Time-slot>
+		<Translation lang="en">because architecture is not about math and it's not about zoning,</Translation>
+		<Translation lang="ar">لأن الهندسة المعمارية ليست رياضيات وتقسيما.</Translation>
+		<Translation lang="fr">L'architecture, ce n'est pas que des maths, ni que du zonage.</Translation>
+	</Segment>
+	<Segment id ="31" >
+		<Time-slot>00:01:37,765 --> 00:01:41,123</Time-slot>
+		<Translation lang="en">it's about those visceral, emotional connections</Translation>
+		<Translation lang="ar">بل هي تلك التقاطعات الحسية المشحونة</Translation>
+		<Translation lang="fr">Ce sont ces connexions émotionnelles viscérales</Translation>
+	</Segment>
+	<Segment id ="32" >
+		<Time-slot>00:01:41,147 --> 00:01:43,903</Time-slot>
+		<Original_text lang="en">that we feel to the places that we occupy.</Original_text>
+		<Translation lang="ar">التي نحسها في الأماكن التي نشغلها.</Translation>
+		<Translation lang="fr">que nous ressentons dans les lieux que nous habitons.</Translation>
+	</Segment>
+	<Segment id ="33" >
+		<Time-slot>00:01:44,653 --> 00:01:47,529</Time-slot>
+		<Translation lang="en">And it's no surprise that we feel that way,</Translation>
+		<Translation lang="ar">ولا غرابة في أننا نحس على هذا النحو،</Translation>
+		<Translation lang="fr">Ce n'est pas une surprise.</Translation>
+	</Segment>
+	<Segment id ="34" >
+		<Time-slot>00:01:47,552 --> 00:01:49,760</Time-slot>
+		<Original_text lang="en">because according to the EPA,</Original_text>
+		<Translation lang="ar">لأنه بحسب وكالة حماية البيئة،</Translation>
+		<Translation lang="fr">Selon l'Agence de Protection de l'Environnement,</Translation>
+	</Segment>
+	<Segment id ="35" >
+		<Time-slot>00:01:49,784 --> 00:01:54,403</Time-slot>
+		<Translation lang="en">Americans spend 90 percent of their time indoors.</Translation>
+		<Translation lang="ar">فإن الأمريكيين يقضون 90 في المئة من أوقاتهم في الخارج.</Translation>
+		<Translation lang="fr">les Américains passent 90% de leur temps à l'intérieur.</Translation>
+	</Segment>
+	<Segment id ="36" >
+		<Time-slot>00:01:54,427 --> 00:01:59,164</Time-slot>
+		<Translation lang="en">That's 90 percent of our time surrounded by architecture.</Translation>
+		<Translation lang="ar">يعني 90 في المئة من أوقاتنا ونحن محاطون بالهندسة.</Translation>
+		<Translation lang="fr">90% de notre temps entourés par l'architecture.</Translation>
+	</Segment>
+	<Segment id ="37" >
+		<Time-slot>00:01:59,188 --> 00:02:00,695</Time-slot>
+		<Original_text lang="en">That's huge.</Original_text>
+		<Translation lang="ar">هذا أمر هائل.</Translation>
+		<Translation lang="fr">C'est énorme.</Translation>
+	</Segment>
+	<Segment id ="38" >
+		<Time-slot>00:02:00,719 --> 00:02:05,212</Time-slot>
+		<Translation lang="en">That means that architecture is shaping us in ways that we didn't even realize.</Translation>
+		<Translation lang="ar">ما يعني أن الهندسة تحدد من نكون بطرق لم نكن نعيها بالأساس،</Translation>
+		<Translation lang="fr">L'architecture nous influence selon des manières insoupçonnées.</Translation>
+	</Segment>
+	<Segment id ="39" >
+		<Time-slot>00:02:05,921 --> 00:02:11,295</Time-slot>
+		<Translation lang="en">That makes us a little bit gullible and very, very predictable.</Translation>
+		<Translation lang="ar">ما يجعلنا سذجا شيئا ما، ويمكن التنبؤ بما نريد بسهولة جدا.</Translation>
+		<Translation lang="fr">Cela nous rend donc un peu crédules et très très prévisibles.</Translation>
+	</Segment>
+	<Segment id ="40" >
+		<Time-slot>00:02:11,463 --> 00:02:14,092</Time-slot>
+		<Translation lang="en">It means that when I show you a building like this,</Translation>
+		<Translation lang="ar">هذا يعني أنه حين أريكم مبنى كهذا،</Translation>
+		<Translation lang="fr">Si je vous montre un bâtiment comme celui-ci,</Translation>
+	</Segment>
+	<Segment id ="41" >
+		<Time-slot>00:02:14,116 --> 00:02:15,498</Time-slot>
+		<Original_text lang="en">I know what you think:</Original_text>
+		<Translation lang="ar">أعلم بماذا ستفكرون:</Translation>
+		<Translation lang="fr">je sais ce que vous pensez :</Translation>
+	</Segment>
+	<Segment id ="42" >
+		<Time-slot>00:02:15,522 --> 00:02:18,870</Time-slot>
+		<Translation lang="en">You think "power" and "stability" and "democracy."</Translation>
+		<Translation lang="ar">ستفكرون ب" القوة' و'الاستقرار" و"الديمقراطية."</Translation>
+		<Translation lang="fr">vous pensez « puissance », « stabilité » et « démocratie ».</Translation>
+	</Segment>
+	<Segment id ="43" >
+		<Time-slot>00:02:19,239 --> 00:02:22,872</Time-slot>
+		<Translation lang="en">And I know you think that because it's based on a building</Translation>
+		<Translation lang="ar">وأعرف أنكم تفكرون على هذا النحو لأنه مبني على أساس بناء</Translation>
+		<Translation lang="fr">Je sais que vous pensez ça parce qu'il s'inspire d'un édifice</Translation>
+	</Segment>
+	<Segment id ="44" >
+		<Time-slot>00:02:22,895 --> 00:02:25,689</Time-slot>
+		<Translation lang="en">that was build 2,500 years ago by the Greeks.</Translation>
+		<Translation lang="ar">أسس منذ 2500 سنت خلت من طرف اليونانيين.</Translation>
+		<Translation lang="fr">qui a été construit par les Grecs il y a 2 500 ans.</Translation>
+	</Segment>
+	<Segment id ="45" >
+		<Time-slot>00:02:26,271 --> 00:02:27,593</Time-slot>
+		<Original_text lang="en">This is a trick.</Original_text>
+		<Translation lang="ar">هذه هي الخدعة.</Translation>
+		<Translation lang="fr">C'est un truc</Translation>
+	</Segment>
+	<Segment id ="46" >
+		<Time-slot>00:02:27,912 --> 00:02:30,080</Time-slot>
+		<Original_text lang="en">This is a trigger that architects use</Original_text>
+		<Translation lang="ar">هذا هو المحفز الذي يستعمله المهندسون</Translation>
+		<Translation lang="fr">que les architectes utilisent</Translation>
+	</Segment>
+	<Segment id ="47" >
+		<Time-slot>00:02:30,104 --> 00:02:33,993</Time-slot>
+		<Translation lang="en">to get you to create an emotional connection</Translation>
+		<Translation lang="ar">لكي يخلقوا لديكم ذلك الرابط العاطفي</Translation>
+		<Translation lang="fr">pour que vous créiez un lien émotionnel</Translation>
+	</Segment>
+	<Segment id ="48" >
+		<Time-slot>00:02:34,016 --> 00:02:36,657</Time-slot>
+		<Translation lang="en">to the forms that we build our buildings out of.</Translation>
+		<Translation lang="ar">مع الأشكال التي نبني بها البنايات.</Translation>
+		<Translation lang="fr">avec les formes que nous utilisons.</Translation>
+	</Segment>
+	<Segment id ="49" >
+		<Time-slot>00:02:37,236 --> 00:02:39,876</Time-slot>
+		<Original_text lang="en">It's a predictable emotional connection,</Original_text>
+		<Translation lang="ar">إنه رابط عاطفي متوقع،</Translation>
+		<Translation lang="fr">C'est un lien prévisible</Translation>
+	</Segment>
+	<Segment id ="50" >
+		<Time-slot>00:02:39,901 --> 00:02:43,121</Time-slot>
+		<Translation lang="en">and we've been using this trick for a long, long time.</Translation>
+		<Translation lang="ar">وقد استعملناه منذ زمن طويل جدا.</Translation>
+		<Translation lang="fr">et nous l'utilisons depuis très longtemps.</Translation>
+	</Segment>
+	<Segment id ="51" >
+		<Time-slot>00:02:43,628 --> 00:02:46,901</Time-slot>
+		<Original_text lang="en">We used it [200] years ago to build banks.</Original_text>
+		<Translation lang="ar">استعملناه منذ 200 سنة لبناء الأبناك.</Translation>
+		<Translation lang="fr">Nous l'avons utilisé il y a 200 ans pour construire des banques,</Translation>
+	</Segment>
+	<Segment id ="52" >
+		<Time-slot>00:02:46,925 --> 00:02:50,082</Time-slot>
+		<Translation lang="en">We used it in the 19th century to build art museums.</Translation>
+		<Translation lang="ar">استعملناه في القرن 19 لبناء المتاحف الفنية.</Translation>
+		<Translation lang="fr">au XIXe siècle pour construire des musées,</Translation>
+	</Segment>
+	<Segment id ="53" >
+		<Time-slot>00:02:50,106 --> 00:02:52,312</Time-slot>
+		<Original_text lang="en">And in the 20th century in America,</Original_text>
+		<Translation lang="ar">وفي القرن ال20 في الولايات المتحدة الأمريكية،</Translation>
+		<Translation lang="fr">et au XXe siècle, aux États-Unis,</Translation>
+	</Segment>
+	<Segment id ="54" >
+		<Time-slot>00:02:52,336 --> 00:02:54,171</Time-slot>
+		<Original_text lang="en">we used it to build houses.</Original_text>
+		<Translation lang="ar">استعملناه لبناء المنازل.</Translation>
+		<Translation lang="fr">pour construire des maisons.</Translation>
+	</Segment>
+	<Segment id ="55" >
+		<Time-slot>00:02:54,194 --> 00:02:56,932</Time-slot>
+		<Translation lang="en">And look at these solid, stable little soldiers</Translation>
+		<Translation lang="ar">أنظروا إلى هؤلاء الجنود اليافعين المستقرين وذوي الصلابة،</Translation>
+		<Translation lang="fr">Regardez ces petits soldats, solides et stables,</Translation>
+	</Segment>
+	<Segment id ="56" >
+		<Time-slot>00:02:56,956 --> 00:02:59,527</Time-slot>
+		<Translation lang="en">facing the ocean and keeping away the elements.</Translation>
+		<Translation lang="ar">المواجهين للمحيط ليبعدوا الأخطار،</Translation>
+		<Translation lang="fr">face à l'océan, repoussant les éléments.</Translation>
+	</Segment>
+	<Segment id ="57" >
+		<Time-slot>00:03:00,264 --> 00:03:02,899</Time-slot>
+		<Original_text lang="en">This is really, really useful,</Original_text>
+		<Translation lang="ar">هذا أمر مفيد جدا.</Translation>
+		<Translation lang="fr">C'est vraiment très utile,</Translation>
+	</Segment>
+	<Segment id ="58" >
+		<Time-slot>00:03:02,924 --> 00:03:05,911</Time-slot>
+		<Original_text lang="en">because building things is terrifying.</Original_text>
+		<Translation lang="ar">لأن بناء الأشياء أمر مرعب.</Translation>
+		<Translation lang="fr">car construire est terrifiant.</Translation>
+	</Segment>
+	<Segment id ="59" >
+		<Time-slot>00:03:06,330 --> 00:03:10,466</Time-slot>
+		<Translation lang="en">It's expensive, it takes a long time, and it's very complicated.</Translation>
+		<Translation lang="ar">فهو مكلف، ويتطلب وقتا طويلا، كما أنه معقد جدا،</Translation>
+		<Translation lang="fr">C'est cher, ça prend du temps et c'est très compliqué.</Translation>
+	</Segment>
+	<Segment id ="60" >
+		<Time-slot>00:03:10,996 --> 00:03:13,153</Time-slot>
+		<Original_text lang="en">And the people that build things --</Original_text>
+		<Translation lang="ar">ومن يقوم ببناء هذه الأشياء--</Translation>
+		<Translation lang="fr">Les gens qui construisent</Translation>
+	</Segment>
+	<Segment id ="61" >
+		<Time-slot>00:03:13,177 --> 00:03:15,383</Time-slot>
+		<Original_text lang="en">developers and governments --</Original_text>
+		<Translation lang="ar">المطورون والحكومات--</Translation>
+		<Translation lang="fr">-- les promoteurs et les gouvernements --</Translation>
+	</Segment>
+	<Segment id ="62" >
+		<Time-slot>00:03:15,407 --> 00:03:18,260</Time-slot>
+		<Original_text lang="en">they're naturally afraid of innovation,</Original_text>
+		<Translation lang="ar">يخافون بشكل طبيعي من الابتكار،</Translation>
+		<Translation lang="fr">ont naturellement peur de l'innovation,</Translation>
+	</Segment>
+	<Segment id ="63" >
+		<Time-slot>00:03:18,283 --> 00:03:22,263</Time-slot>
+		<Translation lang="en">and they'd rather just use those forms that they know you'll respond to.</Translation>
+		<Translation lang="ar">ومن الأفضل أن يستعملوا فقط تلك الأشكال التي يعلمون أنكم ستجاوبون معها.</Translation>
+		<Translation lang="fr">ils préfèrent les formes auxquelles ils vous savent réceptifs.</Translation>
+	</Segment>
+	<Segment id ="64" >
+		<Time-slot>00:03:23,125 --> 00:03:25,313</Time-slot>
+		<Translation lang="en">That's how we end up with buildings like this.</Translation>
+		<Translation lang="ar">لذلك فإننا نحصل في النهاية على بنايات كهذه.</Translation>
+		<Translation lang="fr">On finit donc avec des bâtiments comme ça.</Translation>
+	</Segment>
+	<Segment id ="65" >
+		<Time-slot>00:03:26,096 --> 00:03:27,765</Time-slot>
+		<Original_text lang="en">This is a nice building.</Original_text>
+		<Translation lang="ar">هذه بناية جميلة.</Translation>
+		<Translation lang="fr">Il est pas mal.</Translation>
+	</Segment>
+	<Segment id ="66" >
+		<Time-slot>00:03:27,789 --> 00:03:30,080</Time-slot>
+		<Original_text lang="en">This is the Livingston Public Library</Original_text>
+		<Translation lang="ar">هذه هي مكتبة ليفنغستون العامة</Translation>
+		<Translation lang="fr">C'est la bibliothèque municipale de Livingston</Translation>
+	</Segment>
+	<Segment id ="67" >
+		<Time-slot>00:03:30,104 --> 00:03:33,215</Time-slot>
+		<Original_text lang="en">that was completed in 2004 in my hometown,</Original_text>
+		<Translation lang="ar">التي تم الانتهاء منها سنة 2004 في مسقط رأسي،</Translation>
+		<Translation lang="fr">qui a été achevée en 2004.</Translation>
+	</Segment>
+	<Segment id ="68" >
+		<Time-slot>00:03:33,239 --> 00:03:34,864</Time-slot>
+		<Original_text lang="en">and, you know, it's got a dome</Original_text>
+		<Translation lang="ar">ولديها، كما تعلمون، قبة</Translation>
+		<Translation lang="fr">Elle a un dôme,</Translation>
+	</Segment>
+	<Segment id ="69" >
+		<Time-slot>00:03:34,888 --> 00:03:38,495</Time-slot>
+		<Translation lang="en">and it's got this round thing and columns, red brick,</Translation>
+		<Translation lang="ar">وذلك الشيء الدائري، وبها أعمدة، وآجور أحمر،</Translation>
+		<Translation lang="fr">et ce truc rond, des colonnes, de la brique rouge.</Translation>
+	</Segment>
+	<Segment id ="70" >
+		<Time-slot>00:03:38,495 --> 00:03:43,485</Time-slot>
+		<Translation lang="en">and you can kind of guess what Livingston is trying to say with this building:</Translation>
+		<Translation lang="ar">وبإمكانكم أن تخمنوا ما تحاول ليفنغستون أن تقوله من خلال هذه البناية:</Translation>
+		<Translation lang="fr">Vous devinez que Livingston essaie de dire grâce à elle :</Translation>
+	</Segment>
+	<Segment id ="71" >
+		<Time-slot>00:03:43,508 --> 00:03:47,034</Time-slot>
+		<Original_text lang="en">children, property values and history.</Original_text>
+		<Translation lang="ar">الأطفال، قيم الممتلكات وتاريخها.</Translation>
+		<Translation lang="fr">enfants, propriété et histoire.</Translation>
+	</Segment>
+	<Segment id ="72" >
+		<Time-slot>00:03:47,751 --> 00:03:51,286</Time-slot>
+		<Translation lang="en">But it doesn't have much to do with what a library actually does today.</Translation>
+		<Translation lang="ar">لكن ليست لها أوجه تشابه كثيرة مع ما تقوم به المكتبات اليوم.</Translation>
+		<Translation lang="fr">Mais ça n'a rien à voir avec ce qu'est une bibliothèque de nos jours.</Translation>
+	</Segment>
+	<Segment id ="73" >
+		<Time-slot>00:03:52,209 --> 00:03:56,272</Time-slot>
+		<Translation lang="en">That same year, in 2004, on the other side of the country,</Translation>
+		<Translation lang="ar">في تلك السنة نفسها، 2004، في الجانب الآخر من البلاد،</Translation>
+		<Translation lang="fr">La même année, à l'autre bout du pays,</Translation>
+	</Segment>
+	<Segment id ="74" >
+		<Time-slot>00:03:56,296 --> 00:03:58,292</Time-slot>
+		<Original_text lang="en">another library was completed,</Original_text>
+		<Translation lang="ar">تم الانتهاء من بناء مكتبة أخرى.</Translation>
+		<Translation lang="fr">on terminait une autre bibliothèque</Translation>
+	</Segment>
+	<Segment id ="75" >
+		<Time-slot>00:03:58,316 --> 00:03:59,789</Time-slot>
+		<Original_text lang="en">and it looks like this.</Original_text>
+		<Translation lang="ar">كانت تبدو هكذا.</Translation>
+		<Translation lang="fr">qui ressemblait à ça.</Translation>
+	</Segment>
+	<Segment id ="76" >
+		<Time-slot>00:03:59,997 --> 00:04:01,330</Time-slot>
+		<Original_text lang="en">It's in Seattle.</Original_text>
+		<Translation lang="ar">في سياتل.</Translation>
+		<Translation lang="fr">C'est à Seattle.</Translation>
+	</Segment>
+	<Segment id ="77" >
+		<Time-slot>00:04:02,139 --> 00:04:07,693</Time-slot>
+		<Translation lang="en">This library is about how we consume media in a digital age.</Translation>
+		<Translation lang="ar">تدور فكرة هذه المكتبة عن كيفية استهلاكنا للإعلام في الزمن الرقمي.</Translation>
+		<Translation lang="fr">Elle montre comment on consomme les médias dans une époque numérique.</Translation>
+	</Segment>
+	<Segment id ="78" >
+		<Time-slot>00:04:07,717 --> 00:04:11,287</Time-slot>
+		<Translation lang="en">It's about a new kind of public amenity for the city,</Translation>
+		<Translation lang="ar">فهي تشكل نوعا من المناعة العمومية للمدينة،</Translation>
+		<Translation lang="fr">C'est un nouveau type d'espace public pour la ville,</Translation>
+	</Segment>
+	<Segment id ="79" >
+		<Time-slot>00:04:11,312 --> 00:04:13,917</Time-slot>
+		<Original_text lang="en">a place to gather and read and share.</Original_text>
+		<Translation lang="ar">مكان للتجمع وللقراءة ولمشاركة الآراء.</Translation>
+		<Translation lang="fr">un lieu de réunion, de lecture et de partage.</Translation>
+	</Segment>
+	<Segment id ="80" >
+		<Time-slot>00:04:15,243 --> 00:04:16,867</Time-slot>
+		<Original_text lang="en">So how is it possible</Original_text>
+		<Translation lang="ar">إذن كيف أنه من الممكن</Translation>
+		<Translation lang="fr">Comment est-il possible</Translation>
+	</Segment>
+	<Segment id ="81" >
+		<Time-slot>00:04:16,891 --> 00:04:20,304</Time-slot>
+		<Translation lang="en">that in the same year, in the same country,</Translation>
+		<Translation lang="ar">أنه في نفس السنة، في نفس الدولة،</Translation>
+		<Translation lang="fr">que la même année, dans le même pays,</Translation>
+	</Segment>
+	<Segment id ="82" >
+		<Time-slot>00:04:20,327 --> 00:04:22,950</Time-slot>
+		<Original_text lang="en">two buildings, both called libraries,</Original_text>
+		<Translation lang="ar">تبدو بنايتان، كلتاهما مكتبتان،</Translation>
+		<Translation lang="fr">deux bâtiments, tous deux nommés bibliothèques,</Translation>
+	</Segment>
+	<Segment id ="83" >
+		<Time-slot>00:04:22,975 --> 00:04:24,607</Time-slot>
+		<Original_text lang="en">look so completely different?</Original_text>
+		<Translation lang="ar">بشكلين مختلفين تماما؟</Translation>
+		<Translation lang="fr">soient complètement différents ?</Translation>
+	</Segment>
+	<Segment id ="84" >
+		<Time-slot>00:04:25,576 --> 00:04:31,109</Time-slot>
+		<Translation lang="en">And the answer is that architecture works on the principle of a pendulum.</Translation>
+		<Translation lang="ar">والجواب أن الهندسة تعمل بمبدأ عقارب الساعة.</Translation>
+		<Translation lang="fr">Parce que l'architecture fonctionne comme un balancier.</Translation>
+	</Segment>
+	<Segment id ="85" >
+		<Time-slot>00:04:31,500 --> 00:04:34,368</Time-slot>
+		<Original_text lang="en">On the one side is innovation,</Original_text>
+		<Translation lang="ar">في الجهة الأولى نجد الابتكار،</Translation>
+		<Translation lang="fr">D'un côté, l'innovation,</Translation>
+	</Segment>
+	<Segment id ="86" >
+		<Time-slot>00:04:34,392 --> 00:04:38,009</Time-slot>
+		<Translation lang="en">and architects are constantly pushing, pushing for new technologies,</Translation>
+		<Translation lang="ar">حيث يدفع المهندسون باستمرار في اتجاه تبني تكنولوجيا حديثة،</Translation>
+		<Translation lang="fr">les architectes poussant constamment vers de nouvelles technologies,</Translation>
+	</Segment>
+	<Segment id ="87" >
+		<Time-slot>00:04:38,033 --> 00:04:41,716</Time-slot>
+		<Translation lang="en">new typologies, new solutions for the way that we live today.</Translation>
+		<Translation lang="ar">دراسة رموز جديدة، حلول جديدة للكيفية التي نعيش بها اليوم.</Translation>
+		<Translation lang="fr">de nouvelles typologies, de nouvelles solutions pour la vie d'aujourd'hui.</Translation>
+	</Segment>
+	<Segment id ="88" >
+		<Time-slot>00:04:41,886 --> 00:04:44,280</Time-slot>
+		<Original_text lang="en">And we push and we push and we push</Original_text>
+		<Translation lang="ar">ذلك أننا ندفع وندفع وندفع</Translation>
+		<Translation lang="fr">On pousse, encore et encore,</Translation>
+	</Segment>
+	<Segment id ="89" >
+		<Time-slot>00:04:44,303 --> 00:04:46,902</Time-slot>
+		<Original_text lang="en">until we completely alienate all of you.</Original_text>
+		<Translation lang="ar">حتى نجعلكم تنفرون جميعا.</Translation>
+		<Translation lang="fr">jusqu'à perdre tout le monde.</Translation>
+	</Segment>
+	<Segment id ="90" >
+		<Time-slot>00:04:46,927 --> 00:04:49,153</Time-slot>
+		<Original_text lang="en">We wear all black, we get very depressed,</Original_text>
+		<Translation lang="ar">نرتدي ملابس سوداء، ونكتئب،</Translation>
+		<Translation lang="fr">On broie du noir, on devient très déprimés,</Translation>
+	</Segment>
+	<Segment id ="91" >
+		<Time-slot>00:04:49,177 --> 00:04:51,338</Time-slot>
+		<Original_text lang="en">you think we're adorable,</Original_text>
+		<Translation lang="ar">فتعتقدون أننا محببون،</Translation>
+		<Translation lang="fr">vous pensez qu'on nous envie,</Translation>
+	</Segment>
+	<Segment id ="92" >
+		<Time-slot>00:04:51,362 --> 00:04:54,821</Time-slot>
+		<Translation lang="en">we're dead inside because we've got no choice.</Translation>
+		<Translation lang="ar">فنموت في دواخلنا لأنه بالنهاية ليس لنا خيار آخر.</Translation>
+		<Translation lang="fr">mais nous sommes morts à l'intérieur parce que nous n'avons pas le choix.</Translation>
+	</Segment>
+	<Segment id ="93" >
+		<Time-slot>00:04:54,845 --> 00:04:56,597</Time-slot>
+		<Original_text lang="en">We have to go to the other side</Original_text>
+		<Translation lang="ar">علينا أن نتوجه إلى الجهة الأخرى</Translation>
+		<Translation lang="fr">On doit passer de l'autre côté</Translation>
+	</Segment>
+	<Segment id ="94" >
+		<Time-slot>00:04:56,620 --> 00:04:59,735</Time-slot>
+		<Translation lang="en">and reengage those symbols that we know you love.</Translation>
+		<Translation lang="ar">لنشرك مرة أخرى تلك الرموز التي نعلم أنكم تحبونها.</Translation>
+		<Translation lang="fr">et se réapproprier les symboles que nous savons que vous aimez.</Translation>
+	</Segment>
+	<Segment id ="95" >
+		<Time-slot>00:05:00,394 --> 00:05:02,552</Time-slot>
+		<Original_text lang="en">So we do that, and you're happy,</Original_text>
+		<Translation lang="ar">نفعل هذا فتصبحون سعداء،</Translation>
+		<Translation lang="fr">Donc, on fait comme ça et vous êtes contents.</Translation>
+	</Segment>
+	<Segment id ="96" >
+		<Time-slot>00:05:02,576 --> 00:05:04,387</Time-slot>
+		<Original_text lang="en">we feel like sellouts,</Original_text>
+		<Translation lang="ar">نشعر وكأنها خيانة،</Translation>
+		<Translation lang="fr">On a l'impression d'avoir capitulé,</Translation>
+	</Segment>
+	<Segment id ="97" >
+		<Time-slot>00:05:04,411 --> 00:05:06,060</Time-slot>
+		<Original_text lang="en">so we start experimenting again</Original_text>
+		<Translation lang="ar">فنبدأ في الاختبار مرة أخرى</Translation>
+		<Translation lang="fr">on recommence donc à expérimenter.</Translation>
+	</Segment>
+	<Segment id ="98" >
+		<Time-slot>00:05:06,084 --> 00:05:09,278</Time-slot>
+		<Translation lang="en">and we push the pendulum back and back and forth and back and forth</Translation>
+		<Translation lang="ar">فنعيد العقرب إلى الوراء ثم إلى الأمام ونعيد الكرة</Translation>
+		<Translation lang="fr">Et le balancier va et vient, et recommence...</Translation>
+	</Segment>
+	<Segment id ="99" >
+		<Time-slot>00:05:09,302 --> 00:05:11,677</Time-slot>
+		<Original_text lang="en">we've gone for the last 300 years,</Original_text>
+		<Translation lang="ar">وقد قمنا بهذا خلال 300 سنة الماضية.</Translation>
+		<Translation lang="fr">Ça vaut pour les 300 dernières années,</Translation>
+	</Segment>
+	<Segment id ="100" >
+		<Time-slot>00:05:11,701 --> 00:05:13,814</Time-slot>
+		<Original_text lang="en">and certainly for the last 30 years.</Original_text>
+		<Translation lang="ar">وبالتأكيد خلال ال30 سنة الماضية.</Translation>
+		<Translation lang="fr">et sûrement pour les 30 dernières.</Translation>
+	</Segment>
+	<Segment id ="101" >
+		<Time-slot>00:05:14,925 --> 00:05:18,517</Time-slot>
+		<Translation lang="en">Okay, 30 years ago we were coming out of the '70s.</Translation>
+		<Translation lang="ar">منذ 30 سنة مضت، كنا خرجنا للتو من السبعينات.</Translation>
+		<Translation lang="fr">Il y a 30 ans, on sortait des années 70.</Translation>
+	</Segment>
+	<Segment id ="102" >
+		<Time-slot>00:05:18,541 --> 00:05:22,200</Time-slot>
+		<Translation lang="en">Architects had been busy experimenting with something called brutalism.</Translation>
+		<Translation lang="ar">كان المهندسون حينها منشغلين باختبار شيء يدعى العمارة الوحشية.</Translation>
+		<Translation lang="fr">Les architectes s'étaient essayés à ce qu'on a appelé le brutalisme.</Translation>
+	</Segment>
+	<Segment id ="103" >
+		<Time-slot>00:05:22,519 --> 00:05:23,764</Time-slot>
+		<Original_text lang="en">It's about concrete.</Original_text>
+		<Translation lang="ar">أمر له صلة بالإسمنت.</Translation>
+		<Translation lang="fr">C'était béton.</Translation>
+	</Segment>
+	<Segment id ="104" >
+		<Time-slot>00:05:23,788 --> 00:05:25,260</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="105" >
+		<Time-slot>00:05:25,285 --> 00:05:26,429</Time-slot>
+		<Original_text lang="en">You can guess this.</Original_text>
+		<Translation lang="ar">يمكنكم أن تخمنوا ذلك.</Translation>
+		<Translation lang="fr">Vous l'aviez deviné.</Translation>
+	</Segment>
+	<Segment id ="106" >
+		<Time-slot>00:05:26,452 --> 00:05:29,782</Time-slot>
+		<Original_text lang="en">Small windows, dehumanizing scale.</Original_text>
+		<Translation lang="ar">نوافذ صغيرة، بمقاييس لاإنسانية.</Translation>
+		<Translation lang="fr">De petites fenêtres, une taille déshumanisante.</Translation>
+	</Segment>
+	<Segment id ="107" >
+		<Time-slot>00:05:29,807 --> 00:05:32,569</Time-slot>
+		<Original_text lang="en">This is really tough stuff.</Original_text>
+		<Translation lang="ar">هذا أمر صعب للغاية.</Translation>
+		<Translation lang="fr">C'était vraiment brutal.</Translation>
+	</Segment>
+	<Segment id ="108" >
+		<Time-slot>00:05:32,593 --> 00:05:35,356</Time-slot>
+		<Original_text lang="en">So as we get closer to the '80s,</Original_text>
+		<Translation lang="ar">نقترب من الثمانينات،</Translation>
+		<Translation lang="fr">En se rapprochant des années 80,</Translation>
+	</Segment>
+	<Segment id ="109" >
+		<Time-slot>00:05:35,380 --> 00:05:37,723</Time-slot>
+		<Original_text lang="en">we start to reengage those symbols.</Original_text>
+		<Translation lang="ar">وبدأنا نشرك هذه الرموز.</Translation>
+		<Translation lang="fr">on commence à se réapproprier ces symboles.</Translation>
+	</Segment>
+	<Segment id ="110" >
+		<Time-slot>00:05:37,747 --> 00:05:40,695</Time-slot>
+		<Translation lang="en">We push the pendulum back into the other direction.</Translation>
+		<Translation lang="ar">فندفع العقرب إلى الجهة الأخرى.</Translation>
+		<Translation lang="fr">On lance le balancier dans l'autre direction.</Translation>
+	</Segment>
+	<Segment id ="111" >
+		<Time-slot>00:05:40,720 --> 00:05:43,529</Time-slot>
+		<Original_text lang="en">We take these forms that we know you love</Original_text>
+		<Translation lang="ar">نأخذ تلك الأشكال التي نعلم أنكم تحبونها</Translation>
+		<Translation lang="fr">On prend les formes que vous aimez</Translation>
+	</Segment>
+	<Segment id ="112" >
+		<Time-slot>00:05:43,552 --> 00:05:45,117</Time-slot>
+		<Original_text lang="en">and we update them.</Original_text>
+		<Translation lang="ar">فنقوم بتحديثها.</Translation>
+		<Translation lang="fr">et on les met au goût du jour.</Translation>
+	</Segment>
+	<Segment id ="113" >
+		<Time-slot>00:05:45,141 --> 00:05:47,151</Time-slot>
+		<Original_text lang="en">We add neon</Original_text>
+		<Translation lang="ar">نضيف النيون</Translation>
+		<Translation lang="fr">On ajoute les néons,</Translation>
+	</Segment>
+	<Segment id ="114" >
+		<Time-slot>00:05:47,175 --> 00:05:49,439</Time-slot>
+		<Original_text lang="en">and we add pastels</Original_text>
+		<Translation lang="ar">ونضيف الباستيل</Translation>
+		<Translation lang="fr">les pastels,</Translation>
+	</Segment>
+	<Segment id ="115" >
+		<Time-slot>00:05:49,463 --> 00:05:51,117</Time-slot>
+		<Original_text lang="en">and we use new materials.</Original_text>
+		<Translation lang="ar">ونستعمل مواد جديدة.</Translation>
+		<Translation lang="fr">on utilise de nouveaux matériaux.</Translation>
+	</Segment>
+	<Segment id ="116" >
+		<Time-slot>00:05:51,141 --> 00:05:52,579</Time-slot>
+		<Original_text lang="en">And you love it.</Original_text>
+		<Translation lang="ar">فتحبونها.</Translation>
+		<Translation lang="fr">Et vous aimez ça.</Translation>
+	</Segment>
+	<Segment id ="117" >
+		<Time-slot>00:05:52,603 --> 00:05:54,552</Time-slot>
+		<Original_text lang="en">And we can't give you enough of it.</Original_text>
+		<Translation lang="ar">فلا نستطيع إشباعكم بالقدر الكافي.</Translation>
+		<Translation lang="fr">On n'arrive pas à vous en donner assez.</Translation>
+	</Segment>
+	<Segment id ="118" >
+		<Time-slot>00:05:54,576 --> 00:05:56,740</Time-slot>
+		<Original_text lang="en">We take Chippendale armoires</Original_text>
+		<Translation lang="ar">نأخذ الخزائن الإنكليزية</Translation>
+		<Translation lang="fr">On prend des armoires Chippendale</Translation>
+	</Segment>
+	<Segment id ="119" >
+		<Time-slot>00:05:56,764 --> 00:05:59,136</Time-slot>
+		<Original_text lang="en">and we turned those into skyscrapers,</Original_text>
+		<Translation lang="ar">فنحولها إلى ناطحات سحاب،</Translation>
+		<Translation lang="fr">qu'on transforme en gratte-ciel,</Translation>
+	</Segment>
+	<Segment id ="120" >
+		<Time-slot>00:05:59,160 --> 00:06:03,866</Time-slot>
+		<Translation lang="en">and skyscrapers can be medieval castles made out of glass.</Translation>
+		<Translation lang="ar">فيمكنها أن تكون قصورا زجاجية من العصور الوسطى.</Translation>
+		<Translation lang="fr">et les gratte-ciel peuvent être des châteaux médiévaux en verre.</Translation>
+	</Segment>
+	<Segment id ="121" >
+		<Time-slot>00:06:04,408 --> 00:06:05,961</Time-slot>
+		<Original_text lang="en">Forms got big,</Original_text>
+		<Translation lang="ar">كبرت الأحجام،</Translation>
+		<Translation lang="fr">Les formes deviennent immenses,</Translation>
+	</Segment>
+	<Segment id ="122" >
+		<Time-slot>00:06:05,985 --> 00:06:08,512</Time-slot>
+		<Original_text lang="en">forms got bold and colorful.</Original_text>
+		<Translation lang="ar">أصبحت ملونة وأكثر حدة.</Translation>
+		<Translation lang="fr">osées et colorées.</Translation>
+	</Segment>
+	<Segment id ="123" >
+		<Time-slot>00:06:08,536 --> 00:06:11,379</Time-slot>
+		<Original_text lang="en">Dwarves became columns.</Original_text>
+		<Translation lang="ar">أصبح الأقزام بحجم الأعمدة.</Translation>
+		<Translation lang="fr">Les 7 nains deviennent des colonnes.</Translation>
+	</Segment>
+	<Segment id ="124" >
+		<Time-slot>00:06:11,403 --> 00:06:12,442</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="125" >
+		<Time-slot>00:06:12,466 --> 00:06:14,572</Time-slot>
+		<Original_text lang="en">Swans grew to the size of buildings.</Original_text>
+		<Translation lang="ar">كبر البجع ليصبح بحجم المباني.</Translation>
+		<Translation lang="fr">Les cygnes prennent la taille des immeubles.</Translation>
+	</Segment>
+	<Segment id ="126" >
+		<Time-slot>00:06:14,596 --> 00:06:15,933</Time-slot>
+		<Original_text lang="en">It was crazy.</Original_text>
+		<Translation lang="ar">كان ذلك جنونيا.</Translation>
+		<Translation lang="fr">C'était fou.</Translation>
+	</Segment>
+	<Segment id ="127" >
+		<Time-slot>00:06:16,639 --> 00:06:20,512</Time-slot>
+		<Original_text lang="en">But it's the '80s, it's cool.</Original_text>
+		<Translation lang="ar">لكنها الثمانينيات، فالأمر إذن رائع.</Translation>
+		<Translation lang="fr">Mais c'est les années 80, c'est funky.</Translation>
+	</Segment>
+	<Segment id ="128" >
+		<Time-slot>00:06:20,536 --> 00:06:21,714</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="129" >
+		<Time-slot>00:06:21,738 --> 00:06:23,733</Time-slot>
+		<Original_text lang="en">We're all hanging out in malls</Original_text>
+		<Translation lang="ar">نلتقي جميعا في المجمعات التجارية</Translation>
+		<Translation lang="fr">On traînait dans les centres commerciaux,</Translation>
+	</Segment>
+	<Segment id ="130" >
+		<Time-slot>00:06:23,757 --> 00:06:26,137</Time-slot>
+		<Original_text lang="en">and we're all moving to the suburbs,</Original_text>
+		<Translation lang="ar">وننتقل جميعا لنعيش في الضواحي،</Translation>
+		<Translation lang="fr">on déménageait tous en banlieue,</Translation>
+	</Segment>
+	<Segment id ="131" >
+		<Time-slot>00:06:26,161 --> 00:06:28,735</Time-slot>
+		<Original_text lang="en">and out there, out in the suburbs,</Original_text>
+		<Translation lang="ar">وهناك، في الضواحي،</Translation>
+		<Translation lang="fr">et là-bas, en banlieue,</Translation>
+	</Segment>
+	<Segment id ="132" >
+		<Time-slot>00:06:28,759 --> 00:06:32,091</Time-slot>
+		<Translation lang="en">we can create our own architectural fantasies.</Translation>
+		<Translation lang="ar">يمكن أن نخلق خيالات هندسية.</Translation>
+		<Translation lang="fr">on pouvait créer nos propres délires architecturaux.</Translation>
+	</Segment>
+	<Segment id ="133" >
+		<Time-slot>00:06:32,115 --> 00:06:33,870</Time-slot>
+		<Original_text lang="en">And those fantasies,</Original_text>
+		<Translation lang="ar">وهذه الخيالات</Translation>
+		<Translation lang="fr">Ça pouvait être</Translation>
+	</Segment>
+	<Segment id ="134" >
+		<Time-slot>00:06:33,894 --> 00:06:35,956</Time-slot>
+		<Original_text lang="en">they can be Mediterranean</Original_text>
+		<Translation lang="ar">يمكن أن تكون متوسطية</Translation>
+		<Translation lang="fr">méditerranéen,</Translation>
+	</Segment>
+	<Segment id ="135" >
+		<Time-slot>00:06:35,980 --> 00:06:37,906</Time-slot>
+		<Original_text lang="en">or French</Original_text>
+		<Translation lang="ar">أو فرنسية</Translation>
+		<Translation lang="fr">ou français,</Translation>
+	</Segment>
+	<Segment id ="136" >
+		<Time-slot>00:06:37,930 --> 00:06:39,129</Time-slot>
+		<Original_text lang="en">or Italian.</Original_text>
+		<Translation lang="ar">أو ٍإيطالية.</Translation>
+		<Translation lang="fr">ou italien.</Translation>
+	</Segment>
+	<Segment id ="137" >
+		<Time-slot>00:06:39,153 --> 00:06:40,796</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="138" >
+		<Time-slot>00:06:40,821 --> 00:06:42,713</Time-slot>
+		<Original_text lang="en">Possibly with endless breadsticks.</Original_text>
+		<Translation lang="ar">ربما قد تكون لها أعواد خبزية لا متناهية.</Translation>
+		<Translation lang="fr">Avec des gressins infinis.</Translation>
+	</Segment>
+	<Segment id ="139" >
+		<Time-slot>00:06:42,737 --> 00:06:44,764</Time-slot>
+		<Original_text lang="en">This is the thing about postmodernism.</Original_text>
+		<Translation lang="ar">هذه هي فكرة ما بعد التحضر.</Translation>
+		<Translation lang="fr">C'est le problème avec le post-modernisme,</Translation>
+	</Segment>
+	<Segment id ="140" >
+		<Time-slot>00:06:44,788 --> 00:06:46,602</Time-slot>
+		<Original_text lang="en">This is the thing about symbols.</Original_text>
+		<Translation lang="ar">هذه هي الفكرة التي تدور حول الرموز.</Translation>
+		<Translation lang="fr">avec les symboles :</Translation>
+	</Segment>
+	<Segment id ="141" >
+		<Time-slot>00:06:46,908 --> 00:06:49,888</Time-slot>
+		<Original_text lang="en">They're easy, they're cheap,</Original_text>
+		<Translation lang="ar">فهي سهلة، رخيصة،</Translation>
+		<Translation lang="fr">c'est facile et pas cher.</Translation>
+	</Segment>
+	<Segment id ="142" >
+		<Time-slot>00:06:49,911 --> 00:06:52,416</Time-slot>
+		<Original_text lang="en">because instead of making places,</Original_text>
+		<Translation lang="ar">لأننا عوضا عن بناء أمكنة،</Translation>
+		<Translation lang="fr">Au lieu de créer des lieux,</Translation>
+	</Segment>
+	<Segment id ="143" >
+		<Time-slot>00:06:52,440 --> 00:06:54,492</Time-slot>
+		<Original_text lang="en">we're making memories of places.</Original_text>
+		<Translation lang="ar">فإننا نصنع ذكريات عن الأمكنة.</Translation>
+		<Translation lang="fr">on crée des réminiscences de lieux.</Translation>
+	</Segment>
+	<Segment id ="144" >
+		<Time-slot>00:06:55,091 --> 00:06:57,947</Time-slot>
+		<Translation lang="en">Because I know, and I know all of you know,</Translation>
+		<Translation lang="ar">لأنني أعلم، وأعلم أنكم جميع تعلمون،</Translation>
+		<Translation lang="fr">Car je le sais, et vous le savez tous,</Translation>
+	</Segment>
+	<Segment id ="145" >
+		<Time-slot>00:06:57,971 --> 00:06:59,286</Time-slot>
+		<Original_text lang="en">this isn't Tuscany.</Original_text>
+		<Translation lang="ar">أن هذه ليست توسكاني.</Translation>
+		<Translation lang="fr">ce n'est pas la Toscane,</Translation>
+	</Segment>
+	<Segment id ="146" >
+		<Time-slot>00:07:00,182 --> 00:07:01,326</Time-slot>
+		<Original_text lang="en">This is Ohio.</Original_text>
+		<Translation lang="ar">بل أوهايو.</Translation>
+		<Translation lang="fr">c'est l'Ohio.</Translation>
+	</Segment>
+	<Segment id ="147" >
+		<Time-slot>00:07:01,451 --> 00:07:02,969</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="148" >
+		<Time-slot>00:07:02,994 --> 00:07:04,819</Time-slot>
+		<Original_text lang="en">So architects get frustrated,</Original_text>
+		<Translation lang="ar">لذا فالمهندسون قلقون،</Translation>
+		<Translation lang="fr">Les architectes sont frustrés</Translation>
+	</Segment>
+	<Segment id ="149" >
+		<Time-slot>00:07:04,843 --> 00:07:08,174</Time-slot>
+		<Translation lang="en">and we start pushing the pendulum back into the other direction.</Translation>
+		<Translation lang="ar">لذلك نبدأ في إعادة عقارب الساعة إلى الجهة الأخرى.</Translation>
+		<Translation lang="fr">et recommencent à pousser le balancier dans l'autre sens.</Translation>
+	</Segment>
+	<Segment id ="150" >
+		<Time-slot>00:07:08,559 --> 00:07:10,786</Time-slot>
+		<Original_text lang="en">In the late '80s and early '90s,</Original_text>
+		<Translation lang="ar">في نهاية الثمانينات وأوائل التسعينات،</Translation>
+		<Translation lang="fr">A la fin des années 80, début 90,</Translation>
+	</Segment>
+	<Segment id ="151" >
+		<Time-slot>00:07:10,810 --> 00:07:14,057</Time-slot>
+		<Translation lang="en">we start experimenting with something called deconstructivism.</Translation>
+		<Translation lang="ar">بدأنا باختبار ما نسميه حركة الهدم.</Translation>
+		<Translation lang="fr">on s'essaye au déconstructivisme.</Translation>
+	</Segment>
+	<Segment id ="152" >
+		<Time-slot>00:07:14,726 --> 00:07:17,472</Time-slot>
+		<Original_text lang="en">We throw out historical symbols,</Original_text>
+		<Translation lang="ar">بدأنا بإلقاء الرموز التاريخية بعيدا،</Translation>
+		<Translation lang="fr">On se débarrasse des symboles historiques,</Translation>
+	</Segment>
+	<Segment id ="153" >
+		<Time-slot>00:07:17,497 --> 00:07:21,343</Time-slot>
+		<Translation lang="en">we rely on new, computer-aided design techniques,</Translation>
+		<Translation lang="ar">واعتمدنا على تقنيات تصميم جديدة مدعومة بالحاسوب،</Translation>
+		<Translation lang="fr">on se sert des nouvelles techniques de conception assistée par ordinateur</Translation>
+	</Segment>
+	<Segment id ="154" >
+		<Time-slot>00:07:21,367 --> 00:07:23,324</Time-slot>
+		<Original_text lang="en">and we come up with new compositions,</Original_text>
+		<Translation lang="ar">وخرجنا بمجموعة من التركيبات الجديدة،</Translation>
+		<Translation lang="fr">et on obtient de nouvelles compositions :</Translation>
+	</Segment>
+	<Segment id ="155" >
+		<Time-slot>00:07:23,348 --> 00:07:26,204</Time-slot>
+		<Original_text lang="en">forms crashing into forms.</Original_text>
+		<Translation lang="ar">من حطام إلى أشكال.</Translation>
+		<Translation lang="fr">des formes s'encastrant dans d'autres formes.</Translation>
+	</Segment>
+	<Segment id ="156" >
+		<Time-slot>00:07:26,228 --> 00:07:29,251</Time-slot>
+		<Original_text lang="en">This is academic and heady stuff,</Original_text>
+		<Translation lang="ar">هذه أمور أكاديمية وصعبة،</Translation>
+		<Translation lang="fr">C'est académique et intellectuel,</Translation>
+	</Segment>
+	<Segment id ="157" >
+		<Time-slot>00:07:29,274 --> 00:07:31,125</Time-slot>
+		<Original_text lang="en">it's super unpopular,</Original_text>
+		<Translation lang="ar">وليست محبوبة تماما.</Translation>
+		<Translation lang="fr">très impopulaire,</Translation>
+	</Segment>
+	<Segment id ="158" >
+		<Time-slot>00:07:31,149 --> 00:07:32,812</Time-slot>
+		<Original_text lang="en">we totally alienate you.</Original_text>
+		<Translation lang="ar">نحن نخذلكم بشكل كبير.</Translation>
+		<Translation lang="fr">on perd tout le monde.</Translation>
+	</Segment>
+	<Segment id ="159" >
+		<Time-slot>00:07:32,836 --> 00:07:37,024</Time-slot>
+		<Translation lang="en">Ordinarily, the pendulum would just swing back into the other direction.</Translation>
+		<Translation lang="ar">عادة ما يتأرجح العقرب وحده ليعود إلى الجهة الأخرى.</Translation>
+		<Translation lang="fr">Normalement, le balancier repartirait dans l'autre sens.</Translation>
+	</Segment>
+	<Segment id ="160" >
+		<Time-slot>00:07:37,048 --> 00:07:39,379</Time-slot>
+		<Original_text lang="en">And then, something amazing happened.</Original_text>
+		<Translation lang="ar">بعد ذلك حصل أمر رائع.</Translation>
+		<Translation lang="fr">Mais là, quelque chose d'étonnant se passe.</Translation>
+	</Segment>
+	<Segment id ="161" >
+		<Time-slot>00:07:40,331 --> 00:07:43,222</Time-slot>
+		<Original_text lang="en">In 1997, this building opened.</Original_text>
+		<Translation lang="ar">سنة 1997، تم افتتاح هذا المبنى.</Translation>
+		<Translation lang="fr">On inaugure cet immeuble en 1997.</Translation>
+	</Segment>
+	<Segment id ="162" >
+		<Time-slot>00:07:43,898 --> 00:07:46,653</Time-slot>
+		<Translation lang="en">This is the Guggenheim Bilbao, by Frank Gehry.</Translation>
+		<Translation lang="ar">هذا هو غوغنهايم بيلباو لمهندسه فرانك غيهري.</Translation>
+		<Translation lang="fr">C'est le Musée Guggenheim, à Bilbao, par Frank Gehry.</Translation>
+	</Segment>
+	<Segment id ="163" >
+		<Time-slot>00:07:48,228 --> 00:07:49,632</Time-slot>
+		<Original_text lang="en">And this building</Original_text>
+		<Translation lang="ar">وهذا المبنى</Translation>
+		<Translation lang="fr">Et ce musée</Translation>
+	</Segment>
+	<Segment id ="164" >
+		<Time-slot>00:07:49,656 --> 00:07:53,920</Time-slot>
+		<Translation lang="en">fundamentally changes the world's relationship to architecture.</Translation>
+		<Translation lang="ar">قد غير جذريا علاقة العالم بالهندسة.</Translation>
+		<Translation lang="fr">change fondamentalement la relation du monde à l'architecture.</Translation>
+	</Segment>
+	<Segment id ="165" >
+		<Time-slot>00:07:54,694 --> 00:07:58,593</Time-slot>
+		<Translation lang="en">Paul Goldberger said that Bilbao was one of those rare moments</Translation>
+		<Translation lang="ar">قال بول غولد برجر أن بيلباو كانت واحدة من تلك العلامات الفارقة</Translation>
+		<Translation lang="fr">Paul Goldberger a dit que Bilbao avait été un de ces rares moments</Translation>
+	</Segment>
+	<Segment id ="166" >
+		<Time-slot>00:07:58,617 --> 00:08:01,920</Time-slot>
+		<Translation lang="en">when critics, academics, and the general public</Translation>
+		<Translation lang="ar">حين يتحد النقاد والأكاديميون والعموم</Translation>
+		<Translation lang="fr">où la critique, les universitaires et le grand public</Translation>
+	</Segment>
+	<Segment id ="167" >
+		<Time-slot>00:08:01,944 --> 00:08:04,711</Time-slot>
+		<Original_text lang="en">were completely united around a building.</Original_text>
+		<Translation lang="ar">بشكل كامل بخصوص مبنى ما.</Translation>
+		<Translation lang="fr">étaient tous tombés d'accord.</Translation>
+	</Segment>
+	<Segment id ="168" >
+		<Time-slot>00:08:05,401 --> 00:08:08,461</Time-slot>
+		<Translation lang="en">The New York Times called this building a miracle.</Translation>
+		<Translation lang="ar">اعتبرت نيو يورك تايمز هذا المبنى كمعجزة.</Translation>
+		<Translation lang="fr">Le New York Times l'a appelé un miracle.</Translation>
+	</Segment>
+	<Segment id ="169" >
+		<Time-slot>00:08:09,160 --> 00:08:14,842</Time-slot>
+		<Original_text lang="en">Tourism in Bilbao increased 2,500 percent</Original_text>
+		<Translation lang="ar">تضاعفت السياحة في بيلباو بنسبة 2500 في المئة</Translation>
+		<Translation lang="fr">Le tourisme à Bilbao a augmenté de 2 500%</Translation>
+	</Segment>
+	<Segment id ="170" >
+		<Time-slot>00:08:14,865 --> 00:08:16,534</Time-slot>
+		<Original_text lang="en">after this building was completed.</Original_text>
+		<Translation lang="ar">بعد الانتهاء من هذا المبنى.</Translation>
+		<Translation lang="fr">après sa construction.</Translation>
+	</Segment>
+	<Segment id ="171" >
+		<Time-slot>00:08:16,884 --> 00:08:20,334</Time-slot>
+		<Translation lang="en">So all of a sudden, everybody wants one of these buildings:</Translation>
+		<Translation lang="ar">فجأة، أصبح الجميع يرغب في واحدة من هذه البنايات:</Translation>
+		<Translation lang="fr">Et tout d'un coup, tout le monde voulait un de ces bâtiments :</Translation>
+	</Segment>
+	<Segment id ="172" >
+		<Time-slot>00:08:21,043 --> 00:08:22,382</Time-slot>
+		<Original_text lang="en">L.A.,</Original_text>
+		<Translation lang="ar">لوس أنجلوس،</Translation>
+		<Translation lang="fr">Los Angeles,</Translation>
+	</Segment>
+	<Segment id ="173" >
+		<Time-slot>00:08:23,632 --> 00:08:25,171</Time-slot>
+		<Original_text lang="en">Seattle,</Original_text>
+		<Translation lang="ar">سياتل،</Translation>
+		<Translation lang="fr">Seattle,</Translation>
+	</Segment>
+	<Segment id ="174" >
+		<Time-slot>00:08:25,196 --> 00:08:26,800</Time-slot>
+		<Original_text lang="en">Chicago,</Original_text>
+		<Translation lang="ar">شيكاغو،</Translation>
+		<Translation lang="fr">Chicago,</Translation>
+	</Segment>
+	<Segment id ="175" >
+		<Time-slot>00:08:26,824 --> 00:08:28,528</Time-slot>
+		<Original_text lang="en">New York,</Original_text>
+		<Translation lang="ar">نيو يورك،</Translation>
+		<Translation lang="fr">New York,</Translation>
+	</Segment>
+	<Segment id ="176" >
+		<Time-slot>00:08:28,552 --> 00:08:30,446</Time-slot>
+		<Original_text lang="en">Cleveland,</Original_text>
+		<Translation lang="ar">كليفلاند،</Translation>
+		<Translation lang="fr">Cleveland,</Translation>
+	</Segment>
+	<Segment id ="177" >
+		<Time-slot>00:08:30,470 --> 00:08:31,713</Time-slot>
+		<Original_text lang="en">Springfield.</Original_text>
+		<Translation lang="ar">سبرينغفيلد.</Translation>
+		<Translation lang="fr">Springfield.</Translation>
+	</Segment>
+	<Segment id ="178" >
+		<Time-slot>00:08:31,737 --> 00:08:32,771</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="179" >
+		<Time-slot>00:08:32,794 --> 00:08:36,017</Time-slot>
+		<Translation lang="en">Everybody wants one, and Gehry is everywhere.</Translation>
+		<Translation lang="ar">الكل أراد مبنى مماثلا، وأصبح غيهري يجوب كل مكان.</Translation>
+		<Translation lang="fr">Tout le monde en voulait un, Gehry était donc partout.</Translation>
+	</Segment>
+	<Segment id ="180" >
+		<Time-slot>00:08:36,042 --> 00:08:39,382</Time-slot>
+		<Original_text lang="en">He is our very first starchitect.</Original_text>
+		<Translation lang="ar">إنه أول مهندس يصبح نجما.</Translation>
+		<Translation lang="fr">Il est notre tout premier starchitecte.</Translation>
+	</Segment>
+	<Segment id ="181" >
+		<Time-slot>00:08:39,989 --> 00:08:44,865</Time-slot>
+		<Translation lang="en">Now, how is it possible that these forms --</Translation>
+		<Translation lang="ar">الآن، كيف من الممكن لهذه الأشكال--</Translation>
+		<Translation lang="fr">Mais comment est-il possible que ces formes</Translation>
+	</Segment>
+	<Segment id ="182" >
+		<Time-slot>00:08:44,889 --> 00:08:46,793</Time-slot>
+		<Original_text lang="en">they're wild and radical --</Original_text>
+		<Translation lang="ar">الجامحة والتقليدية--</Translation>
+		<Translation lang="fr">-- sauvages et radicales --</Translation>
+	</Segment>
+	<Segment id ="183" >
+		<Time-slot>00:08:46,817 --> 00:08:50,657</Time-slot>
+		<Translation lang="en">how is it possible that they become so ubiquitous throughout the world?</Translation>
+		<Translation lang="ar">كيف يمكنها أن تكون في أرجاء العالم؟</Translation>
+		<Translation lang="fr">soient devenues si omniprésentes dans le monde entier ?</Translation>
+	</Segment>
+	<Segment id ="184" >
+		<Time-slot>00:08:51,269 --> 00:08:56,765</Time-slot>
+		<Translation lang="en">And it happened because media so successfully galvanized around them</Translation>
+		<Translation lang="ar">حصل هذا لأن الإعلام نجح جدا في</Translation>
+		<Translation lang="fr">C'est arrivé car les médias se sont si bien emparés du sujet</Translation>
+	</Segment>
+	<Segment id ="185" >
+		<Time-slot>00:08:56,789 --> 00:09:02,586</Time-slot>
+		<Translation lang="en">that they quickly taught us that these forms mean culture and tourism.</Translation>
+		<Translation lang="ar">ليعلمنا بسرعة أن هذه الأشكال تعني الثقافة والسياحة.</Translation>
+		<Translation lang="fr">qu'ils nous ont vite appris que ces formes signifiaient culture et tourisme.</Translation>
+	</Segment>
+	<Segment id ="186" >
+		<Time-slot>00:09:03,067 --> 00:09:06,466</Time-slot>
+		<Translation lang="en">We created an emotional reaction to these forms.</Translation>
+		<Translation lang="ar">فخلقنا ردة فعل عاطفية اتجاه هذه الأشكال.</Translation>
+		<Translation lang="fr">Nous avons créé une réaction émotionnelle à ces formes.</Translation>
+	</Segment>
+	<Segment id ="187" >
+		<Time-slot>00:09:06,490 --> 00:09:08,861</Time-slot>
+		<Original_text lang="en">So did every mayor in the world.</Original_text>
+		<Translation lang="ar">وكذلك فعل كل عمدة مدينة في العالم.</Translation>
+		<Translation lang="fr">Tous les maires du monde l'ont fait aussi.</Translation>
+	</Segment>
+	<Segment id ="188" >
+		<Time-slot>00:09:08,966 --> 00:09:11,468</Time-slot>
+		<Translation lang="en">So every mayor knew that if they had these forms,</Translation>
+		<Translation lang="ar">إذ أن كل عمدة يعلم أنه إن كانت لمدينته أشكال كهذه،</Translation>
+		<Translation lang="fr">Chaque maire savait que si sa ville avait ces formes,</Translation>
+	</Segment>
+	<Segment id ="189" >
+		<Time-slot>00:09:11,493 --> 00:09:14,483</Time-slot>
+		<Original_text lang="en">they had culture and tourism.</Original_text>
+		<Translation lang="ar">فهي تمتلك الثقافة والسياحة.</Translation>
+		<Translation lang="fr">elle aurait la culture et le tourisme.</Translation>
+	</Segment>
+	<Segment id ="190" >
+		<Time-slot>00:09:15,778 --> 00:09:18,110</Time-slot>
+		<Translation lang="en">This phenomenon at the turn of the new millennium</Translation>
+		<Translation lang="ar">حصلت هذه الظاهرة مع بداية الألفية الجديدة</Translation>
+		<Translation lang="fr">Ce phénomène, au changement de millénaire,</Translation>
+	</Segment>
+	<Segment id ="191" >
+		<Time-slot>00:09:18,134 --> 00:09:20,264</Time-slot>
+		<Original_text lang="en">happened to a few other starchitects.</Original_text>
+		<Translation lang="ar">لبعض من المهندسين النجوم الآخرين.</Translation>
+		<Translation lang="fr">s'est déroulé pour quelques starchitectes.</Translation>
+	</Segment>
+	<Segment id ="192" >
+		<Time-slot>00:09:20,288 --> 00:09:22,671</Time-slot>
+		<Original_text lang="en">It happened to Zaha</Original_text>
+		<Translation lang="ar">حصلت مع زاها</Translation>
+		<Translation lang="fr">Zaha,</Translation>
+	</Segment>
+	<Segment id ="193" >
+		<Time-slot>00:09:22,695 --> 00:09:25,094</Time-slot>
+		<Original_text lang="en">and it happened to Libeskind,</Original_text>
+		<Translation lang="ar">ليبسكايند،</Translation>
+		<Translation lang="fr">Libeskind.</Translation>
+	</Segment>
+	<Segment id ="194" >
+		<Time-slot>00:09:25,118 --> 00:09:29,732</Time-slot>
+		<Translation lang="en">and what happened to these elite few architects</Translation>
+		<Translation lang="ar">وما حصل مع هذه النخبة القليلة من المهندسين</Translation>
+		<Translation lang="fr">Ce qui est arrivé à ces architectes hors du commun,</Translation>
+	</Segment>
+	<Segment id ="195" >
+		<Time-slot>00:09:29,755 --> 00:09:31,511</Time-slot>
+		<Original_text lang="en">at the turn of the new millennium</Original_text>
+		<Translation lang="ar">مع بداية الألفية الجديدة</Translation>
+		<Translation lang="fr">au début du nouveau millénaire,</Translation>
+	</Segment>
+	<Segment id ="196" >
+		<Time-slot>00:09:31,535 --> 00:09:35,212</Time-slot>
+		<Translation lang="en">could actually start to happen to the entire field of architecture,</Translation>
+		<Translation lang="ar">كان ليبدأ في التأثير على مجال الهندسة ككل،</Translation>
+		<Translation lang="fr">pourrait arriver à l'architecture tout entière,</Translation>
+	</Segment>
+	<Segment id ="197" >
+		<Time-slot>00:09:35,236 --> 00:09:38,475</Time-slot>
+		<Translation lang="en">as digital media starts to increase the speed</Translation>
+		<Translation lang="ar">حيث بدأ الإعلام الرقمي في زيادة السرعة</Translation>
+		<Translation lang="fr">les médias numériques augmentant la vitesse</Translation>
+	</Segment>
+	<Segment id ="198" >
+		<Time-slot>00:09:38,499 --> 00:09:40,314</Time-slot>
+		<Original_text lang="en">with which we consume information.</Original_text>
+		<Translation lang="ar">التي نستهلك بها المعلومات.</Translation>
+		<Translation lang="fr">de consommation de l'information.</Translation>
+	</Segment>
+	<Segment id ="199" >
+		<Time-slot>00:09:41,096 --> 00:09:44,043</Time-slot>
+		<Translation lang="en">Because think about how you consume architecture.</Translation>
+		<Translation lang="ar">فكروا كيف أنكم تستهلكون الهندسة.</Translation>
+		<Translation lang="fr">Pensez à la manière dont vous consommez l'architecture.</Translation>
+	</Segment>
+	<Segment id ="200" >
+		<Time-slot>00:09:44,428 --> 00:09:45,644</Time-slot>
+		<Original_text lang="en">A thousand years ago,</Original_text>
+		<Translation lang="ar">مند 1000 سنة،</Translation>
+		<Translation lang="fr">Il y a mille ans,</Translation>
+	</Segment>
+	<Segment id ="201" >
+		<Time-slot>00:09:45,668 --> 00:09:49,488</Time-slot>
+		<Translation lang="en">you would have had to have walked to the village next door to see a building.</Translation>
+		<Translation lang="ar">كان عليكم أن تسيروا باتجاه القرية المجاورة لتروا بناية ما.</Translation>
+		<Translation lang="fr">vous auriez dû marcher jusqu'au village d'à côté pour voir un bâtiment.</Translation>
+	</Segment>
+	<Segment id ="202" >
+		<Time-slot>00:09:49,488 --> 00:09:51,118</Time-slot>
+		<Original_text lang="en">Transportation speeds up:</Original_text>
+		<Translation lang="ar">تزداد سرعة المواصلات:</Translation>
+		<Translation lang="fr">Le transport s'accélère :</Translation>
+	</Segment>
+	<Segment id ="203" >
+		<Time-slot>00:09:51,142 --> 00:09:54,142</Time-slot>
+		<Translation lang="en">You can take a boat, you can take a plane, you can be a tourist.</Translation>
+		<Translation lang="ar">يمكنك أن تبحر في سفينة، أن تستقل طائرة، أن تكون سائحا.</Translation>
+		<Translation lang="fr">vous pouvez prendre un bateau, un avion, devenir un touriste.</Translation>
+	</Segment>
+	<Segment id ="204" >
+		<Time-slot>00:09:54,166 --> 00:09:57,063</Time-slot>
+		<Translation lang="en">Technology speeds up: You can see it in a newspaper, on TV,</Translation>
+		<Translation lang="ar">تزداد سرعة التكنولوجيا: يمكن أن تراها في الجريدة، أو على التلفاز،</Translation>
+		<Translation lang="fr">La technologie aussi : vous le voyez dans un journal, à la télé.</Translation>
+	</Segment>
+	<Segment id ="205" >
+		<Time-slot>00:09:57,086 --> 00:10:01,950</Time-slot>
+		<Translation lang="en">until finally, we are all architectural photographers,</Translation>
+		<Translation lang="ar">في النهاية، كلنا مهندسون مصورون،</Translation>
+		<Translation lang="fr">Et finalement, nous sommes tous des photographes architecturaux :</Translation>
+	</Segment>
+	<Segment id ="206" >
+		<Time-slot>00:10:01,974 --> 00:10:05,874</Time-slot>
+		<Translation lang="en">and the building has become disembodied from the site.</Translation>
+		<Translation lang="ar">وقد تم تحرير روح البناية من الموقع</Translation>
+		<Translation lang="fr">le bâtiment est décorrélé de son site.</Translation>
+	</Segment>
+	<Segment id ="207" >
+		<Time-slot>00:10:06,768 --> 00:10:10,315</Time-slot>
+		<Original_text lang="en">Architecture is everywhere now,</Original_text>
+		<Translation lang="ar">الهندسة في كل مكان الآن،</Translation>
+		<Translation lang="fr">L'architecture est partout de nos jours.</Translation>
+	</Segment>
+	<Segment id ="208" >
+		<Time-slot>00:10:10,339 --> 00:10:13,453</Time-slot>
+		<Translation lang="en">and that means that the speed of communication</Translation>
+		<Translation lang="ar">وهذا ما يعني أن سرعة التواصل</Translation>
+		<Translation lang="fr">La vitesse de communication</Translation>
+	</Segment>
+	<Segment id ="209" >
+		<Time-slot>00:10:13,476 --> 00:10:16,569</Time-slot>
+		<Translation lang="en">has finally caught up to the speed of architecture.</Translation>
+		<Translation lang="ar">قد لحقت أخيرا بسرعة الهندسة.</Translation>
+		<Translation lang="fr">a finalement rattrapé la vitesse de l'architecture.</Translation>
+	</Segment>
+	<Segment id ="210" >
+		<Time-slot>00:10:17,408 --> 00:10:19,879</Time-slot>
+		<Translation lang="en">Because architecture actually moves quite quickly.</Translation>
+		<Translation lang="ar">لأن الهندسة تتحرك بسرعة نوعا ما.</Translation>
+		<Translation lang="fr">L'architecture évolue plutôt rapidement, en fait.</Translation>
+	</Segment>
+	<Segment id ="211" >
+		<Time-slot>00:10:19,903 --> 00:10:22,610</Time-slot>
+		<Translation lang="en">It doesn't take long to think about a building.</Translation>
+		<Translation lang="ar">لا يتطلب التفكير في تصميم بناية وقتا طويلا.</Translation>
+		<Translation lang="fr">Il faut peu de temps pour imaginer un bâtiment.</Translation>
+	</Segment>
+	<Segment id ="212" >
+		<Time-slot>00:10:22,634 --> 00:10:24,788</Time-slot>
+		<Original_text lang="en">It takes a long time to build a building,</Original_text>
+		<Translation lang="ar">بل بناؤها هو الذي يأخذ وقتا طويل،</Translation>
+		<Translation lang="fr">Il en faut pour le construire</Translation>
+	</Segment>
+	<Segment id ="213" >
+		<Time-slot>00:10:24,812 --> 00:10:27,105</Time-slot>
+		<Original_text lang="en">three or four years,</Original_text>
+		<Translation lang="ar">ثلاث أو أربع سنوات،</Translation>
+		<Translation lang="fr">-- trois ou quatre ans --</Translation>
+	</Segment>
+	<Segment id ="214" >
+		<Time-slot>00:10:27,129 --> 00:10:30,798</Time-slot>
+		<Translation lang="en">and in the interim, an architect will design two or eight</Translation>
+		<Translation lang="ar">وفي تلك الفترة سيصمم مهندس تصميمين أو ثمانية</Translation>
+		<Translation lang="fr">et pendant ce temps-là, un architecte va concevoir deux, huit</Translation>
+	</Segment>
+	<Segment id ="215" >
+		<Time-slot>00:10:30,822 --> 00:10:33,467</Time-slot>
+		<Original_text lang="en">or a hundred other buildings</Original_text>
+		<Translation lang="ar">أو مئة بناية أخرى</Translation>
+		<Translation lang="fr">ou cent autres bâtiments</Translation>
+	</Segment>
+	<Segment id ="216" >
+		<Time-slot>00:10:33,491 --> 00:10:37,182</Time-slot>
+		<Translation lang="en">before they know if that building that they designed four years ago</Translation>
+		<Translation lang="ar">قبل أن يعرف هل حقق المبنى الذي صممه منذ أربع سنوات</Translation>
+		<Translation lang="fr">avant de savoir si celui conçu quatre ans auparavant</Translation>
+	</Segment>
+	<Segment id ="217" >
+		<Time-slot>00:10:37,206 --> 00:10:39,085</Time-slot>
+		<Original_text lang="en">was a success or not.</Original_text>
+		<Translation lang="ar">نجاحا أم لا.</Translation>
+		<Translation lang="fr">sera un succès ou non.</Translation>
+	</Segment>
+	<Segment id ="218" >
+		<Time-slot>00:10:39,690 --> 00:10:43,239</Time-slot>
+		<Translation lang="en">That's because there's never been a good feedback loop in architecture.</Translation>
+		<Translation lang="ar">ذلك أنه لا توجد في الهندسة حلقة تغذية رجعية.</Translation>
+		<Translation lang="fr">C'est dû à l'absence de boucle de retour en architecture.</Translation>
+	</Segment>
+	<Segment id ="219" >
+		<Time-slot>00:10:44,416 --> 00:10:47,308</Time-slot>
+		<Translation lang="en">That's how we end up with buildings like this.</Translation>
+		<Translation lang="ar">لذلك ينتهي بنا المطاف ببنايات كهذه.</Translation>
+		<Translation lang="fr">C'est pour ça qu'on se retrouve avec des bâtiments comme celui-ci.</Translation>
+	</Segment>
+	<Segment id ="220" >
+		<Time-slot>00:10:47,331 --> 00:10:50,272</Time-slot>
+		<Original_text lang="en">Brutalism wasn't a two-year movement,</Original_text>
+		<Translation lang="ar">ليست حركة العمارة الوحشية وليدة سنتين فقط،</Translation>
+		<Translation lang="fr">Le brutalisme n'a pas duré deux ans,</Translation>
+	</Segment>
+	<Segment id ="221" >
+		<Time-slot>00:10:50,296 --> 00:10:52,167</Time-slot>
+		<Original_text lang="en">it was a 20-year movement.</Original_text>
+		<Translation lang="ar">فهي حركة عمرها 20 سنة.</Translation>
+		<Translation lang="fr">mais vingt.</Translation>
+	</Segment>
+	<Segment id ="222" >
+		<Time-slot>00:10:52,383 --> 00:10:56,201</Time-slot>
+		<Translation lang="en">For 20 years, we were producing buildings like this</Translation>
+		<Translation lang="ar">منذ 20 سنة كنا نخرج للوجود بنايات كهذه</Translation>
+		<Translation lang="fr">Pendant 20 ans, on a construit des bâtiments comme ça</Translation>
+	</Segment>
+	<Segment id ="223" >
+		<Time-slot>00:10:56,225 --> 00:10:59,093</Time-slot>
+		<Translation lang="en">because we had no idea how much you hated it.</Translation>
+		<Translation lang="ar">لأننا لم نكن ندري كم كنتم تكرهونها.</Translation>
+		<Translation lang="fr">parce qu'on ne savait pas à quel point vous les haïssiez.</Translation>
+	</Segment>
+	<Segment id ="224" >
+		<Time-slot>00:11:00,283 --> 00:11:03,083</Time-slot>
+		<Original_text lang="en">It's never going to happen again,</Original_text>
+		<Translation lang="ar">لن يحدث هذا مجددا،</Translation>
+		<Translation lang="fr">Ça n'arrivera plus jamais,</Translation>
+	</Segment>
+	<Segment id ="225" >
+		<Time-slot>00:11:03,107 --> 00:11:05,237</Time-slot>
+		<Original_text lang="en">I think,</Original_text>
+		<Translation lang="ar">على ما أعتقد،</Translation>
+		<Translation lang="fr">je pense,</Translation>
+	</Segment>
+	<Segment id ="226" >
+		<Time-slot>00:11:05,261 --> 00:11:11,361</Time-slot>
+		<Translation lang="en">because we are living on the verge of the greatest revolution in architecture</Translation>
+		<Translation lang="ar">لأننا نعيش على حافة واحدة من أعظم الثورات الهندسية</Translation>
+		<Translation lang="fr">car nous sommes sur le point de vivre la plus grande révolution de l'architecture</Translation>
+	</Segment>
+	<Segment id ="227" >
+		<Time-slot>00:11:11,385 --> 00:11:13,754</Time-slot>
+		<Original_text lang="en">since the invention of concrete,</Original_text>
+		<Translation lang="ar">منذ اختراع الإسمنت،</Translation>
+		<Translation lang="fr">depuis l'invention du béton,</Translation>
+	</Segment>
+	<Segment id ="228" >
+		<Time-slot>00:11:13,778 --> 00:11:16,232</Time-slot>
+		<Original_text lang="en">of steel, or of the elevator,</Original_text>
+		<Translation lang="ar">والحديد، أو المصعد،</Translation>
+		<Translation lang="fr">de l'acier, ou de l'ascenseur :</Translation>
+	</Segment>
+	<Segment id ="229" >
+		<Time-slot>00:11:16,256 --> 00:11:17,938</Time-slot>
+		<Original_text lang="en">and it's a media revolution.</Original_text>
+		<Translation lang="ar">وما صاحبه من ثورة إعلامية.</Translation>
+		<Translation lang="fr">celle des médias.</Translation>
+	</Segment>
+	<Segment id ="230" >
+		<Time-slot>00:11:19,072 --> 00:11:23,731</Time-slot>
+		<Translation lang="en">So my theory is that when you apply media to this pendulum,</Translation>
+		<Translation lang="ar">إذن فنظريتي هي أنه حين تطبق الإعلام على رقاص الساعة،</Translation>
+		<Translation lang="fr">Ma théorie est qu'en ajoutant les médias dans ce mouvement de balancier,</Translation>
+	</Segment>
+	<Segment id ="231" >
+		<Time-slot>00:11:23,755 --> 00:11:26,616</Time-slot>
+		<Original_text lang="en">it starts swinging faster and faster,</Original_text>
+		<Translation lang="ar">فإنه يبدأ في التحرك أسرع فأسرع،</Translation>
+		<Translation lang="fr">vous l'accélérez toujours plus</Translation>
+	</Segment>
+	<Segment id ="232" >
+		<Time-slot>00:11:26,640 --> 00:11:30,379</Time-slot>
+		<Translation lang="en">until it's at both extremes nearly simultaneously,</Translation>
+		<Translation lang="ar">حتى يصل إلى أقصى جانبيه بشكل شبه متزامن،</Translation>
+		<Translation lang="fr">jusqu'à ce qu'il se retrouve aux deux extrémités en même temps,</Translation>
+	</Segment>
+	<Segment id ="233" >
+		<Time-slot>00:11:30,403 --> 00:11:35,370</Time-slot>
+		<Translation lang="en">and that effectively blurs the difference between innovation and symbol,</Translation>
+		<Translation lang="ar">وهذا بالفعل يمحق الفرق بين الإبداع والرموز،</Translation>
+		<Translation lang="fr">ce qui brouille la frontière entre innovation et symbolisme,</Translation>
+	</Segment>
+	<Segment id ="234" >
+		<Time-slot>00:11:35,394 --> 00:11:38,769</Time-slot>
+		<Translation lang="en">between us, the architects, and you, the public.</Translation>
+		<Translation lang="ar">بين بعضنا، بين المهندسين، بينكم، وبين العامة.</Translation>
+		<Translation lang="fr">entre nous, les architectes, et vous, le grand public.</Translation>
+	</Segment>
+	<Segment id ="235" >
+		<Time-slot>00:11:39,341 --> 00:11:45,401</Time-slot>
+		<Translation lang="en">Now we can make nearly instantaneous, emotionally charged symbols</Translation>
+		<Translation lang="ar">يمكننا الآن خلق رموز مشحونة عاطفيا بشكل شبه لحظي</Translation>
+		<Translation lang="fr">Nous pouvons créer instantanément des symboles chargés émotionnellement,</Translation>
+	</Segment>
+	<Segment id ="236" >
+		<Time-slot>00:11:45,426 --> 00:11:47,115</Time-slot>
+		<Original_text lang="en">out of something that's brand new.</Original_text>
+		<Translation lang="ar">من شيء جديد كليا.</Translation>
+		<Translation lang="fr">basés sur quelque chose de nouveau.</Translation>
+	</Segment>
+	<Segment id ="237" >
+		<Time-slot>00:11:48,452 --> 00:11:50,185</Time-slot>
+		<Original_text lang="en">Let me show you how this plays out</Original_text>
+		<Translation lang="ar">دعوني أريكم كيف يعمل هذا الأمر</Translation>
+		<Translation lang="fr">Laissez-moi vous montrer ça</Translation>
+	</Segment>
+	<Segment id ="238" >
+		<Time-slot>00:11:50,210 --> 00:11:52,376</Time-slot>
+		<Translation lang="en">in a project that my firm recently completed.</Translation>
+		<Translation lang="ar">من خلال مشروع أنهته شركتي مؤخرا.</Translation>
+		<Translation lang="fr">sur un projet récemment fini par ma société.</Translation>
+	</Segment>
+	<Segment id ="239" >
+		<Time-slot>00:11:52,828 --> 00:11:56,303</Time-slot>
+		<Translation lang="en">We were hired to replace this building, which burned down.</Translation>
+		<Translation lang="ar">تم جلبنا لنعوض هذا البناء الذي هدم.</Translation>
+		<Translation lang="fr">On était mandaté pour remplacer ce bâtiment, qui avait brûlé.</Translation>
+	</Segment>
+	<Segment id ="240" >
+		<Time-slot>00:11:56,303 --> 00:11:58,773</Time-slot>
+		<Translation lang="en">This is the center of a town called the Pines</Translation>
+		<Translation lang="ar">هذا مركز مدينة تدعى "ذ باينز"</Translation>
+		<Translation lang="fr">C'est le centre-ville de The Pines,</Translation>
+	</Segment>
+	<Segment id ="241" >
+		<Time-slot>00:11:58,797 --> 00:12:00,543</Time-slot>
+		<Original_text lang="en">in Fire Island in New York State.</Original_text>
+		<Translation lang="ar">في "فاير أيلند" في ولاية نيويورك.</Translation>
+		<Translation lang="fr">sur Fire Island, État de New York.</Translation>
+	</Segment>
+	<Segment id ="242" >
+		<Time-slot>00:12:00,567 --> 00:12:01,980</Time-slot>
+		<Original_text lang="en">It's a vacation community.</Original_text>
+		<Translation lang="ar">هي عبارة عن تجمع سياحي.</Translation>
+		<Translation lang="fr">C'est une station balnéaire.</Translation>
+	</Segment>
+	<Segment id ="243" >
+		<Time-slot>00:12:02,729 --> 00:12:06,482</Time-slot>
+		<Original_text lang="en">We proposed a building that was audacious,</Original_text>
+		<Translation lang="ar">اقترحنا بناية تنم عن الشجاعة،</Translation>
+		<Translation lang="fr">Nous avons proposé un bâtiment audacieux,</Translation>
+	</Segment>
+	<Segment id ="244" >
+		<Time-slot>00:12:06,505 --> 00:12:10,156</Time-slot>
+		<Translation lang="en">that was different than any of the forms that the community was used to,</Translation>
+		<Translation lang="ar">كانت مختلفة عن كل البنايات التي تعود عليها السكان،</Translation>
+		<Translation lang="fr">différent de tous les autres auxquels la ville était habituée.</Translation>
+	</Segment>
+	<Segment id ="245" >
+		<Time-slot>00:12:10,181 --> 00:12:14,701</Time-slot>
+		<Translation lang="en">and we were scared and our client was scared</Translation>
+		<Translation lang="ar">كنا خائفين وكان عميلنا خائفا</Translation>
+		<Translation lang="fr">Nous avions peur que notre client ait peur,</Translation>
+	</Segment>
+	<Segment id ="246" >
+		<Time-slot>00:12:14,725 --> 00:12:16,489</Time-slot>
+		<Original_text lang="en">and the community was scared,</Original_text>
+		<Translation lang="ar">وكان السكان خائفون،</Translation>
+		<Translation lang="fr">que la ville ait peur,</Translation>
+	</Segment>
+	<Segment id ="247" >
+		<Time-slot>00:12:16,513 --> 00:12:20,668</Time-slot>
+		<Translation lang="en">so we created a series of photorealistic renderings</Translation>
+		<Translation lang="ar">فخلقنا سلسلة من التصورات الواقعية للإعدادات</Translation>
+		<Translation lang="fr">nous avons donc créé des photomontages</Translation>
+	</Segment>
+	<Segment id ="248" >
+		<Time-slot>00:12:20,692 --> 00:12:22,071</Time-slot>
+		<Original_text lang="en">that we put onto Facebook</Original_text>
+		<Translation lang="ar">ووضعناها على الفيسبوك</Translation>
+		<Translation lang="fr">que nous avons mis sur Facebook</Translation>
+	</Segment>
+	<Segment id ="249" >
+		<Time-slot>00:12:22,095 --> 00:12:24,221</Time-slot>
+		<Original_text lang="en">and we put onto Instagram,</Original_text>
+		<Translation lang="ar">ووضعناها على الانستغرام،</Translation>
+		<Translation lang="fr">et sur Instagram,</Translation>
+	</Segment>
+	<Segment id ="250" >
+		<Time-slot>00:12:24,245 --> 00:12:26,566</Time-slot>
+		<Translation lang="en">and we let people start to do what they do:</Translation>
+		<Translation lang="ar">وتركنا الناس يبدؤون في فعل ما يفعلونه:</Translation>
+		<Translation lang="fr">et nous avons laissé les gens faire.</Translation>
+	</Segment>
+	<Segment id ="251" >
+		<Time-slot>00:12:26,590 --> 00:12:29,291</Time-slot>
+		<Original_text lang="en">share it, comment, like it, hate it.</Original_text>
+		<Translation lang="ar">مشاركتها، التعليق عليها، الإعجاب بها، ومقتها.</Translation>
+		<Translation lang="fr">Ils les ont partagés, commentés,<i> likés</i>, détestés.</Translation>
+	</Segment>
+	<Segment id ="252" >
+		<Time-slot>00:12:30,231 --> 00:12:34,562</Time-slot>
+		<Translation lang="en">But that meant that two years before the building was complete,</Translation>
+		<Translation lang="ar">لكن هذا كان يعني أنه قبل الانتهاء من البناء بسنتين،</Translation>
+		<Translation lang="fr">Mais du coup, deux ans avant que le bâtiment soit fini,</Translation>
+	</Segment>
+	<Segment id ="253" >
+		<Time-slot>00:12:34,586 --> 00:12:37,913</Time-slot>
+		<Original_text lang="en">it was already a part of the community,</Original_text>
+		<Translation lang="ar">كان المبنى مسبقا جزء من المجتمع،</Translation>
+		<Translation lang="fr">il faisait déjà partie de la ville.</Translation>
+	</Segment>
+	<Segment id ="254" >
+		<Time-slot>00:12:37,937 --> 00:12:44,203</Time-slot>
+		<Translation lang="en">so that when the renderings looked exactly like the finished product,</Translation>
+		<Translation lang="ar">وحين تبدو الإعدادات مطابقة تماما للمنتج النهائي،</Translation>
+		<Translation lang="fr">Quand les photomontages ressemblent au produit final,</Translation>
+	</Segment>
+	<Segment id ="255" >
+		<Time-slot>00:12:44,227 --> 00:12:46,187</Time-slot>
+		<Original_text lang="en">there were no surprises.</Original_text>
+		<Translation lang="ar">فلن تكون هناك مفاجآت.</Translation>
+		<Translation lang="fr">il n'y a pas de surprises.</Translation>
+	</Segment>
+	<Segment id ="256" >
+		<Time-slot>00:12:46,211 --> 00:12:50,100</Time-slot>
+		<Translation lang="en">This building was already a part of this community,</Translation>
+		<Translation lang="ar">كان هذا المبنى مسبقا جزء من المجتمع،</Translation>
+		<Translation lang="fr">Le bâtiment faisait déjà partie de la ville,</Translation>
+	</Segment>
+	<Segment id ="257" >
+		<Time-slot>00:12:50,124 --> 00:12:52,408</Time-slot>
+		<Original_text lang="en">and then that first summer,</Original_text>
+		<Translation lang="ar">بعدها في أول صيف حينها،</Translation>
+		<Translation lang="fr">donc le premier été,</Translation>
+	</Segment>
+	<Segment id ="258" >
+		<Time-slot>00:12:52,432 --> 00:12:56,350</Time-slot>
+		<Translation lang="en">when people started arriving and sharing the building on social media,</Translation>
+		<Translation lang="ar">حين بدأ الناس بالتوافد ومشاركة صور البناء على شبكات التواصل الاجتماعي،</Translation>
+		<Translation lang="fr">quand les gens sont venus et l'ont publié sur les réseaux sociaux,</Translation>
+	</Segment>
+	<Segment id ="259" >
+		<Time-slot>00:12:56,375 --> 00:13:01,861</Time-slot>
+		<Translation lang="en">the building ceased to be just an edifice and it became media,</Translation>
+		<Translation lang="ar">لم يعد البناء مجرد بناية بل أصبح إعلاما،</Translation>
+		<Translation lang="fr">il a cessé d'être un simple édifice pour devenir un média,</Translation>
+	</Segment>
+	<Segment id ="260" >
+		<Time-slot>00:13:01,885 --> 00:13:05,668</Time-slot>
+		<Translation lang="en">because these, these are not just pictures of a building,</Translation>
+		<Translation lang="ar">لأن هذه ليست فقط مجرد صور لبناية،</Translation>
+		<Translation lang="fr">parce que ça, ce ne sont pas seulement des photos d'un bâtiment,</Translation>
+	</Segment>
+	<Segment id ="261" >
+		<Time-slot>00:13:05,692 --> 00:13:08,079</Time-slot>
+		<Original_text lang="en">they're your pictures of a building.</Original_text>
+		<Translation lang="ar">بل هي صوركم أنتم لهذه البناية.</Translation>
+		<Translation lang="fr">ce sont vos photos.</Translation>
+	</Segment>
+	<Segment id ="262" >
+		<Time-slot>00:13:08,527 --> 00:13:11,814</Time-slot>
+		<Original_text lang="en">And as you use them to tell your story,</Original_text>
+		<Translation lang="ar">وحين تستعملونها لترووا حكايتكم،</Translation>
+		<Translation lang="fr">Comme vous vous en servez pour raconter votre histoire,</Translation>
+	</Segment>
+	<Segment id ="263" >
+		<Time-slot>00:13:11,837 --> 00:13:14,545</Time-slot>
+		<Translation lang="en">they become part of your personal narrative,</Translation>
+		<Translation lang="ar">فهي تصبح جزء من سردكم،</Translation>
+		<Translation lang="fr">elles deviennent un élément de votre narration</Translation>
+	</Segment>
+	<Segment id ="264" >
+		<Time-slot>00:13:14,570 --> 00:13:18,118</Time-slot>
+		<Translation lang="en">and what you're doing is you're short-circuiting</Translation>
+		<Translation lang="ar">وما تقومون به هو اختصار الطريق</Translation>
+		<Translation lang="fr">court-circuitant ainsi</Translation>
+	</Segment>
+	<Segment id ="265" >
+		<Time-slot>00:13:18,142 --> 00:13:20,392</Time-slot>
+		<Original_text lang="en">all of our collective memory,</Original_text>
+		<Translation lang="ar">على ذاكرتنا الجماعية،</Translation>
+		<Translation lang="fr">toute notre mémoire collective.</Translation>
+	</Segment>
+	<Segment id ="266" >
+		<Time-slot>00:13:20,416 --> 00:13:24,271</Time-slot>
+		<Translation lang="en">and you're making these charged symbols for us to understand.</Translation>
+		<Translation lang="ar">وتخلقون هذه الرموز المشحونة عاطفية لنا لنفهمها.</Translation>
+		<Translation lang="fr">Vous créez ces symboles que nous devons comprendre.</Translation>
+	</Segment>
+	<Segment id ="267" >
+		<Time-slot>00:13:25,187 --> 00:13:27,475</Time-slot>
+		<Translation lang="en">That means we don't need the Greeks anymore</Translation>
+		<Translation lang="ar">هذا يعني أننا لم نعد نحتاج لليونانيين</Translation>
+		<Translation lang="fr">Nous n'avons plus besoin des Grecs</Translation>
+	</Segment>
+	<Segment id ="268" >
+		<Time-slot>00:13:27,500 --> 00:13:30,118</Time-slot>
+		<Translation lang="en">to tell us what to think about architecture.</Translation>
+		<Translation lang="ar">لكي يملوا علينا ما علينا التفكير به بخصوص الهندسة.</Translation>
+		<Translation lang="fr">pour nous dire quoi penser en architecture.</Translation>
+	</Segment>
+	<Segment id ="269" >
+		<Time-slot>00:13:30,142 --> 00:13:34,167</Time-slot>
+		<Translation lang="en">We can tell each other what we think about architecture,</Translation>
+		<Translation lang="ar">يمكن أن نخبر بعضنا البعض عما نعتقده بخصوص الهندسة،</Translation>
+		<Translation lang="fr">Nous pouvons nous le dire entre nous.</Translation>
+	</Segment>
+	<Segment id ="270" >
+		<Time-slot>00:13:34,191 --> 00:13:39,961</Time-slot>
+		<Translation lang="en">because digital media hasn't just changed the relationship between all of us,</Translation>
+		<Translation lang="ar">لأن التواصل الاجتماعي لم يغير علاقتنا ببعضنا فحسب،</Translation>
+		<Translation lang="fr">Les médias numériques n'ont pas changé seulement les relations entre individus,</Translation>
+	</Segment>
+	<Segment id ="271" >
+		<Time-slot>00:13:39,985 --> 00:13:43,514</Time-slot>
+		<Translation lang="en">it's changed the relationship between us and buildings.</Translation>
+		<Translation lang="ar">بل غير أيضا العلاقة بيننا وبين البنايات.</Translation>
+		<Translation lang="fr">mais aussi celles entre les individus et les bâtiments.</Translation>
+	</Segment>
+	<Segment id ="272" >
+		<Time-slot>00:13:44,614 --> 00:13:47,732</Time-slot>
+		<Translation lang="en">Think for a second about those librarians back in Livingston.</Translation>
+		<Translation lang="ar">فكروا للحظة في رواد المكتبة هناك في ليفنغستون.</Translation>
+		<Translation lang="fr">Pensez un instant aux bibliothécaires de Livingston.</Translation>
+	</Segment>
+	<Segment id ="273" >
+		<Time-slot>00:13:48,389 --> 00:13:50,804</Time-slot>
+		<Translation lang="en">If that building was going to be built today,</Translation>
+		<Translation lang="ar">إن كان ذلك البناء سيبنى اليوم،</Translation>
+		<Translation lang="fr">Si on devait construire ce bâtiment aujourd'hui,</Translation>
+	</Segment>
+	<Segment id ="274" >
+		<Time-slot>00:13:50,828 --> 00:13:55,472</Time-slot>
+		<Translation lang="en">the first thing they would do is go online and search "new libraries."</Translation>
+		<Translation lang="ar">كان أول ما سيقومون به هو الذهاب للإنترنت والبحث عن "مكتبات جديدة."</Translation>
+		<Translation lang="fr">ils commenceraient par chercher « nouvelle bibliothèque » sur Internet.</Translation>
+	</Segment>
+	<Segment id ="275" >
+		<Time-slot>00:13:55,705 --> 00:14:00,975</Time-slot>
+		<Translation lang="en">They would be bombarded by examples of experimentation, of innovation,</Translation>
+		<Translation lang="ar">سيفاجؤون حينها بأمثلة عن الاختبارات، وعن الابداع،</Translation>
+		<Translation lang="fr">Ils seraient noyés sous les exemples expérimentaux, innovants,</Translation>
+	</Segment>
+	<Segment id ="276" >
+		<Time-slot>00:14:00,999 --> 00:14:04,187</Time-slot>
+		<Translation lang="en">of pushing at the envelope of what a library can be.</Translation>
+		<Translation lang="ar">والتفكير بشكل أعمق عن ماهية المكتبة.</Translation>
+		<Translation lang="fr">repoussant les limites de ce que peut être une bibliothèque.</Translation>
+	</Segment>
+	<Segment id ="277" >
+		<Time-slot>00:14:04,998 --> 00:14:06,341</Time-slot>
+		<Original_text lang="en">That's ammunition.</Original_text>
+		<Translation lang="ar">تلك هي الذخيرة.</Translation>
+		<Translation lang="fr">Ce sont des éléments</Translation>
+	</Segment>
+	<Segment id ="278" >
+		<Time-slot>00:14:06,846 --> 00:14:09,181</Time-slot>
+		<Translation lang="en">That's ammunition that they can take with them</Translation>
+		<Translation lang="ar">تلك هي الذخيرة التي يمكن أن يأخذوها معهم</Translation>
+		<Translation lang="fr">qu'ils peuvent apporter</Translation>
+	</Segment>
+	<Segment id ="279" >
+		<Time-slot>00:14:09,205 --> 00:14:12,330</Time-slot>
+		<Translation lang="en">to the mayor of Livingston, to the people of Livingston,</Translation>
+		<Translation lang="ar">لعمدة ليفينغستون، ولسكان ليفنغستون،</Translation>
+		<Translation lang="fr">au maire de Livingston, aux gens de Livingston,</Translation>
+	</Segment>
+	<Segment id ="280" >
+		<Time-slot>00:14:12,354 --> 00:14:16,312</Time-slot>
+		<Translation lang="en">and say, there's no one answer to what a library is today.</Translation>
+		<Translation lang="ar">ولنقل ليس هناك تعريف واحد لماهية المكتبة اليوم.</Translation>
+		<Translation lang="fr">pour montrer qu'il n'y a pas qu'un seul type de bibliothèque aujourd'hui.</Translation>
+	</Segment>
+	<Segment id ="281" >
+		<Time-slot>00:14:16,336 --> 00:14:17,822</Time-slot>
+		<Original_text lang="en">Let's be a part of this.</Original_text>
+		<Translation lang="ar">ولنكن جزء من هذا.</Translation>
+		<Translation lang="fr">Participons à ce projet.</Translation>
+	</Segment>
+	<Segment id ="282" >
+		<Time-slot>00:14:18,287 --> 00:14:21,153</Time-slot>
+		<Original_text lang="en">This abundance of experimentation</Original_text>
+		<Translation lang="ar">تواجد التجارب بكثرة</Translation>
+		<Translation lang="fr">Cette profusion d'expérimentations</Translation>
+	</Segment>
+	<Segment id ="283" >
+		<Time-slot>00:14:21,177 --> 00:14:24,235</Time-slot>
+		<Translation lang="en">gives them the freedom to run their own experiment.</Translation>
+		<Translation lang="ar">يعطيهم الحرية لإجراء اختباراتهم.</Translation>
+		<Translation lang="fr">leur offre la liberté de tenter la leur.</Translation>
+	</Segment>
+	<Segment id ="284" >
+		<Time-slot>00:14:26,451 --> 00:14:28,663</Time-slot>
+		<Original_text lang="en">Everything is different now.</Original_text>
+		<Translation lang="ar">كل شيء مختلف الآن.</Translation>
+		<Translation lang="fr">Tout a changé.</Translation>
+	</Segment>
+	<Segment id ="285" >
+		<Time-slot>00:14:28,663 --> 00:14:32,019</Time-slot>
+		<Translation lang="en">Architects are no longer these mysterious creatures</Translation>
+		<Translation lang="ar">لم يعد المهندسون تلك المخلوقات الغامضة</Translation>
+		<Translation lang="fr">Les architectes ne sont plus ces créatures mystérieuses</Translation>
+	</Segment>
+	<Segment id ="286" >
+		<Time-slot>00:14:32,043 --> 00:14:34,538</Time-slot>
+		<Translation lang="en">that use big words and complicated drawings,</Translation>
+		<Translation lang="ar">التي تستعمل كلمات مبهمة ورسوما صعبة،</Translation>
+		<Translation lang="fr">qui sortent de grands mots et des dessins compliqués,</Translation>
+	</Segment>
+	<Segment id ="287" >
+		<Time-slot>00:14:34,562 --> 00:14:37,522</Time-slot>
+		<Original_text lang="en">and you aren't the hapless public,</Original_text>
+		<Translation lang="ar">ولم تعودوا قط ذلك الجمهور المغلوب على أمره،</Translation>
+		<Translation lang="fr">vous n'êtes plus le malheureux public,</Translation>
+	</Segment>
+	<Segment id ="288" >
+		<Time-slot>00:14:37,546 --> 00:14:41,081</Time-slot>
+		<Translation lang="en">the consumer that won't accept anything that they haven't seen anymore.</Translation>
+		<Translation lang="ar">ذلك الزبون الذي لن يقبل شيئا لم يره من قبل.</Translation>
+		<Translation lang="fr">le consommateur qui refusera tout ce qu'il n'a jamais vu.</Translation>
+	</Segment>
+	<Segment id ="289" >
+		<Time-slot>00:14:42,980 --> 00:14:44,712</Time-slot>
+		<Original_text lang="en">Architects can hear you,</Original_text>
+		<Translation lang="ar">المهندسون ينصتون لكم،</Translation>
+		<Translation lang="fr">Les architectes savent vous écouter,</Translation>
+	</Segment>
+	<Segment id ="290" >
+		<Time-slot>00:14:44,736 --> 00:14:46,841</Time-slot>
+		<Translation lang="en">and you're not intimidated by architecture.</Translation>
+		<Translation lang="ar">ولستم تخافون الهندسة</Translation>
+		<Translation lang="fr">et l'architecture ne vous intimide plus.</Translation>
+	</Segment>
+	<Segment id ="291" >
+		<Time-slot>00:14:47,769 --> 00:14:51,151</Time-slot>
+		<Translation lang="en">That means that that pendulum swinging back and forth</Translation>
+		<Translation lang="ar">هذا يعني أن رقاص الساعة الذي يتأرجح إلى الأمام وإلى الخلف</Translation>
+		<Translation lang="fr">Ça signifie que le mouvement de balancier</Translation>
+	</Segment>
+	<Segment id ="292" >
+		<Time-slot>00:14:51,176 --> 00:14:54,153</Time-slot>
+		<Translation lang="en">from style to style, from movement to movement,</Translation>
+		<Translation lang="ar">من طريقة إلى أخرى، من حركة الى أخرى،</Translation>
+		<Translation lang="fr">d'un style à l'autre, d'un mouvement à l'autre,</Translation>
+	</Segment>
+	<Segment id ="293" >
+		<Time-slot>00:14:54,177 --> 00:14:55,458</Time-slot>
+		<Original_text lang="en">is irrelevant.</Original_text>
+		<Translation lang="ar">لم يعد له أي معنى.</Translation>
+		<Translation lang="fr">ne veut plus rien dire.</Translation>
+	</Segment>
+	<Segment id ="294" >
+		<Time-slot>00:14:55,679 --> 00:14:58,279</Time-slot>
+		<Original_text lang="en">We can actually move forward</Original_text>
+		<Translation lang="ar">يمكننا أن نتحرك نحو الأمام</Translation>
+		<Translation lang="fr">On peut aller de l'avant</Translation>
+	</Segment>
+	<Segment id ="295" >
+		<Time-slot>00:14:58,303 --> 00:15:02,669</Time-slot>
+		<Translation lang="en">and find relevant solutions to the problems that our society faces.</Translation>
+		<Translation lang="ar">ونجد حلولا قيمة للمشاكل التي يواجهها مجتمعنا.</Translation>
+		<Translation lang="fr">et trouver des solutions pertinentes aux problèmes de notre société.</Translation>
+	</Segment>
+	<Segment id ="296" >
+		<Time-slot>00:15:03,756 --> 00:15:07,198</Time-slot>
+		<Original_text lang="en">This is the end of architectural history,</Original_text>
+		<Translation lang="ar">هذه هي نهاية تاريخ الهندسة،</Translation>
+		<Translation lang="fr">C'est la fin de l'histoire architecturale.</Translation>
+	</Segment>
+	<Segment id ="297" >
+		<Time-slot>00:15:07,222 --> 00:15:10,091</Time-slot>
+		<Translation lang="en">and it means that the buildings of tomorrow</Translation>
+		<Translation lang="ar">وهذا يعني أن بنايات الغد</Translation>
+		<Translation lang="fr">Les bâtiments de demain</Translation>
+	</Segment>
+	<Segment id ="298" >
+		<Time-slot>00:15:10,115 --> 00:15:13,278</Time-slot>
+		<Translation lang="en">are going to look a lot different than the buildings of today.</Translation>
+		<Translation lang="ar">ستبدو مختلفة كثيرا عن بنايات اليوم.</Translation>
+		<Translation lang="fr">seront très différents de ceux d'aujourd'hui.</Translation>
+	</Segment>
+	<Segment id ="299" >
+		<Time-slot>00:15:14,389 --> 00:15:18,797</Time-slot>
+		<Translation lang="en">It means that a public space in the ancient city of Seville</Translation>
+		<Translation lang="ar">ما يعني أن المساحات العامة في المدينة القديمة لإشبيلية</Translation>
+		<Translation lang="fr">Un espace public dans la vieille ville de Séville</Translation>
+	</Segment>
+	<Segment id ="300" >
+		<Time-slot>00:15:18,821 --> 00:15:23,004</Time-slot>
+		<Translation lang="en">can be unique and tailored to the way that a modern city works.</Translation>
+		<Translation lang="ar">يمكنها أن تكون فريدة ومصممة على النحو الذي تعمل به مدينة حديثة.</Translation>
+		<Translation lang="fr">peut être unique et adapté au mode de vie moderne.</Translation>
+	</Segment>
+	<Segment id ="301" >
+		<Time-slot>00:15:23,991 --> 00:15:28,410</Time-slot>
+		<Translation lang="en">It means that a stadium in Brooklyn can be a stadium in Brooklyn,</Translation>
+		<Translation lang="ar">ما يعني أن ملعبا في بروكلين يمكن أن يكون ملعبا هناك،</Translation>
+		<Translation lang="fr">Un stade à Brooklyn peut être un stade à Brooklyn</Translation>
+	</Segment>
+	<Segment id ="302" >
+		<Time-slot>00:15:28,434 --> 00:15:31,196</Time-slot>
+		<Original_text lang="en">not some red-brick historical pastiche</Original_text>
+		<Translation lang="ar">لا أن يكون تقليدا تاريخيا ذا آجور أحمر</Translation>
+		<Translation lang="fr">et pas une imitation en brique rouge</Translation>
+	</Segment>
+	<Segment id ="303" >
+		<Time-slot>00:15:31,221 --> 00:15:33,701</Time-slot>
+		<Original_text lang="en">of what we think a stadium ought to be.</Original_text>
+		<Translation lang="ar">كما نعتقد أن يكون عليه ملعب ما.</Translation>
+		<Translation lang="fr">de ce qu'on pense devoir être un stade.</Translation>
+	</Segment>
+	<Segment id ="304" >
+		<Time-slot>00:15:34,539 --> 00:15:37,372</Time-slot>
+		<Translation lang="en">It means that robots are going to build our buildings,</Translation>
+		<Translation lang="ar">هذا يعني أن الروبوتات ستبني أبنيتنا،</Translation>
+		<Translation lang="fr">Les robots vont construire nos bâtiments</Translation>
+	</Segment>
+	<Segment id ="305" >
+		<Time-slot>00:15:37,397 --> 00:15:41,014</Time-slot>
+		<Translation lang="en">because we're finally ready for the forms that they're going to produce.</Translation>
+		<Translation lang="ar">لأننا أخيرا مستعدون لاستيعاب الأشكال التي ستنتجها.</Translation>
+		<Translation lang="fr">car nous sommes finalement prêts pour ce qu'ils vont produire.</Translation>
+	</Segment>
+	<Segment id ="306" >
+		<Time-slot>00:15:41,841 --> 00:15:45,692</Time-slot>
+		<Translation lang="en">And it means that buildings will twist to the whims of nature</Translation>
+		<Translation lang="ar">هذا يعني أيضا أن الأبنية ستتمايل مع أهواء الطبيعة</Translation>
+		<Translation lang="fr">Les bâtiments vont se plier au bon vouloir de la nature,</Translation>
+	</Segment>
+	<Segment id ="307" >
+		<Time-slot>00:15:45,716 --> 00:15:47,519</Time-slot>
+		<Original_text lang="en">instead of the other way around.</Original_text>
+		<Translation lang="ar">وليس العكس.</Translation>
+		<Translation lang="fr">et non l'inverse.</Translation>
+	</Segment>
+	<Segment id ="308" >
+		<Time-slot>00:15:48,676 --> 00:15:52,280</Time-slot>
+		<Translation lang="en">It means that a parking garage in Miami Beach, Florida,</Translation>
+		<Translation lang="ar">هذا يعني أن مرأب سيارات في ميامي بيتش في فلوريدا،</Translation>
+		<Translation lang="fr">Un parking à Miami Beach</Translation>
+	</Segment>
+	<Segment id ="309" >
+		<Time-slot>00:15:52,303 --> 00:15:54,788</Time-slot>
+		<Original_text lang="en">can also be a place for sports</Original_text>
+		<Translation lang="ar">يمكنه أن يكون مكانا للرياضة</Translation>
+		<Translation lang="fr">peut aussi être un lieu de sport,</Translation>
+	</Segment>
+	<Segment id ="310" >
+		<Time-slot>00:15:54,812 --> 00:15:56,191</Time-slot>
+		<Original_text lang="en">and for yoga</Original_text>
+		<Translation lang="ar">ولليوغا</Translation>
+		<Translation lang="fr">de yoga,</Translation>
+	</Segment>
+	<Segment id ="311" >
+		<Time-slot>00:15:56,215 --> 00:15:58,793</Time-slot>
+		<Translation lang="en">and you can even get married there late at night.</Translation>
+		<Translation lang="ar">ويمكنكم أيضا أن تتزوجوا هناك في وقت متأخر من الليل.</Translation>
+		<Translation lang="fr">voire le lieu de votre mariage.</Translation>
+	</Segment>
+	<Segment id ="312" >
+		<Time-slot>00:15:58,817 --> 00:15:59,841</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="313" >
+		<Time-slot>00:15:59,865 --> 00:16:04,028</Time-slot>
+		<Translation lang="en">It means that three architects can dream about swimming</Translation>
+		<Translation lang="ar">هذا يعني أن يحلم ثلاثة مهندسين بالسباحة</Translation>
+		<Translation lang="fr">Trois architectes peuvent rêver nager</Translation>
+	</Segment>
+	<Segment id ="314" >
+		<Time-slot>00:16:04,052 --> 00:16:05,972</Time-slot>
+		<Original_text lang="en">in the East River of New York,</Original_text>
+		<Translation lang="ar">في النهر الشرقي في نيويورك،</Translation>
+		<Translation lang="fr">dans l'<i>East River</i> à New York,</Translation>
+	</Segment>
+	<Segment id ="315" >
+		<Time-slot>00:16:05,996 --> 00:16:08,486</Time-slot>
+		<Translation lang="en">and then raise nearly half a million dollars</Translation>
+		<Translation lang="ar">فيجمعون ما يقارب نصف مليون دولار</Translation>
+		<Translation lang="fr">et lever près de 500 000 dollars</Translation>
+	</Segment>
+	<Segment id ="316" >
+		<Time-slot>00:16:08,510 --> 00:16:11,838</Time-slot>
+		<Translation lang="en">from a community that gathered around their cause,</Translation>
+		<Translation lang="ar">من الناس الذين تجمعوا حول قضيتهم،</Translation>
+		<Translation lang="fr">auprès de gens réunis autour de ce projet,</Translation>
+	</Segment>
+	<Segment id ="317" >
+		<Time-slot>00:16:11,863 --> 00:16:13,593</Time-slot>
+		<Original_text lang="en">no one client anymore.</Original_text>
+		<Translation lang="ar">لم يعد لديهم حتى زبون واحد.</Translation>
+		<Translation lang="fr">on n'a plus un unique client.</Translation>
+	</Segment>
+	<Segment id ="318" >
+		<Time-slot>00:16:14,764 --> 00:16:17,665</Time-slot>
+		<Translation lang="en">It means that no building is too small for innovation,</Translation>
+		<Translation lang="ar">هذا يعني أنه لا بناية قط أصغر من أن يبدع فيها،</Translation>
+		<Translation lang="fr">Aucun bâtiment n'est trop petit pour l'innovation</Translation>
+	</Segment>
+	<Segment id ="319" >
+		<Time-slot>00:16:17,690 --> 00:16:19,888</Time-slot>
+		<Original_text lang="en">like this little reindeer pavilion</Original_text>
+		<Translation lang="ar">كجناح الأيل الصغير هذا</Translation>
+		<Translation lang="fr">comme ce petit observatoire à rennes,</Translation>
+	</Segment>
+	<Segment id ="320" >
+		<Time-slot>00:16:19,912 --> 00:16:25,003</Time-slot>
+		<Translation lang="en">that's as muscly and sinewy as the animals it's designed to observe.</Translation>
+		<Translation lang="ar">فهو قوي ووتري كتلك الحيوانات التي صمم لمراقبتها.</Translation>
+		<Translation lang="fr">qui est aussi musculeux et nerveux que les animaux qu'il permettra d'observer.</Translation>
+	</Segment>
+	<Segment id ="321" >
+		<Time-slot>00:16:25,807 --> 00:16:28,546</Time-slot>
+		<Translation lang="en">And it means that a building doesn't have to be beautiful</Translation>
+		<Translation lang="ar">وهذا يعني ألا يجب على بناية ما أن تكون جميلة</Translation>
+		<Translation lang="fr">Un bâtiment n'a pas besoin d'être beau</Translation>
+	</Segment>
+	<Segment id ="322" >
+		<Time-slot>00:16:28,570 --> 00:16:29,863</Time-slot>
+		<Original_text lang="en">to be lovable,</Original_text>
+		<Translation lang="ar">لكي تكون محبوبة،</Translation>
+		<Translation lang="fr">pour être apprécié,</Translation>
+	</Segment>
+	<Segment id ="323" >
+		<Time-slot>00:16:29,886 --> 00:16:32,901</Time-slot>
+		<Original_text lang="en">like this ugly little building in Spain,</Original_text>
+		<Translation lang="ar">كهذه البناية الصغيرة القبيحة في اسبانيا،</Translation>
+		<Translation lang="fr">comme celui-ci en Espagne, petit et moche.</Translation>
+	</Segment>
+	<Segment id ="324" >
+		<Time-slot>00:16:32,926 --> 00:16:35,407</Time-slot>
+		<Original_text lang="en">where the architects dug a hole,</Original_text>
+		<Translation lang="ar">حيث حفر المهندسون حفرة،</Translation>
+		<Translation lang="fr">Les architectes ont creusé un trou</Translation>
+	</Segment>
+	<Segment id ="325" >
+		<Time-slot>00:16:35,431 --> 00:16:36,812</Time-slot>
+		<Original_text lang="en">packed it with hay,</Original_text>
+		<Translation lang="ar">وملؤوها بالقش.</Translation>
+		<Translation lang="fr">qu'ils ont rempli de foin,</Translation>
+	</Segment>
+	<Segment id ="326" >
+		<Time-slot>00:16:36,836 --> 00:16:39,169</Time-slot>
+		<Original_text lang="en">and then poured concrete around it,</Original_text>
+		<Translation lang="ar">وأفرغوا الإسمنت حولها،</Translation>
+		<Translation lang="fr">puis entouré de béton.</Translation>
+	</Segment>
+	<Segment id ="327" >
+		<Time-slot>00:16:39,193 --> 00:16:40,833</Time-slot>
+		<Original_text lang="en">and when the concrete dried,</Original_text>
+		<Translation lang="ar">وحين جف الإسمنت،</Translation>
+		<Translation lang="fr">Une fois ce béton sec,</Translation>
+	</Segment>
+	<Segment id ="328" >
+		<Time-slot>00:16:40,857 --> 00:16:44,417</Time-slot>
+		<Translation lang="en">they invited someone to come and clean that hay out</Translation>
+		<Translation lang="ar">دعوا أحدهم ليأتي وينظف القش</Translation>
+		<Translation lang="fr">ils ont demandé à quelqu'un de retirer le foin.</Translation>
+	</Segment>
+	<Segment id ="329" >
+		<Time-slot>00:16:44,442 --> 00:16:47,373</Time-slot>
+		<Original_text lang="en">so that all that's left when it's done</Original_text>
+		<Translation lang="ar">حتى لا يتبقى منه</Translation>
+		<Translation lang="fr">Tout ce qu'il reste finalement,</Translation>
+	</Segment>
+	<Segment id ="330" >
+		<Time-slot>00:16:47,397 --> 00:16:50,072</Time-slot>
+		<Original_text lang="en">is this hideous little room</Original_text>
+		<Translation lang="ar">إلا هذه الغرفة الصغيرة الخفية</Translation>
+		<Translation lang="fr">c'est ce petit espace hideux</Translation>
+	</Segment>
+	<Segment id ="331" >
+		<Time-slot>00:16:50,096 --> 00:16:56,049</Time-slot>
+		<Translation lang="en">that's filled with the imprints and scratches of how that place was made,</Translation>
+		<Translation lang="ar">المليئة بالبقايا والخربشات التي تنم عما صنع منه هذا المكان،</Translation>
+		<Translation lang="fr">plein des traces et des rayures qui montrent comment ça a été fait.</Translation>
+	</Segment>
+	<Segment id ="332" >
+		<Time-slot>00:16:56,073 --> 00:17:00,557</Time-slot>
+		<Translation lang="en">and that becomes the most sublime place to watch a Spanish sunset.</Translation>
+		<Translation lang="ar">والذي أصبح واحدا من أكثر الأماكن سحرا لمشاهدة الغروب الإسباني.</Translation>
+		<Translation lang="fr">C'est devenu le plus bel endroit pour voir un coucher de soleil en Espagne.</Translation>
+	</Segment>
+	<Segment id ="333" >
+		<Time-slot>00:17:01,658 --> 00:17:05,012</Time-slot>
+		<Translation lang="en">Because it doesn't matter if a cow builds our buildings</Translation>
+		<Translation lang="ar">لأنه لا يهم إن كانت بقرة هي من بنت بناياتنا</Translation>
+		<Translation lang="fr">Aucune importance si nos bâtiments sont construits par une vache</Translation>
+	</Segment>
+	<Segment id ="334" >
+		<Time-slot>00:17:05,037 --> 00:17:06,846</Time-slot>
+		<Original_text lang="en">or a robot builds our buildings.</Original_text>
+		<Translation lang="ar">أو روبوت من بناها.</Translation>
+		<Translation lang="fr">ou par des robots.</Translation>
+	</Segment>
+	<Segment id ="335" >
+		<Time-slot>00:17:06,871 --> 00:17:10,219</Time-slot>
+		<Translation lang="en">It doesn't matter how we build, it matters what we build.</Translation>
+		<Translation lang="ar">لا يهم كيف نبني، ما يهم هو ما نبنيه.</Translation>
+		<Translation lang="fr">Peu importe la manière, seul importe ce que nous construisons.</Translation>
+	</Segment>
+	<Segment id ="336" >
+		<Time-slot>00:17:10,898 --> 00:17:14,323</Time-slot>
+		<Translation lang="en">Architects already know how to make buildings that are greener</Translation>
+		<Translation lang="ar">يعرف المهندسون مسبقا كيف يبنون بنايات صديقة للبيئة</Translation>
+		<Translation lang="fr">Les architectes savent déjà construire des bâtiments plus écologiques,</Translation>
+	</Segment>
+	<Segment id ="337" >
+		<Time-slot>00:17:14,347 --> 00:17:16,505</Time-slot>
+		<Original_text lang="en">and smarter and friendlier.</Original_text>
+		<Translation lang="ar">أكثر ذكاء وأسهل في الاستخدام.</Translation>
+		<Translation lang="fr">plus intelligents, plus accueillants.</Translation>
+	</Segment>
+	<Segment id ="338" >
+		<Time-slot>00:17:16,529 --> 00:17:19,104</Time-slot>
+		<Translation lang="en">We've just been waiting for all of you to want them.</Translation>
+		<Translation lang="ar">كنا فقط ننتظركم جميعا أن تعجبوا بها.</Translation>
+		<Translation lang="fr">Nous attendons juste que vous les désiriez.</Translation>
+	</Segment>
+	<Segment id ="339" >
+		<Time-slot>00:17:20,021 --> 00:17:23,349</Time-slot>
+		<Translation lang="en">And finally, we're not on opposite sides anymore.</Translation>
+		<Translation lang="ar">وأخيرا، لم نعد قط على الجهة المقابلة.</Translation>
+		<Translation lang="fr">Finalement, nous ne sommes plus en opposition.</Translation>
+	</Segment>
+	<Segment id ="340" >
+		<Time-slot>00:17:23,957 --> 00:17:26,929</Time-slot>
+		<Original_text lang="en">Find an architect, hire an architect,</Original_text>
+		<Translation lang="ar">جد مهندسا، استعمل مهندسا،</Translation>
+		<Translation lang="fr">Trouvez un architecte, embauchez-le,</Translation>
+	</Segment>
+	<Segment id ="341" >
+		<Time-slot>00:17:26,952 --> 00:17:32,769</Time-slot>
+		<Translation lang="en">work with us to design better buildings, better cities, and a better world,</Translation>
+		<Translation lang="ar">اعمل معنا لنصمم بنايات أفضل، مدنا أفضل، وعالما أفضل.</Translation>
+		<Translation lang="fr">travaillons à concevoir des bâtiments, des villes et un monde meilleurs.</Translation>
+	</Segment>
+	<Segment id ="342" >
+		<Time-slot>00:17:32,794 --> 00:17:35,034</Time-slot>
+		<Original_text lang="en">because the stakes are high.</Original_text>
+		<Translation lang="ar">لأن المعايير عالية.</Translation>
+		<Translation lang="fr">Les enjeux sont colossaux.</Translation>
+	</Segment>
+	<Segment id ="343" >
+		<Time-slot>00:17:35,634 --> 00:17:40,825</Time-slot>
+		<Translation lang="en">Buildings don't just reflect our society, they shape our society</Translation>
+		<Translation lang="ar">لا تعكس البنايات مجتمعنا، بل تحدد معالمه</Translation>
+		<Translation lang="fr">Les bâtiments ne reflètent pas seulement notre société, ils la façonnent.</Translation>
+	</Segment>
+	<Segment id ="344" >
+		<Time-slot>00:17:40,848 --> 00:17:42,900</Time-slot>
+		<Original_text lang="en">down to the smallest spaces:</Original_text>
+		<Translation lang="ar">من خلال أبسط الفضاءات:</Translation>
+		<Translation lang="fr">Jusque dans les plus petits espaces :</Translation>
+	</Segment>
+	<Segment id ="345" >
+		<Time-slot>00:17:42,924 --> 00:17:44,928</Time-slot>
+		<Original_text lang="en">the local libraries,</Original_text>
+		<Translation lang="ar">المكتبات المحلية،</Translation>
+		<Translation lang="fr">les bibliothèques municipales,</Translation>
+	</Segment>
+	<Segment id ="346" >
+		<Time-slot>00:17:44,952 --> 00:17:47,382</Time-slot>
+		<Original_text lang="en">the homes where we raise our children,</Original_text>
+		<Translation lang="ar">المنازل التي نربي فيها أطفالنا،</Translation>
+		<Translation lang="fr">les maisons où nous élevons nos enfants,</Translation>
+	</Segment>
+	<Segment id ="347" >
+		<Time-slot>00:17:47,405 --> 00:17:50,598</Time-slot>
+		<Translation lang="en">and the walk that they take from the bedroom to the bathroom.</Translation>
+		<Translation lang="ar">والممر الذي يأخذونه من غرفة النوم إلى الحمام.</Translation>
+		<Translation lang="fr">et le chemin entre la chambre et la salle de bains.</Translation>
+	</Segment>
+	<Segment id ="348" >
+		<Time-slot>00:17:51,288 --> 00:17:52,387</Time-slot>
+		<Original_text lang="en">Thank you.</Original_text>
+		<Translation lang="ar">شكرا لكم.</Translation>
+		<Translation lang="fr">Merci.</Translation>
+	</Segment>
+	<Segment id ="349" >
+		<Time-slot>00:17:52,412 --> 00:17:55,412</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+</Talk>
+</MulTed>

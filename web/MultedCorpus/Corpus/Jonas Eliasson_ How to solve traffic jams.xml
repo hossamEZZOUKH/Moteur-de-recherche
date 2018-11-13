@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MulTed>
+
+<Talk Speaker = "Jonas Eliasson" Title= " How to solve traffic jams" >
+	<Segment id ="1" >
+		<Time-slot>00:00:16,984 --> 00:00:19,902</Time-slot>
+		<Original_text lang="en">Hi. I'm here to talk about congestion,</Original_text>
+		<Translation lang="ar">مرحبا، سأتحدث اليوم عن الازدحام</Translation>
+		<Translation lang="fr">Bonjour, je viens vous parler d'embouteillages</Translation>
+	</Segment>
+	<Segment id ="2" >
+		<Time-slot>00:00:19,902 --> 00:00:21,256</Time-slot>
+		<Original_text lang="en">namely road congestion.</Original_text>
+		<Translation lang="ar">وأعني ازدحام الطرق بالأخص</Translation>
+		<Translation lang="fr">à savoir les embouteillages du trafic routier.</Translation>
+	</Segment>
+	<Segment id ="3" >
+		<Time-slot>00:00:21,256 --> 00:00:23,516</Time-slot>
+		<Original_text lang="en">Road congestion is a pervasive phenomenon.</Original_text>
+		<Translation lang="ar">تعد ظاهرة ازدحام الطريق الظاهرة الاكثر انتشارا</Translation>
+		<Translation lang="fr">Les embouteillages sont omniprésents.</Translation>
+	</Segment>
+	<Segment id ="4" >
+		<Time-slot>00:00:23,516 --> 00:00:26,376</Time-slot>
+		<Original_text lang="en">It exists in basically all of the cities all around the world,</Original_text>
+		<Translation lang="ar">وهي موجودة بشكل أساسي في جميع المدن حول العالم</Translation>
+		<Translation lang="fr">On les trouve pratiquement dans toutes les villes du monde,</Translation>
+	</Segment>
+	<Segment id ="5" >
+		<Time-slot>00:00:26,376 --> 00:00:28,324</Time-slot>
+		<Original_text lang="en">which is a little bit surprising when you think about it.</Original_text>
+		<Translation lang="ar">الأمر الذي يصبح مفاجئا عندما تبدأ التفكير به</Translation>
+		<Translation lang="fr">ce qui est quelque peu surprenant, quand on y pense.</Translation>
+	</Segment>
+	<Segment id ="6" >
+		<Time-slot>00:00:28,324 --> 00:00:31,288</Time-slot>
+		<Original_text lang="en">I mean, think about how different cities are, actually.</Original_text>
+		<Translation lang="ar">وأعني ان تفكر في حقيقة اختلاف هذه المدن بطبيعة الحال.</Translation>
+		<Translation lang="fr">Pensez à quel point ces villes sont différentes, en fait.</Translation>
+	</Segment>
+	<Segment id ="7" >
+		<Time-slot>00:00:31,288 --> 00:00:33,049</Time-slot>
+		<Original_text lang="en">I mean, you have the typical European cities,</Original_text>
+		<Translation lang="ar">وعلى سبيل المثال ، في المدن الأوروبية</Translation>
+		<Translation lang="fr">Vous avez les villes européennes types,</Translation>
+	</Segment>
+	<Segment id ="8" >
+		<Time-slot>00:00:33,049 --> 00:00:36,041</Time-slot>
+		<Original_text lang="en">with a dense urban core, good public transportation</Original_text>
+		<Translation lang="ar">التي بها مراكز مدنية مكتظة، ووسائل نقل عام جيدة</Translation>
+		<Translation lang="fr">avec un noyau urbain dense, dotées d'un bon réseau de transport en commun</Translation>
+	</Segment>
+	<Segment id ="9" >
+		<Time-slot>00:00:36,042 --> 00:00:38,496</Time-slot>
+		<Original_text lang="en">mostly, not a lot of road capacity.</Original_text>
+		<Translation lang="ar">وفي الغالب لا توفر طرقاتها القدرات الاستيعابية الكافية.</Translation>
+		<Translation lang="fr">mais d'une faible capacité routière en général.</Translation>
+	</Segment>
+	<Segment id ="10" >
+		<Time-slot>00:00:38,496 --> 00:00:40,945</Time-slot>
+		<Original_text lang="en">But then, on the other hand, you have the American cities.</Original_text>
+		<Translation lang="ar">من ناحية أخرى، تتميز المدن الأمريكية</Translation>
+		<Translation lang="fr">Par contre, vous avez les villes américaines.</Translation>
+	</Segment>
+	<Segment id ="11" >
+		<Time-slot>00:00:40,945 --> 00:00:43,736</Time-slot>
+		<Original_text lang="en">It's moving by itself, okay.</Original_text>
+		<Translation lang="ar">بأنها ذاتية الحركة.</Translation>
+		<Translation lang="fr">[oups, ça bouge tout seul, ok]</Translation>
+	</Segment>
+	<Segment id ="12" >
+		<Time-slot>00:00:43,737 --> 00:00:46,743</Time-slot>
+		<Original_text lang="en">Anyway, the American cities:</Original_text>
+		<Translation lang="ar">وأعني بذلك أن المدن الأمريكية</Translation>
+		<Translation lang="fr">Donc, les villes américaines :</Translation>
+	</Segment>
+	<Segment id ="13" >
+		<Time-slot>00:00:46,743 --> 00:00:49,670</Time-slot>
+		<Original_text lang="en">lots of roads dispersed over large areas,</Original_text>
+		<Translation lang="ar">تمتلك العديد من الطرق التي تمتد لتشمل مناطق واسعة،</Translation>
+		<Translation lang="fr">beaucoup de routes disséminées sur de vastes zones,</Translation>
+	</Segment>
+	<Segment id ="14" >
+		<Time-slot>00:00:49,670 --> 00:00:51,130</Time-slot>
+		<Original_text lang="en">almost no public transportation.</Original_text>
+		<Translation lang="ar">دون وجود حقيقي لوسائل النقل العام.</Translation>
+		<Translation lang="fr">presque pas de transports en commun.</Translation>
+	</Segment>
+	<Segment id ="15" >
+		<Time-slot>00:00:51,130 --> 00:00:53,340</Time-slot>
+		<Original_text lang="en">And then you have the emerging world cities,</Original_text>
+		<Translation lang="ar">والان لنتحدث عن المدن الناشئة،</Translation>
+		<Translation lang="fr">Et puis vous avez les villes des pays émergents,</Translation>
+	</Segment>
+	<Segment id ="16" >
+		<Time-slot>00:00:53,340 --> 00:00:54,866</Time-slot>
+		<Original_text lang="en">with a mixed variety of vehicles,</Original_text>
+		<Translation lang="ar">التي بها انواع مختلفة من المركبات،</Translation>
+		<Translation lang="fr">avec un mélange éclectique de véhicules,</Translation>
+	</Segment>
+	<Segment id ="17" >
+		<Time-slot>00:00:54,865 --> 00:00:57,408</Time-slot>
+		<Original_text lang="en">mixed land-use patterns, also rather dispersed</Original_text>
+		<Translation lang="ar">و أنماط مختلفة من الطرق المستخدمة والمتفرقة</Translation>
+		<Translation lang="fr">différentes modalités d'utilisation du terrain, là encore peu unifiées</Translation>
+	</Segment>
+	<Segment id ="18" >
+		<Time-slot>00:00:57,408 --> 00:01:00,007</Time-slot>
+		<Original_text lang="en">but often with a very dense urban core.</Original_text>
+		<Translation lang="ar">وبالأخص المدن ذات المراكز المدنية المكتظة.</Translation>
+		<Translation lang="fr">mais souvent avec un noyau urbain très dense.</Translation>
+	</Segment>
+	<Segment id ="19" >
+		<Time-slot>00:01:00,006 --> 00:01:02,408</Time-slot>
+		<Original_text lang="en">And traffic planners all around the world have tried</Original_text>
+		<Translation lang="ar">وبالرغم من محاولات مسؤولي تنظيم وتخطيط حركة المرور في جميع أنحاء العالم</Translation>
+		<Translation lang="fr">Et les planificateurs de circulation du monde entier ont essayé</Translation>
+	</Segment>
+	<Segment id ="20" >
+		<Time-slot>00:01:02,408 --> 00:01:06,063</Time-slot>
+		<Original_text lang="en">lots of different measures: dense cities or dispersed cities,</Original_text>
+		<Translation lang="ar">اتباع واستخدام تدابير مختلفة في المدن المكتظة أو المدن الممتدة على مساحات متفرقة،</Translation>
+		<Translation lang="fr">des tas de mesures différentes : des villes denses ou des villes éclatées,</Translation>
+	</Segment>
+	<Segment id ="21" >
+		<Time-slot>00:01:06,063 --> 00:01:08,614</Time-slot>
+		<Original_text lang="en">lots of roads or lots of public transport</Original_text>
+		<Translation lang="ar">كاستخدام الكثير من الطرق أو الكثير من وسائل النقل العام</Translation>
+		<Translation lang="fr">beaucoup de routes ou beaucoup de transports en commun</Translation>
+	</Segment>
+	<Segment id ="22" >
+		<Time-slot>00:01:08,614 --> 00:01:11,400</Time-slot>
+		<Original_text lang="en">or lots of bike lanes or more information,</Original_text>
+		<Translation lang="ar">أو الممرات الخاصة بالدراجات أو توفير المعلومات لمستخدمي الطرق،</Translation>
+		<Translation lang="fr">ou beaucoup de pistes cyclables ou davantage d'informations,</Translation>
+	</Segment>
+	<Segment id ="23" >
+		<Time-slot>00:01:11,400 --> 00:01:15,194</Time-slot>
+		<Original_text lang="en">or lots of different things, but nothing seems to work.</Original_text>
+		<Translation lang="ar">وغيرها من الحلول ، ولكن يبدو انها لم تفي بالغرض.</Translation>
+		<Translation lang="fr">ou beaucoup d'autres choses, mais rien ne semble fonctionner.</Translation>
+	</Segment>
+	<Segment id ="24" >
+		<Time-slot>00:01:15,194 --> 00:01:18,197</Time-slot>
+		<Original_text lang="en">But all of these attempts have one thing in common.</Original_text>
+		<Translation lang="ar">ان هذه المحاولات تشترك في شيء واحد</Translation>
+		<Translation lang="fr">Mais toutes ces tentatives ont un point commun.</Translation>
+	</Segment>
+	<Segment id ="25" >
+		<Time-slot>00:01:18,197 --> 00:01:20,548</Time-slot>
+		<Original_text lang="en">They're basically attempts at figuring out</Original_text>
+		<Translation lang="ar">وهو محاولة تعريف</Translation>
+		<Translation lang="fr">Elles essaient toutes de comprendre</Translation>
+	</Segment>
+	<Segment id ="26" >
+		<Time-slot>00:01:20,548 --> 00:01:23,875</Time-slot>
+		<Original_text lang="en">what people should do instead of rush hour car driving.</Original_text>
+		<Translation lang="ar">مستخدمي الطرق كيفية تجنب قيادة المركبات في ساعة الذروة.</Translation>
+		<Translation lang="fr">ce que les gens devraient faire plutôt que de prendre leur voiture aux heures de pointe.</Translation>
+	</Segment>
+	<Segment id ="27" >
+		<Time-slot>00:01:23,875 --> 00:01:26,986</Time-slot>
+		<Original_text lang="en">They're essentially, to a point, attempts at planning</Original_text>
+		<Translation lang="ar">انهم يحاولون القيام ، الى حد ما ،</Translation>
+		<Translation lang="fr">Ce sont essentiellement des tentatives de planifier</Translation>
+	</Segment>
+	<Segment id ="28" >
+		<Time-slot>00:01:26,986 --> 00:01:30,188</Time-slot>
+		<Original_text lang="en">what other people should do, planning their life for them.</Original_text>
+		<Translation lang="ar">بتخطيط ما يجب أن يقوم به مستخدمي الطرق ، وبالتالي تخطيط حياتهم اليومية.</Translation>
+		<Translation lang="fr">ce que d'autres personnes devraient faire, de planifier leur vie pour eux.</Translation>
+	</Segment>
+	<Segment id ="29" >
+		<Time-slot>00:01:30,188 --> 00:01:32,640</Time-slot>
+		<Original_text lang="en">Now, planning a complex social system</Original_text>
+		<Translation lang="ar">نعلم جميعا أن تخطيط أي نظام اجتماعي معقد</Translation>
+		<Translation lang="fr">Mais planifier un système social complexe</Translation>
+	</Segment>
+	<Segment id ="30" >
+		<Time-slot>00:01:32,641 --> 00:01:35,716</Time-slot>
+		<Original_text lang="en">is a very hard thing to do, and let me tell you a story.</Original_text>
+		<Translation lang="ar">هو من الصعوبة بمكان واسمحوا لي ان أسرد لكم القصة التالية.</Translation>
+		<Translation lang="fr">est très difficile, laissez -moi vous raconter une histoire.</Translation>
+	</Segment>
+	<Segment id ="31" >
+		<Time-slot>00:01:35,715 --> 00:01:38,442</Time-slot>
+		<Original_text lang="en">Back in 1989, when the Berlin Wall fell,</Original_text>
+		<Translation lang="ar">في عام 1989، عندما سقط سور برلين،</Translation>
+		<Translation lang="fr">En 1989, lorsque le Mur de Berlin est tombé,</Translation>
+	</Segment>
+	<Segment id ="32" >
+		<Time-slot>00:01:38,442 --> 00:01:41,064</Time-slot>
+		<Original_text lang="en">an urban planner in London got a phone call</Original_text>
+		<Translation lang="ar">استلم احد خبراء التخطيط المدني في لندن مكالمة هاتفية</Translation>
+		<Translation lang="fr">un urbaniste Londonien a reçu un coup de fil</Translation>
+	</Segment>
+	<Segment id ="33" >
+		<Time-slot>00:01:41,064 --> 00:01:43,614</Time-slot>
+		<Original_text lang="en">from a colleague in Moscow saying, basically,</Original_text>
+		<Translation lang="ar">من زميل في موسكو يسأل بشكل أساسي،</Translation>
+		<Translation lang="fr">d'un collègue de Moscou lui disant, en résumé,</Translation>
+	</Segment>
+	<Segment id ="34" >
+		<Time-slot>00:01:43,614 --> 00:01:46,132</Time-slot>
+		<Original_text lang="en">"Hi, this is Vladimir. I'd like to know,</Original_text>
+		<Translation lang="ar">"مرحبا، أنا فلاديمير. أود أن أعرف،</Translation>
+		<Translation lang="fr">"Bonjour, c'est Vladimir. Je voudrais savoir</Translation>
+	</Segment>
+	<Segment id ="35" >
+		<Time-slot>00:01:46,132 --> 00:01:49,155</Time-slot>
+		<Original_text lang="en">who's in charge of London's bread supply?"</Original_text>
+		<Translation lang="ar">من هو المسؤول عن توفير الخبز في لندن؟</Translation>
+		<Translation lang="fr">qui est responsable de l'approvisionnement en pain de Londres"</Translation>
+	</Segment>
+	<Segment id ="36" >
+		<Time-slot>00:01:49,155 --> 00:01:50,808</Time-slot>
+		<Original_text lang="en">And the urban planner in London goes,</Original_text>
+		<Translation lang="ar">وأجاب خبير التخطيط المدني في لندن،</Translation>
+		<Translation lang="fr">Et l'urbaniste londonien de répondre,</Translation>
+	</Segment>
+	<Segment id ="37" >
+		<Time-slot>00:01:50,808 --> 00:01:52,778</Time-slot>
+		<Original_text lang="en">"What do you mean, who's in charge of London's —</Original_text>
+		<Translation lang="ar">ماذا تقصد، من هو المسؤول عن لندن —</Translation>
+		<Translation lang="fr">"Comment ça, qui est responsable de...</Translation>
+	</Segment>
+	<Segment id ="38" >
+		<Time-slot>00:01:52,778 --> 00:01:54,049</Time-slot>
+		<Original_text lang="en">I mean, no one is in charge."</Original_text>
+		<Translation lang="ar">أقصد، لا يوجد مسؤول."</Translation>
+		<Translation lang="fr">...je veux dire, personne n'est responsable."</Translation>
+	</Segment>
+	<Segment id ="39" >
+		<Time-slot>00:01:54,049 --> 00:01:55,931</Time-slot>
+		<Original_text lang="en">"Oh, but surely someone must be in charge.</Original_text>
+		<Translation lang="ar">اه، لكن لا بد من وجود شخص مسؤول.</Translation>
+		<Translation lang="fr">"Oh, mais il doit bien y avoir un responsable."</Translation>
+	</Segment>
+	<Segment id ="40" >
+		<Time-slot>00:01:55,930 --> 00:01:59,587</Time-slot>
+		<Original_text lang="en">I mean, it's a very complicated system. Someone must control all of this."</Original_text>
+		<Translation lang="ar">أقصد، أنه نظام معقد . لا بد من وجود شخص مسؤول."</Translation>
+		<Translation lang="fr">C'est un système très complexe, quelqu'un doit bien gérer tout ça."</Translation>
+	</Segment>
+	<Segment id ="41" >
+		<Time-slot>00:01:59,587 --> 00:02:02,692</Time-slot>
+		<Original_text lang="en">"No. No. No one is in charge.</Original_text>
+		<Translation lang="ar">"لا. لا. لا يوجد شخص مسؤول.</Translation>
+		<Translation lang="fr">"Non, non, personne n'en est chargé.</Translation>
+	</Segment>
+	<Segment id ="42" >
+		<Time-slot>00:02:02,692 --> 00:02:05,293</Time-slot>
+		<Original_text lang="en">I mean, it basically -- I haven't really thought of it.</Original_text>
+		<Translation lang="ar">أقصد، في الحقيقة -- لم أفكر في الموضوع.</Translation>
+		<Translation lang="fr">Je n'y avais jamais vraiment pensé, en fait.</Translation>
+	</Segment>
+	<Segment id ="43" >
+		<Time-slot>00:02:05,293 --> 00:02:07,882</Time-slot>
+		<Original_text lang="en">It basically organizes itself."</Original_text>
+		<Translation lang="ar">يبدو أنه ذو ذاتي التنظيم."</Translation>
+		<Translation lang="fr">Mais ça s'organise tout seul."</Translation>
+	</Segment>
+	<Segment id ="44" >
+		<Time-slot>00:02:07,882 --> 00:02:10,460</Time-slot>
+		<Original_text lang="en">It organizes itself.</Original_text>
+		<Translation lang="ar">ذاتي التنظيم.</Translation>
+		<Translation lang="fr">Ça s'organise tout seul.</Translation>
+	</Segment>
+	<Segment id ="45" >
+		<Time-slot>00:02:10,460 --> 00:02:13,302</Time-slot>
+		<Original_text lang="en">That's an example of a complex social system</Original_text>
+		<Translation lang="ar">وهذا مثال لنظام اجتماعي معقد</Translation>
+		<Translation lang="fr">Voilà un exemple de système social complexe.</Translation>
+	</Segment>
+	<Segment id ="46" >
+		<Time-slot>00:02:13,302 --> 00:02:16,031</Time-slot>
+		<Original_text lang="en">which has the ability of self-organizing,</Original_text>
+		<Translation lang="ar">له القدرة على التنظيم الذاتي،</Translation>
+		<Translation lang="fr">qui a la capacité de s'auto-organiser,</Translation>
+	</Segment>
+	<Segment id ="47" >
+		<Time-slot>00:02:16,031 --> 00:02:18,618</Time-slot>
+		<Original_text lang="en">and this is a very deep insight.</Original_text>
+		<Translation lang="ar">وهذه نظرة متعمقة لهذا النظام.</Translation>
+		<Translation lang="fr">et c'est observation d'une grande perspicacité.</Translation>
+	</Segment>
+	<Segment id ="48" >
+		<Time-slot>00:02:18,618 --> 00:02:21,931</Time-slot>
+		<Original_text lang="en">When you try to solve really complex social problems,</Original_text>
+		<Translation lang="ar">عند محاولة ايجاد حل لتحديات النظام الاجتماعي</Translation>
+		<Translation lang="fr">Lorsque vous essayez de résoudre des problèmes sociaux vraiment complexes,</Translation>
+	</Segment>
+	<Segment id ="49" >
+		<Time-slot>00:02:21,931 --> 00:02:23,647</Time-slot>
+		<Original_text lang="en">the right thing to do is most of the time</Original_text>
+		<Translation lang="ar">فإنه من الصواب</Translation>
+		<Translation lang="fr">la meilleure chose à faire, la plupart du temps</Translation>
+	</Segment>
+	<Segment id ="50" >
+		<Time-slot>00:02:23,647 --> 00:02:25,239</Time-slot>
+		<Original_text lang="en">to create the incentives.</Original_text>
+		<Translation lang="ar">ايجاد وخلق الدافع والمحفز.</Translation>
+		<Translation lang="fr">est de créer des incitations.</Translation>
+	</Segment>
+	<Segment id ="51" >
+		<Time-slot>00:02:25,239 --> 00:02:27,182</Time-slot>
+		<Original_text lang="en">You don't plan the details,</Original_text>
+		<Translation lang="ar">لا تقم بتخطيط التفاصيل،</Translation>
+		<Translation lang="fr">Vous ne planifiez pas les détails,</Translation>
+	</Segment>
+	<Segment id ="52" >
+		<Time-slot>00:02:27,182 --> 00:02:29,802</Time-slot>
+		<Original_text lang="en">and people will figure out what to do,</Original_text>
+		<Translation lang="ar">وسيقوم الاشخاص المعنيين بالوصول الى مفهوم معين،</Translation>
+		<Translation lang="fr">et les gens trouveront par eux-même ce qu'ils ont à faire,</Translation>
+	</Segment>
+	<Segment id ="53" >
+		<Time-slot>00:02:29,802 --> 00:02:31,663</Time-slot>
+		<Original_text lang="en">how to adapt to this new framework.</Original_text>
+		<Translation lang="ar">والتأقلم مع النموذج الجديد.</Translation>
+		<Translation lang="fr">comment s'adapter à ce nouveau cadre.</Translation>
+	</Segment>
+	<Segment id ="54" >
+		<Time-slot>00:02:31,663 --> 00:02:35,154</Time-slot>
+		<Original_text lang="en">And let's now look at how we can use this insight</Original_text>
+		<Translation lang="ar">لنتمعن معا في كيفية استخدام هذا المفهوم</Translation>
+		<Translation lang="fr">Voyons à présent comment utiliser cette observation</Translation>
+	</Segment>
+	<Segment id ="55" >
+		<Time-slot>00:02:35,153 --> 00:02:36,789</Time-slot>
+		<Original_text lang="en">to combat road congestion.</Original_text>
+		<Translation lang="ar">لمكافحة ازدحام الطرق.</Translation>
+		<Translation lang="fr">pour lutter contre les embouteillages.</Translation>
+	</Segment>
+	<Segment id ="56" >
+		<Time-slot>00:02:36,789 --> 00:02:39,021</Time-slot>
+		<Original_text lang="en">This is a map of Stockholm, my hometown.</Original_text>
+		<Translation lang="ar">هذه خارطة ستوكهولم، مسقط رأسي</Translation>
+		<Translation lang="fr">Voici une carte de Stockholm, ma ville d'origine.</Translation>
+	</Segment>
+	<Segment id ="57" >
+		<Time-slot>00:02:39,021 --> 00:02:42,662</Time-slot>
+		<Original_text lang="en">Now, Stockholm is a medium-sized city, roughly two million people,</Original_text>
+		<Translation lang="ar">تعتبر مدينة ستوكهولم متوسطة الحجم، يبلغ عدد سكانها مليوني نسمة،</Translation>
+		<Translation lang="fr">Stockholm est une ville de taille moyenne, de deux millions d'habitants,</Translation>
+	</Segment>
+	<Segment id ="58" >
+		<Time-slot>00:02:42,663 --> 00:02:45,451</Time-slot>
+		<Original_text lang="en">but Stockholm also has lots of water and lots of water</Original_text>
+		<Translation lang="ar">وتتميز المدينة بالمسطحات المائية الكثيرة</Translation>
+		<Translation lang="fr">mais l'eau est partout dans Stockholm et qui dit beaucoup d'eau</Translation>
+	</Segment>
+	<Segment id ="59" >
+		<Time-slot>00:02:45,451 --> 00:02:48,728</Time-slot>
+		<Original_text lang="en">means lots of bridges -- narrow bridges, old bridges --</Original_text>
+		<Translation lang="ar">والكثير من الجسور -- الجسور الضيقة، القديمة --</Translation>
+		<Translation lang="fr">dit beaucoup de ponts -- des points étroits, des vieux ponts --</Translation>
+	</Segment>
+	<Segment id ="60" >
+		<Time-slot>00:02:48,729 --> 00:02:51,764</Time-slot>
+		<Original_text lang="en">which means lots of road congestion.</Original_text>
+		<Translation lang="ar">والذي يعني كثرة ازدحام الطرق.</Translation>
+		<Translation lang="fr">ce qui veut dire beaucoup d'embouteillages.</Translation>
+	</Segment>
+	<Segment id ="61" >
+		<Time-slot>00:02:51,764 --> 00:02:55,403</Time-slot>
+		<Original_text lang="en">And these red dots show the most congested parts,</Original_text>
+		<Translation lang="ar">وتعبر هذه النقاط الحمراء عن مراكز الازدحام،</Translation>
+		<Translation lang="fr">Et ces points rouges montrent les endroits les plus encombrés,</Translation>
+	</Segment>
+	<Segment id ="62" >
+		<Time-slot>00:02:55,403 --> 00:02:57,980</Time-slot>
+		<Original_text lang="en">which are the bridges that lead into the inner city.</Original_text>
+		<Translation lang="ar">وهي الجسور المؤدية إلى مركز المدينة.</Translation>
+		<Translation lang="fr">qui sont les ponts menant au centre-ville.</Translation>
+	</Segment>
+	<Segment id ="63" >
+		<Time-slot>00:02:57,980 --> 00:03:00,507</Time-slot>
+		<Original_text lang="en">And then someone came up with the idea that,</Original_text>
+		<Translation lang="ar">ولقد اقترح احد الاشخاص</Translation>
+		<Translation lang="fr">Et puis quelqu'un a eu cette idée :</Translation>
+	</Segment>
+	<Segment id ="64" >
+		<Time-slot>00:03:00,507 --> 00:03:02,343</Time-slot>
+		<Original_text lang="en">apart from good public transport,</Original_text>
+		<Translation lang="ar">بعيدا عن وسائل النقل العامة،</Translation>
+		<Translation lang="fr">en plus d'un bon réseau de transports en commun,</Translation>
+	</Segment>
+	<Segment id ="65" >
+		<Time-slot>00:03:02,343 --> 00:03:04,944</Time-slot>
+		<Original_text lang="en">apart from spending money on roads,</Original_text>
+		<Translation lang="ar">وصرف المبالغ على الطرقات،</Translation>
+		<Translation lang="fr">en plus de dépenser de l'argent pour les routes,</Translation>
+	</Segment>
+	<Segment id ="66" >
+		<Time-slot>00:03:04,944 --> 00:03:09,159</Time-slot>
+		<Original_text lang="en">let's try to charge drivers one or two euros at these bottlenecks.</Original_text>
+		<Translation lang="ar">محاولة فرض رسوم بقيمة ١ أو ٢ يورو في هذه الطرق الضيقة</Translation>
+		<Translation lang="fr">pourquoi ne pas faire payer un ou deux euros aux conducteurs dans ces zones rouges.</Translation>
+	</Segment>
+	<Segment id ="67" >
+		<Time-slot>00:03:09,159 --> 00:03:12,084</Time-slot>
+		<Original_text lang="en">Now, one or two euros, that isn't really a lot of money,</Original_text>
+		<Translation lang="ar">والتي لا تعتبر مبلغا كبيرا</Translation>
+		<Translation lang="fr">Un ou deux euros, ce n'est pas vraiment une grosse somme,</Translation>
+	</Segment>
+	<Segment id ="68" >
+		<Time-slot>00:03:12,084 --> 00:03:14,741</Time-slot>
+		<Original_text lang="en">I mean compared to parking charges and running costs, etc.,</Original_text>
+		<Translation lang="ar">مقارنة برسوم المواقف ورسوم التشغيل الخ.،</Translation>
+		<Translation lang="fr">comparée aux frais de stationnement, d'entretien, etc,</Translation>
+	</Segment>
+	<Segment id ="69" >
+		<Time-slot>00:03:14,741 --> 00:03:17,459</Time-slot>
+		<Original_text lang="en">so you would probably expect that car drivers</Original_text>
+		<Translation lang="ar">يمكن ان تتوقع ان يتاثر سائقو المركبات</Translation>
+		<Translation lang="fr">vous pourriez donc vous attendre à ce que les conducteurs</Translation>
+	</Segment>
+	<Segment id ="70" >
+		<Time-slot>00:03:17,459 --> 00:03:19,896</Time-slot>
+		<Original_text lang="en">wouldn't really react to this fairly small charge.</Original_text>
+		<Translation lang="ar">بهذه الرسوم المنخفضة.</Translation>
+		<Translation lang="fr">ne réagissent pas à l'ajout d'un si petit frais.</Translation>
+	</Segment>
+	<Segment id ="71" >
+		<Time-slot>00:03:19,896 --> 00:03:21,197</Time-slot>
+		<Original_text lang="en">You would be wrong.</Original_text>
+		<Translation lang="ar">هذا اعتقاد خاطئ.</Translation>
+		<Translation lang="fr">Vous auriez tort.</Translation>
+	</Segment>
+	<Segment id ="72" >
+		<Time-slot>00:03:21,197 --> 00:03:25,224</Time-slot>
+		<Original_text lang="en">One or two euros was enough to make 20 percent of cars</Original_text>
+		<Translation lang="ar">1 او 2 يورو كانت كافية لجعل 20 بالمئة من المركبات</Translation>
+		<Translation lang="fr">Un ou deux euros ont suffit pour que 20% des voitures</Translation>
+	</Segment>
+	<Segment id ="73" >
+		<Time-slot>00:03:25,224 --> 00:03:27,608</Time-slot>
+		<Original_text lang="en">disappear from rush hours.</Original_text>
+		<Translation lang="ar">الاختفاء في اوقات الذروة.</Translation>
+		<Translation lang="fr">disparaissent de la circulation en heure de pointe.</Translation>
+	</Segment>
+	<Segment id ="74" >
+		<Time-slot>00:03:27,609 --> 00:03:31,159</Time-slot>
+		<Original_text lang="en">Now, 20 percent, well, that's a fairly huge figure, you might think,</Original_text>
+		<Translation lang="ar">يمكن الاعتقاد ان 20 بالمئة بالطبع هو نسبة جيدة</Translation>
+		<Translation lang="fr">Maintenant, 20%, on pourrait penser que c'est un bon chiffre</Translation>
+	</Segment>
+	<Segment id ="75" >
+		<Time-slot>00:03:31,159 --> 00:03:33,366</Time-slot>
+		<Original_text lang="en">but you've still got 80 percent left of the problem, right?</Original_text>
+		<Translation lang="ar">ولكن مازال هناك 80 بالمئة من المشكلة، صحيح؟</Translation>
+		<Translation lang="fr">mais il vous reste encore 80% du problème, non ?</Translation>
+	</Segment>
+	<Segment id ="76" >
+		<Time-slot>00:03:33,366 --> 00:03:35,235</Time-slot>
+		<Original_text lang="en">Because you still have 80 percent of the traffic.</Original_text>
+		<Translation lang="ar">لانه تبقى 80 بالمئة من الازدحام.</Translation>
+		<Translation lang="fr">Parce que vous avez toujours 80% du trafic.</Translation>
+	</Segment>
+	<Segment id ="77" >
+		<Time-slot>00:03:35,235 --> 00:03:38,502</Time-slot>
+		<Original_text lang="en">Now, that's also wrong, because traffic happens to be</Original_text>
+		<Translation lang="ar">وهذا ايضا خطأ، لأن الازدحام يعتبر</Translation>
+		<Translation lang="fr">Mais, c'est faux aussi, car le trafic s'avère</Translation>
+	</Segment>
+	<Segment id ="78" >
+		<Time-slot>00:03:38,502 --> 00:03:41,194</Time-slot>
+		<Original_text lang="en">a nonlinear phenomenon, meaning that</Original_text>
+		<Translation lang="ar">ظاهرة لا يمكن تمثيلها بشكل خطي أو متوقع</Translation>
+		<Translation lang="fr">être un phénomène non-linéaire, ce qui signifie</Translation>
+	</Segment>
+	<Segment id ="79" >
+		<Time-slot>00:03:41,194 --> 00:03:44,335</Time-slot>
+		<Original_text lang="en">once you reach above a certain capacity threshold</Original_text>
+		<Translation lang="ar">حينما تتجاوز الطاقة الاستيعابية درجة معينة</Translation>
+		<Translation lang="fr">que lorsque vous atteignez le seuil de capacité,</Translation>
+	</Segment>
+	<Segment id ="80" >
+		<Time-slot>00:03:44,336 --> 00:03:47,504</Time-slot>
+		<Original_text lang="en">then congestion starts to increase really, really rapidly.</Original_text>
+		<Translation lang="ar">يتزايد الازدحام بسرعة.</Translation>
+		<Translation lang="fr">les embouteillages commencent à augmenter très, très rapidement.</Translation>
+	</Segment>
+	<Segment id ="81" >
+		<Time-slot>00:03:47,503 --> 00:03:49,963</Time-slot>
+		<Original_text lang="en">But fortunately, it also works the other way around.</Original_text>
+		<Translation lang="ar">ولكنها ايضا تعمل لحسن الحظ في الاتجاه المعاكس.</Translation>
+		<Translation lang="fr">Mais heureusement, la réciproque est aussi vraie.</Translation>
+	</Segment>
+	<Segment id ="82" >
+		<Time-slot>00:03:49,963 --> 00:03:53,294</Time-slot>
+		<Original_text lang="en">If you can reduce traffic even somewhat, then congestion</Original_text>
+		<Translation lang="ar">حينما تتمكن من خفض حركة المرور، بالتالي ينخفض الازدحام</Translation>
+		<Translation lang="fr">Si vous réduisez un peu le trafic, alors les embouteillages</Translation>
+	</Segment>
+	<Segment id ="83" >
+		<Time-slot>00:03:53,294 --> 00:03:56,923</Time-slot>
+		<Original_text lang="en">will go down much faster than you might think.</Original_text>
+		<Translation lang="ar">بشكل سريع غير متوقع.</Translation>
+		<Translation lang="fr">se réduisent plus vite qu'on ne le pense.</Translation>
+	</Segment>
+	<Segment id ="84" >
+		<Time-slot>00:03:56,924 --> 00:03:59,814</Time-slot>
+		<Original_text lang="en">Now, congestion charges were introduced in Stockholm</Original_text>
+		<Translation lang="ar">تم بدء العمل في تطبيق رسوم الازدحام</Translation>
+		<Translation lang="fr">Cette taxe a été mise en place à Stockholm</Translation>
+	</Segment>
+	<Segment id ="85" >
+		<Time-slot>00:03:59,814 --> 00:04:04,419</Time-slot>
+		<Original_text lang="en">on January 3, 2006, and the first picture here is a picture</Original_text>
+		<Translation lang="ar">في 3 يناير 2006 وهذه الصورة الاولى</Translation>
+		<Translation lang="fr">le 3 Janvier 2006, et la première photo est une photo</Translation>
+	</Segment>
+	<Segment id ="86" >
+		<Time-slot>00:04:04,419 --> 00:04:08,402</Time-slot>
+		<Original_text lang="en">of Stockholm, one of the typical streets, January 2.</Original_text>
+		<Translation lang="ar">في استوكهولم لأحد الشوارع الاعتيادية في 2 يناير.</Translation>
+		<Translation lang="fr">de Stockholm, dans une rue typique, le 2 Janvier.</Translation>
+	</Segment>
+	<Segment id ="87" >
+		<Time-slot>00:04:08,401 --> 00:04:12,214</Time-slot>
+		<Original_text lang="en">The first day with the congestion charges looked like this.</Original_text>
+		<Translation lang="ar">يبدو اليوم الاول مع رسوم الازدحام</Translation>
+		<Translation lang="fr">Le premier jour après la mise en place de la taxe ressemblait à ça.</Translation>
+	</Segment>
+	<Segment id ="88" >
+		<Time-slot>00:04:12,215 --> 00:04:15,134</Time-slot>
+		<Original_text lang="en">This is what happens when you take away</Original_text>
+		<Translation lang="ar">وهذا ما يحدث عندما تنخفض.</Translation>
+		<Translation lang="fr">Voilà ce qui arrive lorsque vous retirez</Translation>
+	</Segment>
+	<Segment id ="89" >
+		<Time-slot>00:04:15,134 --> 00:04:17,199</Time-slot>
+		<Original_text lang="en">20 percent of the cars from the streets.</Original_text>
+		<Translation lang="ar">المركبات بنسبة 20 بالمئة</Translation>
+		<Translation lang="fr">20% des voitures des rues.</Translation>
+	</Segment>
+	<Segment id ="90" >
+		<Time-slot>00:04:17,199 --> 00:04:19,909</Time-slot>
+		<Original_text lang="en">You really reduce congestion quite substantially.</Original_text>
+		<Translation lang="ar">تنخفض الازدحام بشكل ملحوظ.</Translation>
+		<Translation lang="fr">Vous réduisez vraiment les embouteillages de manière significative.</Translation>
+	</Segment>
+	<Segment id ="91" >
+		<Time-slot>00:04:19,910 --> 00:04:23,568</Time-slot>
+		<Original_text lang="en">But, well, as I said, I mean, car drivers adapt, right?</Original_text>
+		<Translation lang="ar">ولكن في الحقيقة كما قلت سابقا، يتأقلم سائقوا المركبات، صحيح؟</Translation>
+		<Translation lang="fr">Mais, comme je vous disais, les conducteurs s'adaptent, non ?</Translation>
+	</Segment>
+	<Segment id ="92" >
+		<Time-slot>00:04:23,567 --> 00:04:26,069</Time-slot>
+		<Original_text lang="en">So after a while they would all come back because they</Original_text>
+		<Translation lang="ar">ليعودوا بعض وقت قصير وذلك</Translation>
+		<Translation lang="fr">Du coup après un temps, ils reviennent parce qu'ils se sont</Translation>
+	</Segment>
+	<Segment id ="93" >
+		<Time-slot>00:04:26,069 --> 00:04:28,017</Time-slot>
+		<Original_text lang="en">have sort of gotten used to charges.</Original_text>
+		<Translation lang="ar">لأنهم تأقلموا وتعوّدوا على الرسوم.</Translation>
+		<Translation lang="fr">en quelque sorte habitués à la taxe.</Translation>
+	</Segment>
+	<Segment id ="94" >
+		<Time-slot>00:04:28,017 --> 00:04:31,693</Time-slot>
+		<Original_text lang="en">Wrong again. It's now six and a half years ago</Original_text>
+		<Translation lang="ar">ايضا خطأ. انها الان ست سنوات ونصف</Translation>
+		<Translation lang="fr">Encore faux. Voilà six ans et demi que</Translation>
+	</Segment>
+	<Segment id ="95" >
+		<Time-slot>00:04:31,694 --> 00:04:33,677</Time-slot>
+		<Original_text lang="en">since the congestion charges were introduced in Stockholm,</Original_text>
+		<Translation lang="ar">منذ استحداث رسوم الازدحام في ستوكهولم</Translation>
+		<Translation lang="fr">cette taxe a été introduite à Stockholm,</Translation>
+	</Segment>
+	<Segment id ="96" >
+		<Time-slot>00:04:33,677 --> 00:04:37,665</Time-slot>
+		<Original_text lang="en">and we basically have the same low traffic levels still.</Original_text>
+		<Translation lang="ar">ومازالت نسبة انخفاض حركة المرور منخفضة.</Translation>
+		<Translation lang="fr">et nous conservons toujours un niveau de trafic bas.</Translation>
+	</Segment>
+	<Segment id ="97" >
+		<Time-slot>00:04:37,665 --> 00:04:39,937</Time-slot>
+		<Original_text lang="en">But you see, there's an interesting gap here in the time series</Original_text>
+		<Translation lang="ar">والجدير بالذكر ان هناك فجوة زمنية في تسلسل الأحداث الزمنية</Translation>
+		<Translation lang="fr">Mais il y a un épisode intéressant dans cette série</Translation>
+	</Segment>
+	<Segment id ="98" >
+		<Time-slot>00:04:39,937 --> 00:04:41,400</Time-slot>
+		<Original_text lang="en">in 2007.</Original_text>
+		<Translation lang="ar">في 2007.</Translation>
+		<Translation lang="fr">en 2007.</Translation>
+	</Segment>
+	<Segment id ="99" >
+		<Time-slot>00:04:41,399 --> 00:04:43,788</Time-slot>
+		<Original_text lang="en">Well, the thing is that, the congestion charges,</Original_text>
+		<Translation lang="ar">في الواقع، أن رسوم الازدحام</Translation>
+		<Translation lang="fr">Le fait est que cette taxe</Translation>
+	</Segment>
+	<Segment id ="100" >
+		<Time-slot>00:04:43,788 --> 00:04:46,884</Time-slot>
+		<Original_text lang="en">they were introduced first as a trial, so they were introduced</Original_text>
+		<Translation lang="ar">تم استحداثها بشكل تجريبي في البداية</Translation>
+		<Translation lang="fr">était un essai, et qu'elle a été mise en place en Janvier</Translation>
+	</Segment>
+	<Segment id ="101" >
+		<Time-slot>00:04:46,884 --> 00:04:50,853</Time-slot>
+		<Original_text lang="en">in January and then abolished again at the end of July,</Original_text>
+		<Translation lang="ar">في يناير ومن ثم تم الغاءها في نهاية يوليو،</Translation>
+		<Translation lang="fr">et abolie fin Juillet,</Translation>
+	</Segment>
+	<Segment id ="102" >
+		<Time-slot>00:04:50,853 --> 00:04:53,447</Time-slot>
+		<Original_text lang="en">followed by a referendum, and then they were reintroduced</Original_text>
+		<Translation lang="ar">بناء على مذكرة استفتاء ومن ثم تم اعادة استحداثها</Translation>
+		<Translation lang="fr">suivie d'un referendum, et à nouveau remise en place</Translation>
+	</Segment>
+	<Segment id ="103" >
+		<Time-slot>00:04:53,447 --> 00:04:57,647</Time-slot>
+		<Original_text lang="en">again in 2007, which of course was a wonderful scientific opportunity.</Original_text>
+		<Translation lang="ar">مرة اخرى في 2007، والتي كانت تجربة علمية جيدة.</Translation>
+		<Translation lang="fr">en 2007, ce qui a servi d'experience scientifique.</Translation>
+	</Segment>
+	<Segment id ="104" >
+		<Time-slot>00:04:57,648 --> 00:05:01,785</Time-slot>
+		<Original_text lang="en">I mean, this was a really fun experiment to start with,</Original_text>
+		<Translation lang="ar">لقد كانت تجربة ممتعة</Translation>
+		<Translation lang="fr">C'était un expérience vraiment amusante,</Translation>
+	</Segment>
+	<Segment id ="105" >
+		<Time-slot>00:05:01,785 --> 00:05:03,566</Time-slot>
+		<Original_text lang="en">and we actually got to do it twice.</Original_text>
+		<Translation lang="ar">وتم تفعيلها مرتين</Translation>
+		<Translation lang="fr">et nous avons pu la faire deux fois !</Translation>
+	</Segment>
+	<Segment id ="106" >
+		<Time-slot>00:05:03,565 --> 00:05:05,674</Time-slot>
+		<Original_text lang="en">And personally, I would like to do this every once a year or so,</Original_text>
+		<Translation lang="ar">شخصيا، اود تفعيل هذه التجربة مرة واحدة كل سنة</Translation>
+		<Translation lang="fr">Et personnellement, je la referais bien tous les ans,</Translation>
+	</Segment>
+	<Segment id ="107" >
+		<Time-slot>00:05:05,675 --> 00:05:07,163</Time-slot>
+		<Original_text lang="en">but they won't let me do that.</Original_text>
+		<Translation lang="ar">ولكن لن يسمح لي</Translation>
+		<Translation lang="fr">mais on ne me laisserait pas faire.</Translation>
+	</Segment>
+	<Segment id ="108" >
+		<Time-slot>00:05:07,163 --> 00:05:09,348</Time-slot>
+		<Original_text lang="en">But it was fun anyway.</Original_text>
+		<Translation lang="ar">ولكنها كانت ممتعة على كل حال</Translation>
+		<Translation lang="fr">Mais c'était amusant malgré tout.</Translation>
+	</Segment>
+	<Segment id ="109" >
+		<Time-slot>00:05:09,348 --> 00:05:12,733</Time-slot>
+		<Original_text lang="en">So, we followed up. What happened?</Original_text>
+		<Translation lang="ar">ومن ثم تابعنا، ماذا حصل؟</Translation>
+		<Translation lang="fr">Du coup, nous avons observé. Que c'est-il passé ?</Translation>
+	</Segment>
+	<Segment id ="110" >
+		<Time-slot>00:05:12,733 --> 00:05:16,598</Time-slot>
+		<Original_text lang="en">This is the last day with the congestion charges, July 31,</Original_text>
+		<Translation lang="ar">انه اليوم الاخير لرسوم الازدحام ، 31 يوليو</Translation>
+		<Translation lang="fr">Voici le dernier jour avec taxe, le 31 Juillet,</Translation>
+	</Segment>
+	<Segment id ="111" >
+		<Time-slot>00:05:16,598 --> 00:05:18,377</Time-slot>
+		<Original_text lang="en">and you see the same street but now it's summer,</Original_text>
+		<Translation lang="ar">انه نفس الطريق في فصل الصيف</Translation>
+		<Translation lang="fr">and vous voyez la même rue mais en été,</Translation>
+	</Segment>
+	<Segment id ="112" >
+		<Time-slot>00:05:18,377 --> 00:05:20,121</Time-slot>
+		<Original_text lang="en">and summer in Stockholm is a very nice</Original_text>
+		<Translation lang="ar">وصيف ستوكهولم جميل جدا</Translation>
+		<Translation lang="fr">et l'été à Stockholm est un moment très agréable</Translation>
+	</Segment>
+	<Segment id ="113" >
+		<Time-slot>00:05:20,120 --> 00:05:22,370</Time-slot>
+		<Original_text lang="en">and light time of the year,</Original_text>
+		<Translation lang="ar">في وقت خفيف من السنة،</Translation>
+		<Translation lang="fr">et lumineux de l'année,</Translation>
+	</Segment>
+	<Segment id ="114" >
+		<Time-slot>00:05:22,370 --> 00:05:25,213</Time-slot>
+		<Original_text lang="en">and the first day without the congestion charges</Original_text>
+		<Translation lang="ar">انه اليوم الاول من غير رسوم الازدحام</Translation>
+		<Translation lang="fr">et le premier jour sans la taxe</Translation>
+	</Segment>
+	<Segment id ="115" >
+		<Time-slot>00:05:25,213 --> 00:05:26,581</Time-slot>
+		<Original_text lang="en">looked like this.</Original_text>
+		<Translation lang="ar">بالشكل التالي</Translation>
+		<Translation lang="fr">ressemblait à ça.</Translation>
+	</Segment>
+	<Segment id ="116" >
+		<Time-slot>00:05:26,581 --> 00:05:29,244</Time-slot>
+		<Original_text lang="en">All the cars were back again, and you even have to admire</Original_text>
+		<Translation lang="ar">عادت المركبات، حتى انك تتعجب</Translation>
+		<Translation lang="fr">Toutes les voitures étaient de retour, et vous pouvez admirer</Translation>
+	</Segment>
+	<Segment id ="117" >
+		<Time-slot>00:05:29,244 --> 00:05:32,154</Time-slot>
+		<Original_text lang="en">the car drivers. They adapt so extremely quickly.</Original_text>
+		<Translation lang="ar">من سائقي المركبات. لقد تأقلموا بشكل سريع.</Translation>
+		<Translation lang="fr">les conducteurs. Ils s'adaptent tellement vite.</Translation>
+	</Segment>
+	<Segment id ="118" >
+		<Time-slot>00:05:32,153 --> 00:05:34,401</Time-slot>
+		<Original_text lang="en">The first day they all came back.</Original_text>
+		<Translation lang="ar">لقد عادوا جميعا من اليوم الاول.</Translation>
+		<Translation lang="fr">Le premier jour ils sont tous revenus.</Translation>
+	</Segment>
+	<Segment id ="119" >
+		<Time-slot>00:05:34,401 --> 00:05:39,751</Time-slot>
+		<Original_text lang="en">And this effect hanged on. So 2007 figures looked like this.</Original_text>
+		<Translation lang="ar">واستمروا على هذا النحو. هذه هي الاشكال والصور في 2007</Translation>
+		<Translation lang="fr">Et le phénomène a continué. Les chiffres de 2007 ressemblaient à ça.</Translation>
+	</Segment>
+	<Segment id ="120" >
+		<Time-slot>00:05:39,750 --> 00:05:42,081</Time-slot>
+		<Original_text lang="en">Now these traffic figures are really exciting</Original_text>
+		<Translation lang="ar">هذه الارقام في الحقيقة مميزة</Translation>
+		<Translation lang="fr">Ces chiffres du trafic sont très intéressants,</Translation>
+	</Segment>
+	<Segment id ="121" >
+		<Time-slot>00:05:42,081 --> 00:05:44,733</Time-slot>
+		<Original_text lang="en">and a little bit surprising and very useful to know,</Original_text>
+		<Translation lang="ar">ومدهشة ومفيدة جدا</Translation>
+		<Translation lang="fr">un peu surprenants et très utiles,</Translation>
+	</Segment>
+	<Segment id ="122" >
+		<Time-slot>00:05:44,733 --> 00:05:47,492</Time-slot>
+		<Original_text lang="en">but I would say that the most surprising slide here</Original_text>
+		<Translation lang="ar">ولكن صفحة العرض الاكثر ادهاشا</Translation>
+		<Translation lang="fr">mais je dirais que la diapo la plus surprenante ici</Translation>
+	</Segment>
+	<Segment id ="123" >
+		<Time-slot>00:05:47,492 --> 00:05:51,521</Time-slot>
+		<Original_text lang="en">I'm going to show you today is not this one. It's this one.</Original_text>
+		<Translation lang="ar">سأقوم بعرضها، ليست هذه. انها هذه.</Translation>
+		<Translation lang="fr">n'est pas celle-ci. C'est celle-là.</Translation>
+	</Segment>
+	<Segment id ="124" >
+		<Time-slot>00:05:51,521 --> 00:05:54,853</Time-slot>
+		<Original_text lang="en">This shows public support for congestion pricing of Stockholm,</Original_text>
+		<Translation lang="ar">تظهر تأييد العامة لرسوم الازدحام في ستوكهولم</Translation>
+		<Translation lang="fr">Elle montre l'adhésion des gens à la taxe à Stockholm,</Translation>
+	</Segment>
+	<Segment id ="125" >
+		<Time-slot>00:05:54,853 --> 00:05:57,521</Time-slot>
+		<Original_text lang="en">and you see that when congestion pricing were introduced</Original_text>
+		<Translation lang="ar">وتظهر بوضوح عندما استحدثت الرسوم</Translation>
+		<Translation lang="fr">et vous voyez que lorsque la taxe a été mise en place</Translation>
+	</Segment>
+	<Segment id ="126" >
+		<Time-slot>00:05:57,521 --> 00:06:01,838</Time-slot>
+		<Original_text lang="en">in the beginning of Spring 2006, people were fiercely against it.</Original_text>
+		<Translation lang="ar">في بداية خريف 2006، الناس متخوفون وضد الرسوم.</Translation>
+		<Translation lang="fr">au début du printemps 2006, les gens s'y opposaient farouchement.</Translation>
+	</Segment>
+	<Segment id ="127" >
+		<Time-slot>00:06:01,838 --> 00:06:04,867</Time-slot>
+		<Original_text lang="en">Seventy percent of the population didn't want this.</Original_text>
+		<Translation lang="ar">70 بالمئة من السكان لم يوافقوا.</Translation>
+		<Translation lang="fr">70% de la population n'en voulait pas.</Translation>
+	</Segment>
+	<Segment id ="128" >
+		<Time-slot>00:06:04,867 --> 00:06:06,515</Time-slot>
+		<Original_text lang="en">But what happened when the congestion charges</Original_text>
+		<Translation lang="ar">ولكن ما حدث عندما استحدثت الرسوم</Translation>
+		<Translation lang="fr">Mais ce qui s'est passé lorsque la taxe</Translation>
+	</Segment>
+	<Segment id ="129" >
+		<Time-slot>00:06:06,514 --> 00:06:09,975</Time-slot>
+		<Original_text lang="en">were there is not what you would expect, that people hated it more and more.</Original_text>
+		<Translation lang="ar">كان من المتوقع، ان يكرها الناس اكثر فأكثر</Translation>
+		<Translation lang="fr">est apparue ne correspondait pas aux attentes, à savoir que les gens la détestait de plus en plus.</Translation>
+	</Segment>
+	<Segment id ="130" >
+		<Time-slot>00:06:09,975 --> 00:06:13,129</Time-slot>
+		<Original_text lang="en">No, on the contrary, they changed, up to a point</Original_text>
+		<Translation lang="ar">لا، بالعكس، وافقوا عليها لدرجة</Translation>
+		<Translation lang="fr">Non, au contraire, les gens ont changé d'avis, à tel point</Translation>
+	</Segment>
+	<Segment id ="131" >
+		<Time-slot>00:06:13,129 --> 00:06:16,830</Time-slot>
+		<Original_text lang="en">where we now have 70 percent support for keeping the charges,</Original_text>
+		<Translation lang="ar">ان 70 بالمئة قاموا بدعم ابقاء الرسوم،</Translation>
+		<Translation lang="fr">que 70% souhaitent désormais maintenir la taxe,</Translation>
+	</Segment>
+	<Segment id ="132" >
+		<Time-slot>00:06:16,829 --> 00:06:18,670</Time-slot>
+		<Original_text lang="en">meaning that -- I mean, let me repeat that:</Original_text>
+		<Translation lang="ar">اعني بذلك-- سأعيد:</Translation>
+		<Translation lang="fr">ce qui signifie -- laissez-moi répéter ça :</Translation>
+	</Segment>
+	<Segment id ="133" >
+		<Time-slot>00:06:18,670 --> 00:06:21,478</Time-slot>
+		<Original_text lang="en">70 percent of the population in Stockholm</Original_text>
+		<Translation lang="ar">70 بالمئة من سكان ستوكهولم</Translation>
+		<Translation lang="fr">70% des habitants de Stockholm</Translation>
+	</Segment>
+	<Segment id ="134" >
+		<Time-slot>00:06:21,478 --> 00:06:25,471</Time-slot>
+		<Original_text lang="en">want to keep a price for something that used to be free.</Original_text>
+		<Translation lang="ar">يودون ابقاء الرسوم لشيء كان في السابق مجاني</Translation>
+		<Translation lang="fr">veulent maintenir un prix pour quelque chose qui était gratuit auparavant .</Translation>
+	</Segment>
+	<Segment id ="135" >
+		<Time-slot>00:06:25,471 --> 00:06:29,096</Time-slot>
+		<Original_text lang="en">Okay. So why can that be? Why is that?</Original_text>
+		<Translation lang="ar">حسنا. لماذا هذا التغيير؟</Translation>
+		<Translation lang="fr">Bon. Comment est-ce possible ? Pourquoi ?</Translation>
+	</Segment>
+	<Segment id ="136" >
+		<Time-slot>00:06:29,096 --> 00:06:32,096</Time-slot>
+		<Original_text lang="en">Well, think about it this way. Who changed?</Original_text>
+		<Translation lang="ar">لنمعن التفكير. من تغير؟</Translation>
+		<Translation lang="fr">Et bien, réfléchissons. Qui a changé ?</Translation>
+	</Segment>
+	<Segment id ="137" >
+		<Time-slot>00:06:32,096 --> 00:06:34,722</Time-slot>
+		<Original_text lang="en">I mean, the 20 percent of the car drivers that disappeared,</Original_text>
+		<Translation lang="ar">أعني ، 20 بالمئة من سائقي المركبات التي اختفت</Translation>
+		<Translation lang="fr">Les 20% de conducteurs qui ont disparu,</Translation>
+	</Segment>
+	<Segment id ="138" >
+		<Time-slot>00:06:34,723 --> 00:06:36,668</Time-slot>
+		<Original_text lang="en">surely they must be discontent in a way.</Original_text>
+		<Translation lang="ar">مستائين بطبيعة الحال</Translation>
+		<Translation lang="fr">ils doivent surement être mécontents.</Translation>
+	</Segment>
+	<Segment id ="139" >
+		<Time-slot>00:06:36,668 --> 00:06:39,002</Time-slot>
+		<Original_text lang="en">And where did they go? If we can understand this,</Original_text>
+		<Translation lang="ar">وأين ذهبوا؟ إن فهمنا هذا،</Translation>
+		<Translation lang="fr">Et où sont-il partis ? Si nous comprenons ça,</Translation>
+	</Segment>
+	<Segment id ="140" >
+		<Time-slot>00:06:39,002 --> 00:06:43,132</Time-slot>
+		<Original_text lang="en">then maybe we can figure out how people can be so happy with this.</Original_text>
+		<Translation lang="ar">يمكننا أن نفهم سعادة الناس بهذا النموذج.</Translation>
+		<Translation lang="fr">nous pouvons peut-être comprendre pourquoi les gens sont si contents de cette situation.</Translation>
+	</Segment>
+	<Segment id ="141" >
+		<Time-slot>00:06:43,132 --> 00:06:45,533</Time-slot>
+		<Original_text lang="en">Well, so we did this huge interview survey</Original_text>
+		<Translation lang="ar">حسنا، قمنا بأخذ آراء الكثيرين</Translation>
+		<Translation lang="fr">Du coup, nous avons fait un gros sondage</Translation>
+	</Segment>
+	<Segment id ="142" >
+		<Time-slot>00:06:45,533 --> 00:06:47,368</Time-slot>
+		<Original_text lang="en">with lots of travel services, and tried to figure out</Original_text>
+		<Translation lang="ar">في خدمات السفريات وحاولنا فهم</Translation>
+		<Translation lang="fr">auprès de nombreux services de transport, en essayant de comprendre</Translation>
+	</Segment>
+	<Segment id ="143" >
+		<Time-slot>00:06:47,369 --> 00:06:49,124</Time-slot>
+		<Original_text lang="en">who changed, and where did they go?</Original_text>
+		<Translation lang="ar">من الذي تغير وأين ذهبوا؟</Translation>
+		<Translation lang="fr">qui avait changé, et où ils étaient allés ?</Translation>
+	</Segment>
+	<Segment id ="144" >
+		<Time-slot>00:06:49,124 --> 00:06:53,538</Time-slot>
+		<Original_text lang="en">And it turned out that they don't know themselves. (Laughter)</Original_text>
+		<Translation lang="ar">وتبين أنهم لا يعرفون (ضحك )</Translation>
+		<Translation lang="fr">Et nous avons découvert qu'ils ne le savaient pas eux-même. (Rires)</Translation>
+	</Segment>
+	<Segment id ="145" >
+		<Time-slot>00:06:53,538 --> 00:06:58,386</Time-slot>
+		<Original_text lang="en">For some reason, the car drivers are --</Original_text>
+		<Translation lang="ar">لسبب ما، أن سائقي المركبات</Translation>
+		<Translation lang="fr">Pour une raison inconnue, les conducteurs sont --</Translation>
+	</Segment>
+	<Segment id ="146" >
+		<Time-slot>00:06:58,386 --> 00:07:01,882</Time-slot>
+		<Original_text lang="en">they are confident they actually drive the same way that they used to do.</Original_text>
+		<Translation lang="ar">متأكدون فعليا من استخدامهم الطرق التي اعتادوا عليها.</Translation>
+		<Translation lang="fr">ils sont sûrs qu'ils conduisent de la même manière qu'avant.</Translation>
+	</Segment>
+	<Segment id ="147" >
+		<Time-slot>00:07:01,882 --> 00:07:04,137</Time-slot>
+		<Original_text lang="en">And why is that? It's because that travel patterns</Original_text>
+		<Translation lang="ar">ولم هذا؟ لأن أنماط السفر</Translation>
+		<Translation lang="fr">Et pourquoi ? Parce que les habitudes de déplacement</Translation>
+	</Segment>
+	<Segment id ="148" >
+		<Time-slot>00:07:04,137 --> 00:07:06,536</Time-slot>
+		<Original_text lang="en">are much less stable than you might think.</Original_text>
+		<Translation lang="ar">ذات طابع أقل استقرارا مما يمكنك أن تتخيل.</Translation>
+		<Translation lang="fr">sont bien moins stables qu'on ne pense.</Translation>
+	</Segment>
+	<Segment id ="149" >
+		<Time-slot>00:07:06,536 --> 00:07:09,367</Time-slot>
+		<Original_text lang="en">Each day, people make new decisions, and people change</Original_text>
+		<Translation lang="ar">في كل يوم، يتم أخذ قرارا ت جديدة، ويتغير الأشخاص</Translation>
+		<Translation lang="fr">Chaque jour, les gens prennent de nouvelles décisions, les gens changent</Translation>
+	</Segment>
+	<Segment id ="150" >
+		<Time-slot>00:07:09,367 --> 00:07:11,793</Time-slot>
+		<Original_text lang="en">and the world changes around them, and each day</Original_text>
+		<Translation lang="ar">ويتغير العالم حولهم،</Translation>
+		<Translation lang="fr">et le monde change autour d'eux, et chaque jour</Translation>
+	</Segment>
+	<Segment id ="151" >
+		<Time-slot>00:07:11,793 --> 00:07:15,045</Time-slot>
+		<Original_text lang="en">all of these decisions are sort of nudged ever so slightly</Original_text>
+		<Translation lang="ar">وفي كل يوم تدفع جميع هذه القرارات</Translation>
+		<Translation lang="fr">toutes ces décisions sont en quelque sorte orientées légèrement</Translation>
+	</Segment>
+	<Segment id ="152" >
+		<Time-slot>00:07:15,045 --> 00:07:17,012</Time-slot>
+		<Original_text lang="en">away from rush hour car driving</Original_text>
+		<Translation lang="ar">السائقين بعيدا عن ساعات الذروة</Translation>
+		<Translation lang="fr">pour éviter la circulation aux heures de pointe</Translation>
+	</Segment>
+	<Segment id ="153" >
+		<Time-slot>00:07:17,012 --> 00:07:19,596</Time-slot>
+		<Original_text lang="en">in a way that people don't even notice.</Original_text>
+		<Translation lang="ar">بشكل غير ملحوظ من الاشخاص</Translation>
+		<Translation lang="fr">d'un manière que les gens ne remarquent pas.</Translation>
+	</Segment>
+	<Segment id ="154" >
+		<Time-slot>00:07:19,596 --> 00:07:21,641</Time-slot>
+		<Original_text lang="en">They're not even aware of this themselves.</Original_text>
+		<Translation lang="ar">ومن غير أن يشعروا بذلك.</Translation>
+		<Translation lang="fr">Ils n'en sont même pas conscients eux-mêmes.</Translation>
+	</Segment>
+	<Segment id ="155" >
+		<Time-slot>00:07:21,641 --> 00:07:24,442</Time-slot>
+		<Original_text lang="en">And the other question, who changed their mind?</Original_text>
+		<Translation lang="ar">والسؤال الآخر، من غير فكرهم؟</Translation>
+		<Translation lang="fr">Et l'autre question est : qui a changé d'avis ?</Translation>
+	</Segment>
+	<Segment id ="156" >
+		<Time-slot>00:07:24,442 --> 00:07:26,408</Time-slot>
+		<Original_text lang="en">Who changed their opinion, and why?</Original_text>
+		<Translation lang="ar">من غير رأيهم، ولماذا؟</Translation>
+		<Translation lang="fr">qui a changé d'opinion, et pourquoi ?</Translation>
+	</Segment>
+	<Segment id ="157" >
+		<Time-slot>00:07:26,408 --> 00:07:28,935</Time-slot>
+		<Original_text lang="en">So we did another interview survey, tried to figure out</Original_text>
+		<Translation lang="ar">قمنا بعمل استبيان آخر لمعرفة</Translation>
+		<Translation lang="fr">Du coup nous avons fait un nouveau sondage, en cherchant à comprendre</Translation>
+	</Segment>
+	<Segment id ="158" >
+		<Time-slot>00:07:28,935 --> 00:07:33,310</Time-slot>
+		<Original_text lang="en">why people changed their mind, and what type of group changed their minds?</Original_text>
+		<Translation lang="ar">لم غير الاشخاص آراءهم وأي فئة من الاشخاص غيروا آراءهم؟</Translation>
+		<Translation lang="fr">pourquoi les gens avaient changé d'avis, et quels groupes avaient changé d'avis.</Translation>
+	</Segment>
+	<Segment id ="159" >
+		<Time-slot>00:07:33,310 --> 00:07:36,203</Time-slot>
+		<Original_text lang="en">And after analyzing the answers, it turned out that</Original_text>
+		<Translation lang="ar">وبعد تحليل الاجابات تبين</Translation>
+		<Translation lang="fr">Et après avoir analysé les réponses, il s'est avéré que</Translation>
+	</Segment>
+	<Segment id ="160" >
+		<Time-slot>00:07:36,204 --> 00:07:40,088</Time-slot>
+		<Original_text lang="en">more than half of them believe that they haven't changed their minds.</Original_text>
+		<Translation lang="ar">انه اكثر من نصف الاشخاص لم يغيروا آراؤهم</Translation>
+		<Translation lang="fr">plus de la moitié d'entre eux estimaient ne pas avoir changé d'avis.</Translation>
+	</Segment>
+	<Segment id ="161" >
+		<Time-slot>00:07:40,088 --> 00:07:42,375</Time-slot>
+		<Original_text lang="en">They're actually confident that they have</Original_text>
+		<Translation lang="ar">انهم في الحقيقة وبكل ثقة</Translation>
+		<Translation lang="fr">Ils sont en fait convaincus qu'ils ont</Translation>
+	</Segment>
+	<Segment id ="162" >
+		<Time-slot>00:07:42,375 --> 00:07:45,064</Time-slot>
+		<Original_text lang="en">liked congestion pricing all along.</Original_text>
+		<Translation lang="ar">كانوا مع فرض رسوم الازدحام منذ البداية</Translation>
+		<Translation lang="fr">approuvé la taxe depuis le départ.</Translation>
+	</Segment>
+	<Segment id ="163" >
+		<Time-slot>00:07:45,064 --> 00:07:46,783</Time-slot>
+		<Original_text lang="en">Which means that we are now in a position</Original_text>
+		<Translation lang="ar">مما يعني اننا تمكنّا</Translation>
+		<Translation lang="fr">Ce qui signifie qu'actuellement</Translation>
+	</Segment>
+	<Segment id ="164" >
+		<Time-slot>00:07:46,783 --> 00:07:49,776</Time-slot>
+		<Original_text lang="en">where we have reduced traffic across this toll cordon</Original_text>
+		<Translation lang="ar">من خفض حركة المرور من خلال المناطق الخاضعة للرسوم</Translation>
+		<Translation lang="fr">nous avons réduit le trafic entrant dans ce périmètre</Translation>
+	</Segment>
+	<Segment id ="165" >
+		<Time-slot>00:07:49,776 --> 00:07:52,987</Time-slot>
+		<Original_text lang="en">with 20 percent, and reduced congestion by enormous numbers,</Original_text>
+		<Translation lang="ar">بنسبة 20 بالمئة ، وانخفاض الازدحام بشكل ملحوظ</Translation>
+		<Translation lang="fr">de 20%, et réduit les embouteillages bien davantage,</Translation>
+	</Segment>
+	<Segment id ="166" >
+		<Time-slot>00:07:52,987 --> 00:07:56,535</Time-slot>
+		<Original_text lang="en">and people aren't even aware that they have changed,</Original_text>
+		<Translation lang="ar">دون ان يشعر الاشخاص بالتغيير</Translation>
+		<Translation lang="fr">et que les gens ne sont même pas conscients d'avoir changé,</Translation>
+	</Segment>
+	<Segment id ="167" >
+		<Time-slot>00:07:56,535 --> 00:08:00,446</Time-slot>
+		<Original_text lang="en">and they honestly believe that they have liked this all along.</Original_text>
+		<Translation lang="ar">واعتقادهم انهم كانوا مع فرض الرسوم منذ البداية</Translation>
+		<Translation lang="fr">et qu'ils pensent sincèrement qu'ils ont toujours apprécié ça.</Translation>
+	</Segment>
+	<Segment id ="168" >
+		<Time-slot>00:08:00,446 --> 00:08:03,920</Time-slot>
+		<Original_text lang="en">This is the power of nudges when trying to solve</Original_text>
+		<Translation lang="ar">هذه هي قوة الدفع عند محاولة حل</Translation>
+		<Translation lang="fr">C'est la force de ces encouragements lorsqu'il s'agit de résoudre</Translation>
+	</Segment>
+	<Segment id ="169" >
+		<Time-slot>00:08:03,920 --> 00:08:06,552</Time-slot>
+		<Original_text lang="en">complex social problems, and when you do that,</Original_text>
+		<Translation lang="ar">المشاكل الاجتماعية المعقدة، وعندما تتوصل للحل</Translation>
+		<Translation lang="fr">des problèmes sociaux complexes, et dans ce cas,</Translation>
+	</Segment>
+	<Segment id ="170" >
+		<Time-slot>00:08:06,552 --> 00:08:10,182</Time-slot>
+		<Original_text lang="en">you shouldn't try to tell people how to adapt.</Original_text>
+		<Translation lang="ar">لا داعي لاعلام الآخرين للتأقلم</Translation>
+		<Translation lang="fr">vous ne devriez pas dire au gens comment s'adapter.</Translation>
+	</Segment>
+	<Segment id ="171" >
+		<Time-slot>00:08:10,182 --> 00:08:12,369</Time-slot>
+		<Original_text lang="en">You should just nudge them in the right direction.</Original_text>
+		<Translation lang="ar">عليك فقط أن تدفعهم في الاتجاه الصحيح</Translation>
+		<Translation lang="fr">Vous devriez juste les pousser un peu dans la bonne direction.</Translation>
+	</Segment>
+	<Segment id ="172" >
+		<Time-slot>00:08:12,369 --> 00:08:14,091</Time-slot>
+		<Original_text lang="en">And if you do it right,</Original_text>
+		<Translation lang="ar">وان فعلت ذلك بشكل صحيح</Translation>
+		<Translation lang="fr">Et si vous le faites bien</Translation>
+	</Segment>
+	<Segment id ="173" >
+		<Time-slot>00:08:14,091 --> 00:08:16,143</Time-slot>
+		<Original_text lang="en">people will actually embrace the change,</Original_text>
+		<Translation lang="ar">سيتبنى الأشخاص هذا التغيير</Translation>
+		<Translation lang="fr">les gens changeront,</Translation>
+	</Segment>
+	<Segment id ="174" >
+		<Time-slot>00:08:16,142 --> 00:08:19,204</Time-slot>
+		<Original_text lang="en">and if you do it right, people will actually even like it.</Original_text>
+		<Translation lang="ar">حتى انهم سيعجبون بالتغيير</Translation>
+		<Translation lang="fr">et si vous le faites bien, les gens iront jusqu'à l'apprécier.</Translation>
+	</Segment>
+	<Segment id ="175" >
+		<Time-slot>00:08:19,204 --> 00:08:22,529</Time-slot>
+		<Original_text lang="en">Thank you. (Applause)</Original_text>
+		<Translation lang="ar">شكرا. (تصفيق)</Translation>
+		<Translation lang="fr">Merci. (Applaudissements)</Translation>
+	</Segment>
+</Talk>
+</MulTed>

@@ -1,0 +1,1638 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MulTed>
+
+<Talk Speaker = "Alastair Parvin" Title= " Architecture for the people by the people" >
+	<Segment id ="1" >
+		<Time-slot>00:00:12,884 --> 00:00:16,053</Time-slot>
+		<Original_text lang="en">When we use the word "architect" or "designer,"</Original_text>
+		<Translation lang="ar">عندما نستخدم كلمة "مهندس معماري" أو "مصمم"،</Translation>
+		<Translation lang="fr">Quand on utilise les mots « architecte » ou « designer »,</Translation>
+	</Segment>
+	<Segment id ="2" >
+		<Time-slot>00:00:16,053 --> 00:00:18,852</Time-slot>
+		<Original_text lang="en">what we usually mean is a professional,</Original_text>
+		<Translation lang="ar">ما نعنيه عادة هو محترف،</Translation>
+		<Translation lang="fr">on parle habituellement d'un professionel,</Translation>
+	</Segment>
+	<Segment id ="3" >
+		<Time-slot>00:00:18,852 --> 00:00:21,324</Time-slot>
+		<Original_text lang="en">someone who gets paid,</Original_text>
+		<Translation lang="ar">شخص يُدفع له،</Translation>
+		<Translation lang="fr">de quelqu'un que l'on paie,</Translation>
+	</Segment>
+	<Segment id ="4" >
+		<Time-slot>00:00:21,324 --> 00:00:24,246</Time-slot>
+		<Original_text lang="en">and we tend to assume that it's those professionals</Original_text>
+		<Translation lang="ar">ونلجأ إلى افتراض أن هؤلاء المحترفين</Translation>
+		<Translation lang="fr">on a tendance à penser que ce sont ces professionels</Translation>
+	</Segment>
+	<Segment id ="5" >
+		<Time-slot>00:00:24,246 --> 00:00:26,228</Time-slot>
+		<Original_text lang="en">who are going to be the ones to help us solve</Original_text>
+		<Translation lang="ar">سوف يكونون هم الذين سيساعدوننا لحل</Translation>
+		<Translation lang="fr">qui vont nous aider à résoudre</Translation>
+	</Segment>
+	<Segment id ="6" >
+		<Time-slot>00:00:26,228 --> 00:00:28,788</Time-slot>
+		<Original_text lang="en">the really big, systemic design challenges that we face</Original_text>
+		<Translation lang="ar">تحدي التصميم المنظم، الكبير حقاً والذي نواجهه</Translation>
+		<Translation lang="fr">les vrais grands défis systémiques de conception auxquels nous faisons face,</Translation>
+	</Segment>
+	<Segment id ="7" >
+		<Time-slot>00:00:28,788 --> 00:00:32,633</Time-slot>
+		<Original_text lang="en">like climate change, urbanization and social inequality.</Original_text>
+		<Translation lang="ar">مثل تغير المناخ، التحضر وعدم المساواة الاجتماعية.</Translation>
+		<Translation lang="fr">comme le changement climatique, l'urbanisation et les inégalités sociales.</Translation>
+	</Segment>
+	<Segment id ="8" >
+		<Time-slot>00:00:32,633 --> 00:00:35,717</Time-slot>
+		<Original_text lang="en">That's our kind of working presumption.</Original_text>
+		<Translation lang="ar">هذا نوع افتراض العمل لدينا.</Translation>
+		<Translation lang="fr">C'est une idée reçue assez fréquente.</Translation>
+	</Segment>
+	<Segment id ="9" >
+		<Time-slot>00:00:35,716 --> 00:00:38,723</Time-slot>
+		<Original_text lang="en">And I think it's wrong, actually.</Original_text>
+		<Translation lang="ar">اظن أن ذلك خاطئ، في الواقع.</Translation>
+		<Translation lang="fr">En fait, je pense que c'est faux.</Translation>
+	</Segment>
+	<Segment id ="10" >
+		<Time-slot>00:00:38,723 --> 00:00:41,971</Time-slot>
+		<Original_text lang="en">In 2008, I was just about to graduate from architecture school</Original_text>
+		<Translation lang="ar">في 2008، كنت على وشك أن أتخرج من كلية المعمار</Translation>
+		<Translation lang="fr">En 2008, j'allais être diplômé de l'école d'architecture</Translation>
+	</Segment>
+	<Segment id ="11" >
+		<Time-slot>00:00:41,972 --> 00:00:44,645</Time-slot>
+		<Original_text lang="en">after several years, and go out and get a job,</Original_text>
+		<Translation lang="ar">بعد عدة سنوات، ولأخرج وأجد عملاً،</Translation>
+		<Translation lang="fr">après plusieurs années, j'allais chercher un job,</Translation>
+	</Segment>
+	<Segment id ="12" >
+		<Time-slot>00:00:44,645 --> 00:00:47,570</Time-slot>
+		<Original_text lang="en">and this happened.</Original_text>
+		<Translation lang="ar">وحصل ذلك.</Translation>
+		<Translation lang="fr">et c'est arrivé.</Translation>
+	</Segment>
+	<Segment id ="13" >
+		<Time-slot>00:00:47,570 --> 00:00:49,820</Time-slot>
+		<Original_text lang="en">The economy ran out of jobs.</Original_text>
+		<Translation lang="ar">أن الإقتصاد لم يعد لديه وظائف.</Translation>
+		<Translation lang="fr">L'économie n'offrait plus d'emploi.</Translation>
+	</Segment>
+	<Segment id ="14" >
+		<Time-slot>00:00:49,820 --> 00:00:52,274</Time-slot>
+		<Original_text lang="en">And a couple of things struck me about this.</Original_text>
+		<Translation lang="ar">وأدهشني شيئان عن ذلك.</Translation>
+		<Translation lang="fr">Plusieurs choses m'ont frappé à ce sujet.</Translation>
+	</Segment>
+	<Segment id ="15" >
+		<Time-slot>00:00:52,274 --> 00:00:56,004</Time-slot>
+		<Original_text lang="en">One, don't listen to career advisers.</Original_text>
+		<Translation lang="ar">الأول، لا تستمع إلى ناصحي المهن.</Translation>
+		<Translation lang="fr">Premièrement, n'écoutez pas les conseillers d'orientation.</Translation>
+	</Segment>
+	<Segment id ="16" >
+		<Time-slot>00:00:56,005 --> 00:01:00,661</Time-slot>
+		<Original_text lang="en">And two, actually this is a fascinating paradox for architecture,</Original_text>
+		<Translation lang="ar">والثاني، في الواقع هذه مفارقة مذهلة للمعمار،</Translation>
+		<Translation lang="fr">Deuxièmement, en fait c'est un paradoxe fascinant pour l'architecture,</Translation>
+	</Segment>
+	<Segment id ="17" >
+		<Time-slot>00:01:00,661 --> 00:01:04,930</Time-slot>
+		<Original_text lang="en">which is that, as a society, we've never needed design thinking more,</Original_text>
+		<Translation lang="ar">والتي هي، كمجتمع، لم نحتج قط إلى التفكير في التصميم أكثر من الآن،</Translation>
+		<Translation lang="fr">c'est qu'en tant que société, nous n'avions jamais eu autant besoin de réfléchir sur le design,</Translation>
+	</Segment>
+	<Segment id ="18" >
+		<Time-slot>00:01:04,930 --> 00:01:08,888</Time-slot>
+		<Original_text lang="en">and yet architecture was literally becoming unemployed.</Original_text>
+		<Translation lang="ar">ومع ذلك يصبح المعمار حرفياً عاطل عن العمل.</Translation>
+		<Translation lang="fr">et pourtant l'architecture devenait littéralement sans emploi.</Translation>
+	</Segment>
+	<Segment id ="19" >
+		<Time-slot>00:01:08,888 --> 00:01:12,439</Time-slot>
+		<Original_text lang="en">It strikes me that we talk very deeply about design,</Original_text>
+		<Translation lang="ar">يدهشني أننا نتحدث بعمق شديد حول التصميم،</Translation>
+		<Translation lang="fr">Ça me frappe que nous parlions en détail de design,</Translation>
+	</Segment>
+	<Segment id ="20" >
+		<Time-slot>00:01:12,439 --> 00:01:14,555</Time-slot>
+		<Original_text lang="en">but actually there's an economics behind architecture</Original_text>
+		<Translation lang="ar">لكن في الواقع هناك علم اقتصاد وراء المعمار</Translation>
+		<Translation lang="fr">mais en fait il y a une économie derrière l'architecture</Translation>
+	</Segment>
+	<Segment id ="21" >
+		<Time-slot>00:01:14,555 --> 00:01:17,024</Time-slot>
+		<Original_text lang="en">that we don't talk about, and I think we need to.</Original_text>
+		<Translation lang="ar">والذي لانتحدث عنه، وأظننا بحاجة لذلك.</Translation>
+		<Translation lang="fr">dont on ne parle pas, et je pense que nous le devrions.</Translation>
+	</Segment>
+	<Segment id ="22" >
+		<Time-slot>00:01:17,024 --> 00:01:20,655</Time-slot>
+		<Original_text lang="en">And a good place to start is your own paycheck.</Original_text>
+		<Translation lang="ar">ومكان جيد للبدء هو راتبنا الخاص.</Translation>
+		<Translation lang="fr">Votre propre salaire est un bon point de départ.</Translation>
+	</Segment>
+	<Segment id ="23" >
+		<Time-slot>00:01:20,655 --> 00:01:23,097</Time-slot>
+		<Original_text lang="en">So, as a bottom-of-the-rung architecture graduate,</Original_text>
+		<Translation lang="ar">اذاً، كخريج معمار في أسفل الدرجات،</Translation>
+		<Translation lang="fr">Ainsi, tout en bas de l'échelle des diplômés en architecture,</Translation>
+	</Segment>
+	<Segment id ="24" >
+		<Time-slot>00:01:23,096 --> 00:01:26,072</Time-slot>
+		<Original_text lang="en">I might expect to earn about 24,000 pounds.</Original_text>
+		<Translation lang="ar">قد أتوقع لأكسب أربعة وعشرين ألف جنيه.</Translation>
+		<Translation lang="fr">je peux espérer gagner environ 24 000 livres sterling.</Translation>
+	</Segment>
+	<Segment id ="25" >
+		<Time-slot>00:01:26,072 --> 00:01:29,688</Time-slot>
+		<Original_text lang="en">That's about 36,000, 37,000 dollars.</Original_text>
+		<Translation lang="ar">ذلك حوالي ستة وثلاثين ألف، أو سبعة وثلاثين ألف دولار.</Translation>
+		<Translation lang="fr">Soit environ 28 000, 29 000 euros.</Translation>
+	</Segment>
+	<Segment id ="26" >
+		<Time-slot>00:01:29,688 --> 00:01:31,393</Time-slot>
+		<Original_text lang="en">Now in terms of the whole world's population,</Original_text>
+		<Translation lang="ar">الآن مقارنة بجميع سكان العالم،</Translation>
+		<Translation lang="fr">Comparé à la population mondiale,</Translation>
+	</Segment>
+	<Segment id ="27" >
+		<Time-slot>00:01:31,394 --> 00:01:36,276</Time-slot>
+		<Original_text lang="en">that already puts me in the top 1.95 richest people,</Original_text>
+		<Translation lang="ar">ذلك يضعني في أعلى 1.95 من أثرى الناس،</Translation>
+		<Translation lang="fr">ça me place déjà dans le top 1,95% des personnes les plus riches</Translation>
+	</Segment>
+	<Segment id ="28" >
+		<Time-slot>00:01:36,275 --> 00:01:40,036</Time-slot>
+		<Original_text lang="en">which raises the question of, who is it I'm working for?</Original_text>
+		<Translation lang="ar">مما يثير التساؤل، من الذي أعمل لديه؟</Translation>
+		<Translation lang="fr">ce qui soulève la question : pour qui vais-je travailler ?</Translation>
+	</Segment>
+	<Segment id ="29" >
+		<Time-slot>00:01:40,036 --> 00:01:42,746</Time-slot>
+		<Original_text lang="en">The uncomfortable fact is that</Original_text>
+		<Translation lang="ar">الحقيقة الغير مريحة هي أنه</Translation>
+		<Translation lang="fr">Ce qui est génant, c'est que</Translation>
+	</Segment>
+	<Segment id ="30" >
+		<Time-slot>00:01:42,746 --> 00:01:45,631</Time-slot>
+		<Original_text lang="en">actually almost everything that we call architecture today</Original_text>
+		<Translation lang="ar">في الواقع تقريباً كل شيء ندعوه معمار اليوم</Translation>
+		<Translation lang="fr">presque tout ce que nous appelons architecture aujourd'hui</Translation>
+	</Segment>
+	<Segment id ="31" >
+		<Time-slot>00:01:45,631 --> 00:01:47,923</Time-slot>
+		<Original_text lang="en">is actually the business of designing</Original_text>
+		<Translation lang="ar">هو في الواقع عمل تصميم</Translation>
+		<Translation lang="fr">est en fait un travail de conception</Translation>
+	</Segment>
+	<Segment id ="32" >
+		<Time-slot>00:01:47,923 --> 00:01:50,847</Time-slot>
+		<Original_text lang="en">for about the richest one percent of the world's population,</Original_text>
+		<Translation lang="ar">لأثرى واحد في المئة من سكان العالم،</Translation>
+		<Translation lang="fr">pour le 1% des gens les plus riches de la population mondiale,</Translation>
+	</Segment>
+	<Segment id ="33" >
+		<Time-slot>00:01:50,847 --> 00:01:53,076</Time-slot>
+		<Original_text lang="en">and it always has been.</Original_text>
+		<Translation lang="ar">ولقد كان كذلك دائماً.</Translation>
+		<Translation lang="fr">et ça a toujours été le cas.</Translation>
+	</Segment>
+	<Segment id ="34" >
+		<Time-slot>00:01:53,076 --> 00:01:54,823</Time-slot>
+		<Original_text lang="en">The reason why we forgot that</Original_text>
+		<Translation lang="ar">السبب في أننا ننسى ذلك</Translation>
+		<Translation lang="fr">La raison pour laquelle nous avons oublié cela,</Translation>
+	</Segment>
+	<Segment id ="35" >
+		<Time-slot>00:01:54,823 --> 00:01:56,926</Time-slot>
+		<Original_text lang="en">is because the times in history when architecture</Original_text>
+		<Translation lang="ar">هو أن المرات في التاريخ حيث قام المعمار</Translation>
+		<Translation lang="fr">c'est parce que les moments dans l'histoire où l'architecture</Translation>
+	</Segment>
+	<Segment id ="36" >
+		<Time-slot>00:01:56,927 --> 00:01:59,852</Time-slot>
+		<Original_text lang="en">did the most to transform society were those times</Original_text>
+		<Translation lang="ar">بعمل الكثير لتحويل المجتمع كانت هي المرات</Translation>
+		<Translation lang="fr">a fait le plus pour transformer la société, étaient ces moments</Translation>
+	</Segment>
+	<Segment id ="37" >
+		<Time-slot>00:01:59,852 --> 00:02:02,509</Time-slot>
+		<Original_text lang="en">when, actually, the one percent would build</Original_text>
+		<Translation lang="ar">حين، في الواقع، الواحد في المئة قاموا بالبناء</Translation>
+		<Translation lang="fr">quand, réellement, les 1% voulaient construire</Translation>
+	</Segment>
+	<Segment id ="38" >
+		<Time-slot>00:02:02,509 --> 00:02:05,543</Time-slot>
+		<Original_text lang="en">on behalf of the 99 percent, for various different reasons,</Original_text>
+		<Translation lang="ar">نيابة عن التسعة والتسعين في المئة، لأسباب مختلفة عديدة،</Translation>
+		<Translation lang="fr">pour le compte des 99%, pour différentes raisons,</Translation>
+	</Segment>
+	<Segment id ="39" >
+		<Time-slot>00:02:05,543 --> 00:02:08,158</Time-slot>
+		<Original_text lang="en">whether that was through philanthropy in the 19th century,</Original_text>
+		<Translation lang="ar">سواء كان ذلك عن طريق العمل الخيري في القرن التاسع عشر،</Translation>
+		<Translation lang="fr">soit que ce soit par philanthropie au 19ème siècle,</Translation>
+	</Segment>
+	<Segment id ="40" >
+		<Time-slot>00:02:08,158 --> 00:02:10,429</Time-slot>
+		<Original_text lang="en">communism in the early 20th,</Original_text>
+		<Translation lang="ar">الشيوعية في أوائل القرن العشرين،</Translation>
+		<Translation lang="fr">communisme au début du 20ème,</Translation>
+	</Segment>
+	<Segment id ="41" >
+		<Time-slot>00:02:10,429 --> 00:02:13,467</Time-slot>
+		<Original_text lang="en">the welfare state, and most recently, of course,</Original_text>
+		<Translation lang="ar">الرعاية الاجتماعية في الدولة، وفي الآونة الأخيرة، بالطبع،</Translation>
+		<Translation lang="fr">l'Etat Providence, et plus récemment, bien sûr,</Translation>
+	</Segment>
+	<Segment id ="42" >
+		<Time-slot>00:02:13,467 --> 00:02:17,083</Time-slot>
+		<Original_text lang="en">through this inflated real estate bubble.</Original_text>
+		<Translation lang="ar">من خلال فقاعة العقارات المتضخمة هذه.</Translation>
+		<Translation lang="fr">avec la bulle de l'immobilier.</Translation>
+	</Segment>
+	<Segment id ="43" >
+		<Time-slot>00:02:17,082 --> 00:02:20,390</Time-slot>
+		<Original_text lang="en">And all of those booms, in their own various ways,</Original_text>
+		<Translation lang="ar">وكل من تلك الإزدهارات، في طرقهم المختلفة الخاصة،</Translation>
+		<Translation lang="fr">Tous ces essors, chacun à leur manière,</Translation>
+	</Segment>
+	<Segment id ="44" >
+		<Time-slot>00:02:20,390 --> 00:02:22,310</Time-slot>
+		<Original_text lang="en">have now kicked the bucket,</Original_text>
+		<Translation lang="ar">قد ماتت الآن،</Translation>
+		<Translation lang="fr">sont morts dorénavant,</Translation>
+	</Segment>
+	<Segment id ="45" >
+		<Time-slot>00:02:22,310 --> 00:02:24,596</Time-slot>
+		<Original_text lang="en">and we're back in this situation</Original_text>
+		<Translation lang="ar">وعدنا في هذا الوضع</Translation>
+		<Translation lang="fr">et nous sommes revenus à la situation</Translation>
+	</Segment>
+	<Segment id ="46" >
+		<Time-slot>00:02:24,596 --> 00:02:29,512</Time-slot>
+		<Original_text lang="en">where the smartest designers and architects in the world</Original_text>
+		<Translation lang="ar">حيث أذكى المصممين والمهندسين المعماريين في العالم</Translation>
+		<Translation lang="fr">où les designers et architectes les plus intelligents du monde</Translation>
+	</Segment>
+	<Segment id ="47" >
+		<Time-slot>00:02:29,512 --> 00:02:33,292</Time-slot>
+		<Original_text lang="en">are only really able to work for one percent of the population.</Original_text>
+		<Translation lang="ar">هم حقاً قادرين على العمل لواحد في المائة من السكان فقط.</Translation>
+		<Translation lang="fr">ne sont vraiment capables de travailler que pour 1% de la population.</Translation>
+	</Segment>
+	<Segment id ="48" >
+		<Time-slot>00:02:33,292 --> 00:02:35,402</Time-slot>
+		<Original_text lang="en">Now it's not just that that's bad for democracy,</Original_text>
+		<Translation lang="ar">الآن ذلك ليست مجرد أمر سيء للديمقراطية،</Translation>
+		<Translation lang="fr">Mais ce n'est pas juste que c'est mauvais pour la démocratie,</Translation>
+	</Segment>
+	<Segment id ="49" >
+		<Time-slot>00:02:35,401 --> 00:02:37,240</Time-slot>
+		<Original_text lang="en">though I think it probably is,</Original_text>
+		<Translation lang="ar">على الرغم من أنني أعتقد أنه كذلك على الأرجح،</Translation>
+		<Translation lang="fr">bien que je pense que ça le soit,</Translation>
+	</Segment>
+	<Segment id ="50" >
+		<Time-slot>00:02:37,241 --> 00:02:40,337</Time-slot>
+		<Original_text lang="en">it's actually not a very clever business strategy, actually.</Original_text>
+		<Translation lang="ar">انها ليست في الواقع استراتيجية عمل ذكية جداً، في الواقع.</Translation>
+		<Translation lang="fr">c'est surtout que ce n'est pas une stratégie économique très intelligente.</Translation>
+	</Segment>
+	<Segment id ="51" >
+		<Time-slot>00:02:40,336 --> 00:02:43,195</Time-slot>
+		<Original_text lang="en">I think the challenge facing the next generation of architects</Original_text>
+		<Translation lang="ar">أعتقد أن التحدي الذي يواجه الجيل القادم من المهندسين المعماريين</Translation>
+		<Translation lang="fr">Je pense que le défi auquel fait face la prochaine génération d'architectes</Translation>
+	</Segment>
+	<Segment id ="52" >
+		<Time-slot>00:02:43,195 --> 00:02:45,237</Time-slot>
+		<Original_text lang="en">is, how are we going to turn our client</Original_text>
+		<Translation lang="ar">هو، كيف أننا سوف نغير عميلنا</Translation>
+		<Translation lang="fr">c'est : comment allons-nous changer nos clients</Translation>
+	</Segment>
+	<Segment id ="53" >
+		<Time-slot>00:02:45,237 --> 00:02:48,859</Time-slot>
+		<Original_text lang="en">from the one percent to the 100 percent?</Original_text>
+		<Translation lang="ar">من واحد في المئة إلى مائة في المئة؟</Translation>
+		<Translation lang="fr">des 1% vers les 100% ?</Translation>
+	</Segment>
+	<Segment id ="54" >
+		<Time-slot>00:02:48,859 --> 00:02:52,433</Time-slot>
+		<Original_text lang="en">And I want to offer three slightly counterintuitive ideas</Original_text>
+		<Translation lang="ar">وأريد أن أقدم ثلاث أفكار حدسية قليلاً</Translation>
+		<Translation lang="fr">Je veux proposer 3 idées légèrement paradoxales</Translation>
+	</Segment>
+	<Segment id ="55" >
+		<Time-slot>00:02:52,432 --> 00:02:54,275</Time-slot>
+		<Original_text lang="en">for how it might be done.</Original_text>
+		<Translation lang="ar">لكيف يمكن القيام بذلك.</Translation>
+		<Translation lang="fr">sur la façon dont on pourrait le faire.</Translation>
+	</Segment>
+	<Segment id ="56" >
+		<Time-slot>00:02:54,275 --> 00:02:57,657</Time-slot>
+		<Original_text lang="en">The first is, I think we need to question this idea</Original_text>
+		<Translation lang="ar">الأول هو، أعتقد أننا بحاجة إلى التساؤل عن هذه الفكرة</Translation>
+		<Translation lang="fr">Premièrement, je pense que nous avons besoin de remettre en cause cette idée selon laquelle</Translation>
+	</Segment>
+	<Segment id ="57" >
+		<Time-slot>00:02:57,657 --> 00:02:59,948</Time-slot>
+		<Original_text lang="en">that architecture is about making buildings.</Original_text>
+		<Translation lang="ar">أن الهندسة المعمارية هي عن صنع المباني.</Translation>
+		<Translation lang="fr">l'architecture consiste à construire des bâtiments.</Translation>
+	</Segment>
+	<Segment id ="58" >
+		<Time-slot>00:02:59,948 --> 00:03:02,692</Time-slot>
+		<Original_text lang="en">Actually, a building is about the most expensive solution</Original_text>
+		<Translation lang="ar">في الواقع، المبنى هو تقريباً أغلى حل</Translation>
+		<Translation lang="fr">En fait, un bâtiment est probablement la solution la plus coûteuse</Translation>
+	</Segment>
+	<Segment id ="59" >
+		<Time-slot>00:03:02,692 --> 00:03:05,707</Time-slot>
+		<Original_text lang="en">you can think of to almost any given problem.</Original_text>
+		<Translation lang="ar">يمكن أن تفكر فيه لتقريباً أي مشكلة معطية.</Translation>
+		<Translation lang="fr">à laquelle vous pouvez penser, quelque soit le problème.</Translation>
+	</Segment>
+	<Segment id ="60" >
+		<Time-slot>00:03:05,707 --> 00:03:08,235</Time-slot>
+		<Original_text lang="en">And fundamentally, design should be much, much more interested</Original_text>
+		<Translation lang="ar">وأساساً، ينبغي أن يكون التصميم مثيراً للإهتمام أكثر بكثير</Translation>
+		<Translation lang="fr">Fondamentalement, le design devrait être beaucoup, beaucoup plus intéressé</Translation>
+	</Segment>
+	<Segment id ="61" >
+		<Time-slot>00:03:08,235 --> 00:03:10,967</Time-slot>
+		<Original_text lang="en">in solving problems and creating new conditions.</Original_text>
+		<Translation lang="ar">في حل المشاكل وخلق ظروف جديدة.</Translation>
+		<Translation lang="fr">par la résolution des problèmes et la création de nouvelles conditions.</Translation>
+	</Segment>
+	<Segment id ="62" >
+		<Time-slot>00:03:10,967 --> 00:03:12,489</Time-slot>
+		<Original_text lang="en">So here's a story.</Original_text>
+		<Translation lang="ar">لذا هاهي قصة.</Translation>
+		<Translation lang="fr">Voici une anecdote :</Translation>
+	</Segment>
+	<Segment id ="63" >
+		<Time-slot>00:03:12,490 --> 00:03:14,088</Time-slot>
+		<Original_text lang="en">The office was working with a school,</Original_text>
+		<Translation lang="ar">كان المكتب يعمل مع إحدى المدارس،</Translation>
+		<Translation lang="fr">Le bureau travaillait sur une école</Translation>
+	</Segment>
+	<Segment id ="64" >
+		<Time-slot>00:03:14,087 --> 00:03:16,513</Time-slot>
+		<Original_text lang="en">and they had an old Victorian school building.</Original_text>
+		<Translation lang="ar">وكان لديهم مبنى مدرسة فيكتوري قديم.</Translation>
+		<Translation lang="fr">qui avait un bâtiment de l'époque victorienne.</Translation>
+	</Segment>
+	<Segment id ="65" >
+		<Time-slot>00:03:16,514 --> 00:03:19,245</Time-slot>
+		<Original_text lang="en">And they said to the architects, "Look,</Original_text>
+		<Translation lang="ar">وقالوا للمهندسين المعماريين، "انظروا،</Translation>
+		<Translation lang="fr">Et ils ont dit aux architectes : « Ecoutez,</Translation>
+	</Segment>
+	<Segment id ="66" >
+		<Time-slot>00:03:19,245 --> 00:03:21,198</Time-slot>
+		<Original_text lang="en">our corridors are an absolute nightmare.</Original_text>
+		<Translation lang="ar">ممراتنا هي كابوس مطلق.</Translation>
+		<Translation lang="fr">nos couloirs sont des cauchemars absolus.</Translation>
+	</Segment>
+	<Segment id ="67" >
+		<Time-slot>00:03:21,198 --> 00:03:23,564</Time-slot>
+		<Original_text lang="en">They're far too small. They get congested between classes.</Original_text>
+		<Translation lang="ar">انها صغيرة جداً. تكون مزدحمة بين الحصص.</Translation>
+		<Translation lang="fr">Ils sont beaucoup trop petits. Ils sont embouteillés entre les cours.</Translation>
+	</Segment>
+	<Segment id ="68" >
+		<Time-slot>00:03:23,563 --> 00:03:25,947</Time-slot>
+		<Original_text lang="en">There's bullying. We can't control them.</Original_text>
+		<Translation lang="ar">هناك تنمر. نحن لا نستطيع السيطرة عليهم.</Translation>
+		<Translation lang="fr">Il y a des brutalités. Nous ne pouvons pas les contrôler.</Translation>
+	</Segment>
+	<Segment id ="69" >
+		<Time-slot>00:03:25,947 --> 00:03:28,789</Time-slot>
+		<Original_text lang="en">So what we want you to do is re-plan our entire building,</Original_text>
+		<Translation lang="ar">لذا ما نريد منك القيام به هو إعادة تخطيط كامل المبنى،</Translation>
+		<Translation lang="fr">Donc ce que nous voulons, c'est que vous re-dessiniez le bâtiment entier.</Translation>
+	</Segment>
+	<Segment id ="70" >
+		<Time-slot>00:03:28,788 --> 00:03:30,978</Time-slot>
+		<Original_text lang="en">and we know it's going to cost several million pounds,</Original_text>
+		<Translation lang="ar">ونحن نعلم أن ذلك سوف يكلف عدة ملايين جنيه،</Translation>
+		<Translation lang="fr">Nous savons que ça va coûter plusieurs millions de livres sterlings</Translation>
+	</Segment>
+	<Segment id ="71" >
+		<Time-slot>00:03:30,979 --> 00:03:32,890</Time-slot>
+		<Original_text lang="en">but we're reconciled to the fact."</Original_text>
+		<Translation lang="ar">لكننا على وفاق مع الحقيقة ".</Translation>
+		<Translation lang="fr">mais nous nous y sommes résignés. »</Translation>
+	</Segment>
+	<Segment id ="72" >
+		<Time-slot>00:03:32,889 --> 00:03:35,595</Time-slot>
+		<Original_text lang="en">And the team thought about this, and they went away,</Original_text>
+		<Translation lang="ar">وفكر الفريق حول هذا، وذهبوا بعيداً،</Translation>
+		<Translation lang="fr">L'équipe a réfléchi là-dessus, est revenue</Translation>
+	</Segment>
+	<Segment id ="73" >
+		<Time-slot>00:03:35,596 --> 00:03:37,612</Time-slot>
+		<Original_text lang="en">and they said, "Actually, don't do that.</Original_text>
+		<Translation lang="ar">وقالوا، "في الواقع، لا تفعلوا ذلك.</Translation>
+		<Translation lang="fr">et a dit : « En fait, ne faites pas ça.</Translation>
+	</Segment>
+	<Segment id ="74" >
+		<Time-slot>00:03:37,612 --> 00:03:40,393</Time-slot>
+		<Original_text lang="en">Instead, get rid of the school bell.</Original_text>
+		<Translation lang="ar">بدلاً من ذلك، تخلصوا من جرس المدرسة.</Translation>
+		<Translation lang="fr">A la place, supprimez de la cloche de l'école.</Translation>
+	</Segment>
+	<Segment id ="75" >
+		<Time-slot>00:03:40,393 --> 00:03:43,222</Time-slot>
+		<Original_text lang="en">And instead of having one school bell that goes off once,</Original_text>
+		<Translation lang="ar">وبدلاً من وجود جرس مدرسة واحد ينطلق مرة واحدة،</Translation>
+		<Translation lang="fr">Et à la place d'avoir une seule cloche qui sonne une seule fois,</Translation>
+	</Segment>
+	<Segment id ="76" >
+		<Time-slot>00:03:43,222 --> 00:03:45,480</Time-slot>
+		<Original_text lang="en">have several smaller school bells that go off</Original_text>
+		<Translation lang="ar">أحضروا عدة أجراس مدرسة أصغر والتي تنطلق</Translation>
+		<Translation lang="fr">installez plusieurs petites cloches qui sonnent</Translation>
+	</Segment>
+	<Segment id ="77" >
+		<Time-slot>00:03:45,479 --> 00:03:47,727</Time-slot>
+		<Original_text lang="en">in different places and different times,</Original_text>
+		<Translation lang="ar">في أماكن مختلفة وأوقات مختلفة،</Translation>
+		<Translation lang="fr">à des endroits différents, à différents moments</Translation>
+	</Segment>
+	<Segment id ="78" >
+		<Time-slot>00:03:47,728 --> 00:03:49,975</Time-slot>
+		<Original_text lang="en">distribute the traffic through the corridors."</Original_text>
+		<Translation lang="ar">وزعوا حركة المرور خلال الممرات".</Translation>
+		<Translation lang="fr">afin de répartir le trafic dans les couloirs. »</Translation>
+	</Segment>
+	<Segment id ="79" >
+		<Time-slot>00:03:49,975 --> 00:03:51,393</Time-slot>
+		<Original_text lang="en">It solves the same problem,</Original_text>
+		<Translation lang="ar">ذلك يحل نفس المشكلة،</Translation>
+		<Translation lang="fr">Ça a résolu le problème,</Translation>
+	</Segment>
+	<Segment id ="80" >
+		<Time-slot>00:03:51,393 --> 00:03:54,200</Time-slot>
+		<Original_text lang="en">but instead of spending several million pounds,</Original_text>
+		<Translation lang="ar">ولكن بدلاً من أنفاق عدة ملايين جنيه،</Translation>
+		<Translation lang="fr">mais au lieu de dépenser plusieurs millions de livres,</Translation>
+	</Segment>
+	<Segment id ="81" >
+		<Time-slot>00:03:54,200 --> 00:03:56,343</Time-slot>
+		<Original_text lang="en">you spend several hundred pounds.</Original_text>
+		<Translation lang="ar">يمكنك انفاق عدة مئات من الجنيهات.</Translation>
+		<Translation lang="fr">vous n'en dépensez que quelques centaines.</Translation>
+	</Segment>
+	<Segment id ="82" >
+		<Time-slot>00:03:56,343 --> 00:03:59,144</Time-slot>
+		<Original_text lang="en">Now, it looks like you're doing yourself out of a job,</Original_text>
+		<Translation lang="ar">الآن، يبدو الأمر كأنك تخرج نفسك من وظيفة،</Translation>
+		<Translation lang="fr">Maintenant, on dirait que vous vous privez vous-même d'un emploi,</Translation>
+	</Segment>
+	<Segment id ="83" >
+		<Time-slot>00:03:59,144 --> 00:04:01,705</Time-slot>
+		<Original_text lang="en">but you're not. You're actually making yourself more useful.</Original_text>
+		<Translation lang="ar">ولكنك لا تفعل. أنت في الواقع تجعل نفسك أكثر فائدة.</Translation>
+		<Translation lang="fr">mais en fait non. En fait, vous vous rendez plus utile.</Translation>
+	</Segment>
+	<Segment id ="84" >
+		<Time-slot>00:04:01,705 --> 00:04:03,178</Time-slot>
+		<Original_text lang="en">Architects are actually really, really good</Original_text>
+		<Translation lang="ar">المهندسين المعماريين، في الواقع جيدون جداً، جداً</Translation>
+		<Translation lang="fr">Les architectes sont en fait très, très bons</Translation>
+	</Segment>
+	<Segment id ="85" >
+		<Time-slot>00:04:03,177 --> 00:04:05,520</Time-slot>
+		<Original_text lang="en">at this kind of resourceful, strategic thinking.</Original_text>
+		<Translation lang="ar">في هذا النوع من التفكير الاستراتيجي، واسع الحيلة.</Translation>
+		<Translation lang="fr">pour ce genre de réflexion stratégique et ingénieuse.</Translation>
+	</Segment>
+	<Segment id ="86" >
+		<Time-slot>00:04:05,520 --> 00:04:07,481</Time-slot>
+		<Original_text lang="en">And the problem is that, like a lot of design professions,</Original_text>
+		<Translation lang="ar">والمشكلة أنه، مثل الكثير من مهن التصميم</Translation>
+		<Translation lang="fr">Et le problème c'est que, comme beaucoup de professionnels du design,</Translation>
+	</Segment>
+	<Segment id ="87" >
+		<Time-slot>00:04:07,481 --> 00:04:09,664</Time-slot>
+		<Original_text lang="en">we got fixated on the idea of providing</Original_text>
+		<Translation lang="ar">لقد ركزنا اهتمامنا على فكرة اعطاء</Translation>
+		<Translation lang="fr">nous sommes obsédés par l'idée de fournir</Translation>
+	</Segment>
+	<Segment id ="88" >
+		<Time-slot>00:04:09,664 --> 00:04:11,945</Time-slot>
+		<Original_text lang="en">a particular kind of consumer product,</Original_text>
+		<Translation lang="ar">نوع معين من منتجات المستهلكين،</Translation>
+		<Translation lang="fr">une type particulier de produit au client,</Translation>
+	</Segment>
+	<Segment id ="89" >
+		<Time-slot>00:04:11,945 --> 00:04:14,415</Time-slot>
+		<Original_text lang="en">and I don't think that needs to be the case anymore.</Original_text>
+		<Translation lang="ar">وأنا لا أعتقد أن ذلك يجب أن يكون الحال بعد الآن.</Translation>
+		<Translation lang="fr">et je ne pense pas que ça doive encore être le cas.</Translation>
+	</Segment>
+	<Segment id ="90" >
+		<Time-slot>00:04:14,415 --> 00:04:18,617</Time-slot>
+		<Original_text lang="en">The second idea worth questioning is this 20th-century thing</Original_text>
+		<Translation lang="ar">والفكرة الثانية التي تستحق التساؤل هو هذا الشيء في القرن العشرين</Translation>
+		<Translation lang="fr">La deuxième idée qu'il faudrait remettre en cause est ce truc très 20ème siècle,</Translation>
+	</Segment>
+	<Segment id ="91" >
+		<Time-slot>00:04:18,617 --> 00:04:21,878</Time-slot>
+		<Original_text lang="en">that mass architecture is about big --</Original_text>
+		<Translation lang="ar">أن العمارة الشاملة هي عن</Translation>
+		<Translation lang="fr">que l'architecture de masse est faite de gigantisme,</Translation>
+	</Segment>
+	<Segment id ="92" >
+		<Time-slot>00:04:21,877 --> 00:04:24,471</Time-slot>
+		<Original_text lang="en">big buildings and big finance.</Original_text>
+		<Translation lang="ar">المباني الكبيرة والتمويل الكبير.</Translation>
+		<Translation lang="fr">de grands bâtiments et de gros budgets.</Translation>
+	</Segment>
+	<Segment id ="93" >
+		<Time-slot>00:04:24,471 --> 00:04:26,560</Time-slot>
+		<Original_text lang="en">Actually, we've got ourselves locked into this</Original_text>
+		<Translation lang="ar">في الواقع، لقد حبسنا أنفسنا</Translation>
+		<Translation lang="fr">En fait, nous nous sommes enfermés</Translation>
+	</Segment>
+	<Segment id ="94" >
+		<Time-slot>00:04:26,560 --> 00:04:28,967</Time-slot>
+		<Original_text lang="en">Industrial Era mindset which says that</Original_text>
+		<Translation lang="ar">في عقلية الحقبة الصناعية هذه والتي تقول أن</Translation>
+		<Translation lang="fr">dans cette mentalité de l'ère industrielle qui dit que</Translation>
+	</Segment>
+	<Segment id ="95" >
+		<Time-slot>00:04:28,968 --> 00:04:32,454</Time-slot>
+		<Original_text lang="en">the only people who can make cities are large organizations</Original_text>
+		<Translation lang="ar">الأشخاص الوحيدون الذين يمكنهم إنشاء المدن هم المؤسسات الكبيرة</Translation>
+		<Translation lang="fr">les seuls à pouvoir construire des villes sont de grandes organisations</Translation>
+	</Segment>
+	<Segment id ="96" >
+		<Time-slot>00:04:32,454 --> 00:04:34,971</Time-slot>
+		<Original_text lang="en">or corporations who build on our behalf,</Original_text>
+		<Translation lang="ar">أو الشركات التي تقوم بالبناء بالنيابة عنا،</Translation>
+		<Translation lang="fr">ou compagnies qui construisent pour nous,</Translation>
+	</Segment>
+	<Segment id ="97" >
+		<Time-slot>00:04:34,971 --> 00:04:36,779</Time-slot>
+		<Original_text lang="en">procuring whole neighborhoods</Original_text>
+		<Translation lang="ar">وإنشاء أحياء كاملة</Translation>
+		<Translation lang="fr">créant des quartiers entiers</Translation>
+	</Segment>
+	<Segment id ="98" >
+		<Time-slot>00:04:36,779 --> 00:04:40,212</Time-slot>
+		<Original_text lang="en">in single, monolithic projects, and of course,</Original_text>
+		<Translation lang="ar">في مشاريع متراصة، واحدة، وبطبيعة الحال،</Translation>
+		<Translation lang="fr">dans des projets monolithiques et identiques, et bien sûr,</Translation>
+	</Segment>
+	<Segment id ="99" >
+		<Time-slot>00:04:40,213 --> 00:04:42,432</Time-slot>
+		<Original_text lang="en">form follows finance.</Original_text>
+		<Translation lang="ar">الشكل يتبع التمويل.</Translation>
+		<Translation lang="fr">la forme suit le financement.</Translation>
+	</Segment>
+	<Segment id ="100" >
+		<Time-slot>00:04:42,432 --> 00:04:45,456</Time-slot>
+		<Original_text lang="en">So what you end up with are single, monolithic neighborhoods</Original_text>
+		<Translation lang="ar">لذا ما تحصل عليه في نهاية المطاف هي أحياء متراصة، واحدة</Translation>
+		<Translation lang="fr">Ce que vous avez à la fin, ce sont des quartiers identiques et monolithiques,</Translation>
+	</Segment>
+	<Segment id ="101" >
+		<Time-slot>00:04:45,456 --> 00:04:49,144</Time-slot>
+		<Original_text lang="en">based on this kind of one-size-fits-all model.</Original_text>
+		<Translation lang="ar">استناداً إلى هذا النوع من نموذج-واحد-يناسب الجميع.</Translation>
+		<Translation lang="fr">construits sur le modèle de la taille unique pour tous.</Translation>
+	</Segment>
+	<Segment id ="102" >
+		<Time-slot>00:04:49,144 --> 00:04:51,656</Time-slot>
+		<Original_text lang="en">And a lot of people can't even afford them.</Original_text>
+		<Translation lang="ar">وكثير من الناس لا يستطيعون حتى تحمل تكلفتها.</Translation>
+		<Translation lang="fr">Et beaucoup de gens ne peuvent même pas se les offrir.</Translation>
+	</Segment>
+	<Segment id ="103" >
+		<Time-slot>00:04:51,656 --> 00:04:54,623</Time-slot>
+		<Original_text lang="en">But what if, actually, it's possible now for cities</Original_text>
+		<Translation lang="ar">ولكن ما إذا كان، في الواقع، من الممكن الآن للمدن</Translation>
+		<Translation lang="fr">Mais qu'arriverait-il si, en fait, il était possible maintenant que les villes</Translation>
+	</Segment>
+	<Segment id ="104" >
+		<Time-slot>00:04:54,624 --> 00:04:57,394</Time-slot>
+		<Original_text lang="en">to be made not just by the few with a lot</Original_text>
+		<Translation lang="ar">أن تنشأ ليس فقط بواسطة القليلون مع الكثير</Translation>
+		<Translation lang="fr">soient construites non seulement par peu de personnes avec beaucoup d'argent,</Translation>
+	</Segment>
+	<Segment id ="105" >
+		<Time-slot>00:04:57,394 --> 00:05:00,581</Time-slot>
+		<Original_text lang="en">but also by the many with a bit?</Original_text>
+		<Translation lang="ar">ولكن أيضا بواسطة الكثيرون مع القليل؟</Translation>
+		<Translation lang="fr">mais aussi par beaucoup avec peu ?</Translation>
+	</Segment>
+	<Segment id ="106" >
+		<Time-slot>00:05:00,581 --> 00:05:01,875</Time-slot>
+		<Original_text lang="en">And when they do, they bring with them</Original_text>
+		<Translation lang="ar">وعندما يفعلون، فأنهم يجلبون معهم</Translation>
+		<Translation lang="fr">Et quand cela arrivera, ils amèneront avec eux</Translation>
+	</Segment>
+	<Segment id ="107" >
+		<Time-slot>00:05:01,875 --> 00:05:05,214</Time-slot>
+		<Original_text lang="en">a completely different set of values about the place that they want to live.</Original_text>
+		<Translation lang="ar">مجموعة مختلفة تماماً من القيم حول المكان الذي يريدون العيش فيه.</Translation>
+		<Translation lang="fr">un système de valeurs complètement différent sur l'endroit où ils veulent vivre.</Translation>
+	</Segment>
+	<Segment id ="108" >
+		<Time-slot>00:05:05,214 --> 00:05:07,318</Time-slot>
+		<Original_text lang="en">And it raises really interesting questions about,</Original_text>
+		<Translation lang="ar">ويثير ذلك تساؤلات مثيرة للاهتمام حقاً حول،</Translation>
+		<Translation lang="fr">Ca pose des questions vraiment intéressantes</Translation>
+	</Segment>
+	<Segment id ="109" >
+		<Time-slot>00:05:07,319 --> 00:05:10,602</Time-slot>
+		<Original_text lang="en">how will we plan cities? How will finance development?</Original_text>
+		<Translation lang="ar">كيف سنخطط المدن؟ كيف سنمول التنمية؟</Translation>
+		<Translation lang="fr">sur la façon dont nous allons organiser nos villes. Comment en financer le développement ?</Translation>
+	</Segment>
+	<Segment id ="110" >
+		<Time-slot>00:05:10,601 --> 00:05:12,262</Time-slot>
+		<Original_text lang="en">How will we sell design services?</Original_text>
+		<Translation lang="ar">كيف سنبيع خدمات التصميم؟</Translation>
+		<Translation lang="fr">Comment allons-nous vendre notre travail de design ?</Translation>
+	</Segment>
+	<Segment id ="111" >
+		<Time-slot>00:05:12,262 --> 00:05:14,502</Time-slot>
+		<Original_text lang="en">What would it mean for democratic societies</Original_text>
+		<Translation lang="ar">ماذا يعني ذلك للمجتمعات الديمقراطية</Translation>
+		<Translation lang="fr">Qu'est-ce que cela signifierait pour nos sociétés démocratiques</Translation>
+	</Segment>
+	<Segment id ="112" >
+		<Time-slot>00:05:14,502 --> 00:05:16,902</Time-slot>
+		<Original_text lang="en">to offer their citizens a right to build?</Original_text>
+		<Translation lang="ar">لإعطاء حق البناء لمواطنيها؟</Translation>
+		<Translation lang="fr">d'offrir à leurs citoyens le droit de construire ?</Translation>
+	</Segment>
+	<Segment id ="113" >
+		<Time-slot>00:05:16,903 --> 00:05:19,182</Time-slot>
+		<Original_text lang="en">And in a way it should be kind of obvious, right,</Original_text>
+		<Translation lang="ar">ونوعاً ما ينبغي أن يكون ذلك واضحاً، أليس كذلك،</Translation>
+		<Translation lang="fr">Dans un sens, cela devrait être plutôt évident, non ?</Translation>
+	</Segment>
+	<Segment id ="114" >
+		<Time-slot>00:05:19,182 --> 00:05:24,651</Time-slot>
+		<Original_text lang="en">that in the 21st century, maybe cities can be developed by citizens.</Original_text>
+		<Translation lang="ar">أنه في القرن الحادي والعشرين، لربما يمكن للمدن أن تطور بواسطة المواطنين.</Translation>
+		<Translation lang="fr">Qu'au 21ème siècle, peut-être, les villes devraient être construites par les citoyens.</Translation>
+	</Segment>
+	<Segment id ="115" >
+		<Time-slot>00:05:24,651 --> 00:05:27,815</Time-slot>
+		<Original_text lang="en">And thirdly, we need to remember that,</Original_text>
+		<Translation lang="ar">وثالثاً، يجب أن نتذكر أن،</Translation>
+		<Translation lang="fr">Et troisièmement, nous avons besoin de nous souvenir que,</Translation>
+	</Segment>
+	<Segment id ="116" >
+		<Time-slot>00:05:27,815 --> 00:05:30,166</Time-slot>
+		<Original_text lang="en">from a strictly economic point of view,</Original_text>
+		<Translation lang="ar">من وجهة نظر اقتصادية بحتة،</Translation>
+		<Translation lang="fr">d'un point de vue strictement économique,</Translation>
+	</Segment>
+	<Segment id ="117" >
+		<Time-slot>00:05:30,166 --> 00:05:35,012</Time-slot>
+		<Original_text lang="en">design shares a category with sex and care of the elderly --</Original_text>
+		<Translation lang="ar">التصميم يتشارك الفئة مع الجنس ورعاية المسنين --</Translation>
+		<Translation lang="fr">le design a ceci en commun avec le sexe et les soins aux personnes âgées,</Translation>
+	</Segment>
+	<Segment id ="118" >
+		<Time-slot>00:05:35,012 --> 00:05:37,608</Time-slot>
+		<Original_text lang="en">mostly it's done by amateurs.</Original_text>
+		<Translation lang="ar">غالباً يتم ذلك من قَِبل الهواة.</Translation>
+		<Translation lang="fr">c'est qu'il est principalement fait par des amateurs.</Translation>
+	</Segment>
+	<Segment id ="119" >
+		<Time-slot>00:05:37,608 --> 00:05:39,495</Time-slot>
+		<Original_text lang="en">And that's a good thing.</Original_text>
+		<Translation lang="ar">وذلك شيء جيد.</Translation>
+		<Translation lang="fr">Et c'est une bonne chose.</Translation>
+	</Segment>
+	<Segment id ="120" >
+		<Time-slot>00:05:39,495 --> 00:05:42,965</Time-slot>
+		<Original_text lang="en">Most of the work takes place outside of the monetary economy</Original_text>
+		<Translation lang="ar">معظم العمل يتم خارج الاقتصاد النقدي</Translation>
+		<Translation lang="fr">La plupart du travail se fait en dehors de l'économie monétaire</Translation>
+	</Segment>
+	<Segment id ="121" >
+		<Time-slot>00:05:42,964 --> 00:05:45,024</Time-slot>
+		<Original_text lang="en">in what's called the social economy or the core economy,</Original_text>
+		<Translation lang="ar">في ما يسمى الاقتصاد الإجتماعي أو الاقتصاد الجوهري،</Translation>
+		<Translation lang="fr">dans ce que l'on appelle l'économie sociale ou l'économie de base,</Translation>
+	</Segment>
+	<Segment id ="122" >
+		<Time-slot>00:05:45,024 --> 00:05:47,416</Time-slot>
+		<Original_text lang="en">which is people doing it for themselves.</Original_text>
+		<Translation lang="ar">والذي هو أناس يقومون بذلك بأنفسهم.</Translation>
+		<Translation lang="fr">lorsque les gens le font pour eux-mêmes.</Translation>
+	</Segment>
+	<Segment id ="123" >
+		<Time-slot>00:05:47,416 --> 00:05:50,664</Time-slot>
+		<Original_text lang="en">And the problem is that, up until now,</Original_text>
+		<Translation lang="ar">والمشكلة أنه، حتى الآن،</Translation>
+		<Translation lang="fr">Le problème est que, jusqu'à maintenant,</Translation>
+	</Segment>
+	<Segment id ="124" >
+		<Time-slot>00:05:50,665 --> 00:05:52,467</Time-slot>
+		<Original_text lang="en">it was the monetary economy which had</Original_text>
+		<Translation lang="ar">كان الاقتصاد النقدي الذي كان لديه</Translation>
+		<Translation lang="fr">c'était l'économie monétaire qui avait</Translation>
+	</Segment>
+	<Segment id ="125" >
+		<Time-slot>00:05:52,466 --> 00:05:54,625</Time-slot>
+		<Original_text lang="en">all the infrastructure and all the tools.</Original_text>
+		<Translation lang="ar">جميع الهياكل الأساسية وجميع الأدوات.</Translation>
+		<Translation lang="fr">toutes les infrastructures et tous les outils.</Translation>
+	</Segment>
+	<Segment id ="126" >
+		<Time-slot>00:05:54,625 --> 00:05:56,447</Time-slot>
+		<Original_text lang="en">So the challenge we face is, how are we going</Original_text>
+		<Translation lang="ar">لذا التحدي الذي نواجهه هو، كيف سنقوم</Translation>
+		<Translation lang="fr">Donc le défi auquel nous faisons face est : comment allons-nous construire</Translation>
+	</Segment>
+	<Segment id ="127" >
+		<Time-slot>00:05:56,447 --> 00:05:59,681</Time-slot>
+		<Original_text lang="en">to build the tools, the infrastructure and the institutions</Original_text>
+		<Translation lang="ar">ببناء الأدوات، والبنية التحتية والمؤسسات</Translation>
+		<Translation lang="fr">les outils, les infrastructures et les institutions</Translation>
+	</Segment>
+	<Segment id ="128" >
+		<Time-slot>00:05:59,682 --> 00:06:01,422</Time-slot>
+		<Original_text lang="en">for architecture's social economy?</Original_text>
+		<Translation lang="ar">للاقتصاد الاجتماعي للعمارة؟</Translation>
+		<Translation lang="fr">pour l'économie sociale de l'architecture ?</Translation>
+	</Segment>
+	<Segment id ="129" >
+		<Time-slot>00:06:01,422 --> 00:06:04,154</Time-slot>
+		<Original_text lang="en">And that began with open-source software.</Original_text>
+		<Translation lang="ar">وبدأ ذلك مع البرمجيات مفتوحة المصدر.</Translation>
+		<Translation lang="fr">Ca a commencé avec les logiciels open-source.</Translation>
+	</Segment>
+	<Segment id ="130" >
+		<Time-slot>00:06:04,153 --> 00:06:06,521</Time-slot>
+		<Original_text lang="en">And over the last few years, it's been moving</Original_text>
+		<Translation lang="ar">وعلى مدى السنوات القليلة الماضية، كان ذلك ينتقل</Translation>
+		<Translation lang="fr">Durant les dernières années, c'est passé</Translation>
+	</Segment>
+	<Segment id ="131" >
+		<Time-slot>00:06:06,521 --> 00:06:09,016</Time-slot>
+		<Original_text lang="en">into the physical world with open-source hardware,</Original_text>
+		<Translation lang="ar">إلى العالم المادي مع الأجهزة مفتوحة المصدر،</Translation>
+		<Translation lang="fr">dans le monde concret avec le matériel informatique open-source</Translation>
+	</Segment>
+	<Segment id ="132" >
+		<Time-slot>00:06:09,016 --> 00:06:10,546</Time-slot>
+		<Original_text lang="en">which are freely shared blueprints</Original_text>
+		<Translation lang="ar">هي مخططات مشتركة</Translation>
+		<Translation lang="fr">dont les plans de construction sont partagés gratuitement,</Translation>
+	</Segment>
+	<Segment id ="133" >
+		<Time-slot>00:06:10,547 --> 00:06:14,593</Time-slot>
+		<Original_text lang="en">that anyone can download and make for themselves.</Original_text>
+		<Translation lang="ar">والتي يستطيع أي شخص تنزيلها وصنعها لأنفسهم.</Translation>
+		<Translation lang="fr">et que chacun peut télécharger et construire.</Translation>
+	</Segment>
+	<Segment id ="134" >
+		<Time-slot>00:06:14,593 --> 00:06:17,834</Time-slot>
+		<Original_text lang="en">And that's where 3D printing gets really, really interesting.</Original_text>
+		<Translation lang="ar">وذلك حيث تصبح الطباعة ثلاثية الأبعاد مثيرة للاهتمام حقاً، حقاً.</Translation>
+		<Translation lang="fr">C'est là que l'impression 3D devient vraiment, vraiment intéressante.</Translation>
+	</Segment>
+	<Segment id ="135" >
+		<Time-slot>00:06:17,834 --> 00:06:21,370</Time-slot>
+		<Original_text lang="en">Right? When suddenly you had a 3D printer</Original_text>
+		<Translation lang="ar">أليس كذلك؟ عندما يكون فجأة لديك طابعة ثلاثية الأبعاد</Translation>
+		<Translation lang="fr">Non ? Quand tout d'un coup, vous avez une imprimante 3D</Translation>
+	</Segment>
+	<Segment id ="136" >
+		<Time-slot>00:06:21,370 --> 00:06:22,923</Time-slot>
+		<Original_text lang="en">that was open-source, the parts for which</Original_text>
+		<Translation lang="ar">كانت مفتوحة المصدر، الأجزاء خاصتها</Translation>
+		<Translation lang="fr">qui était open-source, et dont les composants</Translation>
+	</Segment>
+	<Segment id ="137" >
+		<Time-slot>00:06:22,923 --> 00:06:25,204</Time-slot>
+		<Original_text lang="en">could be made on another 3D printer.</Original_text>
+		<Translation lang="ar">يمكن أن تتم طباعتها على طابعة أخرى ثلاثية الأبعاد.</Translation>
+		<Translation lang="fr">peuvent être fabriqués par une autre imprimante 3D.</Translation>
+	</Segment>
+	<Segment id ="138" >
+		<Time-slot>00:06:25,204 --> 00:06:28,265</Time-slot>
+		<Original_text lang="en">Or the same idea here, which is for a CNC machine,</Original_text>
+		<Translation lang="ar">أو نفس الفكرة هنا، والتي هي لآلة التصنيع بالكمبيوتر،</Translation>
+		<Translation lang="fr">Ou encore ici la même idée avec une machine CNC,</Translation>
+	</Segment>
+	<Segment id ="139" >
+		<Time-slot>00:06:28,266 --> 00:06:32,762</Time-slot>
+		<Original_text lang="en">which is like a large printer that can cut sheets of plywood.</Original_text>
+		<Translation lang="ar">والتي هي مثل طابعة كبيرة يمكن أن تقص صفائح من الخشب الرقائقي.</Translation>
+		<Translation lang="fr">qui est une sorte de grosse imprimante qui peut couper des feuilles de contre-plaqué.</Translation>
+	</Segment>
+	<Segment id ="140" >
+		<Time-slot>00:06:32,762 --> 00:06:35,576</Time-slot>
+		<Original_text lang="en">What these technologies are doing is radically</Original_text>
+		<Translation lang="ar">ما تقوم به هذه التقنيات هو جذرياً</Translation>
+		<Translation lang="fr">Ce que ces technologies font, c'est d'abaisser radicalement</Translation>
+	</Segment>
+	<Segment id ="141" >
+		<Time-slot>00:06:35,576 --> 00:06:38,657</Time-slot>
+		<Original_text lang="en">lowering the thresholds of time and cost and skill.</Original_text>
+		<Translation lang="ar">تخفيض عتبات الوقت والتكلفة والمهارة.</Translation>
+		<Translation lang="fr">les seuils de temps, de coût et de compétence.</Translation>
+	</Segment>
+	<Segment id ="142" >
+		<Time-slot>00:06:38,656 --> 00:06:40,238</Time-slot>
+		<Original_text lang="en">They're challenging the idea that</Original_text>
+		<Translation lang="ar">إنها تتحدى فكرة أنه</Translation>
+		<Translation lang="fr">Elles remettent en cause l'idée que</Translation>
+	</Segment>
+	<Segment id ="143" >
+		<Time-slot>00:06:40,238 --> 00:06:44,064</Time-slot>
+		<Original_text lang="en">if you want something to be affordable it's got to be one-size-fits-all.</Original_text>
+		<Translation lang="ar">إذا أردت شيئاً أن يكون بسعر متناول يجب أن يكون حجم-واحد-يناسب-الجميع.</Translation>
+		<Translation lang="fr">si vous voulez quelque chose à un prix abordable, ça doit être du prêt-à-porter.</Translation>
+	</Segment>
+	<Segment id ="144" >
+		<Time-slot>00:06:44,064 --> 00:06:46,398</Time-slot>
+		<Original_text lang="en">And they're distributing massively</Original_text>
+		<Translation lang="ar">وهم يقومون بالتوزيع على نطاق واسع</Translation>
+		<Translation lang="fr">Elles distribuent massivement</Translation>
+	</Segment>
+	<Segment id ="145" >
+		<Time-slot>00:06:46,398 --> 00:06:49,285</Time-slot>
+		<Original_text lang="en">really complex manufacturing capabilities.</Original_text>
+		<Translation lang="ar">لقدرات تصنيع معقدة حقاً.</Translation>
+		<Translation lang="fr">des capacités manufacturières vraiment complexes.</Translation>
+	</Segment>
+	<Segment id ="146" >
+		<Time-slot>00:06:49,285 --> 00:06:53,416</Time-slot>
+		<Original_text lang="en">We're moving into this future where the factory is everywhere,</Original_text>
+		<Translation lang="ar">نحن نتجه إلى هذا المستقبل حيث المصنع هو كل مكان،</Translation>
+		<Translation lang="fr">Nous entrons dans un futur où l'usine est partout,</Translation>
+	</Segment>
+	<Segment id ="147" >
+		<Time-slot>00:06:53,415 --> 00:06:54,610</Time-slot>
+		<Original_text lang="en">and increasingly that means</Original_text>
+		<Translation lang="ar">وبتزايد يعني ذلك</Translation>
+		<Translation lang="fr">et de plus en plus, cela signifie</Translation>
+	</Segment>
+	<Segment id ="148" >
+		<Time-slot>00:06:54,610 --> 00:06:57,897</Time-slot>
+		<Original_text lang="en">that the design team is everyone.</Original_text>
+		<Translation lang="ar">أن فريق التصميم هو الجميع.</Translation>
+		<Translation lang="fr">que l'équipe de design, c'est tout le monde.</Translation>
+	</Segment>
+	<Segment id ="149" >
+		<Time-slot>00:06:57,898 --> 00:07:00,424</Time-slot>
+		<Original_text lang="en">That really is an industrial revolution.</Original_text>
+		<Translation lang="ar">هذا هو حقاً ثورة صناعية.</Translation>
+		<Translation lang="fr">C'est réellement une révolution industrielle.</Translation>
+	</Segment>
+	<Segment id ="150" >
+		<Time-slot>00:07:00,423 --> 00:07:03,639</Time-slot>
+		<Original_text lang="en">And when we think that the major ideological conflicts</Original_text>
+		<Translation lang="ar">وعندما نفكر أن الصراعات الأيديولوجية الكبرى</Translation>
+		<Translation lang="fr">Quand on pense que les conflits idéologiques majeurs</Translation>
+	</Segment>
+	<Segment id ="151" >
+		<Time-slot>00:07:03,639 --> 00:07:05,657</Time-slot>
+		<Original_text lang="en">that we inherited were all based around this question</Original_text>
+		<Translation lang="ar">التي ورثناها كانت جميعها مبنية حول هذا السؤال</Translation>
+		<Translation lang="fr">dont nous avons hérité tournent tous autour de la question</Translation>
+	</Segment>
+	<Segment id ="152" >
+		<Time-slot>00:07:05,658 --> 00:07:07,569</Time-slot>
+		<Original_text lang="en">of who should control the means of production,</Original_text>
+		<Translation lang="ar">لمن الذي ينبغي له السيطرة على وسائل الإنتاج،</Translation>
+		<Translation lang="fr">de savoir qui doit contrôler les moyens de production,</Translation>
+	</Segment>
+	<Segment id ="153" >
+		<Time-slot>00:07:07,569 --> 00:07:10,296</Time-slot>
+		<Original_text lang="en">and these technologies are coming back with a solution:</Original_text>
+		<Translation lang="ar">وهذه التقنيات تعود مع حل:</Translation>
+		<Translation lang="fr">et que ces technologies nous apportent une réponse :</Translation>
+	</Segment>
+	<Segment id ="154" >
+		<Time-slot>00:07:10,297 --> 00:07:14,286</Time-slot>
+		<Original_text lang="en">actually, maybe no one. All of us.</Original_text>
+		<Translation lang="ar">في الواقع، ربما لا أحد. جميعنا.</Translation>
+		<Translation lang="fr">en fait, peut-être, personne. Nous tous.</Translation>
+	</Segment>
+	<Segment id ="155" >
+		<Time-slot>00:07:14,286 --> 00:07:16,454</Time-slot>
+		<Original_text lang="en">And we were fascinated by</Original_text>
+		<Translation lang="ar">وكنا مفتونين بما</Translation>
+		<Translation lang="fr">Et nous étions fascinés par</Translation>
+	</Segment>
+	<Segment id ="156" >
+		<Time-slot>00:07:16,454 --> 00:07:19,062</Time-slot>
+		<Original_text lang="en">what that might mean for architecture.</Original_text>
+		<Translation lang="ar">قد يعنيه ذلك للهندسة المعمارية.</Translation>
+		<Translation lang="fr">ce que ça pourrait signifier pour l'architecture.</Translation>
+	</Segment>
+	<Segment id ="157" >
+		<Time-slot>00:07:19,062 --> 00:07:21,584</Time-slot>
+		<Original_text lang="en">So about a year and a half ago,</Original_text>
+		<Translation lang="ar">لذا حوالي سنة ونصف مضت،</Translation>
+		<Translation lang="fr">Il y a environ un an et demi,</Translation>
+	</Segment>
+	<Segment id ="158" >
+		<Time-slot>00:07:21,584 --> 00:07:23,480</Time-slot>
+		<Original_text lang="en">we started working on a project called WikiHouse,</Original_text>
+		<Translation lang="ar">قد بدأنا العمل على مشروع يدعى "ويكي هاوس"،</Translation>
+		<Translation lang="fr">nous avons commencé à travailler sur un projet appelé WikiHouse.</Translation>
+	</Segment>
+	<Segment id ="159" >
+		<Time-slot>00:07:23,480 --> 00:07:26,754</Time-slot>
+		<Original_text lang="en">and WikiHouse is an open-source construction system.</Original_text>
+		<Translation lang="ar">و"ويكي هاوس" هو نظام بناء مفتوح المصدر.</Translation>
+		<Translation lang="fr">WikiHouse est un système de construction open-source.</Translation>
+	</Segment>
+	<Segment id ="160" >
+		<Time-slot>00:07:26,754 --> 00:07:29,552</Time-slot>
+		<Original_text lang="en">And the idea is to make it possible for anyone</Original_text>
+		<Translation lang="ar">والفكرة هي أن تجعل من الممكن لأي شخص</Translation>
+		<Translation lang="fr">L'idée est de rendre possible pour chacun</Translation>
+	</Segment>
+	<Segment id ="161" >
+		<Time-slot>00:07:29,552 --> 00:07:31,936</Time-slot>
+		<Original_text lang="en">to go online, access a freely shared library</Original_text>
+		<Translation lang="ar">الدخول إلى الإنترنت، الوصول إلى مكتبة مشتركة بحرية</Translation>
+		<Translation lang="fr">d'aller en ligne, d'accéder à une bibliothèque gratuite</Translation>
+	</Segment>
+	<Segment id ="162" >
+		<Time-slot>00:07:31,935 --> 00:07:36,396</Time-slot>
+		<Original_text lang="en">of 3D models which they can download and adapt in,</Original_text>
+		<Translation lang="ar">من النماذج ثلاثية الأبعاد التي يمكن تنزيلها والتكييف معها،</Translation>
+		<Translation lang="fr">de modèles 3D qui peuvent être téléchargés et adaptés avec SketchUp,</Translation>
+	</Segment>
+	<Segment id ="163" >
+		<Time-slot>00:07:36,396 --> 00:07:39,788</Time-slot>
+		<Original_text lang="en">at the moment, SketchUp, because it's free, and it's easy to use,</Original_text>
+		<Translation lang="ar">حالياً، ارسم، نظراً لأنها مجانية، وهي سهلة الاستخدام،</Translation>
+		<Translation lang="fr">pour le moment, car c'est gratuit et facile à utiliser,</Translation>
+	</Segment>
+	<Segment id ="164" >
+		<Time-slot>00:07:39,788 --> 00:07:42,347</Time-slot>
+		<Original_text lang="en">and almost at the click of a switch</Original_text>
+		<Translation lang="ar">وتقريباً عند ضغطة مفتاح</Translation>
+		<Translation lang="fr">et presque en un clic,</Translation>
+	</Segment>
+	<Segment id ="165" >
+		<Time-slot>00:07:42,346 --> 00:07:44,830</Time-slot>
+		<Original_text lang="en">they can generate a set of cutting files</Original_text>
+		<Translation lang="ar">يمكنهم انتاج مجموعة من ملفات التقطيع</Translation>
+		<Translation lang="fr">on peut générer un ensemble de plans de coupe</Translation>
+	</Segment>
+	<Segment id ="166" >
+		<Time-slot>00:07:44,831 --> 00:07:46,872</Time-slot>
+		<Original_text lang="en">which allow them, in effect,</Original_text>
+		<Translation lang="ar">التي تسمح لهم، في الواقع،</Translation>
+		<Translation lang="fr">qui permettent, en fait,</Translation>
+	</Segment>
+	<Segment id ="167" >
+		<Time-slot>00:07:46,872 --> 00:07:50,060</Time-slot>
+		<Original_text lang="en">to print out the parts from a house using a CNC machine</Original_text>
+		<Translation lang="ar">لطباعة الأجزاء من منزل باستخدام آلة التصنيع بالكمبيوتر</Translation>
+		<Translation lang="fr">d'imprimer les parties d'une maison en utilisant une machine CNC</Translation>
+	</Segment>
+	<Segment id ="168" >
+		<Time-slot>00:07:50,060 --> 00:07:53,271</Time-slot>
+		<Original_text lang="en">and a standard sheet material like plywood.</Original_text>
+		<Translation lang="ar">ومادة صفائح قياسية مثل الخشب الرقائقي.</Translation>
+		<Translation lang="fr">et une feuille standard comme du contre-plaqué.</Translation>
+	</Segment>
+	<Segment id ="169" >
+		<Time-slot>00:07:53,271 --> 00:07:56,391</Time-slot>
+		<Original_text lang="en">And the parts are all numbered,</Original_text>
+		<Translation lang="ar">والأجزاء جميعها مرقمة،</Translation>
+		<Translation lang="fr">Les parties sont toutes numérotées</Translation>
+	</Segment>
+	<Segment id ="170" >
+		<Time-slot>00:07:56,391 --> 00:08:00,568</Time-slot>
+		<Original_text lang="en">and basically what you end up with is a really big IKEA kit.</Original_text>
+		<Translation lang="ar">وما تحصل عليه في نهاية المطاف هو أساساً طقم "ايكيا" كبير حقاً.</Translation>
+		<Translation lang="fr">et en fait, ce que vous obtenez, c'est un énorme kit IKEA.</Translation>
+	</Segment>
+	<Segment id ="171" >
+		<Time-slot>00:08:00,567 --> 00:08:02,838</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="172" >
+		<Time-slot>00:08:02,838 --> 00:08:05,105</Time-slot>
+		<Original_text lang="en">And it goes together without any bolts.</Original_text>
+		<Translation lang="ar">وهي تتماشى مع أي مسامير.</Translation>
+		<Translation lang="fr">Et ça se monte sans boulons.</Translation>
+	</Segment>
+	<Segment id ="173" >
+		<Time-slot>00:08:05,105 --> 00:08:07,295</Time-slot>
+		<Original_text lang="en">It uses wedge and peg connections.</Original_text>
+		<Translation lang="ar">إنها تستخدم وصلات أوتاد وعِزر.</Translation>
+		<Translation lang="fr">On les assemble avec des chevilles et des cales.</Translation>
+	</Segment>
+	<Segment id ="174" >
+		<Time-slot>00:08:07,295 --> 00:08:09,439</Time-slot>
+		<Original_text lang="en">And even the mallets to make it</Original_text>
+		<Translation lang="ar">وحتى المطارق لصنعها</Translation>
+		<Translation lang="fr">Et même le maillet pour la construire</Translation>
+	</Segment>
+	<Segment id ="175" >
+		<Time-slot>00:08:09,439 --> 00:08:11,919</Time-slot>
+		<Original_text lang="en">can be provided on the cutting sheets as well.</Original_text>
+		<Translation lang="ar">يمكن توفيرها على صفائح القطع كذلك.</Translation>
+		<Translation lang="fr">peut être fourni avec les plans de découpe.</Translation>
+	</Segment>
+	<Segment id ="176" >
+		<Time-slot>00:08:11,918 --> 00:08:14,455</Time-slot>
+		<Original_text lang="en">And a team of about two or three people,</Original_text>
+		<Translation lang="ar">وفريق من حوالي شخصين أو ثلاثة أشخاص،</Translation>
+		<Translation lang="fr">Et une équipe d'environ deux ou trois personnes,</Translation>
+	</Segment>
+	<Segment id ="177" >
+		<Time-slot>00:08:14,456 --> 00:08:16,495</Time-slot>
+		<Original_text lang="en">working together, can build this.</Original_text>
+		<Translation lang="ar">يعملون معاً، يمكنهم بناء هذا.</Translation>
+		<Translation lang="fr">travaillant ensemble, peut la construire.</Translation>
+	</Segment>
+	<Segment id ="178" >
+		<Time-slot>00:08:16,495 --> 00:08:18,975</Time-slot>
+		<Original_text lang="en">They don't need any traditional construction skills.</Original_text>
+		<Translation lang="ar">أنهم لا يحتجون إلى أي مهارات بناء تقليدية.</Translation>
+		<Translation lang="fr">Ils n'ont pas besoin de compétences traditionnelles de construction.</Translation>
+	</Segment>
+	<Segment id ="179" >
+		<Time-slot>00:08:18,975 --> 00:08:22,126</Time-slot>
+		<Original_text lang="en">They don't need a huge array of power tools or anything like that,</Original_text>
+		<Translation lang="ar">أنهم لا يحتاجون إلى مجموعة متنوعة من الأدوات الكهربائية أو أي شيء مثل ذلك،</Translation>
+		<Translation lang="fr">Ils n'ont pas besoin d'une énorme panoplie d'outils électriques ou autre,</Translation>
+	</Segment>
+	<Segment id ="180" >
+		<Time-slot>00:08:22,125 --> 00:08:24,638</Time-slot>
+		<Original_text lang="en">and they can build a small house of about this size</Original_text>
+		<Translation lang="ar">ويمكنهم بناء منزل صغير بهذا الحجم تقريباً</Translation>
+		<Translation lang="fr">et ils peuvent construire une petite maison d'environ cette taille</Translation>
+	</Segment>
+	<Segment id ="181" >
+		<Time-slot>00:08:24,639 --> 00:08:29,403</Time-slot>
+		<Original_text lang="en">in about a day.</Original_text>
+		<Translation lang="ar">في يوم واحد.</Translation>
+		<Translation lang="fr">en une journée.</Translation>
+	</Segment>
+	<Segment id ="182" >
+		<Time-slot>00:08:29,403 --> 00:08:36,680</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+	<Segment id ="183" >
+		<Time-slot>00:08:36,706 --> 00:08:39,701</Time-slot>
+		<Original_text lang="en">And what you end up with is just the basic chassis of a house</Original_text>
+		<Translation lang="ar">وما تحصل عليه في نهاية المطاف هو مجرد الهيكل الأساسي للمنزل</Translation>
+		<Translation lang="fr">Ce que vous obtenez, c'est juste le châssis de base d'une maison</Translation>
+	</Segment>
+	<Segment id ="184" >
+		<Time-slot>00:08:39,701 --> 00:08:42,159</Time-slot>
+		<Original_text lang="en">onto which you can then apply systems like windows</Original_text>
+		<Translation lang="ar">الذي يمكنك أن تطبق عليه أنظمة مثل النوافذ</Translation>
+		<Translation lang="fr">sur lequel vous pouvez alors ajouter des choses comme des fenêtres,</Translation>
+	</Segment>
+	<Segment id ="185" >
+		<Time-slot>00:08:42,159 --> 00:08:44,217</Time-slot>
+		<Original_text lang="en">and cladding and insulation and services</Original_text>
+		<Translation lang="ar">والكسوة والعوازل والخدمات</Translation>
+		<Translation lang="fr">le revêtement extérieur, l'isolation et les services,</Translation>
+	</Segment>
+	<Segment id ="186" >
+		<Time-slot>00:08:44,217 --> 00:08:47,266</Time-slot>
+		<Original_text lang="en">based on what's cheap and what's available.</Original_text>
+		<Translation lang="ar">استناداً إلى ما هو رخيص وما هو متاح.</Translation>
+		<Translation lang="fr">en fonction de ce qui est abordable et disponible.</Translation>
+	</Segment>
+	<Segment id ="187" >
+		<Time-slot>00:08:47,267 --> 00:08:49,451</Time-slot>
+		<Original_text lang="en">Of course, the house is never finished.</Original_text>
+		<Translation lang="ar">وبطبيعة الحال، المنزل لم ينتهي أبداً.</Translation>
+		<Translation lang="fr">Bien sur, la maison n'est jamais terminée.</Translation>
+	</Segment>
+	<Segment id ="188" >
+		<Time-slot>00:08:49,451 --> 00:08:52,332</Time-slot>
+		<Original_text lang="en">We're shifting our heads here, so the house is not a finished product.</Original_text>
+		<Translation lang="ar">نحن نحرك رؤوسنا هنا، لذا المنزل ليس منتج منتهي.</Translation>
+		<Translation lang="fr">On débute seulement, alors la maison n'est pas un produit fini.</Translation>
+	</Segment>
+	<Segment id ="189" >
+		<Time-slot>00:08:52,332 --> 00:08:55,089</Time-slot>
+		<Original_text lang="en">With the CNC machine, you can make new parts for it</Original_text>
+		<Translation lang="ar">مع آلة التصنيع بااكمبيوتر، يمكنك صنع أجزاء جديدة له</Translation>
+		<Translation lang="fr">Avec la machine CNC, vous pouvez fabriquer de nouveaux éléments pour la maison</Translation>
+	</Segment>
+	<Segment id ="190" >
+		<Time-slot>00:08:55,090 --> 00:08:58,947</Time-slot>
+		<Original_text lang="en">over its life or even use it to make the house next door.</Original_text>
+		<Translation lang="ar">على مدى حياته، أو حتى استخدامها لصنع المنزل المجاور.</Translation>
+		<Translation lang="fr">pendant toute sa durée de vie, ou même les utiliser pour faire la maison d'à côté.</Translation>
+	</Segment>
+	<Segment id ="191" >
+		<Time-slot>00:08:58,947 --> 00:09:02,384</Time-slot>
+		<Original_text lang="en">So we can begin to see the seed of a completely open-source,</Original_text>
+		<Translation lang="ar">لذا يمكننا أن نبدأ في رؤية بذور المصدر المفتوح تماماً،</Translation>
+		<Translation lang="fr">Nous commençons à voir germer un modèle totalement open-source</Translation>
+	</Segment>
+	<Segment id ="192" >
+		<Time-slot>00:09:02,384 --> 00:09:06,659</Time-slot>
+		<Original_text lang="en">citizen-led urban development model, potentially.</Original_text>
+		<Translation lang="ar">نموذج تنمية حضرية بقيادة المواطن، من المحتمل.</Translation>
+		<Translation lang="fr">de développement urbain mené par les citoyens.</Translation>
+	</Segment>
+	<Segment id ="193" >
+		<Time-slot>00:09:06,659 --> 00:09:10,209</Time-slot>
+		<Original_text lang="en">And we and others have built a few prototypes around the world now,</Original_text>
+		<Translation lang="ar">نحن وآخرون قد بنينا نماذج قليلة حول العالم الآن،</Translation>
+		<Translation lang="fr">Nous et d'autres avons déjà construit plusieurs prototypes à travers le monde</Translation>
+	</Segment>
+	<Segment id ="194" >
+		<Time-slot>00:09:10,210 --> 00:09:12,331</Time-slot>
+		<Original_text lang="en">and some really interesting lessons here.</Original_text>
+		<Translation lang="ar">وبعض الدروس المثيرة للاهتمام حقاً هنا.</Translation>
+		<Translation lang="fr">et il y a certaines leçons vraiment intéressantes à en tirer.</Translation>
+	</Segment>
+	<Segment id ="195" >
+		<Time-slot>00:09:12,331 --> 00:09:14,658</Time-slot>
+		<Original_text lang="en">One of them is that it's always incredibly sociable.</Original_text>
+		<Translation lang="ar">وأحدها أنه دائماً اجتماعي بشكل لا يصدق.</Translation>
+		<Translation lang="fr">L'une d'elles, c'est que c'est toujours incroyablement convivial.</Translation>
+	</Segment>
+	<Segment id ="196" >
+		<Time-slot>00:09:14,658 --> 00:09:19,355</Time-slot>
+		<Original_text lang="en">People get confused between construction work and having fun.</Original_text>
+		<Translation lang="ar">يخلط الناس بين أعمال البناء والحصول على المرح.</Translation>
+		<Translation lang="fr">Les gens y mélangent la construction et l'amusement.</Translation>
+	</Segment>
+	<Segment id ="197" >
+		<Time-slot>00:09:19,355 --> 00:09:22,014</Time-slot>
+		<Original_text lang="en">But the principles of openness go right down</Original_text>
+		<Translation lang="ar">ولكن مبادئ الانفتاح تصب تماماً</Translation>
+		<Translation lang="fr">Mais le principe de l'open-source fait appel directement</Translation>
+	</Segment>
+	<Segment id ="198" >
+		<Time-slot>00:09:22,014 --> 00:09:24,821</Time-slot>
+		<Original_text lang="en">into the really mundane, physical details.</Original_text>
+		<Translation lang="ar">في التفاصيل المادية، المملة حقاً.</Translation>
+		<Translation lang="fr">à des détails concrets et réellement ordinaires.</Translation>
+	</Segment>
+	<Segment id ="199" >
+		<Time-slot>00:09:24,821 --> 00:09:27,824</Time-slot>
+		<Original_text lang="en">Like, never designing a piece that can't be lifted up.</Original_text>
+		<Translation lang="ar">مثل، لا تصمم أبداً قطعة لا يمكن رفعها.</Translation>
+		<Translation lang="fr">Comme de ne jamais concevoir une pièce qui ne peut pas être soulevée.</Translation>
+	</Segment>
+	<Segment id ="200" >
+		<Time-slot>00:09:27,823 --> 00:09:29,122</Time-slot>
+		<Original_text lang="en">Or, when you're designing a piece,</Original_text>
+		<Translation lang="ar">أو، عندما تقوم بتصميم قطعة،</Translation>
+		<Translation lang="fr">Ou bien, quand vous concevez une pièce,</Translation>
+	</Segment>
+	<Segment id ="201" >
+		<Time-slot>00:09:29,123 --> 00:09:32,003</Time-slot>
+		<Original_text lang="en">make sure you either can't put it in the wrong way round,</Original_text>
+		<Translation lang="ar">تأكد من أنه لا يمكن وضعها بالإتجاه الخاطئ،</Translation>
+		<Translation lang="fr">vous assurer, soit que vous ne pouvez pas la mettre à l'envers,</Translation>
+	</Segment>
+	<Segment id ="202" >
+		<Time-slot>00:09:32,003 --> 00:09:34,956</Time-slot>
+		<Original_text lang="en">or, if you do, it doesn't matter, because it's symmetrical.</Original_text>
+		<Translation lang="ar">أو، إذا قمت بذلك، فإنه لا يهم، لأنها متناظرة.</Translation>
+		<Translation lang="fr">soit que ça ne changerait rien, par symétrie.</Translation>
+	</Segment>
+	<Segment id ="203" >
+		<Time-slot>00:09:34,956 --> 00:09:38,998</Time-slot>
+		<Original_text lang="en">Probably the principal which runs deepest with us</Original_text>
+		<Translation lang="ar">ربما المبدأ الذي يجري أعمق معنا</Translation>
+		<Translation lang="fr">Le principe qui nous anime profondément, sans doute,</Translation>
+	</Segment>
+	<Segment id ="204" >
+		<Time-slot>00:09:38,998 --> 00:09:41,953</Time-slot>
+		<Original_text lang="en">is the principal set out by Linus Torvalds,</Original_text>
+		<Translation lang="ar">هو المبدأ المنصوص عليه بواسطة "لينوس تورفالدس"،</Translation>
+		<Translation lang="fr">c'est celui défini par Linus Torvalds,</Translation>
+	</Segment>
+	<Segment id ="205" >
+		<Time-slot>00:09:41,952 --> 00:09:44,677</Time-slot>
+		<Original_text lang="en">the open-source pioneer,</Original_text>
+		<Translation lang="ar">الرائد في مجال المصدر المفتوح،</Translation>
+		<Translation lang="fr">le pionnier de l'open-source,</Translation>
+	</Segment>
+	<Segment id ="206" >
+		<Time-slot>00:09:44,677 --> 00:09:47,966</Time-slot>
+		<Original_text lang="en">which was that idea of, "Be lazy like a fox."</Original_text>
+		<Translation lang="ar">وكانت تلك فكرة أن "تكون كسولاً مثل ثعلب."</Translation>
+		<Translation lang="fr">qui a eu cette idée : "soyez paresseux comme un loir."</Translation>
+	</Segment>
+	<Segment id ="207" >
+		<Time-slot>00:09:47,966 --> 00:09:49,675</Time-slot>
+		<Original_text lang="en">Don't reinvent the wheel every time.</Original_text>
+		<Translation lang="ar">لا تعيد اختراع العجلة في كل مرة.</Translation>
+		<Translation lang="fr">Ne réinventez pas la roue à chaque fois.</Translation>
+	</Segment>
+	<Segment id ="208" >
+		<Time-slot>00:09:49,676 --> 00:09:53,469</Time-slot>
+		<Original_text lang="en">Take what already works, and adapt it for your own needs.</Original_text>
+		<Translation lang="ar">خذ ما يعمل بالفعل، وتبناه لتلبية احتياجاتك الخاصة.</Translation>
+		<Translation lang="fr">Prenez ce qui fonctionne déjà et adaptez-le à vos besoins.</Translation>
+	</Segment>
+	<Segment id ="209" >
+		<Time-slot>00:09:53,469 --> 00:09:56,052</Time-slot>
+		<Original_text lang="en">Contrary to almost everything that you might get taught</Original_text>
+		<Translation lang="ar">على عكس كل شيء تقريباً قد تتعلمه</Translation>
+		<Translation lang="fr">Contrairement à presque tout ce que vous aurez appris</Translation>
+	</Segment>
+	<Segment id ="210" >
+		<Time-slot>00:09:56,052 --> 00:10:00,149</Time-slot>
+		<Original_text lang="en">at an architecture school, copying is good.</Original_text>
+		<Translation lang="ar">في مدرسة الهندسة المعمارية، النسخ جيد.</Translation>
+		<Translation lang="fr">à l'école d'architecture, copier, c'est bien.</Translation>
+	</Segment>
+	<Segment id ="211" >
+		<Time-slot>00:10:00,149 --> 00:10:02,149</Time-slot>
+		<Original_text lang="en">Which is appropriate, because actually,</Original_text>
+		<Translation lang="ar">والذي هو مناسب، لأنه في الواقع،</Translation>
+		<Translation lang="fr">Et c'est approprié car, en fait,</Translation>
+	</Segment>
+	<Segment id ="212" >
+		<Time-slot>00:10:02,149 --> 00:10:03,929</Time-slot>
+		<Original_text lang="en">this approach is not innovative.</Original_text>
+		<Translation lang="ar">هذه المقاربة ليست مبتكرة.</Translation>
+		<Translation lang="fr">cette approche n'est pas novatrice.</Translation>
+	</Segment>
+	<Segment id ="213" >
+		<Time-slot>00:10:03,929 --> 00:10:05,538</Time-slot>
+		<Original_text lang="en">It's actually how we built buildings</Original_text>
+		<Translation lang="ar">انها في الواقع كيف قمنا ببناء المباني</Translation>
+		<Translation lang="fr">C'est en fait ainsi qu'on a construit les bâtiments</Translation>
+	</Segment>
+	<Segment id ="214" >
+		<Time-slot>00:10:05,538 --> 00:10:08,034</Time-slot>
+		<Original_text lang="en">for hundreds of years before the Industrial Revolution</Original_text>
+		<Translation lang="ar">لمئات من السنين قبل الثورة الصناعية</Translation>
+		<Translation lang="fr">pendant des centaines d'années, avant la Révolution Industrielle,</Translation>
+	</Segment>
+	<Segment id ="215" >
+		<Time-slot>00:10:08,034 --> 00:10:10,461</Time-slot>
+		<Original_text lang="en">in these sorts of community barn-raisings.</Original_text>
+		<Translation lang="ar">في هذه الأنواع من بناء حظائر المجتمع.</Translation>
+		<Translation lang="fr">comme pour ces constructions communes.</Translation>
+	</Segment>
+	<Segment id ="216" >
+		<Time-slot>00:10:10,461 --> 00:10:12,605</Time-slot>
+		<Original_text lang="en">The only difference between traditional</Original_text>
+		<Translation lang="ar">الفرق الوحيد بين النوع التقليدي</Translation>
+		<Translation lang="fr">La seule différence entre l'architecture traditionnelle, populaire,</Translation>
+	</Segment>
+	<Segment id ="217" >
+		<Time-slot>00:10:12,605 --> 00:10:15,014</Time-slot>
+		<Original_text lang="en">vernacular architecture and open-source architecture</Original_text>
+		<Translation lang="ar">من العمارة العامية و العمارة مفتوحة المصدر</Translation>
+		<Translation lang="fr">et l'architecture open-source</Translation>
+	</Segment>
+	<Segment id ="218" >
+		<Time-slot>00:10:15,014 --> 00:10:17,134</Time-slot>
+		<Original_text lang="en">might be a web connection,</Original_text>
+		<Translation lang="ar">قد يكون اتصال بالشبكة،</Translation>
+		<Translation lang="fr">pourrait bien être une simple connexion Internet,</Translation>
+	</Segment>
+	<Segment id ="219" >
+		<Time-slot>00:10:17,134 --> 00:10:19,946</Time-slot>
+		<Original_text lang="en">but it's a really, really big difference.</Original_text>
+		<Translation lang="ar">ولكنه فرق كبير جداً، جداً.</Translation>
+		<Translation lang="fr">mais c'est une très, très grande différence.</Translation>
+	</Segment>
+	<Segment id ="220" >
+		<Time-slot>00:10:19,946 --> 00:10:21,377</Time-slot>
+		<Original_text lang="en">We shared the whole of WikiHouse</Original_text>
+		<Translation lang="ar">لقد شاركنا "ويكي هاوس" بأكملها</Translation>
+		<Translation lang="fr">Nous avons partagé l'ensemble de WikiHouse</Translation>
+	</Segment>
+	<Segment id ="221" >
+		<Time-slot>00:10:21,376 --> 00:10:23,218</Time-slot>
+		<Original_text lang="en">under a Creative Commons license,</Original_text>
+		<Translation lang="ar">تحت "رخصة المشاعات الإبداعية"،</Translation>
+		<Translation lang="fr">sous une license Creative Commons,</Translation>
+	</Segment>
+	<Segment id ="222" >
+		<Time-slot>00:10:23,219 --> 00:10:24,641</Time-slot>
+		<Original_text lang="en">and now what's just beginning to happen</Original_text>
+		<Translation lang="ar">والآن مابدأ يحدث للتو</Translation>
+		<Translation lang="fr">et maintenant, ce qui commence tout juste à arriver,</Translation>
+	</Segment>
+	<Segment id ="223" >
+		<Time-slot>00:10:24,640 --> 00:10:26,622</Time-slot>
+		<Original_text lang="en">is that groups around the world are beginning to take it</Original_text>
+		<Translation lang="ar">هو أن الجماعات في جميع أنحاء العالم قد بدأت بأخذها</Translation>
+		<Translation lang="fr">c'est que des groupes tout autour du monde commencent à se l'approprier,</Translation>
+	</Segment>
+	<Segment id ="224" >
+		<Time-slot>00:10:26,623 --> 00:10:29,362</Time-slot>
+		<Original_text lang="en">and use it and hack it and tinker with it, and it's amazing.</Original_text>
+		<Translation lang="ar">واستخدامها واختراقها والعبث بها، وهي مذهلة بالفعل.</Translation>
+		<Translation lang="fr">à l'utiliser, à le modifier, à jouer avec, et c'est incroyable.</Translation>
+	</Segment>
+	<Segment id ="225" >
+		<Time-slot>00:10:29,361 --> 00:10:32,326</Time-slot>
+		<Original_text lang="en">There's a cool group over in Christchurch in New Zealand</Original_text>
+		<Translation lang="ar">هناك مجموعة رائعة في كنيسة المسيح في نيوزيلندا</Translation>
+		<Translation lang="fr">Il y a un groupe sympa à Christchurch, en Nouvelle Zélande,</Translation>
+	</Segment>
+	<Segment id ="226" >
+		<Time-slot>00:10:32,326 --> 00:10:35,461</Time-slot>
+		<Original_text lang="en">looking at post-earthquake development housing,</Original_text>
+		<Translation lang="ar">بالنظر في التنمية الإسكانية بعد الزلازل،</Translation>
+		<Translation lang="fr">qui étudie la reconstruction post-tremblement de terre,</Translation>
+	</Segment>
+	<Segment id ="227" >
+		<Time-slot>00:10:35,461 --> 00:10:38,710</Time-slot>
+		<Original_text lang="en">and thanks to the TED city Prize,</Original_text>
+		<Translation lang="ar">وشكراً لجائزة المدينة من تيد،</Translation>
+		<Translation lang="fr">et grâce au Prix TED City,</Translation>
+	</Segment>
+	<Segment id ="228" >
+		<Time-slot>00:10:38,710 --> 00:10:41,449</Time-slot>
+		<Original_text lang="en">we're working with an awesome group in one of Rio's favelas</Original_text>
+		<Translation lang="ar">نحن نعمل مع فريق ممتاز في واحد من أحياء الأكواخ الفقيرة في ريو</Translation>
+		<Translation lang="fr">nous travaillons avec un groupe incroyable dans des favelas de Rio</Translation>
+	</Segment>
+	<Segment id ="229" >
+		<Time-slot>00:10:41,448 --> 00:10:43,937</Time-slot>
+		<Original_text lang="en">to set up a kind of community factory</Original_text>
+		<Translation lang="ar">لإقامة نوع من مصنع للمجتمع</Translation>
+		<Translation lang="fr">afin de mettre en place un genre d'usine communautaire</Translation>
+	</Segment>
+	<Segment id ="230" >
+		<Time-slot>00:10:43,937 --> 00:10:45,851</Time-slot>
+		<Original_text lang="en">and micro-university.</Original_text>
+		<Translation lang="ar">وجامعة مصغرة.</Translation>
+		<Translation lang="fr">et une micro-université.</Translation>
+	</Segment>
+	<Segment id ="231" >
+		<Time-slot>00:10:45,851 --> 00:10:47,716</Time-slot>
+		<Original_text lang="en">These are very, very small beginnings,</Original_text>
+		<Translation lang="ar">هذه بدايات صغيرة جداً، جداً</Translation>
+		<Translation lang="fr">Ce sont de très, très modestes débuts,</Translation>
+	</Segment>
+	<Segment id ="232" >
+		<Time-slot>00:10:47,716 --> 00:10:50,591</Time-slot>
+		<Original_text lang="en">and actually there's more people in the last week</Original_text>
+		<Translation lang="ar">وفي الواقع هناك عدد أكبر من الناس في الأسبوع الماضي</Translation>
+		<Translation lang="fr">il y a eu en fait, la semaine dernière, plus de personnes</Translation>
+	</Segment>
+	<Segment id ="233" >
+		<Time-slot>00:10:50,591 --> 00:10:52,774</Time-slot>
+		<Original_text lang="en">who have got in touch and they're not even on this map.</Original_text>
+		<Translation lang="ar">والذين اتصلوا بنا وهم ليسوا حتى على هذه الخريطة.</Translation>
+		<Translation lang="fr">qui nous ont contactées et qui ne sont pas sur cette carte.</Translation>
+	</Segment>
+	<Segment id ="234" >
+		<Time-slot>00:10:52,774 --> 00:10:56,514</Time-slot>
+		<Original_text lang="en">I hope next time you see it, you won't even be able to see the map.</Original_text>
+		<Translation lang="ar">وآمل في المرة القادمة عندما تنظرون، لن تتمكنوا من رؤية الخريطة حتى.</Translation>
+		<Translation lang="fr">J'espère que la prochaine fois, on ne pourra plus voir la carte.</Translation>
+	</Segment>
+	<Segment id ="235" >
+		<Time-slot>00:10:56,514 --> 00:11:00,962</Time-slot>
+		<Original_text lang="en">We're aware that WikiHouse is a very, very small answer,</Original_text>
+		<Translation lang="ar">نحن ندرك أن "ويكي هاوس" هو إجابة صغيرة جداً، جداً،</Translation>
+		<Translation lang="fr">Nous sommes conscient que WikiHouse est une toute petite réponse</Translation>
+	</Segment>
+	<Segment id ="236" >
+		<Time-slot>00:11:00,962 --> 00:11:04,534</Time-slot>
+		<Original_text lang="en">but it's a small answer to a really, really big question,</Original_text>
+		<Translation lang="ar">لكنه إجابة صغيرة على سؤال كبير حقاً،</Translation>
+		<Translation lang="fr">mais c'est une petite réponse à une très, très grande question,</Translation>
+	</Segment>
+	<Segment id ="237" >
+		<Time-slot>00:11:04,534 --> 00:11:08,310</Time-slot>
+		<Original_text lang="en">which is that globally, right now, the fastest-growing cities</Original_text>
+		<Translation lang="ar">وهو أنه على الصعيد العالمي، الآن، المدن الأسرع نمواً</Translation>
+		<Translation lang="fr">qui est que, à l'heure actuelle, dans le monde, les villes qui grandissent le plus vite</Translation>
+	</Segment>
+	<Segment id ="238" >
+		<Time-slot>00:11:08,311 --> 00:11:10,542</Time-slot>
+		<Original_text lang="en">are not skyscraper cities.</Original_text>
+		<Translation lang="ar">ليست المدن ذات ناطحات السحاب.</Translation>
+		<Translation lang="fr">ne sont pas des villes de gratte-ciels.</Translation>
+	</Segment>
+	<Segment id ="239" >
+		<Time-slot>00:11:10,542 --> 00:11:14,638</Time-slot>
+		<Original_text lang="en">They're self-made cities in one form or another.</Original_text>
+		<Translation lang="ar">انها المدن العصامية بشكل أو بآخر.</Translation>
+		<Translation lang="fr">Ce sont des villes faites par les citoyens eux-mêmes, d'une manière ou d'une autre.</Translation>
+	</Segment>
+	<Segment id ="240" >
+		<Time-slot>00:11:14,638 --> 00:11:18,262</Time-slot>
+		<Original_text lang="en">If we're talking about the 21st-century city,</Original_text>
+		<Translation lang="ar">إذا كنا نتحدث عن مدينة القرن الحادي والعشرين،</Translation>
+		<Translation lang="fr">Si nous parlons des villes du 21e siècle,</Translation>
+	</Segment>
+	<Segment id ="241" >
+		<Time-slot>00:11:18,261 --> 00:11:20,885</Time-slot>
+		<Original_text lang="en">these are the guys who are going to be making it.</Original_text>
+		<Translation lang="ar">هؤلاء هم الرجال الذين سوف يصنعونها.</Translation>
+		<Translation lang="fr">ce sont ces gens qui vont les construire.</Translation>
+	</Segment>
+	<Segment id ="242" >
+		<Time-slot>00:11:20,885 --> 00:11:25,367</Time-slot>
+		<Original_text lang="en">You know, like it or not, welcome to the world's biggest design team.</Original_text>
+		<Translation lang="ar">تعلمون، اذا أعجبكم ذلك أم لا، مرحباً بكم إلى فريق التصميم الأكبر في العالم.</Translation>
+		<Translation lang="fr">Que ça vous plaise ou non, voici l'équipe de design la plus grande du monde.</Translation>
+	</Segment>
+	<Segment id ="243" >
+		<Time-slot>00:11:25,368 --> 00:11:27,494</Time-slot>
+		<Original_text lang="en">So if we're serious about problems</Original_text>
+		<Translation lang="ar">لذا اذا نحن جادون عن المشاكل</Translation>
+		<Translation lang="fr">Si nous envisageons sérieusement les problèmes</Translation>
+	</Segment>
+	<Segment id ="244" >
+		<Time-slot>00:11:27,494 --> 00:11:31,648</Time-slot>
+		<Original_text lang="en">like climate change, urbanization and health,</Original_text>
+		<Translation lang="ar">مثل تغير المناخ، والتوسع الحضري والصحة،</Translation>
+		<Translation lang="fr">comme le changement climatique, l'urbanisation et la santé,</Translation>
+	</Segment>
+	<Segment id ="245" >
+		<Time-slot>00:11:31,648 --> 00:11:35,546</Time-slot>
+		<Original_text lang="en">actually, our existing development models aren't going to do it.</Original_text>
+		<Translation lang="ar">في الواقع، نماذج التنمية الموجودة لدينا لن تفعل ذلك.</Translation>
+		<Translation lang="fr">en fait, nos modèles de développement existants ne feront pas l'affaire.</Translation>
+	</Segment>
+	<Segment id ="246" >
+		<Time-slot>00:11:35,546 --> 00:11:37,634</Time-slot>
+		<Original_text lang="en">As I think Robert Neuwirth said, there isn't a bank</Original_text>
+		<Translation lang="ar">كما أعتقد أن "روبرت نوويرث" قال، ليس هناك مصرف</Translation>
+		<Translation lang="fr">Je pense que c'est Robert Neuwirth qui a dit qu'il n'y a pas une banque,</Translation>
+	</Segment>
+	<Segment id ="247" >
+		<Time-slot>00:11:37,634 --> 00:11:40,411</Time-slot>
+		<Original_text lang="en">or a corporation or a government or an NGO</Original_text>
+		<Translation lang="ar">أو شركة أو حكومة أو منظمة غير حكومية</Translation>
+		<Translation lang="fr">une société, un gouvernement ou une ONG</Translation>
+	</Segment>
+	<Segment id ="248" >
+		<Time-slot>00:11:40,410 --> 00:11:41,796</Time-slot>
+		<Original_text lang="en">who's going to be able to do it</Original_text>
+		<Translation lang="ar">سوف يكونون قادرين على القيام بذلك</Translation>
+		<Translation lang="fr">qui y arrivera,</Translation>
+	</Segment>
+	<Segment id ="249" >
+		<Time-slot>00:11:41,797 --> 00:11:45,446</Time-slot>
+		<Original_text lang="en">if we treat citizens only as consumers.</Original_text>
+		<Translation lang="ar">إذا تعاملنا مع المواطنين كمستهلكين فقط.</Translation>
+		<Translation lang="fr">si nous ne traitons les citoyens que comme des consommateurs.</Translation>
+	</Segment>
+	<Segment id ="250" >
+		<Time-slot>00:11:45,446 --> 00:11:49,226</Time-slot>
+		<Original_text lang="en">How extraordinary would it be, though, if collectively</Original_text>
+		<Translation lang="ar">كم سيكون من الاستثنائي، رغم ذلك، إذا قمنا</Translation>
+		<Translation lang="fr">Ce serait extraordinaire, toutefois, si collectivement</Translation>
+	</Segment>
+	<Segment id ="251" >
+		<Time-slot>00:11:49,226 --> 00:11:51,500</Time-slot>
+		<Original_text lang="en">we were to develop solutions not just to the problem</Original_text>
+		<Translation lang="ar">جماعياً بتطوير حلول ليس فقط لمشكلة</Translation>
+		<Translation lang="fr">nous développions des solutions, pas seulement au problème structurel</Translation>
+	</Segment>
+	<Segment id ="252" >
+		<Time-slot>00:11:51,500 --> 00:11:53,913</Time-slot>
+		<Original_text lang="en">of structure that we've been working on,</Original_text>
+		<Translation lang="ar">الهيكل التي كنا نعمل عليها،</Translation>
+		<Translation lang="fr">sur lequel nous travaillons,</Translation>
+	</Segment>
+	<Segment id ="253" >
+		<Time-slot>00:11:53,913 --> 00:11:58,634</Time-slot>
+		<Original_text lang="en">but to infrastructure problems like solar-powered air conditioning,</Original_text>
+		<Translation lang="ar">لكن لمشاكل البنية التحتية مثل تكييف الهواء بالطاقة الشمسية،</Translation>
+		<Translation lang="fr">mais aussi aux problèmes infrastructurels, comme l'air conditionné fonctionnant au solaire,</Translation>
+	</Segment>
+	<Segment id ="254" >
+		<Time-slot>00:11:58,634 --> 00:12:01,450</Time-slot>
+		<Original_text lang="en">off-grid energy, off-grid sanitation --</Original_text>
+		<Translation lang="ar">الطاقة خارج الشبكة، الصرف الصحي خارج الشبكة --</Translation>
+		<Translation lang="fr">l'énergie et les installations sanitaires hors-réseau,</Translation>
+	</Segment>
+	<Segment id ="255" >
+		<Time-slot>00:12:01,450 --> 00:12:05,379</Time-slot>
+		<Original_text lang="en">low-cost, open-source, high-performance solutions</Original_text>
+		<Translation lang="ar">حلول منخفضة التكلفة، مفتوحة المصدر، عالية الأداء</Translation>
+		<Translation lang="fr">des solutions à bas coût, haute performance et open-source,</Translation>
+	</Segment>
+	<Segment id ="256" >
+		<Time-slot>00:12:05,379 --> 00:12:07,319</Time-slot>
+		<Original_text lang="en">that anyone can very, very easily make,</Original_text>
+		<Translation lang="ar">والتي يستطيع أي شخص صنعها بسهولة جداً، جداً</Translation>
+		<Translation lang="fr">que chacun puisse très aisément fabriquer</Translation>
+	</Segment>
+	<Segment id ="257" >
+		<Time-slot>00:12:07,318 --> 00:12:09,219</Time-slot>
+		<Original_text lang="en">and to put them all into a commons</Original_text>
+		<Translation lang="ar">ووضعها جميعاً في مشاعات</Translation>
+		<Translation lang="fr">et si nous les mettions sur la place publique,</Translation>
+	</Segment>
+	<Segment id ="258" >
+		<Time-slot>00:12:09,220 --> 00:12:13,567</Time-slot>
+		<Original_text lang="en">where they're owned by everyone and they're accessible by everyone?</Original_text>
+		<Translation lang="ar">حيث هي مملوكة للجميع، ويمكن الوصول إليها من قِبل الجميع؟</Translation>
+		<Translation lang="fr">où elles seront à tout le monde, accessibles par tout le monde.</Translation>
+	</Segment>
+	<Segment id ="259" >
+		<Time-slot>00:12:13,567 --> 00:12:17,737</Time-slot>
+		<Original_text lang="en">A kind of Wikipedia for stuff?</Original_text>
+		<Translation lang="ar">نوع من الويكيبيديا للأشياء؟</Translation>
+		<Translation lang="fr">Un genre de Wikipedia pour les objets.</Translation>
+	</Segment>
+	<Segment id ="260" >
+		<Time-slot>00:12:17,738 --> 00:12:19,779</Time-slot>
+		<Original_text lang="en">And once something's in the commons,</Original_text>
+		<Translation lang="ar">وبمجرد وجود شيء في المشاعات،</Translation>
+		<Translation lang="fr">Et une fois qu'une chose est sur la place publique,</Translation>
+	</Segment>
+	<Segment id ="261" >
+		<Time-slot>00:12:19,778 --> 00:12:21,134</Time-slot>
+		<Original_text lang="en">it will always be there.</Original_text>
+		<Translation lang="ar">فإنه سيكون دائماً هناك.</Translation>
+		<Translation lang="fr">elle y reste pour toujours.</Translation>
+	</Segment>
+	<Segment id ="262" >
+		<Time-slot>00:12:21,134 --> 00:12:24,663</Time-slot>
+		<Original_text lang="en">How much would that change the rules?</Original_text>
+		<Translation lang="ar">كم سيغير ذلك القوانين؟</Translation>
+		<Translation lang="fr">Comme cela changerait les choses !</Translation>
+	</Segment>
+	<Segment id ="263" >
+		<Time-slot>00:12:24,663 --> 00:12:28,099</Time-slot>
+		<Original_text lang="en">And I think the technology's on our side.</Original_text>
+		<Translation lang="ar">وأعتقد أن التكنولوجيا في صالحنا.</Translation>
+		<Translation lang="fr">Et je pense que la technologie est de notre côté.</Translation>
+	</Segment>
+	<Segment id ="264" >
+		<Time-slot>00:12:28,099 --> 00:12:31,759</Time-slot>
+		<Original_text lang="en">If design's great project in the 20th century</Original_text>
+		<Translation lang="ar">إذا كان تصميم مشروع كبير في القرن العشرين</Translation>
+		<Translation lang="fr">Si le grand projet du design du 20e siècle</Translation>
+	</Segment>
+	<Segment id ="265" >
+		<Time-slot>00:12:31,759 --> 00:12:35,519</Time-slot>
+		<Original_text lang="en">was the democratization of consumption --</Original_text>
+		<Translation lang="ar">إضفاء الطابع الديمقراطي على الاستهلاك --</Translation>
+		<Translation lang="fr">était la démocratisation de la consommation -</Translation>
+	</Segment>
+	<Segment id ="266" >
+		<Time-slot>00:12:35,519 --> 00:12:41,946</Time-slot>
+		<Original_text lang="en">that was Henry Ford, Levittown, Coca-Cola, IKEA —</Original_text>
+		<Translation lang="ar">كان هنري فورد، ليفيتاون، شركة كوكا كولا، ايكيا —</Translation>
+		<Translation lang="fr">c'était Henry Ford, Levittown, Coca-Cola, IKEA -</Translation>
+	</Segment>
+	<Segment id ="267" >
+		<Time-slot>00:12:41,946 --> 00:12:45,567</Time-slot>
+		<Original_text lang="en">I think design's great project in the 21st century</Original_text>
+		<Translation lang="ar">أعتقد أن المشروع الكبير للتصميم في القرن الحادي والعشرين</Translation>
+		<Translation lang="fr">je pense que le grand projet du design du 21e siècle</Translation>
+	</Segment>
+	<Segment id ="268" >
+		<Time-slot>00:12:45,567 --> 00:12:48,439</Time-slot>
+		<Original_text lang="en">is the democratization of production.</Original_text>
+		<Translation lang="ar">هو إضفاء الطابع الديمقراطي على الإنتاج.</Translation>
+		<Translation lang="fr">c'est la démocratisation de la production.</Translation>
+	</Segment>
+	<Segment id ="269" >
+		<Time-slot>00:12:48,440 --> 00:12:51,120</Time-slot>
+		<Original_text lang="en">And when it comes to architecture in cities,</Original_text>
+		<Translation lang="ar">وعندما يتعلق الأمر بالعمارة في المدن،</Translation>
+		<Translation lang="fr">Et quand il s'agit d'architecture dans les ville,</Translation>
+	</Segment>
+	<Segment id ="270" >
+		<Time-slot>00:12:51,120 --> 00:12:53,192</Time-slot>
+		<Original_text lang="en">that really matters.</Original_text>
+		<Translation lang="ar">ذلك يهم حقاً.</Translation>
+		<Translation lang="fr">ça a vraiment son importance.</Translation>
+	</Segment>
+	<Segment id ="271" >
+		<Time-slot>00:12:53,192 --> 00:12:54,946</Time-slot>
+		<Original_text lang="en">Thank you very much.</Original_text>
+		<Translation lang="ar">شكراً جزيلاً لكم.</Translation>
+		<Translation lang="fr">Merci beaucoup.</Translation>
+	</Segment>
+	<Segment id ="272" >
+		<Time-slot>00:12:54,946 --> 00:13:00,070</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+</Talk>
+</MulTed>

@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MulTed>
+
+<Talk Speaker = "Erik Brynjolfsson" Title= " The key to growth" >
+	<Segment id ="1" >
+		<Time-slot>00:00:12,605 --> 00:00:14,877</Time-slot>
+		<Original_text lang="en">Growth is not dead.</Original_text>
+		<Translation lang="ar">النمو ليس ميتاً</Translation>
+		<Translation lang="fr">La croissance n'est pas morte.</Translation>
+	</Segment>
+	<Segment id ="2" >
+		<Time-slot>00:00:14,877 --> 00:00:16,263</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+	<Segment id ="3" >
+		<Time-slot>00:00:16,263 --> 00:00:20,226</Time-slot>
+		<Original_text lang="en">Let's start the story 120 years ago,</Original_text>
+		<Translation lang="ar">لنبدأ القصة 120 سنة مضت،</Translation>
+		<Translation lang="fr">Notre histoire commence il y a 120 ans,</Translation>
+	</Segment>
+	<Segment id ="4" >
+		<Time-slot>00:00:20,225 --> 00:00:23,858</Time-slot>
+		<Original_text lang="en">when American factories began to electrify their operations,</Original_text>
+		<Translation lang="ar">عندما بدأت المصانع الأمريكية بكهربة عملياتها،</Translation>
+		<Translation lang="fr">quand les usines américaines ont commencé à fonctionner à l'électricité,</Translation>
+	</Segment>
+	<Segment id ="5" >
+		<Time-slot>00:00:23,858 --> 00:00:27,202</Time-slot>
+		<Original_text lang="en">igniting the Second Industrial Revolution.</Original_text>
+		<Translation lang="ar">لتشعل "الثورة الصناعية الثانية".</Translation>
+		<Translation lang="fr">initiant ainsi la Deuxième Révolution Industrielle.</Translation>
+	</Segment>
+	<Segment id ="6" >
+		<Time-slot>00:00:27,202 --> 00:00:28,313</Time-slot>
+		<Original_text lang="en">The amazing thing is</Original_text>
+		<Translation lang="ar">والشيء المدهش</Translation>
+		<Translation lang="fr">Ce qui est incroyable c'est</Translation>
+	</Segment>
+	<Segment id ="7" >
+		<Time-slot>00:00:28,312 --> 00:00:31,089</Time-slot>
+		<Original_text lang="en">that productivity did not increase in those factories</Original_text>
+		<Translation lang="ar">أن الإنتاجية لم تزيد في تلك المصانع</Translation>
+		<Translation lang="fr">que la productivité de ces usines n'a pas augmenté</Translation>
+	</Segment>
+	<Segment id ="8" >
+		<Time-slot>00:00:31,089 --> 00:00:34,345</Time-slot>
+		<Original_text lang="en">for 30 years. Thirty years.</Original_text>
+		<Translation lang="ar">لمدة 30 عاماً. ثلاثين عاماً.</Translation>
+		<Translation lang="fr">pendant 30 ans. Trente ans.</Translation>
+	</Segment>
+	<Segment id ="9" >
+		<Time-slot>00:00:34,345 --> 00:00:37,819</Time-slot>
+		<Original_text lang="en">That's long enough for a generation of managers to retire.</Original_text>
+		<Translation lang="ar">انها مدة طويلة بما يكفي لتقاعد جيل مديرين.</Translation>
+		<Translation lang="fr">C'est assez long pour qu'une génération entière de directeurs parte en retraite.</Translation>
+	</Segment>
+	<Segment id ="10" >
+		<Time-slot>00:00:37,820 --> 00:00:40,042</Time-slot>
+		<Original_text lang="en">You see, the first wave of managers</Original_text>
+		<Translation lang="ar">كما ترى، الموجة الأولى من المديرين</Translation>
+		<Translation lang="fr">En fait, la première vague de directeurs</Translation>
+	</Segment>
+	<Segment id ="11" >
+		<Time-slot>00:00:40,042 --> 00:00:43,459</Time-slot>
+		<Original_text lang="en">simply replaced their steam engines with electric motors,</Original_text>
+		<Translation lang="ar">ببساطة استبدلت محركات البخار بالمحركات الكهربائية،</Translation>
+		<Translation lang="fr">s'est contentée de remplacer les machines à vapeur par des moteurs électriques,</Translation>
+	</Segment>
+	<Segment id ="12" >
+		<Time-slot>00:00:43,459 --> 00:00:46,469</Time-slot>
+		<Original_text lang="en">but they didn't redesign the factories to take advantage</Original_text>
+		<Translation lang="ar">لكنهم لم يعيدوا تصميم المصانع للاستفادة من المحركات الجديدة</Translation>
+		<Translation lang="fr">mais elle n'a pas repensé les usines pour profiter</Translation>
+	</Segment>
+	<Segment id ="13" >
+		<Time-slot>00:00:46,469 --> 00:00:48,810</Time-slot>
+		<Original_text lang="en">of electricity's flexibility.</Original_text>
+		<Translation lang="ar">من مرونة الكهرباء.</Translation>
+		<Translation lang="fr">de la flexibilité que procure l'électricité.</Translation>
+	</Segment>
+	<Segment id ="14" >
+		<Time-slot>00:00:48,810 --> 00:00:52,794</Time-slot>
+		<Original_text lang="en">It fell to the next generation to invent new work processes,</Original_text>
+		<Translation lang="ar">قد عاد إلى الجيل القادم ابتكار أساليب جديدة العمل،</Translation>
+		<Translation lang="fr">C'est la génération suivante qui a inventé de nouveaux processus de travail,</Translation>
+	</Segment>
+	<Segment id ="15" >
+		<Time-slot>00:00:52,793 --> 00:00:55,520</Time-slot>
+		<Original_text lang="en">and then productivity soared,</Original_text>
+		<Translation lang="ar">وبعد ذلك ارتفعت الإنتاجية،</Translation>
+		<Translation lang="fr">et alors la productivité a explosé,</Translation>
+	</Segment>
+	<Segment id ="16" >
+		<Time-slot>00:00:55,521 --> 00:00:59,185</Time-slot>
+		<Original_text lang="en">often doubling or even tripling in those factories.</Original_text>
+		<Translation lang="ar">مضاعفة أو حتى ثلاثة إضعاف في تلك المصانع.</Translation>
+		<Translation lang="fr">elle a souvent doublé ou même triplé dans ces usines.</Translation>
+	</Segment>
+	<Segment id ="17" >
+		<Time-slot>00:00:59,185 --> 00:01:03,908</Time-slot>
+		<Original_text lang="en">Electricity is an example of a general purpose technology,</Original_text>
+		<Translation lang="ar">الكهرباء مثال للتكنولوجيا الأغراض العامة،</Translation>
+		<Translation lang="fr">L'électricité est un exemple de technologie à usage général,</Translation>
+	</Segment>
+	<Segment id ="18" >
+		<Time-slot>00:01:03,908 --> 00:01:06,138</Time-slot>
+		<Original_text lang="en">like the steam engine before it.</Original_text>
+		<Translation lang="ar">مثل المحرك البخارى قبل ذلك.</Translation>
+		<Translation lang="fr">comme la machine à vapeur l'avait été auparavant.</Translation>
+	</Segment>
+	<Segment id ="19" >
+		<Time-slot>00:01:06,138 --> 00:01:09,554</Time-slot>
+		<Original_text lang="en">General purpose technologies drive most economic growth,</Original_text>
+		<Translation lang="ar">تكنولوجيات الأغراض العامة تحرك معظم النمو الاقتصادي،</Translation>
+		<Translation lang="fr">Les technologies à usage général créent l'essentiel de la croissance économique,</Translation>
+	</Segment>
+	<Segment id ="20" >
+		<Time-slot>00:01:09,555 --> 00:01:13,009</Time-slot>
+		<Original_text lang="en">because they unleash cascades of complementary innovations,</Original_text>
+		<Translation lang="ar">لأنهم إطلقوا العنان لسلاسل من الابتكارات المكملة،</Translation>
+		<Translation lang="fr">parce qu'elles créent en cascade des innovations complémentaires</Translation>
+	</Segment>
+	<Segment id ="21" >
+		<Time-slot>00:01:13,009 --> 00:01:16,641</Time-slot>
+		<Original_text lang="en">like lightbulbs and, yes, factory redesign.</Original_text>
+		<Translation lang="ar">مثل المصابيح، ونعم إعادة تصميم المصنع.</Translation>
+		<Translation lang="fr">comme les ampoules électriques et, oui, la conception des usines.</Translation>
+	</Segment>
+	<Segment id ="22" >
+		<Time-slot>00:01:16,641 --> 00:01:20,251</Time-slot>
+		<Original_text lang="en">Is there a general purpose technology of our era?</Original_text>
+		<Translation lang="ar">هل هناك تقنية لأغراض عامة لعصرنا؟</Translation>
+		<Translation lang="fr">Y a-t-il une technologie à usage général de notre époque ?</Translation>
+	</Segment>
+	<Segment id ="23" >
+		<Time-slot>00:01:20,251 --> 00:01:22,759</Time-slot>
+		<Original_text lang="en">Sure. It's the computer.</Original_text>
+		<Translation lang="ar">بالتأكيد. هو جهاز الكمبيوتر.</Translation>
+		<Translation lang="fr">Bien sûr. C'est l'ordinateur.</Translation>
+	</Segment>
+	<Segment id ="24" >
+		<Time-slot>00:01:22,759 --> 00:01:25,418</Time-slot>
+		<Original_text lang="en">But technology alone is not enough.</Original_text>
+		<Translation lang="ar">ولكن التكنولوجيا وحدها ليست كافية.</Translation>
+		<Translation lang="fr">Mais la technologie seule ne suffit pas.</Translation>
+	</Segment>
+	<Segment id ="25" >
+		<Time-slot>00:01:25,418 --> 00:01:28,184</Time-slot>
+		<Original_text lang="en">Technology is not destiny.</Original_text>
+		<Translation lang="ar">التكنولوجيا ليست المصير.</Translation>
+		<Translation lang="fr">La technologie n'est pas notre destin.</Translation>
+	</Segment>
+	<Segment id ="26" >
+		<Time-slot>00:01:28,183 --> 00:01:29,763</Time-slot>
+		<Original_text lang="en">We shape our destiny,</Original_text>
+		<Translation lang="ar">نحن نشكل مصيرنا،</Translation>
+		<Translation lang="fr">Nous façonnons notre destin,</Translation>
+	</Segment>
+	<Segment id ="27" >
+		<Time-slot>00:01:29,763 --> 00:01:32,280</Time-slot>
+		<Original_text lang="en">and just as the earlier generations of managers</Original_text>
+		<Translation lang="ar">وتماماً كما مديرين الأجيال السابقة</Translation>
+		<Translation lang="fr">et tout comme les anciennes générations de directeurs</Translation>
+	</Segment>
+	<Segment id ="28" >
+		<Time-slot>00:01:32,280 --> 00:01:34,578</Time-slot>
+		<Original_text lang="en">needed to redesign their factories,</Original_text>
+		<Translation lang="ar">احتاجوا إلى إعادة تصميم مصانعهم،</Translation>
+		<Translation lang="fr">ont dû repenser leurs usines,</Translation>
+	</Segment>
+	<Segment id ="29" >
+		<Time-slot>00:01:34,578 --> 00:01:36,807</Time-slot>
+		<Original_text lang="en">we're going to need to reinvent our organizations</Original_text>
+		<Translation lang="ar">نحن سنحتاج إلى إعادة اختراع منظماتنا</Translation>
+		<Translation lang="fr">il va nous falloir réinventer nos organisations</Translation>
+	</Segment>
+	<Segment id ="30" >
+		<Time-slot>00:01:36,807 --> 00:01:39,362</Time-slot>
+		<Original_text lang="en">and even our whole economic system.</Original_text>
+		<Translation lang="ar">وحتى نظامنا الاقتصادي إجمالاً.</Translation>
+		<Translation lang="fr">et même notre système économique dans son ensemble.</Translation>
+	</Segment>
+	<Segment id ="31" >
+		<Time-slot>00:01:39,361 --> 00:01:42,963</Time-slot>
+		<Original_text lang="en">We're not doing as well at that job as we should be.</Original_text>
+		<Translation lang="ar">نحن لا نعمل جيداً في تلك الوظيفة كما ينبغي أن نكون.</Translation>
+		<Translation lang="fr">Et on ne se débrouille pas aussi bien qu'on le devrait.</Translation>
+	</Segment>
+	<Segment id ="32" >
+		<Time-slot>00:01:42,963 --> 00:01:44,194</Time-slot>
+		<Original_text lang="en">As we'll see in a moment,</Original_text>
+		<Translation lang="ar">وكما سنرى في لحظة،</Translation>
+		<Translation lang="fr">Comme nous allons le voir dans un moment,</Translation>
+	</Segment>
+	<Segment id ="33" >
+		<Time-slot>00:01:44,194 --> 00:01:46,915</Time-slot>
+		<Original_text lang="en">productivity is actually doing all right,</Original_text>
+		<Translation lang="ar">الإنتاجية في الواقع تعمل بصورة جيدة</Translation>
+		<Translation lang="fr">en fait la productivité se porte plutôt bien,</Translation>
+	</Segment>
+	<Segment id ="34" >
+		<Time-slot>00:01:46,915 --> 00:01:50,777</Time-slot>
+		<Original_text lang="en">but it has become decoupled from jobs,</Original_text>
+		<Translation lang="ar">لكنها اصبحت منفصلة عن الوظائف،</Translation>
+		<Translation lang="fr">mais elle est devenue déconnectée des emplois,</Translation>
+	</Segment>
+	<Segment id ="35" >
+		<Time-slot>00:01:50,778 --> 00:01:55,197</Time-slot>
+		<Original_text lang="en">and the income of the typical worker is stagnating.</Original_text>
+		<Translation lang="ar">ودخل العامل النموذجي في حالة ركود.</Translation>
+		<Translation lang="fr">et le revenu moyen stagne.</Translation>
+	</Segment>
+	<Segment id ="36" >
+		<Time-slot>00:01:55,197 --> 00:01:57,716</Time-slot>
+		<Original_text lang="en">These troubles are sometimes misdiagnosed</Original_text>
+		<Translation lang="ar">هذه المشاكل أحياناً تشخص خطأ</Translation>
+		<Translation lang="fr">Ces problèmes sont parfois considérés à tort</Translation>
+	</Segment>
+	<Segment id ="37" >
+		<Time-slot>00:01:57,715 --> 00:02:01,427</Time-slot>
+		<Original_text lang="en">as the end of innovation,</Original_text>
+		<Translation lang="ar">كنهاية للابتكار،</Translation>
+		<Translation lang="fr">comme une conséquence de la fin de l'innovation,</Translation>
+	</Segment>
+	<Segment id ="38" >
+		<Time-slot>00:02:01,427 --> 00:02:03,557</Time-slot>
+		<Original_text lang="en">but they are actually the growing pains</Original_text>
+		<Translation lang="ar">ولكنهم في الواقع الآلام المتزايدة</Translation>
+		<Translation lang="fr">mais ils sont en fait les difficultés croissantes</Translation>
+	</Segment>
+	<Segment id ="39" >
+		<Time-slot>00:02:03,557 --> 00:02:09,146</Time-slot>
+		<Original_text lang="en">of what Andrew McAfee and I call the new machine age.</Original_text>
+		<Translation lang="ar">لما ادعوه انا و أندرو مكافي بآلة العصر الجديد.</Translation>
+		<Translation lang="fr">de ce que Andrew McAfee et moi-même appelons le nouvel âge de la machine.</Translation>
+	</Segment>
+	<Segment id ="40" >
+		<Time-slot>00:02:09,146 --> 00:02:11,028</Time-slot>
+		<Original_text lang="en">Let's look at some data.</Original_text>
+		<Translation lang="ar">دعونا ننظر في بعض البيانات.</Translation>
+		<Translation lang="fr">Examinons quelques données.</Translation>
+	</Segment>
+	<Segment id ="41" >
+		<Time-slot>00:02:11,028 --> 00:02:13,930</Time-slot>
+		<Original_text lang="en">So here's GDP per person in America.</Original_text>
+		<Translation lang="ar">حتى هنا هو الناتج المحلي الإجمالي للشخص الواحد في أمريكا.</Translation>
+		<Translation lang="fr">Voici le PIB par tête aux États-Unis.</Translation>
+	</Segment>
+	<Segment id ="42" >
+		<Time-slot>00:02:13,931 --> 00:02:16,697</Time-slot>
+		<Original_text lang="en">There's some bumps along the way, but the big story</Original_text>
+		<Translation lang="ar">وهناك بعض المطبات على طول الطريق، ولكن القصة الكبيرة</Translation>
+		<Translation lang="fr">Le chemin est quelque peu accidenté, mais en gros</Translation>
+	</Segment>
+	<Segment id ="43" >
+		<Time-slot>00:02:16,697 --> 00:02:19,412</Time-slot>
+		<Original_text lang="en">is you could practically fit a ruler to it.</Original_text>
+		<Translation lang="ar">هو أنك يمكن أن تناسب عمليا مسطرة فيه.</Translation>
+		<Translation lang="fr">on pourrait presque apposer une règle sur la tendance.</Translation>
+	</Segment>
+	<Segment id ="44" >
+		<Time-slot>00:02:19,412 --> 00:02:22,688</Time-slot>
+		<Original_text lang="en">This is a log scale, so what looks like steady growth</Original_text>
+		<Translation lang="ar">وهذا مقياس طويل، هكذا ما يبدو وكأنه النمو المطرد</Translation>
+		<Translation lang="fr">L'échelle est logarithmique, donc ce qui semble être une croissance soutenue</Translation>
+	</Segment>
+	<Segment id ="45" >
+		<Time-slot>00:02:22,687 --> 00:02:25,730</Time-slot>
+		<Original_text lang="en">is actually an acceleration in real terms.</Original_text>
+		<Translation lang="ar">هو في الحقيقة تسارع كمصطلح حقيقيي.</Translation>
+		<Translation lang="fr">est en fait une accélération en termes réels.</Translation>
+	</Segment>
+	<Segment id ="46" >
+		<Time-slot>00:02:25,730 --> 00:02:27,890</Time-slot>
+		<Original_text lang="en">And here's productivity.</Original_text>
+		<Translation lang="ar">وهنا هي الإنتاجية.</Translation>
+		<Translation lang="fr">Et voici la productivité.</Translation>
+	</Segment>
+	<Segment id ="47" >
+		<Time-slot>00:02:27,890 --> 00:02:30,561</Time-slot>
+		<Original_text lang="en">You can see a little bit of a slowdown there in the mid-'70s,</Original_text>
+		<Translation lang="ar">يمكنك أن ترى قليلاً من تباطؤ هناك في منتصف السبعينات</Translation>
+		<Translation lang="fr">On voit un léger ralentissement au milieu des années 70,</Translation>
+	</Segment>
+	<Segment id ="48" >
+		<Time-slot>00:02:30,562 --> 00:02:34,300</Time-slot>
+		<Original_text lang="en">but it matches up pretty well with the Second Industrial Revolution,</Original_text>
+		<Translation lang="ar">ولكنها تتطابق جيداً مع "الثورة الصناعية الثانية"،</Translation>
+		<Translation lang="fr">mais ça correspond plutôt bien à la Deuxième Révolution Industrielle,</Translation>
+	</Segment>
+	<Segment id ="49" >
+		<Time-slot>00:02:34,300 --> 00:02:36,991</Time-slot>
+		<Original_text lang="en">when factories were learning how to electrify their operations.</Original_text>
+		<Translation lang="ar">عندما كانت المصانع تتعلم كيفية كهربة عملياتها.</Translation>
+		<Translation lang="fr">quand les usines apprenaient à fonctionner à l'électricité.</Translation>
+	</Segment>
+	<Segment id ="50" >
+		<Time-slot>00:02:36,991 --> 00:02:41,120</Time-slot>
+		<Original_text lang="en">After a lag, productivity accelerated again.</Original_text>
+		<Translation lang="ar">بعد تأخير، الإنتاجية تتسارع مرة أخرى.</Translation>
+		<Translation lang="fr">Après un ralentissement, la productivité a accéléré de nouveau.</Translation>
+	</Segment>
+	<Segment id ="51" >
+		<Time-slot>00:02:41,120 --> 00:02:43,691</Time-slot>
+		<Original_text lang="en">So maybe "history doesn't repeat itself,</Original_text>
+		<Translation lang="ar">ولذلك ربما يكون "التاريخ لا يعيد نفسه،</Translation>
+		<Translation lang="fr">Alors peut-être que « l'histoire ne se répète pas,</Translation>
+	</Segment>
+	<Segment id ="52" >
+		<Time-slot>00:02:43,691 --> 00:02:46,259</Time-slot>
+		<Original_text lang="en">but sometimes it rhymes."</Original_text>
+		<Translation lang="ar">لكن في بعض الأحيان يكون كالقوافي ".</Translation>
+		<Translation lang="fr">mais parfois, elle rime. »</Translation>
+	</Segment>
+	<Segment id ="53" >
+		<Time-slot>00:02:46,258 --> 00:02:49,394</Time-slot>
+		<Original_text lang="en">Today, productivity is at an all-time high,</Original_text>
+		<Translation lang="ar">واليوم، الإنتاجية على أعلى مستوى على الإطلاق،</Translation>
+		<Translation lang="fr">Aujourd'hui, la productivité est à son plus haut niveau,</Translation>
+	</Segment>
+	<Segment id ="54" >
+		<Time-slot>00:02:49,395 --> 00:02:51,372</Time-slot>
+		<Original_text lang="en">and despite the Great Recession,</Original_text>
+		<Translation lang="ar">وعلى الرغم من الكساد العظيم،</Translation>
+		<Translation lang="fr">et malgré la Grande Récession,</Translation>
+	</Segment>
+	<Segment id ="55" >
+		<Time-slot>00:02:51,372 --> 00:02:55,624</Time-slot>
+		<Original_text lang="en">it grew faster in the 2000s than it did in the 1990s,</Original_text>
+		<Translation lang="ar">نما نمواً أسرع في 2000s عما كان عليه في التسعينات،</Translation>
+		<Translation lang="fr">elle a augmenté plus rapidement dans les années 2000 que dans les années 90,</Translation>
+	</Segment>
+	<Segment id ="56" >
+		<Time-slot>00:02:55,623 --> 00:02:59,759</Time-slot>
+		<Original_text lang="en">the roaring 1990s, and that was faster than the '70s or '80s.</Original_text>
+		<Translation lang="ar">التسعينات القاصفة، و ذالك أسرع من السبعينات أو الثمانينات.</Translation>
+		<Translation lang="fr">dont J. Stiglitz a dit que « le capitalisme perd la tête», où elle a augmenté plus rapidement que dans les années 70 ou 80.</Translation>
+	</Segment>
+	<Segment id ="57" >
+		<Time-slot>00:02:59,759 --> 00:03:03,433</Time-slot>
+		<Original_text lang="en">It's growing faster than it did during the Second Industrial Revolution.</Original_text>
+		<Translation lang="ar">هو ينمو بوتيرة أسرع مما كان عليه خلال "الثورة الصناعية الثانية".</Translation>
+		<Translation lang="fr">Elle augmente plus rapidement que pendant la Deuxième Révolution Industrielle.</Translation>
+	</Segment>
+	<Segment id ="58" >
+		<Time-slot>00:03:03,433 --> 00:03:05,176</Time-slot>
+		<Original_text lang="en">And that's just the United States.</Original_text>
+		<Translation lang="ar">وهذا هو فقط الولايات المتحدة.</Translation>
+		<Translation lang="fr">Et je ne parle que des États-Unis.</Translation>
+	</Segment>
+	<Segment id ="59" >
+		<Time-slot>00:03:05,176 --> 00:03:08,424</Time-slot>
+		<Original_text lang="en">The global news is even better.</Original_text>
+		<Translation lang="ar">الأنباء العالمية أفضل.</Translation>
+		<Translation lang="fr">Au niveau mondial, les nouvelles sont encore meilleures.</Translation>
+	</Segment>
+	<Segment id ="60" >
+		<Time-slot>00:03:08,425 --> 00:03:10,785</Time-slot>
+		<Original_text lang="en">Worldwide incomes have grown at a faster rate</Original_text>
+		<Translation lang="ar">الدخل في العالم قد نما بمعدل أسرع</Translation>
+		<Translation lang="fr">À l'échelle du monde, les revenus ont augmenté plus rapidement</Translation>
+	</Segment>
+	<Segment id ="61" >
+		<Time-slot>00:03:10,784 --> 00:03:13,281</Time-slot>
+		<Original_text lang="en">in the past decade than ever in history.</Original_text>
+		<Translation lang="ar">في العقد الماضي أكثر من أي وقت مضى في التاريخ.</Translation>
+		<Translation lang="fr">au cours de la dernière décennie que jamais auparavant.</Translation>
+	</Segment>
+	<Segment id ="62" >
+		<Time-slot>00:03:13,281 --> 00:03:18,331</Time-slot>
+		<Original_text lang="en">If anything, all these numbers actually understate our progress,</Original_text>
+		<Translation lang="ar">إذا كان أي شيء، جميع هذه الأرقام فعلا اقل من تقدمنا،</Translation>
+		<Translation lang="fr">Tout au contraire, toutes ces données minimisent en fait notre progrès,</Translation>
+	</Segment>
+	<Segment id ="63" >
+		<Time-slot>00:03:18,331 --> 00:03:20,243</Time-slot>
+		<Original_text lang="en">because the new machine age</Original_text>
+		<Translation lang="ar">لأن العصر الجديد للجهاز</Translation>
+		<Translation lang="fr">parce que le nouvel âge de la machine</Translation>
+	</Segment>
+	<Segment id ="64" >
+		<Time-slot>00:03:20,243 --> 00:03:21,907</Time-slot>
+		<Original_text lang="en">is more about knowledge creation</Original_text>
+		<Translation lang="ar">هو متعلق اكثر بخلق المعرفة</Translation>
+		<Translation lang="fr">relève davantage de la création de connaissance</Translation>
+	</Segment>
+	<Segment id ="65" >
+		<Time-slot>00:03:21,907 --> 00:03:24,238</Time-slot>
+		<Original_text lang="en">than just physical production.</Original_text>
+		<Translation lang="ar">من الإنتاج المادي فقط.</Translation>
+		<Translation lang="fr">que de la seule production physique.</Translation>
+	</Segment>
+	<Segment id ="66" >
+		<Time-slot>00:03:24,239 --> 00:03:27,176</Time-slot>
+		<Original_text lang="en">It's mind not matter, brain not brawn,</Original_text>
+		<Translation lang="ar">انه العقل و ليس المادة، الدماغ و ليس العضلات القوية</Translation>
+		<Translation lang="fr">C'est l'esprit plutôt que la matière, le cerveau plutôt que les muscles,</Translation>
+	</Segment>
+	<Segment id ="67" >
+		<Time-slot>00:03:27,176 --> 00:03:29,239</Time-slot>
+		<Original_text lang="en">ideas not things.</Original_text>
+		<Translation lang="ar">الأفكار و ليست الأشياء.</Translation>
+		<Translation lang="fr">les idées plutôt que les objets.</Translation>
+	</Segment>
+	<Segment id ="68" >
+		<Time-slot>00:03:29,239 --> 00:03:31,808</Time-slot>
+		<Original_text lang="en">That creates a problem for standard metrics,</Original_text>
+		<Translation lang="ar">التي تخلق مشكلة بالنسبة للمقاييس الموحدة،</Translation>
+		<Translation lang="fr">Ça pose un problème pour les mesures standard,</Translation>
+	</Segment>
+	<Segment id ="69" >
+		<Time-slot>00:03:31,808 --> 00:03:35,311</Time-slot>
+		<Original_text lang="en">because we're getting more and more stuff for free,</Original_text>
+		<Translation lang="ar">لأننا نحصل على المزيد والمزيد من الأشياء مجاناً،</Translation>
+		<Translation lang="fr">parce qu'on obtient de plus en plus de choses gratuitement,</Translation>
+	</Segment>
+	<Segment id ="70" >
+		<Time-slot>00:03:35,311 --> 00:03:37,951</Time-slot>
+		<Original_text lang="en">like Wikipedia, Google, Skype,</Original_text>
+		<Translation lang="ar">مثل ويكيبيديا، جوجل، سكايب،</Translation>
+		<Translation lang="fr">comme Wikipedia, Google, Skype,</Translation>
+	</Segment>
+	<Segment id ="71" >
+		<Time-slot>00:03:37,951 --> 00:03:41,014</Time-slot>
+		<Original_text lang="en">and if they post it on the web, even this TED Talk.</Original_text>
+		<Translation lang="ar">وإذا نشروه على شبكة الإنترنت، وحتى حديث تيد هذا .</Translation>
+		<Translation lang="fr">ou aussi quand on met du contenu sur internet, comme cette présentation TED.</Translation>
+	</Segment>
+	<Segment id ="72" >
+		<Time-slot>00:03:41,014 --> 00:03:44,317</Time-slot>
+		<Original_text lang="en">Now getting stuff for free is a good thing, right?</Original_text>
+		<Translation lang="ar">الآن الحصول على الأشياء مجاناً شيء جيد، حقاً؟</Translation>
+		<Translation lang="fr">Obtenir des choses à titre gratuit, c'est bien non ?</Translation>
+	</Segment>
+	<Segment id ="73" >
+		<Time-slot>00:03:44,318 --> 00:03:46,082</Time-slot>
+		<Original_text lang="en">Sure, of course it is.</Original_text>
+		<Translation lang="ar">بالتأكيد، بطبيعة الحال.</Translation>
+		<Translation lang="fr">Bien sûr.</Translation>
+	</Segment>
+	<Segment id ="74" >
+		<Time-slot>00:03:46,082 --> 00:03:49,950</Time-slot>
+		<Original_text lang="en">But that's not how economists measure GDP.</Original_text>
+		<Translation lang="ar">ولكن هذا ليس كيف يقيس الاقتصاديين الناتج المحلي الإجمالي.</Translation>
+		<Translation lang="fr">Mais ça n'est pas comme ça que les économistes mesurent le PIB.</Translation>
+	</Segment>
+	<Segment id ="75" >
+		<Time-slot>00:03:49,950 --> 00:03:55,543</Time-slot>
+		<Original_text lang="en">Zero price means zero weight in the GDP statistics.</Original_text>
+		<Translation lang="ar">سعر صفر يعني صفر الوزن في إحصاءات الناتج المحلي الإجمالي.</Translation>
+		<Translation lang="fr">Un prix de zéro n'a aucun poids dans les statistiques du PIB.</Translation>
+	</Segment>
+	<Segment id ="76" >
+		<Time-slot>00:03:55,543 --> 00:03:57,655</Time-slot>
+		<Original_text lang="en">According to the numbers, the music industry</Original_text>
+		<Translation lang="ar">ووفقا للأرقام، صناعة الموسيقى</Translation>
+		<Translation lang="fr">Selon les chiffres, la taille de l'industrie de la musique</Translation>
+	</Segment>
+	<Segment id ="77" >
+		<Time-slot>00:03:57,655 --> 00:04:00,655</Time-slot>
+		<Original_text lang="en">is half the size that it was 10 years ago,</Original_text>
+		<Translation lang="ar">تمثل نصف الحجم الذي كان قبل 10 سنوات،</Translation>
+		<Translation lang="fr">est la moitié de ce qu'elle était il y a 10 ans,</Translation>
+	</Segment>
+	<Segment id ="78" >
+		<Time-slot>00:04:00,655 --> 00:04:04,311</Time-slot>
+		<Original_text lang="en">but I'm listening to more and better music than ever.</Original_text>
+		<Translation lang="ar">ولكنني الان استمع إلى موسيقى أكثر وأفضل من أي وقت مضى.</Translation>
+		<Translation lang="fr">mais je n'ai jamais écouté autant de musique d'une telle qualité.</Translation>
+	</Segment>
+	<Segment id ="79" >
+		<Time-slot>00:04:04,311 --> 00:04:06,503</Time-slot>
+		<Original_text lang="en">You know, I bet you are too.</Original_text>
+		<Translation lang="ar">كما تعلمون، اراهن أنك أيضا.</Translation>
+		<Translation lang="fr">Et je suis sûr que c'est pareil pour vous.</Translation>
+	</Segment>
+	<Segment id ="80" >
+		<Time-slot>00:04:06,502 --> 00:04:09,225</Time-slot>
+		<Original_text lang="en">In total, my research estimates</Original_text>
+		<Translation lang="ar">وفي المجموع، بحوث تقدر</Translation>
+		<Translation lang="fr">Au total, sur la base de ma recherche, j'estime que</Translation>
+	</Segment>
+	<Segment id ="81" >
+		<Time-slot>00:04:09,225 --> 00:04:13,979</Time-slot>
+		<Original_text lang="en">that the GDP numbers miss over 300 billion dollars per year</Original_text>
+		<Translation lang="ar">أن تفوت على أرقام الناتج المحلي الإجمالي أكثر من 300 بیلیون دولار في السنة</Translation>
+		<Translation lang="fr">les chiffres du PIB omettent plus de 300 milliards de dollars par an</Translation>
+	</Segment>
+	<Segment id ="82" >
+		<Time-slot>00:04:13,979 --> 00:04:17,325</Time-slot>
+		<Original_text lang="en">in free goods and services on the Internet.</Original_text>
+		<Translation lang="ar">في السلع والخدمات على شبكة الإنترنت المجانية.</Translation>
+		<Translation lang="fr">en produits et services gratuits offerts sur internet.</Translation>
+	</Segment>
+	<Segment id ="83" >
+		<Time-slot>00:04:17,326 --> 00:04:19,115</Time-slot>
+		<Original_text lang="en">Now let's look to the future.</Original_text>
+		<Translation lang="ar">الآن دعونا ننظر إلى المستقبل.</Translation>
+		<Translation lang="fr">Maintenant regardons vers le futur.</Translation>
+	</Segment>
+	<Segment id ="84" >
+		<Time-slot>00:04:19,115 --> 00:04:21,377</Time-slot>
+		<Original_text lang="en">There are some super smart people</Original_text>
+		<Translation lang="ar">هناك بعض الناس الذكية جداً</Translation>
+		<Translation lang="fr">Il y a des gens super intelligents</Translation>
+	</Segment>
+	<Segment id ="85" >
+		<Time-slot>00:04:21,377 --> 00:04:26,396</Time-slot>
+		<Original_text lang="en">who are arguing that we've reached the end of growth,</Original_text>
+		<Translation lang="ar">الذين يتناقشون في أننا وصلنا إلى نهاية النمو،</Translation>
+		<Translation lang="fr">qui prétendent que nous avons atteint la fin de la croissance,</Translation>
+	</Segment>
+	<Segment id ="86" >
+		<Time-slot>00:04:26,396 --> 00:04:29,954</Time-slot>
+		<Original_text lang="en">but to understand the future of growth,</Original_text>
+		<Translation lang="ar">ولكن لنفهم مستقبل النمو،</Translation>
+		<Translation lang="fr">mais pour comprendre le futur de la croissance</Translation>
+	</Segment>
+	<Segment id ="87" >
+		<Time-slot>00:04:29,954 --> 00:04:32,637</Time-slot>
+		<Original_text lang="en">we need to make predictions</Original_text>
+		<Translation lang="ar">ونحن بحاجة إلى القيام بتوقعات</Translation>
+		<Translation lang="fr">on doit faire des prédictions</Translation>
+	</Segment>
+	<Segment id ="88" >
+		<Time-slot>00:04:32,637 --> 00:04:35,927</Time-slot>
+		<Original_text lang="en">about the underlying drivers of growth.</Original_text>
+		<Translation lang="ar">حول الدوافع الأساسية للنمو.</Translation>
+		<Translation lang="fr">sur les facteurs sous-jacents de la croissance.</Translation>
+	</Segment>
+	<Segment id ="89" >
+		<Time-slot>00:04:35,927 --> 00:04:39,733</Time-slot>
+		<Original_text lang="en">I'm optimistic, because the new machine age</Original_text>
+		<Translation lang="ar">أنا متفائل، لأن العصر الجهاز الجديد</Translation>
+		<Translation lang="fr">Je suis optimiste, parce que le nouvel âge de la machine</Translation>
+	</Segment>
+	<Segment id ="90" >
+		<Time-slot>00:04:39,733 --> 00:04:44,763</Time-slot>
+		<Original_text lang="en">is digital, exponential and combinatorial.</Original_text>
+		<Translation lang="ar">هو رقمي و أسى واندماجي.</Translation>
+		<Translation lang="fr">est numérique, exponentiel et combinatoire.</Translation>
+	</Segment>
+	<Segment id ="91" >
+		<Time-slot>00:04:44,764 --> 00:04:47,028</Time-slot>
+		<Original_text lang="en">When goods are digital, they can be replicated</Original_text>
+		<Translation lang="ar">عندما تكون السلع الرقمية، التي يمكن تكرارها</Translation>
+		<Translation lang="fr">Quand les biens sont numériques, ils peuvent être répliqués</Translation>
+	</Segment>
+	<Segment id ="92" >
+		<Time-slot>00:04:47,028 --> 00:04:51,537</Time-slot>
+		<Original_text lang="en">with perfect quality at nearly zero cost,</Original_text>
+		<Translation lang="ar">مع نوعية مثالية تكلفة ما يقرب من الصفر،</Translation>
+		<Translation lang="fr">avec une qualité parfaite à un coût proche de zéro,</Translation>
+	</Segment>
+	<Segment id ="93" >
+		<Time-slot>00:04:51,536 --> 00:04:55,554</Time-slot>
+		<Original_text lang="en">and they can be delivered almost instantaneously.</Original_text>
+		<Translation lang="ar">ويمكن أن تسلم فورياً تقريبا.</Translation>
+		<Translation lang="fr">et ils peuvent être livrés quasiment instantanément.</Translation>
+	</Segment>
+	<Segment id ="94" >
+		<Time-slot>00:04:55,555 --> 00:04:58,355</Time-slot>
+		<Original_text lang="en">Welcome to the economics of abundance.</Original_text>
+		<Translation lang="ar">مرحبا بكم في اقتصاديات الوفرة.</Translation>
+		<Translation lang="fr">Bienvenue à l'économie de l'abondance.</Translation>
+	</Segment>
+	<Segment id ="95" >
+		<Time-slot>00:04:58,355 --> 00:05:02,045</Time-slot>
+		<Original_text lang="en">But there's a subtler benefit to the digitization of the world.</Original_text>
+		<Translation lang="ar">ولكن هناك فائدة أكثر دهاء للتحويل الرقمي للعالم.</Translation>
+		<Translation lang="fr">Mais il y a un avantage plus subtil à la numérisation du monde.</Translation>
+	</Segment>
+	<Segment id ="96" >
+		<Time-slot>00:05:02,045 --> 00:05:06,645</Time-slot>
+		<Original_text lang="en">Measurement is the lifeblood of science and progress.</Original_text>
+		<Translation lang="ar">القياس هو شريان الحياة بالنسبة للعلم والتقدم.</Translation>
+		<Translation lang="fr">La capacité de mesurer est l´élément vital de la science et du progrès.</Translation>
+	</Segment>
+	<Segment id ="97" >
+		<Time-slot>00:05:06,644 --> 00:05:08,793</Time-slot>
+		<Original_text lang="en">In the age of big data,</Original_text>
+		<Translation lang="ar">في عصر البيانات الكبيرة،</Translation>
+		<Translation lang="fr">À l'ère des données massives,</Translation>
+	</Segment>
+	<Segment id ="98" >
+		<Time-slot>00:05:08,793 --> 00:05:13,079</Time-slot>
+		<Original_text lang="en">we can measure the world in ways we never could before.</Original_text>
+		<Translation lang="ar">يمكن أن نقيس العالم بطرق لم يمكننا من قبل.</Translation>
+		<Translation lang="fr">on peut mesurer le monde comme on n'aurait jamais pu auparavant.</Translation>
+	</Segment>
+	<Segment id ="99" >
+		<Time-slot>00:05:13,079 --> 00:05:17,174</Time-slot>
+		<Original_text lang="en">Secondly, the new machine age is exponential.</Original_text>
+		<Translation lang="ar">ثانيا، أن العصر الجديد للجهاز أسى.</Translation>
+		<Translation lang="fr">Deuxièmement, le nouvel âge de la machine est exponentiel.</Translation>
+	</Segment>
+	<Segment id ="100" >
+		<Time-slot>00:05:17,173 --> 00:05:23,108</Time-slot>
+		<Original_text lang="en">Computers get better faster than anything else ever.</Original_text>
+		<Translation lang="ar">تتحسن أجهزة الكمبيوتر أسرع من أي شيء آخر من أي وقت مضى.</Translation>
+		<Translation lang="fr">Les ordinateurs s'améliorent et sont de plus en plus rapides, comme rien d'autre auparavant.</Translation>
+	</Segment>
+	<Segment id ="101" >
+		<Time-slot>00:05:23,108 --> 00:05:26,676</Time-slot>
+		<Original_text lang="en">A child's Playstation today is more powerful</Original_text>
+		<Translation lang="ar">بلاي ستيشن لطفل اليوم أقوى</Translation>
+		<Translation lang="fr">Aujourd'hui, la Playstation d'un enfant est plus puissante</Translation>
+	</Segment>
+	<Segment id ="102" >
+		<Time-slot>00:05:26,677 --> 00:05:30,733</Time-slot>
+		<Original_text lang="en">than a military supercomputer from 1996.</Original_text>
+		<Translation lang="ar">من حاسب عسكري عظيم من عام 1996.</Translation>
+		<Translation lang="fr">qu'un super ordinateur de l'armée en 1996.</Translation>
+	</Segment>
+	<Segment id ="103" >
+		<Time-slot>00:05:30,733 --> 00:05:33,939</Time-slot>
+		<Original_text lang="en">But our brains are wired for a linear world.</Original_text>
+		<Translation lang="ar">ولكن ادمغتنا تعمل لعالم خطي.</Translation>
+		<Translation lang="fr">Mais nos cerveaux sont habitués à un monde linéaire.</Translation>
+	</Segment>
+	<Segment id ="104" >
+		<Time-slot>00:05:33,939 --> 00:05:37,827</Time-slot>
+		<Original_text lang="en">As a result, exponential trends take us by surprise.</Original_text>
+		<Translation lang="ar">نتيجة لذلك الموديلات الأسية تأخذنا لنا غرة.</Translation>
+		<Translation lang="fr">Par conséquent, les tendances exponentielles nous prennent par surprise.</Translation>
+	</Segment>
+	<Segment id ="105" >
+		<Time-slot>00:05:37,827 --> 00:05:40,429</Time-slot>
+		<Original_text lang="en">I used to teach my students that there are some things,</Original_text>
+		<Translation lang="ar">أنا اعتدت ان اعلم الطلاب أن هناك بعض الأمور،</Translation>
+		<Translation lang="fr">J'enseignais à mes étudiants qu'il y a certaines choses,</Translation>
+	</Segment>
+	<Segment id ="106" >
+		<Time-slot>00:05:40,430 --> 00:05:42,364</Time-slot>
+		<Original_text lang="en">you know, computers just aren't good at,</Original_text>
+		<Translation lang="ar">كما تعلمون، أجهزة الكمبيوتر ليست جيدة فيها،</Translation>
+		<Translation lang="fr">pour lesquelles les ordinateurs ne sont pas adaptés,</Translation>
+	</Segment>
+	<Segment id ="107" >
+		<Time-slot>00:05:42,363 --> 00:05:44,748</Time-slot>
+		<Original_text lang="en">like driving a car through traffic.</Original_text>
+		<Translation lang="ar">مثل قيادة سيارة في الزحام.</Translation>
+		<Translation lang="fr">comme conduire une voiture dans la circulation.</Translation>
+	</Segment>
+	<Segment id ="108" >
+		<Time-slot>00:05:44,749 --> 00:05:46,762</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="109" >
+		<Time-slot>00:05:46,762 --> 00:05:50,252</Time-slot>
+		<Original_text lang="en">That's right, here's Andy and me grinning like madmen</Original_text>
+		<Translation lang="ar">هذا صحيح، هنا هو أندي و انا مبتسمان مثل المجانين</Translation>
+		<Translation lang="fr">En effet, voici Andy et moi souriant comme des fous</Translation>
+	</Segment>
+	<Segment id ="110" >
+		<Time-slot>00:05:50,252 --> 00:05:52,637</Time-slot>
+		<Original_text lang="en">because we just rode down Route 101</Original_text>
+		<Translation lang="ar">لأننا عبرنا طريق 101 قبل ذلك قليل</Translation>
+		<Translation lang="fr">parce qu'on venait de voyager sur la Route 101,</Translation>
+	</Segment>
+	<Segment id ="111" >
+		<Time-slot>00:05:52,637 --> 00:05:56,305</Time-slot>
+		<Original_text lang="en">in, yes, a driverless car.</Original_text>
+		<Translation lang="ar">نعم، وفي سيارة بدون سائق.</Translation>
+		<Translation lang="fr">eh bien oui, dans une voiture sans conducteur.</Translation>
+	</Segment>
+	<Segment id ="112" >
+		<Time-slot>00:05:56,305 --> 00:05:58,889</Time-slot>
+		<Original_text lang="en">Thirdly, the new machine age is combinatorial.</Original_text>
+		<Translation lang="ar">ثالثا، أن العصر الجديد للجهاز اندماجي.</Translation>
+		<Translation lang="fr">Troisièmement, le nouvel âge de la machine est combinatoire.</Translation>
+	</Segment>
+	<Segment id ="113" >
+		<Time-slot>00:05:58,889 --> 00:06:02,937</Time-slot>
+		<Original_text lang="en">The stagnationist view is that ideas get used up,</Original_text>
+		<Translation lang="ar">الرؤية الركودية هي ان الأفكار تصبح معتادة،</Translation>
+		<Translation lang="fr">Selon ceux qui croient à la stagnation économique, les idées s'épuisent,</Translation>
+	</Segment>
+	<Segment id ="114" >
+		<Time-slot>00:06:02,937 --> 00:06:04,793</Time-slot>
+		<Original_text lang="en">like low-hanging fruit,</Original_text>
+		<Translation lang="ar">مثل الفاكهة منخفضة،</Translation>
+		<Translation lang="fr">comme les fruits des arbres qui sont à portée de mains,</Translation>
+	</Segment>
+	<Segment id ="115" >
+		<Time-slot>00:06:04,793 --> 00:06:07,956</Time-slot>
+		<Original_text lang="en">but the reality is that each innovation</Original_text>
+		<Translation lang="ar">لكن الواقع هو أن كل ابتكار</Translation>
+		<Translation lang="fr">mais en réalité chaque innovation</Translation>
+	</Segment>
+	<Segment id ="116" >
+		<Time-slot>00:06:07,956 --> 00:06:11,211</Time-slot>
+		<Original_text lang="en">creates building blocks for even more innovations.</Original_text>
+		<Translation lang="ar">يقوم بإنشاء كتل البناء لمزيد من الابتكارات.</Translation>
+		<Translation lang="fr">constitue le point de départ de nombreuses autres innovations.</Translation>
+	</Segment>
+	<Segment id ="117" >
+		<Time-slot>00:06:11,211 --> 00:06:14,557</Time-slot>
+		<Original_text lang="en">Here's an example. In just a matter of a few weeks,</Original_text>
+		<Translation lang="ar">هنا مثال على ذلك. في غضون بضعة أسابيع قليلة،</Translation>
+		<Translation lang="fr">Voici un exemple. En seulement quelques semaines,</Translation>
+	</Segment>
+	<Segment id ="118" >
+		<Time-slot>00:06:14,557 --> 00:06:16,629</Time-slot>
+		<Original_text lang="en">an undergraduate student of mine</Original_text>
+		<Translation lang="ar">احد طلابي</Translation>
+		<Translation lang="fr">un de mes étudiants de premier cycle</Translation>
+	</Segment>
+	<Segment id ="119" >
+		<Time-slot>00:06:16,629 --> 00:06:20,740</Time-slot>
+		<Original_text lang="en">built an app that ultimately reached 1.3 million users.</Original_text>
+		<Translation lang="ar">بنى تطبيق الذي وصل في نهاية المطاف إلى 1.3 مليون مستخدم.</Translation>
+		<Translation lang="fr">a développé une application qui a finalement conquis 1,3 million d'utilisateurs.</Translation>
+	</Segment>
+	<Segment id ="120" >
+		<Time-slot>00:06:20,740 --> 00:06:22,439</Time-slot>
+		<Original_text lang="en">He was able to do that so easily</Original_text>
+		<Translation lang="ar">كان قادراً على القيام ذلك بسهولة</Translation>
+		<Translation lang="fr">Il a pu le faire aussi facilement</Translation>
+	</Segment>
+	<Segment id ="121" >
+		<Time-slot>00:06:22,439 --> 00:06:24,266</Time-slot>
+		<Original_text lang="en">because he built it on top of Facebook,</Original_text>
+		<Translation lang="ar">لأنه قام ببناءها على الفيسبوك،</Translation>
+		<Translation lang="fr">parce qu'il l'a développée depuis Facebook,</Translation>
+	</Segment>
+	<Segment id ="122" >
+		<Time-slot>00:06:24,266 --> 00:06:26,199</Time-slot>
+		<Original_text lang="en">and Facebook was built on top of the web,</Original_text>
+		<Translation lang="ar">وقد بني فيسبوك على شبكة الإنترنت،</Translation>
+		<Translation lang="fr">et Facebook a été développé sur la base du web,</Translation>
+	</Segment>
+	<Segment id ="123" >
+		<Time-slot>00:06:26,199 --> 00:06:27,896</Time-slot>
+		<Original_text lang="en">and that was built on top of the Internet,</Original_text>
+		<Translation lang="ar">و ذالك قد بنى على رأس شبكة الإنترنت،</Translation>
+		<Translation lang="fr">qui avait été développé à partir d'Internet,</Translation>
+	</Segment>
+	<Segment id ="124" >
+		<Time-slot>00:06:27,896 --> 00:06:30,314</Time-slot>
+		<Original_text lang="en">and so on and so forth.</Original_text>
+		<Translation lang="ar">و هكذا</Translation>
+		<Translation lang="fr">etc..</Translation>
+	</Segment>
+	<Segment id ="125" >
+		<Time-slot>00:06:30,314 --> 00:06:35,079</Time-slot>
+		<Original_text lang="en">Now individually, digital, exponential and combinatorial</Original_text>
+		<Translation lang="ar">الآن التفردية، الرقمية، والأسية واندماجية</Translation>
+		<Translation lang="fr">Pris individuellement, le numérique, l'exponentiel et le combinatoire,</Translation>
+	</Segment>
+	<Segment id ="126" >
+		<Time-slot>00:06:35,079 --> 00:06:37,430</Time-slot>
+		<Original_text lang="en">would each be game-changers.</Original_text>
+		<Translation lang="ar">كل منها مبدلة للعبة.</Translation>
+		<Translation lang="fr">chacun d'entre eux changerait la donne.</Translation>
+	</Segment>
+	<Segment id ="127" >
+		<Time-slot>00:06:37,430 --> 00:06:39,620</Time-slot>
+		<Original_text lang="en">Put them together, and we're seeing a wave</Original_text>
+		<Translation lang="ar">ضعها معا، ونحن الان نشهد موجه</Translation>
+		<Translation lang="fr">Si on les associe, alors on observe une vague</Translation>
+	</Segment>
+	<Segment id ="128" >
+		<Time-slot>00:06:39,620 --> 00:06:41,012</Time-slot>
+		<Original_text lang="en">of astonishing breakthroughs,</Original_text>
+		<Translation lang="ar">من إنجازات مذهلة،</Translation>
+		<Translation lang="fr">d'avancées étonnantes,</Translation>
+	</Segment>
+	<Segment id ="129" >
+		<Time-slot>00:06:41,012 --> 00:06:44,072</Time-slot>
+		<Original_text lang="en">like robots that do factory work or run as fast as a cheetah</Original_text>
+		<Translation lang="ar">مثل الروبوتات التي تعمل بالمصانع أو تجري بسرعة كالفهد</Translation>
+		<Translation lang="fr">comme les robots qui effectuent les tâches en usine, courent aussi vite qu'un guépard</Translation>
+	</Segment>
+	<Segment id ="130" >
+		<Time-slot>00:06:44,072 --> 00:06:46,868</Time-slot>
+		<Original_text lang="en">or leap tall buildings in a single bound.</Original_text>
+		<Translation lang="ar">أو المباني الشاهقة في قفزة واحدة ملزمة.</Translation>
+		<Translation lang="fr">ou sautent par dessus de grands immeubles en un seul bond.</Translation>
+	</Segment>
+	<Segment id ="131" >
+		<Time-slot>00:06:46,869 --> 00:06:49,101</Time-slot>
+		<Original_text lang="en">You know, robots are even revolutionizing</Original_text>
+		<Translation lang="ar">كما تعلمون، حتى الروبوتات لهم ثورة</Translation>
+		<Translation lang="fr">Vous savez que les robots révolutionnent même</Translation>
+	</Segment>
+	<Segment id ="132" >
+		<Time-slot>00:06:49,100 --> 00:06:50,930</Time-slot>
+		<Original_text lang="en">cat transportation.</Original_text>
+		<Translation lang="ar">نقل القطط.</Translation>
+		<Translation lang="fr">le transport des chats.</Translation>
+	</Segment>
+	<Segment id ="133" >
+		<Time-slot>00:06:50,930 --> 00:06:53,199</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="134" >
+		<Time-slot>00:06:53,199 --> 00:06:55,932</Time-slot>
+		<Original_text lang="en">But perhaps the most important invention,</Original_text>
+		<Translation lang="ar">لكن ربما أهم اختراع</Translation>
+		<Translation lang="fr">Mais l'invention la plus importante</Translation>
+	</Segment>
+	<Segment id ="135" >
+		<Time-slot>00:06:55,932 --> 00:07:00,997</Time-slot>
+		<Original_text lang="en">the most important invention is machine learning.</Original_text>
+		<Translation lang="ar">هو تعلم الالة.</Translation>
+		<Translation lang="fr">est peut-être l'apprentissage automatique.</Translation>
+	</Segment>
+	<Segment id ="136" >
+		<Time-slot>00:07:00,997 --> 00:07:04,372</Time-slot>
+		<Original_text lang="en">Consider one project: IBM's Watson.</Original_text>
+		<Translation lang="ar">عند النظر الى مشروع واحد: واطسون أي بي أم.</Translation>
+		<Translation lang="fr">Prenons un projet : Watson d'IBM.</Translation>
+	</Segment>
+	<Segment id ="137" >
+		<Time-slot>00:07:04,372 --> 00:07:05,961</Time-slot>
+		<Original_text lang="en">These little dots here,</Original_text>
+		<Translation lang="ar">هذه النقاط القليلة هنا،</Translation>
+		<Translation lang="fr">Ces petits points ici,</Translation>
+	</Segment>
+	<Segment id ="138" >
+		<Time-slot>00:07:05,961 --> 00:07:10,822</Time-slot>
+		<Original_text lang="en">those are all the champions on the quiz show "Jeopardy."</Original_text>
+		<Translation lang="ar">هؤلاء هم جميع الأبطال في برنامج "جيوبرادي".</Translation>
+		<Translation lang="fr">ce sont tous les champions du jeu télévisé « Jeopardy ».</Translation>
+	</Segment>
+	<Segment id ="139" >
+		<Time-slot>00:07:10,822 --> 00:07:13,365</Time-slot>
+		<Original_text lang="en">At first, Watson wasn't very good,</Original_text>
+		<Translation lang="ar">في البداية، لم يكن واتسون جيداً،</Translation>
+		<Translation lang="fr">Au début, Watson n'était pas très bon,</Translation>
+	</Segment>
+	<Segment id ="140" >
+		<Time-slot>00:07:13,365 --> 00:07:18,987</Time-slot>
+		<Original_text lang="en">but it improved at a rate faster than any human could,</Original_text>
+		<Translation lang="ar">إلا أنها تحسنت بمعدل أسرع مما يمكن لأي إنسان،</Translation>
+		<Translation lang="fr">mais il a fait des progrès à un rythme plus rapide qu'aucun être humain,</Translation>
+	</Segment>
+	<Segment id ="141" >
+		<Time-slot>00:07:18,987 --> 00:07:21,675</Time-slot>
+		<Original_text lang="en">and shortly after Dave Ferrucci showed this chart</Original_text>
+		<Translation lang="ar">وبعد وقت قصير من ما أظهر ديف فيروتشي هذا المخطط</Translation>
+		<Translation lang="fr">et juste après que Dave Ferrucci a montré ce graphique</Translation>
+	</Segment>
+	<Segment id ="142" >
+		<Time-slot>00:07:21,675 --> 00:07:23,326</Time-slot>
+		<Original_text lang="en">to my class at MIT,</Original_text>
+		<Translation lang="ar">إلى صفي في معهد ماساتشوستس للتكنولوجيا،</Translation>
+		<Translation lang="fr">à ma classe au MIT [NDT : Massachusetts Institute of Technology],</Translation>
+	</Segment>
+	<Segment id ="143" >
+		<Time-slot>00:07:23,326 --> 00:07:26,868</Time-slot>
+		<Original_text lang="en">Watson beat the world "Jeopardy" champion.</Original_text>
+		<Translation lang="ar">واتسون تغلب على بطل العالم في "جيوبرادي".</Translation>
+		<Translation lang="fr">Watson a battu le champion du monde de « Jeopardy ».</Translation>
+	</Segment>
+	<Segment id ="144" >
+		<Time-slot>00:07:26,869 --> 00:07:30,858</Time-slot>
+		<Original_text lang="en">At age seven, Watson is still kind of in its childhood.</Original_text>
+		<Translation lang="ar">في سن السابعة، واتسون لا يزال نوع ما في طفولته.</Translation>
+		<Translation lang="fr">À l'âge de sept ans, Watson en est encore un peu au stade de l'enfance.</Translation>
+	</Segment>
+	<Segment id ="145" >
+		<Time-slot>00:07:30,858 --> 00:07:36,175</Time-slot>
+		<Original_text lang="en">Recently, its teachers let it surf the Internet unsupervised.</Original_text>
+		<Translation lang="ar">في الآونة الأخيرة، سمح له المعلمين بأن يتصفح الإنترنت بدون الرقابة.</Translation>
+		<Translation lang="fr">Récemment, ses professeurs l'ont laissé surfer sur internet sans supervision.</Translation>
+	</Segment>
+	<Segment id ="146" >
+		<Time-slot>00:07:36,175 --> 00:07:42,122</Time-slot>
+		<Original_text lang="en">The next day, it started answering questions with profanities.</Original_text>
+		<Translation lang="ar">في اليوم التالي، بدأ يجيب عن الأسئلة مع شتائم.</Translation>
+		<Translation lang="fr">Le lendemain, il a commencé à répondre aux questions avec des jurons.</Translation>
+	</Segment>
+	<Segment id ="147" >
+		<Time-slot>00:07:42,122 --> 00:07:44,396</Time-slot>
+		<Original_text lang="en">Damn. (Laughter)</Original_text>
+		<Translation lang="ar">اللعنة. (ضحك)</Translation>
+		<Translation lang="fr">Mince. (Rires)</Translation>
+	</Segment>
+	<Segment id ="148" >
+		<Time-slot>00:07:44,396 --> 00:07:46,675</Time-slot>
+		<Original_text lang="en">But you know, Watson is growing up fast.</Original_text>
+		<Translation lang="ar">ولكن كما تعلمون، واتسون ينمو بسرعة.</Translation>
+		<Translation lang="fr">Mais vous savez, Watson grandit vite.</Translation>
+	</Segment>
+	<Segment id ="149" >
+		<Time-slot>00:07:46,675 --> 00:07:50,887</Time-slot>
+		<Original_text lang="en">It's being tested for jobs in call centers, and it's getting them.</Original_text>
+		<Translation lang="ar">يتم اجراء الاختبار عليها لوظائف في مراكز الاتصال، وأنه يتحصل عليها.</Translation>
+		<Translation lang="fr">Il passe des tests pour des emplois en centre d'appel, et il les réussit.</Translation>
+	</Segment>
+	<Segment id ="150" >
+		<Time-slot>00:07:50,887 --> 00:07:54,611</Time-slot>
+		<Original_text lang="en">It's applying for legal, banking and medical jobs,</Original_text>
+		<Translation lang="ar">انه يقدم لوظائف قانونية ومصرفية وطبية،</Translation>
+		<Translation lang="fr">Il postule à des emplois dans les domaines du droit, de la banque et de la médecine,</Translation>
+	</Segment>
+	<Segment id ="151" >
+		<Time-slot>00:07:54,612 --> 00:07:56,562</Time-slot>
+		<Original_text lang="en">and getting some of them.</Original_text>
+		<Translation lang="ar">و يتحصل على البعض منها</Translation>
+		<Translation lang="fr">et il est engagé pour certains d'entre eux.</Translation>
+	</Segment>
+	<Segment id ="152" >
+		<Time-slot>00:07:56,562 --> 00:07:58,451</Time-slot>
+		<Original_text lang="en">Isn't it ironic that at the very moment</Original_text>
+		<Translation lang="ar">أليس من سخرية القدر أنه في اللحظة بالذات</Translation>
+		<Translation lang="fr">N'est-ce pas ironique qu'au moment même où</Translation>
+	</Segment>
+	<Segment id ="153" >
+		<Time-slot>00:07:58,451 --> 00:08:00,685</Time-slot>
+		<Original_text lang="en">we are building intelligent machines,</Original_text>
+		<Translation lang="ar">نقوم ببناء آلات ذكية،</Translation>
+		<Translation lang="fr">on développe des machines intelligentes,</Translation>
+	</Segment>
+	<Segment id ="154" >
+		<Time-slot>00:08:00,685 --> 00:08:04,134</Time-slot>
+		<Original_text lang="en">perhaps the most important invention in human history,</Original_text>
+		<Translation lang="ar">ولعل أهم اختراع في تاريخ البشرية،</Translation>
+		<Translation lang="fr">peut-être l'invention la plus importante dans l'histoire de l'humanité,</Translation>
+	</Segment>
+	<Segment id ="155" >
+		<Time-slot>00:08:04,134 --> 00:08:08,109</Time-slot>
+		<Original_text lang="en">some people are arguing that innovation is stagnating?</Original_text>
+		<Translation lang="ar">هي حجة بعض الناس أن الابتكار في حالة ركود؟</Translation>
+		<Translation lang="fr">certains prétendent que l'innovation stagne ?</Translation>
+	</Segment>
+	<Segment id ="156" >
+		<Time-slot>00:08:08,108 --> 00:08:10,527</Time-slot>
+		<Original_text lang="en">Like the first two industrial revolutions,</Original_text>
+		<Translation lang="ar">مثل الثورات الصناعية الأولى والثانية،</Translation>
+		<Translation lang="fr">Comme pour les deux premières révolutions industrielles,</Translation>
+	</Segment>
+	<Segment id ="157" >
+		<Time-slot>00:08:10,528 --> 00:08:13,662</Time-slot>
+		<Original_text lang="en">the full implications of the new machine age</Original_text>
+		<Translation lang="ar">التضمين الكامل للعصر الجديد للجهاز</Translation>
+		<Translation lang="fr">toutes les implications du nouvel âge de la machine</Translation>
+	</Segment>
+	<Segment id ="158" >
+		<Time-slot>00:08:13,661 --> 00:08:16,343</Time-slot>
+		<Original_text lang="en">are going to take at least a century to fully play out,</Original_text>
+		<Translation lang="ar">سوف تأخذ مالا يقل عن قرن،</Translation>
+		<Translation lang="fr">vont prendre au moins un siècle pour se matérialiser pleinement</Translation>
+	</Segment>
+	<Segment id ="159" >
+		<Time-slot>00:08:16,343 --> 00:08:19,375</Time-slot>
+		<Original_text lang="en">but they are staggering.</Original_text>
+		<Translation lang="ar">ولكنها مذهلة.</Translation>
+		<Translation lang="fr">mais elles sont impressionnantes.</Translation>
+	</Segment>
+	<Segment id ="160" >
+		<Time-slot>00:08:19,375 --> 00:08:22,711</Time-slot>
+		<Original_text lang="en">So does that mean we have nothing to worry about?</Original_text>
+		<Translation lang="ar">فهل هذا يعني أن ليس هناك ما يدعو للقلق؟</Translation>
+		<Translation lang="fr">Alors, est-ce que ça veut dire que nous n'avons aucune raison de nous inquiéter ?</Translation>
+	</Segment>
+	<Segment id ="161" >
+		<Time-slot>00:08:22,711 --> 00:08:26,391</Time-slot>
+		<Original_text lang="en">No. Technology is not destiny.</Original_text>
+		<Translation lang="ar">لا. التكنولوجيا ليست المصير.</Translation>
+		<Translation lang="fr">Non. Technologie et destin sont deux choses différentes.</Translation>
+	</Segment>
+	<Segment id ="162" >
+		<Time-slot>00:08:26,391 --> 00:08:28,961</Time-slot>
+		<Original_text lang="en">Productivity is at an all time high,</Original_text>
+		<Translation lang="ar">الإنتاجية الان اعلى ما توصلت اليه،</Translation>
+		<Translation lang="fr">La productivité est à son plus haut,</Translation>
+	</Segment>
+	<Segment id ="163" >
+		<Time-slot>00:08:28,961 --> 00:08:31,944</Time-slot>
+		<Original_text lang="en">but fewer people now have jobs.</Original_text>
+		<Translation lang="ar">ولكن عدد أقل من الناس الآن لديهم وظائف.</Translation>
+		<Translation lang="fr">mais il y a de plus en plus de chômage.</Translation>
+	</Segment>
+	<Segment id ="164" >
+		<Time-slot>00:08:31,944 --> 00:08:35,063</Time-slot>
+		<Original_text lang="en">We have created more wealth in the past decade than ever,</Original_text>
+		<Translation lang="ar">لقد أنشأنا المزيد من الثروة في العقد الماضي من أي وقت مضى،</Translation>
+		<Translation lang="fr">Nous avons créé plus de richesse au cours de la décennie passée que jamais auparavant,</Translation>
+	</Segment>
+	<Segment id ="165" >
+		<Time-slot>00:08:35,063 --> 00:08:38,967</Time-slot>
+		<Original_text lang="en">but for a majority of Americans, their income has fallen.</Original_text>
+		<Translation lang="ar">ولكن لأغلبية أميركيين، انخفض دخلهم.</Translation>
+		<Translation lang="fr">mais le revenu d'une majorité d'Américains a chuté.</Translation>
+	</Segment>
+	<Segment id ="166" >
+		<Time-slot>00:08:38,967 --> 00:08:41,279</Time-slot>
+		<Original_text lang="en">This is the great decoupling</Original_text>
+		<Translation lang="ar">وهذا هو فصل كبير</Translation>
+		<Translation lang="fr">C'est ce qui constitue la grande dissociation</Translation>
+	</Segment>
+	<Segment id ="167" >
+		<Time-slot>00:08:41,279 --> 00:08:44,255</Time-slot>
+		<Original_text lang="en">of productivity from employment,</Original_text>
+		<Translation lang="ar">الإنتاجية من العمالة،</Translation>
+		<Translation lang="fr">entre la productivité et l'emploi,</Translation>
+	</Segment>
+	<Segment id ="168" >
+		<Time-slot>00:08:44,255 --> 00:08:47,360</Time-slot>
+		<Original_text lang="en">of wealth from work.</Original_text>
+		<Translation lang="ar">الثروة من العمل.</Translation>
+		<Translation lang="fr">entre la richesse et le travail.</Translation>
+	</Segment>
+	<Segment id ="169" >
+		<Time-slot>00:08:47,360 --> 00:08:49,706</Time-slot>
+		<Original_text lang="en">You know, it's not surprising that millions of people</Original_text>
+		<Translation lang="ar">كما تعلمون، فإنه ليس من المستغرب أن ملايين الناس</Translation>
+		<Translation lang="fr">Il n'est pas surprenant que des millions de personnes</Translation>
+	</Segment>
+	<Segment id ="170" >
+		<Time-slot>00:08:49,706 --> 00:08:52,552</Time-slot>
+		<Original_text lang="en">have become disillusioned by the great decoupling,</Original_text>
+		<Translation lang="ar">وقد تحرروا من الوهم بسبب فك الارتباط الكبير،</Translation>
+		<Translation lang="fr">soient désabusées par la grande dissociation,</Translation>
+	</Segment>
+	<Segment id ="171" >
+		<Time-slot>00:08:52,552 --> 00:08:54,298</Time-slot>
+		<Original_text lang="en">but like too many others,</Original_text>
+		<Translation lang="ar">ولكن مثل العديد من الآخرين،</Translation>
+		<Translation lang="fr">mais comme beaucoup trop d'autres,</Translation>
+	</Segment>
+	<Segment id ="172" >
+		<Time-slot>00:08:54,298 --> 00:08:57,395</Time-slot>
+		<Original_text lang="en">they misunderstand its basic causes.</Original_text>
+		<Translation lang="ar">أنهم يسيئون فهم أسبابه الأساسية.</Translation>
+		<Translation lang="fr">ils n'en comprennent pas les causes fondamentales.</Translation>
+	</Segment>
+	<Segment id ="173" >
+		<Time-slot>00:08:57,395 --> 00:09:00,005</Time-slot>
+		<Original_text lang="en">Technology is racing ahead,</Original_text>
+		<Translation lang="ar">التكنولوجيا متقدمة في السباق،</Translation>
+		<Translation lang="fr">La technologie fait la course en tête,</Translation>
+	</Segment>
+	<Segment id ="174" >
+		<Time-slot>00:09:00,005 --> 00:09:03,555</Time-slot>
+		<Original_text lang="en">but it's leaving more and more people behind.</Original_text>
+		<Translation lang="ar">ولكنها تترك المزيد والمزيد من الناس.</Translation>
+		<Translation lang="fr">mais elle laisse de plus en plus de personnes derrière elle.</Translation>
+	</Segment>
+	<Segment id ="175" >
+		<Time-slot>00:09:03,556 --> 00:09:07,075</Time-slot>
+		<Original_text lang="en">Today, we can take a routine job,</Original_text>
+		<Translation lang="ar">واليوم، يمكن أن نتخذ مهمة روتينية،</Translation>
+		<Translation lang="fr">Aujourd'hui, on peut prendre un emploi routinier,</Translation>
+	</Segment>
+	<Segment id ="176" >
+		<Time-slot>00:09:07,075 --> 00:09:10,166</Time-slot>
+		<Original_text lang="en">codify it in a set of machine-readable instructions,</Original_text>
+		<Translation lang="ar">تدوين ذلك في مجموعة من الإرشادات يمكن قراءتها آليا،</Translation>
+		<Translation lang="fr">le coder en un ensemble d'instructions qu'une machine peut déchiffrer,</Translation>
+	</Segment>
+	<Segment id ="177" >
+		<Time-slot>00:09:10,166 --> 00:09:12,993</Time-slot>
+		<Original_text lang="en">and then replicate it a million times.</Original_text>
+		<Translation lang="ar">ومن نسخها مليون مرة.</Translation>
+		<Translation lang="fr">puis le répliquer un million de fois.</Translation>
+	</Segment>
+	<Segment id ="178" >
+		<Time-slot>00:09:12,993 --> 00:09:15,272</Time-slot>
+		<Original_text lang="en">You know, I recently overheard a conversation</Original_text>
+		<Translation lang="ar">كما تعلمون، أنا مؤخرا سمعت محادثة</Translation>
+		<Translation lang="fr">J'ai récemment entendu une conversation</Translation>
+	</Segment>
+	<Segment id ="179" >
+		<Time-slot>00:09:15,272 --> 00:09:17,224</Time-slot>
+		<Original_text lang="en">that epitomizes these new economics.</Original_text>
+		<Translation lang="ar">تلخص هذه الاقتصاديات الجديدة.</Translation>
+		<Translation lang="fr">qui illustre parfaitement ces nouvelles données économiques.</Translation>
+	</Segment>
+	<Segment id ="180" >
+		<Time-slot>00:09:17,224 --> 00:09:21,421</Time-slot>
+		<Original_text lang="en">This guy says, "Nah, I don't use H&amp;R Block anymore.</Original_text>
+		<Translation lang="ar">ويقول هذا الرجل، "لا، أنا لا استخدم H&amp;R Block بعد الآن.</Translation>
+		<Translation lang="fr">Ce type dit : « Non, je n'utilise plus H&amp;R. [NdT : service d'impôts]</Translation>
+	</Segment>
+	<Segment id ="181" >
+		<Time-slot>00:09:21,421 --> 00:09:23,869</Time-slot>
+		<Original_text lang="en">TurboTax does everything that my tax preparer did,</Original_text>
+		<Translation lang="ar">TurboTax يقوم بكل شيء كان يقوم به معد ضريبة،</Translation>
+		<Translation lang="fr">Turbo Tax fait tout ce que mon comptable faisait,</Translation>
+	</Segment>
+	<Segment id ="182" >
+		<Time-slot>00:09:23,869 --> 00:09:28,427</Time-slot>
+		<Original_text lang="en">but it's faster, cheaper and more accurate."</Original_text>
+		<Translation lang="ar">لكن أسرع وأرخص وأكثر دقة ".</Translation>
+		<Translation lang="fr">mais c'est plus rapide, moins cher et plus précis. »</Translation>
+	</Segment>
+	<Segment id ="183" >
+		<Time-slot>00:09:28,427 --> 00:09:30,225</Time-slot>
+		<Original_text lang="en">How can a skilled worker</Original_text>
+		<Translation lang="ar">كيف يمكن لعامل ماهر</Translation>
+		<Translation lang="fr">Comment un travailleur qualifié peut-il</Translation>
+	</Segment>
+	<Segment id ="184" >
+		<Time-slot>00:09:30,225 --> 00:09:33,235</Time-slot>
+		<Original_text lang="en">compete with a $39 piece of software?</Original_text>
+		<Translation lang="ar">تان ينافس مع قطعة من البرمجيات ب39$؟</Translation>
+		<Translation lang="fr">concurrencer un logiciel à 39 dollars ?</Translation>
+	</Segment>
+	<Segment id ="185" >
+		<Time-slot>00:09:33,235 --> 00:09:35,201</Time-slot>
+		<Original_text lang="en">She can't.</Original_text>
+		<Translation lang="ar">لا يمكنها.</Translation>
+		<Translation lang="fr">Il ne peut pas.</Translation>
+	</Segment>
+	<Segment id ="186" >
+		<Time-slot>00:09:35,201 --> 00:09:37,981</Time-slot>
+		<Original_text lang="en">Today, millions of Americans do have faster,</Original_text>
+		<Translation lang="ar">اليوم، ملايين أمريكيين لديهم أسرع،</Translation>
+		<Translation lang="fr">Aujourd'hui, des millions d'Américains bénéficient</Translation>
+	</Segment>
+	<Segment id ="187" >
+		<Time-slot>00:09:37,981 --> 00:09:40,368</Time-slot>
+		<Original_text lang="en">cheaper, more accurate tax preparation,</Original_text>
+		<Translation lang="ar">أرخص، وأكثر اعداد ضريبة دقة،</Translation>
+		<Translation lang="fr">d'une préparation de leurs impôts plus rapide, moins chère et plus précise,</Translation>
+	</Segment>
+	<Segment id ="188" >
+		<Time-slot>00:09:40,369 --> 00:09:41,855</Time-slot>
+		<Original_text lang="en">and the founders of Intuit</Original_text>
+		<Translation lang="ar">ومؤسسي Intuit</Translation>
+		<Translation lang="fr">et les fondateurs d'Intuit</Translation>
+	</Segment>
+	<Segment id ="189" >
+		<Time-slot>00:09:41,855 --> 00:09:44,348</Time-slot>
+		<Original_text lang="en">have done very well for themselves.</Original_text>
+		<Translation lang="ar">قاموا بشكل جيد للغاية لأنفسهم.</Translation>
+		<Translation lang="fr">ont très bien réussi.</Translation>
+	</Segment>
+	<Segment id ="190" >
+		<Time-slot>00:09:44,347 --> 00:09:48,562</Time-slot>
+		<Original_text lang="en">But 17 percent of tax preparers no longer have jobs.</Original_text>
+		<Translation lang="ar">لكن 17 في المائة من معدي الضريبة لم يعد لديهم وظائف.</Translation>
+		<Translation lang="fr">Mais 17 % des comptables sont désormais sans emploi.</Translation>
+	</Segment>
+	<Segment id ="191" >
+		<Time-slot>00:09:48,562 --> 00:09:50,639</Time-slot>
+		<Original_text lang="en">That is a microcosm of what's happening,</Original_text>
+		<Translation lang="ar">هذا نموذج مصغر لما يحدث،</Translation>
+		<Translation lang="fr">C'est un microcosme de ce qui se passe</Translation>
+	</Segment>
+	<Segment id ="192" >
+		<Time-slot>00:09:50,639 --> 00:09:55,317</Time-slot>
+		<Original_text lang="en">not just in software and services, but in media and music,</Original_text>
+		<Translation lang="ar">ليس فقط في مجال البرمجيات والخدمات، ولكن في وسائل الإعلام، والموسيقى،</Translation>
+		<Translation lang="fr">non seulement dans les logiciels et les services, mais aussi dans les médias et la musique,</Translation>
+	</Segment>
+	<Segment id ="193" >
+		<Time-slot>00:09:55,317 --> 00:09:59,003</Time-slot>
+		<Original_text lang="en">in finance and manufacturing, in retailing and trade --</Original_text>
+		<Translation lang="ar">في الشؤون المالية، والصناعة ، في تجارة التجزئة و التبادل التجاري</Translation>
+		<Translation lang="fr">dans la finance et la production, dans le commerce de détail et le négoce --</Translation>
+	</Segment>
+	<Segment id ="194" >
+		<Time-slot>00:09:59,003 --> 00:10:02,898</Time-slot>
+		<Original_text lang="en">in short, in every industry.</Original_text>
+		<Translation lang="ar">باختصار، في كل صناعة من الصناعات.</Translation>
+		<Translation lang="fr">en bref, dans tous les secteurs d'activité.</Translation>
+	</Segment>
+	<Segment id ="195" >
+		<Time-slot>00:10:02,898 --> 00:10:05,993</Time-slot>
+		<Original_text lang="en">People are racing against the machine,</Original_text>
+		<Translation lang="ar">الناس في سباق ضد الآله،</Translation>
+		<Translation lang="fr">Les gens font la course contre la machine,</Translation>
+	</Segment>
+	<Segment id ="196" >
+		<Time-slot>00:10:05,993 --> 00:10:09,083</Time-slot>
+		<Original_text lang="en">and many of them are losing that race.</Original_text>
+		<Translation lang="ar">والكثير منهم يخسرون هذا السباق.</Translation>
+		<Translation lang="fr">et beaucoup perdent cette course.</Translation>
+	</Segment>
+	<Segment id ="197" >
+		<Time-slot>00:10:09,082 --> 00:10:12,968</Time-slot>
+		<Original_text lang="en">What can we do to create shared prosperity?</Original_text>
+		<Translation lang="ar">ماذا يمكن أن نفعل لخلق نجاح مشترك؟</Translation>
+		<Translation lang="fr">Que peut-on faire pour créer une prospérité partagée ?</Translation>
+	</Segment>
+	<Segment id ="198" >
+		<Time-slot>00:10:12,969 --> 00:10:15,986</Time-slot>
+		<Original_text lang="en">The answer is not to try to slow down technology.</Original_text>
+		<Translation lang="ar">الجواب: لا لمحاولة إبطاء التكنولوجيا.</Translation>
+		<Translation lang="fr">La réponse n'est pas d'essayer de ralentir la technologie.</Translation>
+	</Segment>
+	<Segment id ="199" >
+		<Time-slot>00:10:15,985 --> 00:10:18,543</Time-slot>
+		<Original_text lang="en">Instead of racing against the machine,</Original_text>
+		<Translation lang="ar">بدلاً من السباق ضد الآله،</Translation>
+		<Translation lang="fr">Au lieu de faire la course contre la machine,</Translation>
+	</Segment>
+	<Segment id ="200" >
+		<Time-slot>00:10:18,543 --> 00:10:22,220</Time-slot>
+		<Original_text lang="en">we need to learn to race with the machine.</Original_text>
+		<Translation lang="ar">نحن بحاجة إلى تعلم للسباق مع الالة,</Translation>
+		<Translation lang="fr">on doit apprendre à faire la course avec la machine.</Translation>
+	</Segment>
+	<Segment id ="201" >
+		<Time-slot>00:10:22,220 --> 00:10:25,349</Time-slot>
+		<Original_text lang="en">That is our grand challenge.</Original_text>
+		<Translation lang="ar">وهذا هو التحدي الكبير.</Translation>
+		<Translation lang="fr">C'est notre grand défi.</Translation>
+	</Segment>
+	<Segment id ="202" >
+		<Time-slot>00:10:25,349 --> 00:10:27,673</Time-slot>
+		<Original_text lang="en">The new machine age</Original_text>
+		<Translation lang="ar">العصر الجديد للجهاز</Translation>
+		<Translation lang="fr">Le nouvel âge de la machine</Translation>
+	</Segment>
+	<Segment id ="203" >
+		<Time-slot>00:10:27,673 --> 00:10:30,786</Time-slot>
+		<Original_text lang="en">can be dated to a day 15 years ago</Original_text>
+		<Translation lang="ar">يمكن ان يؤرخ بيوم قبل 15 عاماً</Translation>
+		<Translation lang="fr">a commencé il y a 15 ans,</Translation>
+	</Segment>
+	<Segment id ="204" >
+		<Time-slot>00:10:30,785 --> 00:10:33,663</Time-slot>
+		<Original_text lang="en">when Garry Kasparov, the world chess champion,</Original_text>
+		<Translation lang="ar">عندما غاري كاسباروف، بطل الشطرنج في العالم،</Translation>
+		<Translation lang="fr">quand Gary Kasparov, le champion du monde d'échecs,</Translation>
+	</Segment>
+	<Segment id ="205" >
+		<Time-slot>00:10:33,663 --> 00:10:37,370</Time-slot>
+		<Original_text lang="en">played Deep Blue, a supercomputer.</Original_text>
+		<Translation lang="ar">لعب مع "ديب بلو"، حاسوب عملاق.</Translation>
+		<Translation lang="fr">a joué contre Deep Blue, un super ordinateur.</Translation>
+	</Segment>
+	<Segment id ="206" >
+		<Time-slot>00:10:37,370 --> 00:10:39,381</Time-slot>
+		<Original_text lang="en">The machine won that day,</Original_text>
+		<Translation lang="ar">فازت الآلة ذلك اليوم،</Translation>
+		<Translation lang="fr">La machine a gagné ce jour-là,</Translation>
+	</Segment>
+	<Segment id ="207" >
+		<Time-slot>00:10:39,381 --> 00:10:42,349</Time-slot>
+		<Original_text lang="en">and today, a chess program running on a cell phone</Original_text>
+		<Translation lang="ar">واليوم، يعمل برنامج شطرنج على هاتف خليوي</Translation>
+		<Translation lang="fr">et aujourd'hui, un programme d'échecs sur un téléphone portable</Translation>
+	</Segment>
+	<Segment id ="208" >
+		<Time-slot>00:10:42,350 --> 00:10:44,646</Time-slot>
+		<Original_text lang="en">can beat a human grandmaster.</Original_text>
+		<Translation lang="ar">يمكنه الفوز على استاذ بشري في الشطرنج.</Translation>
+		<Translation lang="fr">arrive à battre un grand joueur humain.</Translation>
+	</Segment>
+	<Segment id ="209" >
+		<Time-slot>00:10:44,645 --> 00:10:48,010</Time-slot>
+		<Original_text lang="en">It got so bad that, when he was asked</Original_text>
+		<Translation lang="ar">لقد اصبح سيئاً جداً، عندما سئل</Translation>
+		<Translation lang="fr">On en est arrivé à un tel point que quand on lui a demandé</Translation>
+	</Segment>
+	<Segment id ="210" >
+		<Time-slot>00:10:48,010 --> 00:10:50,573</Time-slot>
+		<Original_text lang="en">what strategy he would use against a computer,</Original_text>
+		<Translation lang="ar">ما هي الاستراتيجية التي سيستخدمها ضد جهاز كمبيوتر،</Translation>
+		<Translation lang="fr">quelle stratégie il utiliserait contre un ordinateur,</Translation>
+	</Segment>
+	<Segment id ="211" >
+		<Time-slot>00:10:50,573 --> 00:10:54,589</Time-slot>
+		<Original_text lang="en">Jan Donner, the Dutch grandmaster, replied,</Original_text>
+		<Translation lang="ar">جان دونر، استاذ الشطرنج الهولندي، أجاب،</Translation>
+		<Translation lang="fr">Jan Donner, le grand joueur hollandais, a répondu :</Translation>
+	</Segment>
+	<Segment id ="212" >
+		<Time-slot>00:10:54,590 --> 00:10:56,360</Time-slot>
+		<Original_text lang="en">"I'd bring a hammer."</Original_text>
+		<Translation lang="ar">"سوف اجلب مطرقة".</Translation>
+		<Translation lang="fr">« J'apporterais un marteau. »</Translation>
+	</Segment>
+	<Segment id ="213" >
+		<Time-slot>00:10:56,360 --> 00:11:00,040</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="214" >
+		<Time-slot>00:11:00,041 --> 00:11:04,585</Time-slot>
+		<Original_text lang="en">But today a computer is no longer the world chess champion.</Original_text>
+		<Translation lang="ar">ولكن اليوم لم يعد جهاز الكمبيوتر بطل العالم للشطرنج.</Translation>
+		<Translation lang="fr">Mais aujourd'hui, le champion du monde d'échecs n'est plus un ordinateur.</Translation>
+	</Segment>
+	<Segment id ="215" >
+		<Time-slot>00:11:04,585 --> 00:11:07,239</Time-slot>
+		<Original_text lang="en">Neither is a human,</Original_text>
+		<Translation lang="ar">و لا حتى إنسان،</Translation>
+		<Translation lang="fr">Ni un humain,</Translation>
+	</Segment>
+	<Segment id ="216" >
+		<Time-slot>00:11:07,239 --> 00:11:10,817</Time-slot>
+		<Original_text lang="en">because Kasparov organized a freestyle tournament</Original_text>
+		<Translation lang="ar">لأن كاسباروف نظم بطولة حرة</Translation>
+		<Translation lang="fr">parce que Kasparov a organisé un tournoi libre,</Translation>
+	</Segment>
+	<Segment id ="217" >
+		<Time-slot>00:11:10,817 --> 00:11:12,734</Time-slot>
+		<Original_text lang="en">where teams of humans and computers</Original_text>
+		<Translation lang="ar">فيها فرق من البشر وأجهزة الكمبيوتر</Translation>
+		<Translation lang="fr">dans lequel des équipes composées d'ordinateurs et d'humains</Translation>
+	</Segment>
+	<Segment id ="218" >
+		<Time-slot>00:11:12,734 --> 00:11:14,833</Time-slot>
+		<Original_text lang="en">could work together,</Original_text>
+		<Translation lang="ar">يمكن أن تعمل معا،</Translation>
+		<Translation lang="fr">peuvent travailler ensemble,</Translation>
+	</Segment>
+	<Segment id ="219" >
+		<Time-slot>00:11:14,832 --> 00:11:17,990</Time-slot>
+		<Original_text lang="en">and the winning team had no grandmaster,</Original_text>
+		<Translation lang="ar">وكان الفريق الفائز لا يوجد فيه استاذ للشطرنج،</Translation>
+		<Translation lang="fr">et l'équipe gagnante n'avait ni grand joueur,</Translation>
+	</Segment>
+	<Segment id ="220" >
+		<Time-slot>00:11:17,990 --> 00:11:20,455</Time-slot>
+		<Original_text lang="en">and it had no supercomputer.</Original_text>
+		<Translation lang="ar">و لا حتى كمبيوتر عملاق.</Translation>
+		<Translation lang="fr">ni super ordinateur.</Translation>
+	</Segment>
+	<Segment id ="221" >
+		<Time-slot>00:11:20,455 --> 00:11:24,629</Time-slot>
+		<Original_text lang="en">What they had was better teamwork,</Original_text>
+		<Translation lang="ar">ما كان لديهم هو عمل جماعي أفضل،</Translation>
+		<Translation lang="fr">Ce qu'elle avait, c'était un meilleur travail d'équipe,</Translation>
+	</Segment>
+	<Segment id ="222" >
+		<Time-slot>00:11:24,629 --> 00:11:29,645</Time-slot>
+		<Original_text lang="en">and they showed that a team of humans and computers,</Original_text>
+		<Translation lang="ar">و قد اظهروا أن فريقا من البشر وأجهزة الكمبيوتر،</Translation>
+		<Translation lang="fr">et elle a démontré qu'une équipe d'humains et d'ordinateurs</Translation>
+	</Segment>
+	<Segment id ="223" >
+		<Time-slot>00:11:29,645 --> 00:11:32,693</Time-slot>
+		<Original_text lang="en">working together, could beat any computer</Original_text>
+		<Translation lang="ar">يعملون معا، يمكنهم التغلب على أي جهاز كمبيوتر</Translation>
+		<Translation lang="fr">travaillant ensemble, arrivait à battre n'importe quel ordinateur</Translation>
+	</Segment>
+	<Segment id ="224" >
+		<Time-slot>00:11:32,693 --> 00:11:36,213</Time-slot>
+		<Original_text lang="en">or any human working alone.</Original_text>
+		<Translation lang="ar">أو أي الإنسان يعمل وحده.</Translation>
+		<Translation lang="fr">ou n'importe quel humain travaillant seul.</Translation>
+	</Segment>
+	<Segment id ="225" >
+		<Time-slot>00:11:36,214 --> 00:11:37,878</Time-slot>
+		<Original_text lang="en">Racing with the machine</Original_text>
+		<Translation lang="ar">التاسبق مع الجهاز</Translation>
+		<Translation lang="fr">La course avec la machine,</Translation>
+	</Segment>
+	<Segment id ="226" >
+		<Time-slot>00:11:37,878 --> 00:11:40,221</Time-slot>
+		<Original_text lang="en">beats racing against the machine.</Original_text>
+		<Translation lang="ar">تفوق على السباق ضد الآله.</Translation>
+		<Translation lang="fr">surpasse la course contre la machine.</Translation>
+	</Segment>
+	<Segment id ="227" >
+		<Time-slot>00:11:40,221 --> 00:11:42,784</Time-slot>
+		<Original_text lang="en">Technology is not destiny.</Original_text>
+		<Translation lang="ar">التكنولوجيا ليست المصير.</Translation>
+		<Translation lang="fr">Technologie et destin sont deux choses différentes.</Translation>
+	</Segment>
+	<Segment id ="228" >
+		<Time-slot>00:11:42,784 --> 00:11:44,526</Time-slot>
+		<Original_text lang="en">We shape our destiny.</Original_text>
+		<Translation lang="ar">نحن نشكل مصيرنا.</Translation>
+		<Translation lang="fr">Nous façonnons notre destin.</Translation>
+	</Segment>
+	<Segment id ="229" >
+		<Time-slot>00:11:44,527 --> 00:11:45,974</Time-slot>
+		<Original_text lang="en">Thank you.</Original_text>
+		<Translation lang="ar">شكرا.</Translation>
+		<Translation lang="fr">Merci.</Translation>
+	</Segment>
+	<Segment id ="230" >
+		<Time-slot>00:11:45,974 --> 00:11:50,990</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+</Talk>
+</MulTed>

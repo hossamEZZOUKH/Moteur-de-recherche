@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MulTed>
+
+<Talk Speaker = "Sanjay Dastoor" Title= " A skateboard, with a boost" >
+	<Segment id ="1" >
+		<Time-slot>00:00:13,057 --> 00:00:16,635</Time-slot>
+		<Original_text lang="en">Today I'm going to show you an electric vehicle</Original_text>
+		<Translation lang="ar">اليوم سوف أريكم مركبة كهربائية</Translation>
+		<Translation lang="fr">Aujourd'hui je vais vous montrer un véhicule électrique</Translation>
+	</Segment>
+	<Segment id ="2" >
+		<Time-slot>00:00:16,635 --> 00:00:20,541</Time-slot>
+		<Original_text lang="en">that weighs less than a bicycle,</Original_text>
+		<Translation lang="ar">تزن أقل من دراجة،</Translation>
+		<Translation lang="fr">qui pèse moins qu'un vélo,</Translation>
+	</Segment>
+	<Segment id ="3" >
+		<Time-slot>00:00:20,542 --> 00:00:23,888</Time-slot>
+		<Original_text lang="en">that you can carry with you anywhere,</Original_text>
+		<Translation lang="ar">والتي يمكنك حملها معك في أي مكان،</Translation>
+		<Translation lang="fr">que vous pouvez emporter avec vous n'importe où,</Translation>
+	</Segment>
+	<Segment id ="4" >
+		<Time-slot>00:00:23,888 --> 00:00:28,380</Time-slot>
+		<Original_text lang="en">that you can charge off a normal wall outlet in 15 minutes,</Original_text>
+		<Translation lang="ar">والتي يمكنك شحنها في 15 دقيقة عن طريق مقبس كهربائي عادي في الحائط،</Translation>
+		<Translation lang="fr">que vous pouvez charger sur une prise électrique normale en 15 minutes,</Translation>
+	</Segment>
+	<Segment id ="5" >
+		<Time-slot>00:00:28,379 --> 00:00:30,628</Time-slot>
+		<Original_text lang="en">and you can run it for 1,000 kilometers</Original_text>
+		<Translation lang="ar">ويمكنك قيادتها لمسافة 1000 كيلومتر</Translation>
+		<Translation lang="fr">et dont vous pouvez vous servir pendant 1000 kilomètres</Translation>
+	</Segment>
+	<Segment id ="6" >
+		<Time-slot>00:00:30,628 --> 00:00:32,979</Time-slot>
+		<Original_text lang="en">on about a dollar of electricity.</Original_text>
+		<Translation lang="ar">بحوالي دولار للكهرباء.</Translation>
+		<Translation lang="fr">pour environ un dollar d'électricité.</Translation>
+	</Segment>
+	<Segment id ="7" >
+		<Time-slot>00:00:32,979 --> 00:00:35,267</Time-slot>
+		<Original_text lang="en">But when I say the word electric vehicle,</Original_text>
+		<Translation lang="ar">ولكن عندما أقول كلمة مركبة كهربائية،</Translation>
+		<Translation lang="fr">Mais quand je prononce les mots "véhicule électrique",</Translation>
+	</Segment>
+	<Segment id ="8" >
+		<Time-slot>00:00:35,268 --> 00:00:38,155</Time-slot>
+		<Original_text lang="en">people think about vehicles. They think about cars</Original_text>
+		<Translation lang="ar">تفكر الناس في المركبات. تفكر في السيارات</Translation>
+		<Translation lang="fr">les gens pensent véhicules. Ils pensent aux voitures,</Translation>
+	</Segment>
+	<Segment id ="9" >
+		<Time-slot>00:00:38,155 --> 00:00:41,873</Time-slot>
+		<Original_text lang="en">and motorcycles and bicycles, and the vehicles that you use every day.</Original_text>
+		<Translation lang="ar">والدراجات النارية والدراجات الهوائية، والمركبات التي تستخدمها كل يوم.</Translation>
+		<Translation lang="fr">aux motos et aux bicyclettes, ces véhicules qu'on utilise tous les jours.</Translation>
+	</Segment>
+	<Segment id ="10" >
+		<Time-slot>00:00:41,874 --> 00:00:44,170</Time-slot>
+		<Original_text lang="en">But if you come about it from a different perspective,</Original_text>
+		<Translation lang="ar">ولكن إذا نظرت فيها من منظور مختلف،</Translation>
+		<Translation lang="fr">Mais si on aborde le sujet sous un angle différent,</Translation>
+	</Segment>
+	<Segment id ="11" >
+		<Time-slot>00:00:44,170 --> 00:00:46,472</Time-slot>
+		<Original_text lang="en">you can create some more interesting,</Original_text>
+		<Translation lang="ar">يمكنك صناعة بعض الأمور الأكثر إثارةً ،</Translation>
+		<Translation lang="fr">on peut créer des concepts plus intéressants,</Translation>
+	</Segment>
+	<Segment id ="12" >
+		<Time-slot>00:00:46,472 --> 00:00:49,152</Time-slot>
+		<Original_text lang="en">more novel concepts.</Original_text>
+		<Translation lang="ar">و أفكارغير مألوفة جداً.</Translation>
+		<Translation lang="fr">plus originaux.</Translation>
+	</Segment>
+	<Segment id ="13" >
+		<Time-slot>00:00:49,152 --> 00:00:51,408</Time-slot>
+		<Original_text lang="en">So we built something.</Original_text>
+		<Translation lang="ar">لذا قمنا ببناء شيء.</Translation>
+		<Translation lang="fr">Donc, nous avons construit quelque chose.</Translation>
+	</Segment>
+	<Segment id ="14" >
+		<Time-slot>00:00:51,408 --> 00:00:54,102</Time-slot>
+		<Original_text lang="en">I've got some of the pieces in my pocket here.</Original_text>
+		<Translation lang="ar">عندي بعض القطع في جيبي هنا.</Translation>
+		<Translation lang="fr">J'ai certains des composants dans ma poche, juste ici.</Translation>
+	</Segment>
+	<Segment id ="15" >
+		<Time-slot>00:00:54,101 --> 00:00:56,191</Time-slot>
+		<Original_text lang="en">So this is the motor.</Original_text>
+		<Translation lang="ar">هذا هو المحرك.</Translation>
+		<Translation lang="fr">Donc, voici le moteur.</Translation>
+	</Segment>
+	<Segment id ="16" >
+		<Time-slot>00:00:56,192 --> 00:00:57,801</Time-slot>
+		<Original_text lang="en">This motor has enough power to take you</Original_text>
+		<Translation lang="ar">هذا المحرك لديه ما يكفي من القوة ليأخذك</Translation>
+		<Translation lang="fr">Ce moteur a une puissance suffisante pour vous faire grimper</Translation>
+	</Segment>
+	<Segment id ="17" >
+		<Time-slot>00:00:57,801 --> 00:01:01,608</Time-slot>
+		<Original_text lang="en">up the hills of San Francisco at about 20 miles per hour,</Original_text>
+		<Translation lang="ar">أعلى تلال سان فرانسيسكو في حوالي 20 ميلاً في الساعة،</Translation>
+		<Translation lang="fr">les collines de San Francisco, à environ 20 miles par heure</Translation>
+	</Segment>
+	<Segment id ="18" >
+		<Time-slot>00:01:01,607 --> 00:01:03,433</Time-slot>
+		<Original_text lang="en">about 30 kilometers an hour,</Original_text>
+		<Translation lang="ar">في حوالي 30 كم في الساعة،</Translation>
+		<Translation lang="fr">environ 30 km/heure,</Translation>
+	</Segment>
+	<Segment id ="19" >
+		<Time-slot>00:01:03,433 --> 00:01:07,524</Time-slot>
+		<Original_text lang="en">and this battery, this battery right here</Original_text>
+		<Translation lang="ar">وهذه البطارية، هذه البطارية هنا</Translation>
+		<Translation lang="fr">et cette batterie, cette batterie-là</Translation>
+	</Segment>
+	<Segment id ="20" >
+		<Time-slot>00:01:07,524 --> 00:01:11,471</Time-slot>
+		<Original_text lang="en">has about six miles of range, or 10 kilometers,</Original_text>
+		<Translation lang="ar">لديها حوالي مدى ستة أميال ، أو 10 كيلومترات،</Translation>
+		<Translation lang="fr">a environ une autonomie de 6 miles, soit 10 kilomètres,</Translation>
+	</Segment>
+	<Segment id ="21" >
+		<Time-slot>00:01:11,471 --> 00:01:14,274</Time-slot>
+		<Original_text lang="en">which is enough to cover about half of the car trips</Original_text>
+		<Translation lang="ar">وهو ما يكفي لتغطية حوالي نصف رحلات السيارة</Translation>
+		<Translation lang="fr">ce qui est suffisant pour couvrir environ la moitié des déplacements en voiture</Translation>
+	</Segment>
+	<Segment id ="22" >
+		<Time-slot>00:01:14,275 --> 00:01:16,672</Time-slot>
+		<Original_text lang="en">in the U.S. alone.</Original_text>
+		<Translation lang="ar">في الولايات المتحدة وحدها.</Translation>
+		<Translation lang="fr">effectués aux États-Unis.</Translation>
+	</Segment>
+	<Segment id ="23" >
+		<Time-slot>00:01:16,671 --> 00:01:18,450</Time-slot>
+		<Original_text lang="en">But the best part about these components</Original_text>
+		<Translation lang="ar">ولكن أفضل جزء عن هذه المكونات</Translation>
+		<Translation lang="fr">Mais le plus beau, c'est que ces composants,</Translation>
+	</Segment>
+	<Segment id ="24" >
+		<Time-slot>00:01:18,450 --> 00:01:20,647</Time-slot>
+		<Original_text lang="en">is that we bought them at a toy store.</Original_text>
+		<Translation lang="ar">هو أننا قمنا بشرائهم من متجر للألعاب.</Translation>
+		<Translation lang="fr">nous les avons achetés dans un magasin de jouets.</Translation>
+	</Segment>
+	<Segment id ="25" >
+		<Time-slot>00:01:20,647 --> 00:01:23,072</Time-slot>
+		<Original_text lang="en">These are from remote control airplanes.</Original_text>
+		<Translation lang="ar">هذه من طائرات التحكم عن بعد.</Translation>
+		<Translation lang="fr">Ceux-ci proviennent d'avions radiocommandés.</Translation>
+	</Segment>
+	<Segment id ="26" >
+		<Time-slot>00:01:23,072 --> 00:01:25,216</Time-slot>
+		<Original_text lang="en">And the performance of these things has gotten so good</Original_text>
+		<Translation lang="ar">وقد أصبحت أداء هذه الأمور جيدة جداً</Translation>
+		<Translation lang="fr">Et les performances de ces composants ont été si bonnes</Translation>
+	</Segment>
+	<Segment id ="27" >
+		<Time-slot>00:01:25,215 --> 00:01:27,512</Time-slot>
+		<Original_text lang="en">that if you think about vehicles a little bit differently,</Original_text>
+		<Translation lang="ar">إذا قكرت قليلاً في المركبات بطريقة مختلفة،</Translation>
+		<Translation lang="fr">que si on envisage les véhicules un peu différemment,</Translation>
+	</Segment>
+	<Segment id ="28" >
+		<Time-slot>00:01:27,512 --> 00:01:29,015</Time-slot>
+		<Original_text lang="en">you can really change things.</Original_text>
+		<Translation lang="ar">يمكنك حقاً تغيير الأشياء.</Translation>
+		<Translation lang="fr">on peut vraiment changer les choses.</Translation>
+	</Segment>
+	<Segment id ="29" >
+		<Time-slot>00:01:29,015 --> 00:01:31,012</Time-slot>
+		<Original_text lang="en">So today we're going to show you one example</Original_text>
+		<Translation lang="ar">لذلك اليوم سوف نعرض لكم مثال واحد</Translation>
+		<Translation lang="fr">Ainsi, aujourd'hui, nous allons vous montrer un exemple</Translation>
+	</Segment>
+	<Segment id ="30" >
+		<Time-slot>00:01:31,012 --> 00:01:33,088</Time-slot>
+		<Original_text lang="en">of how you can use this.</Original_text>
+		<Translation lang="ar">عن كيف يمكنك استخدام هذا.</Translation>
+		<Translation lang="fr">de comment vous pouvez utiliser ça.</Translation>
+	</Segment>
+	<Segment id ="31" >
+		<Time-slot>00:01:33,088 --> 00:01:35,888</Time-slot>
+		<Original_text lang="en">Pay attention to not only how fun this thing is,</Original_text>
+		<Translation lang="ar">لا تركز فقط على كيف هذا الشيء ممتعاً،</Translation>
+		<Translation lang="fr">Soyez attentif, non seulement à l'aspect ludique de cette chose</Translation>
+	</Segment>
+	<Segment id ="32" >
+		<Time-slot>00:01:35,888 --> 00:01:38,966</Time-slot>
+		<Original_text lang="en">but also how the portability that comes with this</Original_text>
+		<Translation lang="ar">ولكن أيضا على كيف أن قابلية التنقل التي تأتي مع هذا</Translation>
+		<Translation lang="fr">mais aussi comment sa portabilité peut</Translation>
+	</Segment>
+	<Segment id ="33" >
+		<Time-slot>00:01:38,965 --> 00:01:43,312</Time-slot>
+		<Original_text lang="en">can totally change the way you interact with a city like San Francisco.</Original_text>
+		<Translation lang="ar">يمكنها تغير تماماً الطريقة التي تتفاعل معها في مدينة مثل سان فرانسيسكو.</Translation>
+		<Translation lang="fr">complètement changer la façon dont vous interagissez avec une ville comme San Francisco.</Translation>
+	</Segment>
+	<Segment id ="34" >
+		<Time-slot>00:01:43,313 --> 00:01:48,676</Time-slot>
+		<Original_text lang="en">(Music)</Original_text>
+		<Translation lang="ar">(موسيقى)</Translation>
+		<Translation lang="fr">(Musique)</Translation>
+	</Segment>
+	<Segment id ="35" >
+		<Time-slot>00:02:02,765 --> 00:02:05,786</Time-slot>
+		<Original_text lang="en">[6 Mile Range] [Top Speed Near 20mph]</Original_text>
+		<Translation lang="ar">[تطاق 6 أميال] [أعلى سرعة قرب 20 ميل في الساعة]</Translation>
+		<Translation lang="fr">[6 Miles d'autonomie] [Vitesse près de 20 miles / h en pointe ]</Translation>
+	</Segment>
+	<Segment id ="36" >
+		<Time-slot>00:02:05,786 --> 00:02:09,286</Time-slot>
+		<Original_text lang="en">[Uphill Climbing]</Original_text>
+		<Translation lang="ar">[صعود التل]</Translation>
+		<Translation lang="fr">[Montée]</Translation>
+	</Segment>
+	<Segment id ="37" >
+		<Time-slot>00:02:24,093 --> 00:02:28,127</Time-slot>
+		<Original_text lang="en">[Regenerative Braking]</Original_text>
+		<Translation lang="ar">[امكابح تجددية]</Translation>
+		<Translation lang="fr">[Freinage Dynamique]</Translation>
+	</Segment>
+	<Segment id ="38" >
+		<Time-slot>00:02:50,457 --> 00:02:56,516</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+	<Segment id ="39" >
+		<Time-slot>00:02:56,516 --> 00:03:00,829</Time-slot>
+		<Original_text lang="en">(Cheers)</Original_text>
+		<Translation lang="ar">(هتاف)</Translation>
+		<Translation lang="fr">(Bravos)</Translation>
+	</Segment>
+	<Segment id ="40" >
+		<Time-slot>00:03:00,829 --> 00:03:04,122</Time-slot>
+		<Original_text lang="en">So we're going to show you what this thing can do.</Original_text>
+		<Translation lang="ar">لذا سوف نظهر لكم ما يمكن لهذا الشيء فعله.</Translation>
+		<Translation lang="fr">Nous allons donc vous montrer de quoi cette chose est capable.</Translation>
+	</Segment>
+	<Segment id ="41" >
+		<Time-slot>00:03:04,122 --> 00:03:06,815</Time-slot>
+		<Original_text lang="en">It's really maneuverable. You have a hand-held remote,</Original_text>
+		<Translation lang="ar">أنها حقاً قادرة على المناورة. لديك جهاز تحكم باليد،</Translation>
+		<Translation lang="fr">C'est vraiment maniable. Vous avez une télécommande en main,</Translation>
+	</Segment>
+	<Segment id ="42" >
+		<Time-slot>00:03:06,814 --> 00:03:10,394</Time-slot>
+		<Original_text lang="en">so you can pretty easily control acceleration, braking,</Original_text>
+		<Translation lang="ar">لذلك يمكنك بسهولة جداً التحكم بالسرعة، بالمكابح،</Translation>
+		<Translation lang="fr">donc vous pouvez assez facilement contrôler l'accélération, le freinage,</Translation>
+	</Segment>
+	<Segment id ="43" >
+		<Time-slot>00:03:10,394 --> 00:03:14,723</Time-slot>
+		<Original_text lang="en">go in reverse if you like, also have braking.</Original_text>
+		<Translation lang="ar">الذهاب في الاتجاه المعاكس إذا أردت , أيضاً لديك مكابح.</Translation>
+		<Translation lang="fr">aller en marche arrière si vous le souhaitez, freiner également.</Translation>
+	</Segment>
+	<Segment id ="44" >
+		<Time-slot>00:03:21,431 --> 00:03:23,487</Time-slot>
+		<Original_text lang="en">It's incredible just how light this thing is.</Original_text>
+		<Translation lang="ar">أنه أمر لا يصدق مقدار خفة هذا الشيء .</Translation>
+		<Translation lang="fr">C'est incroyable à quel point cette chose est légère.</Translation>
+	</Segment>
+	<Segment id ="45" >
+		<Time-slot>00:03:23,487 --> 00:03:25,616</Time-slot>
+		<Original_text lang="en">I mean, this is something you can pick up and carry with you</Original_text>
+		<Translation lang="ar">أعني، هذا شيء يمكنك التقاطه وحمله معك</Translation>
+		<Translation lang="fr">Je veux dire, c'est quelque chose que vous pouvez attraper et emporter avec vous</Translation>
+	</Segment>
+	<Segment id ="46" >
+		<Time-slot>00:03:25,616 --> 00:03:28,552</Time-slot>
+		<Original_text lang="en">anywhere you go.</Original_text>
+		<Translation lang="ar">في أي مكان تذهب.</Translation>
+		<Translation lang="fr">partout où vous allez.</Translation>
+	</Segment>
+	<Segment id ="47" >
+		<Time-slot>00:03:28,552 --> 00:03:31,728</Time-slot>
+		<Original_text lang="en">So I'll leave you with one of the most compelling facts</Original_text>
+		<Translation lang="ar">لذا سوف اتركم مع إحدى الحقائق الأكثر إلحاحاً</Translation>
+		<Translation lang="fr">Je vous quitte donc sur l'un des arguments les plus convaincants</Translation>
+	</Segment>
+	<Segment id ="48" >
+		<Time-slot>00:03:31,729 --> 00:03:34,585</Time-slot>
+		<Original_text lang="en">about this technology and these kinds of vehicles.</Original_text>
+		<Translation lang="ar">عن هذه التكنولوجيا وهذه الأنواع من المركبات.</Translation>
+		<Translation lang="fr">sur cette technologie et ce type de véhicules.</Translation>
+	</Segment>
+	<Segment id ="49" >
+		<Time-slot>00:03:34,585 --> 00:03:37,977</Time-slot>
+		<Original_text lang="en">This uses 20 times less energy</Original_text>
+		<Translation lang="ar">هذا تستخدم طاقة أقل بعشرين مرة</Translation>
+		<Translation lang="fr">Celui-ci consomme 20 fois moins d'énergie</Translation>
+	</Segment>
+	<Segment id ="50" >
+		<Time-slot>00:03:37,977 --> 00:03:41,343</Time-slot>
+		<Original_text lang="en">for every mile or kilometer that you travel than a car,</Original_text>
+		<Translation lang="ar">لكل ميل أو كيلومتر تسافر فيهما بالسيارة،</Translation>
+		<Translation lang="fr">qu'une voiture, pour chaque mile ou kilomètre que vous parcourez,</Translation>
+	</Segment>
+	<Segment id ="51" >
+		<Time-slot>00:03:41,343 --> 00:03:44,977</Time-slot>
+		<Original_text lang="en">which means not only is this thing fast to charge</Original_text>
+		<Translation lang="ar">مما يعني أنه ليس فقط هذا الشيء سريع الشحن</Translation>
+		<Translation lang="fr">ce qui signifie que cette chose n'est pas seulement rapide à recharger</Translation>
+	</Segment>
+	<Segment id ="52" >
+		<Time-slot>00:03:44,977 --> 00:03:46,665</Time-slot>
+		<Original_text lang="en">and really cheap to build,</Original_text>
+		<Translation lang="ar">وحقاً رخيصة البناء،</Translation>
+		<Translation lang="fr">et vraiment pas chère à construire,</Translation>
+	</Segment>
+	<Segment id ="53" >
+		<Time-slot>00:03:46,665 --> 00:03:50,016</Time-slot>
+		<Original_text lang="en">but it also reduces the footprint of your energy use</Original_text>
+		<Translation lang="ar">ولكن يقلل من البصمة الخاصة بك في إستخدام الطاقة أيضاً</Translation>
+		<Translation lang="fr">elle permet également de réduire l'empreinte de la consommation d'énergie</Translation>
+	</Segment>
+	<Segment id ="54" >
+		<Time-slot>00:03:50,016 --> 00:03:51,651</Time-slot>
+		<Original_text lang="en">in terms of your transportation.</Original_text>
+		<Translation lang="ar">من حيث وسائل النقل الخاصة بك.</Translation>
+		<Translation lang="fr">de votre moyen de transport.</Translation>
+	</Segment>
+	<Segment id ="55" >
+		<Time-slot>00:03:51,651 --> 00:03:54,410</Time-slot>
+		<Original_text lang="en">So instead of looking at large amounts of energy needed</Original_text>
+		<Translation lang="ar">لذلك بدلاً من النظر إلى كميات كبيرة من الطاقة اللازمة</Translation>
+		<Translation lang="fr">Alors, au lieu d'examiner les grandes quantités d'énergie nécessaires</Translation>
+	</Segment>
+	<Segment id ="56" >
+		<Time-slot>00:03:54,411 --> 00:03:57,344</Time-slot>
+		<Original_text lang="en">for each person in this room to get around in a city,</Original_text>
+		<Translation lang="ar">لكل شخص في هذه الغرفة لتجول في مدينة،</Translation>
+		<Translation lang="fr">pour que chaque personne dans cette salle puisse se déplacer dans une ville,</Translation>
+	</Segment>
+	<Segment id ="57" >
+		<Time-slot>00:03:57,344 --> 00:03:59,465</Time-slot>
+		<Original_text lang="en">now you can look at much smaller amounts</Original_text>
+		<Translation lang="ar">الآن يمكنك أن تنظر الى كميات أقل بكثير</Translation>
+		<Translation lang="fr">vous pouvez maintenant envisager des quantités bien moindres</Translation>
+	</Segment>
+	<Segment id ="58" >
+		<Time-slot>00:03:59,465 --> 00:04:01,905</Time-slot>
+		<Original_text lang="en">and more sustainable transportation.</Original_text>
+		<Translation lang="ar">و وسيلة تنقل مستدامة.</Translation>
+		<Translation lang="fr">et un mode de transport plus durable.</Translation>
+	</Segment>
+	<Segment id ="59" >
+		<Time-slot>00:04:01,905 --> 00:04:03,266</Time-slot>
+		<Original_text lang="en">So next time you think about a vehicle,</Original_text>
+		<Translation lang="ar">لذلك في المرة القادمة عندما تفكر في مركبة،</Translation>
+		<Translation lang="fr">Alors la prochaine fois que vous penserez à un véhicule,</Translation>
+	</Segment>
+	<Segment id ="60" >
+		<Time-slot>00:04:03,266 --> 00:04:06,573</Time-slot>
+		<Original_text lang="en">I hope, like us, you're thinking about something new.</Original_text>
+		<Translation lang="ar">وآمل، مثلنا، أن تفكر عن شيء جديد.</Translation>
+		<Translation lang="fr">j'espère que, comme nous, vous penserez à quelque chose de nouveau.</Translation>
+	</Segment>
+	<Segment id ="61" >
+		<Time-slot>00:04:06,573 --> 00:04:07,711</Time-slot>
+		<Original_text lang="en">Thank you.</Original_text>
+		<Translation lang="ar">شكرا.</Translation>
+		<Translation lang="fr">Merci.</Translation>
+	</Segment>
+	<Segment id ="62" >
+		<Time-slot>00:04:07,711 --> 00:04:13,665</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+</Talk>
+</MulTed>

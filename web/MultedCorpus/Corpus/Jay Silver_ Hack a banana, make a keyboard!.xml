@@ -1,0 +1,1812 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MulTed>
+
+<Talk Speaker = "Jay Silver" Title= " Hack a banana, make a keyboard!" >
+	<Segment id ="1" >
+		<Time-slot>00:00:12,714 --> 00:00:14,041</Time-slot>
+		<Original_text lang="en">Hey guys.</Original_text>
+		<Translation lang="ar">مرحباً يا اصدقاء</Translation>
+		<Translation lang="fr">Salut les gars.</Translation>
+	</Segment>
+	<Segment id ="2" >
+		<Time-slot>00:00:14,041 --> 00:00:15,810</Time-slot>
+		<Original_text lang="en">It's funny, someone just mentioned MacGyver,</Original_text>
+		<Translation lang="ar">انه مضحك, شخص ما ذكر للتو ماكجايڨر,</Translation>
+		<Translation lang="fr">C'est drôle, quelqu'un vient juste d'évoquer MacGyver,</Translation>
+	</Segment>
+	<Segment id ="3" >
+		<Time-slot>00:00:15,810 --> 00:00:17,751</Time-slot>
+		<Original_text lang="en">because that was, like, I loved it,</Original_text>
+		<Translation lang="ar">لأن ذلك كان، مثل، وأنا أحب ذلك،</Translation>
+		<Translation lang="fr">parce que j'ai adoré,</Translation>
+	</Segment>
+	<Segment id ="4" >
+		<Time-slot>00:00:17,751 --> 00:00:23,071</Time-slot>
+		<Original_text lang="en">and when I was seven, I taped a fork to a drill</Original_text>
+		<Translation lang="ar">و عندما كنت في السابعة من عمري، قمت بتركيب شوكة طعام بالة حفر</Translation>
+		<Translation lang="fr">et quand j'avais sept ans, j'ai scotché une fourchette à une perceuse</Translation>
+	</Segment>
+	<Segment id ="5" >
+		<Time-slot>00:00:23,071 --> 00:00:25,792</Time-slot>
+		<Original_text lang="en">and I was like, "Hey, Mom, I'm going to Olive Garden."</Original_text>
+		<Translation lang="ar">و قد كنت كـ "يا امي، انا ذاهب الى مزرعة الزيتون."</Translation>
+		<Translation lang="fr">et je me suis dit, « Hé, maman, je vais chez Olive Garden. »</Translation>
+	</Segment>
+	<Segment id ="6" >
+		<Time-slot>00:00:25,792 --> 00:00:29,943</Time-slot>
+		<Original_text lang="en">And -- (Drilling noise) (Laughter)</Original_text>
+		<Translation lang="ar">و--(صوت آلة الحفر) (ضحك)</Translation>
+		<Translation lang="fr">Et -- (Bruit de forage) (Rires)</Translation>
+	</Segment>
+	<Segment id ="7" >
+		<Time-slot>00:00:29,943 --> 00:00:32,875</Time-slot>
+		<Original_text lang="en">And it worked really well there.</Original_text>
+		<Translation lang="ar">وقد عملت بشكل جيد حقا هناك.</Translation>
+		<Translation lang="fr">Et ça a bien marché.</Translation>
+	</Segment>
+	<Segment id ="8" >
+		<Time-slot>00:00:32,875 --> 00:00:36,695</Time-slot>
+		<Original_text lang="en">And you know, it had a profound effect on me.</Original_text>
+		<Translation lang="ar">و كما تعرف, كان لها اثر عميق في نفسي</Translation>
+		<Translation lang="fr">Et vous savez, ça a eu un effet profond sur moi.</Translation>
+	</Segment>
+	<Segment id ="9" >
+		<Time-slot>00:00:36,695 --> 00:00:38,923</Time-slot>
+		<Original_text lang="en">It sounds silly, but I thought, okay,</Original_text>
+		<Translation lang="ar">قد تبدو سخيفة, لكنني فكرت,</Translation>
+		<Translation lang="fr">Ça parait bête, mais j'ai pensé : bon,</Translation>
+	</Segment>
+	<Segment id ="10" >
+		<Time-slot>00:00:38,923 --> 00:00:41,795</Time-slot>
+		<Original_text lang="en">the way the world works can be changed,</Original_text>
+		<Translation lang="ar">الطريقة التي يعمل بها العالم يمكن ان تتغير,</Translation>
+		<Translation lang="fr">on peut changer la façon dont le monde fonctionne,</Translation>
+	</Segment>
+	<Segment id ="11" >
+		<Time-slot>00:00:41,795 --> 00:00:43,947</Time-slot>
+		<Original_text lang="en">and it can be changed by me in these small ways.</Original_text>
+		<Translation lang="ar">و يمكن ان تتغير بواسطتي بهذه الطرق الصغيرة.</Translation>
+		<Translation lang="fr">et je peux la modifier avec des petits gestes.</Translation>
+	</Segment>
+	<Segment id ="12" >
+		<Time-slot>00:00:43,947 --> 00:00:45,661</Time-slot>
+		<Original_text lang="en">And my relationship to</Original_text>
+		<Translation lang="ar">و علاقتي بـ..</Translation>
+		<Translation lang="fr">Et ma relation avec</Translation>
+	</Segment>
+	<Segment id ="13" >
+		<Time-slot>00:00:45,661 --> 00:00:47,152</Time-slot>
+		<Original_text lang="en">especially human-made objects</Original_text>
+		<Translation lang="ar">خاصة الأغراض التي صنعها الانسان</Translation>
+		<Translation lang="fr">les objets fabriqués par l'homme en particulier</Translation>
+	</Segment>
+	<Segment id ="14" >
+		<Time-slot>00:00:47,152 --> 00:00:49,037</Time-slot>
+		<Original_text lang="en">which someone else said they work like this,</Original_text>
+		<Translation lang="ar">و التي تم تحديد طريقة عملها بواسطة شخص اَخر،</Translation>
+		<Translation lang="fr">qui fonctionnaient comme ça selon quelqu'un d'autre,</Translation>
+	</Segment>
+	<Segment id ="15" >
+		<Time-slot>00:00:49,037 --> 00:00:52,187</Time-slot>
+		<Original_text lang="en">well, I can say they work a different way, a little bit.</Original_text>
+		<Translation lang="ar">كذلك يمكنني ان اقول انها تعمل بطريقة مختلفة، قليلاً.</Translation>
+		<Translation lang="fr">eh bien, je peux dire qu'ils fonctionnent un peu différemment.</Translation>
+	</Segment>
+	<Segment id ="16" >
+		<Time-slot>00:00:52,188 --> 00:00:54,685</Time-slot>
+		<Original_text lang="en">And so, about 20 years later,</Original_text>
+		<Translation lang="ar">وهكذا، بعد ما يقارب 20 سنة،</Translation>
+		<Translation lang="fr">Donc, environ 20 ans plus tard,</Translation>
+	</Segment>
+	<Segment id ="17" >
+		<Time-slot>00:00:54,685 --> 00:00:56,194</Time-slot>
+		<Original_text lang="en">I didn't realize the full effect of this,</Original_text>
+		<Translation lang="ar">لم ادرك التاَثير الكليٌ لهذا،</Translation>
+		<Translation lang="fr">je ne me suis pas rendu compte de tout l'effet que ça avait,</Translation>
+	</Segment>
+	<Segment id ="18" >
+		<Time-slot>00:00:56,194 --> 00:00:57,971</Time-slot>
+		<Original_text lang="en">but I went to Costa Rica</Original_text>
+		<Translation lang="ar">لكنيٌ ذهبت لكوستاريكا</Translation>
+		<Translation lang="fr">mais je suis allé au Costa Rica,</Translation>
+	</Segment>
+	<Segment id ="19" >
+		<Time-slot>00:00:57,970 --> 00:01:00,137</Time-slot>
+		<Original_text lang="en">and I stayed with these Guaymí natives there,</Original_text>
+		<Translation lang="ar">و مكثت مع افراد من قبيلة قوامي الاصليين هناك،</Translation>
+		<Translation lang="fr">je suis resté là-bas avec ces indigènes Guaymí,</Translation>
+	</Segment>
+	<Segment id ="20" >
+		<Time-slot>00:01:00,137 --> 00:01:03,640</Time-slot>
+		<Original_text lang="en">and they could pull leaves off of trees and make shingles out of them,</Original_text>
+		<Translation lang="ar">وبإمكانهم قطف صفق من الشجر و صنع القوباء من الصفق،</Translation>
+		<Translation lang="fr">qui pouvaient arracher des feuilles des arbres et en faire des bardeaux,</Translation>
+	</Segment>
+	<Segment id ="21" >
+		<Time-slot>00:01:03,640 --> 00:01:06,808</Time-slot>
+		<Original_text lang="en">and they could make beds out of trees,</Original_text>
+		<Translation lang="ar">وبإمكانهم صنع اسرّة من الشجر،</Translation>
+		<Translation lang="fr">et ils pouvaient faire des lits avec des arbres,</Translation>
+	</Segment>
+	<Segment id ="22" >
+		<Time-slot>00:01:06,808 --> 00:01:09,042</Time-slot>
+		<Original_text lang="en">and they could -- I watched this woman for three days.</Original_text>
+		<Translation lang="ar">و بالفعل يمكنهم، لقد شاهدت هذه المرأة لثلاثة ايام.</Translation>
+		<Translation lang="fr">et ils pouvaient ... j'ai regardé cette femme pendant trois jours.</Translation>
+	</Segment>
+	<Segment id ="23" >
+		<Time-slot>00:01:09,043 --> 00:01:12,290</Time-slot>
+		<Original_text lang="en">I was there. She was peeling this palm frond apart,</Original_text>
+		<Translation lang="ar">لقد كنت هناك. كانت تقوم بتقشير سعف النخيل،</Translation>
+		<Translation lang="fr">J'étais là. Elle épluchait cette feuille de palmier,</Translation>
+	</Segment>
+	<Segment id ="24" >
+		<Time-slot>00:01:12,290 --> 00:01:15,427</Time-slot>
+		<Original_text lang="en">these little threads off of it, and she'd roll the threads together</Original_text>
+		<Translation lang="ar">تلك الخيوط الصغيرة من سعف النخيل، و تقوم بلف الخيوط مع بعضها</Translation>
+		<Translation lang="fr">elle en retirait ces fils, elle les enroulait ensemble</Translation>
+	</Segment>
+	<Segment id ="25" >
+		<Time-slot>00:01:15,427 --> 00:01:18,145</Time-slot>
+		<Original_text lang="en">and make little thicker threads, like strings,</Original_text>
+		<Translation lang="ar">لتنتج خيوط اتخن، كالحبال.</Translation>
+		<Translation lang="fr">et en faisait des fils plus épais, comme des cordes,</Translation>
+	</Segment>
+	<Segment id ="26" >
+		<Time-slot>00:01:18,144 --> 00:01:20,965</Time-slot>
+		<Original_text lang="en">and she would weave the strings together,</Original_text>
+		<Translation lang="ar">و تقوم بنسج الحبال مع بعضها،</Translation>
+		<Translation lang="fr">elle tissait les cordes,</Translation>
+	</Segment>
+	<Segment id ="27" >
+		<Time-slot>00:01:20,965 --> 00:01:24,445</Time-slot>
+		<Original_text lang="en">and as the materiality of this exact very bag</Original_text>
+		<Translation lang="ar">و بنفس المواد المصنعة لهذه الحقيبة</Translation>
+		<Translation lang="fr">et ce sac se formait physiquement</Translation>
+	</Segment>
+	<Segment id ="28" >
+		<Time-slot>00:01:24,445 --> 00:01:27,334</Time-slot>
+		<Original_text lang="en">formed before my eyes over those three days,</Original_text>
+		<Translation lang="ar">صُنعت امام عيناي في تلك الايام الثلاثة،</Translation>
+		<Translation lang="fr">devant mes yeux en trois jours,</Translation>
+	</Segment>
+	<Segment id ="29" >
+		<Time-slot>00:01:27,334 --> 00:01:30,641</Time-slot>
+		<Original_text lang="en">the materiality of the way the world works,</Original_text>
+		<Translation lang="ar">المادية التي يعمل بها هذا العالم،</Translation>
+		<Translation lang="fr">la matérialité de la façon dont le monde fonctionne,</Translation>
+	</Segment>
+	<Segment id ="30" >
+		<Time-slot>00:01:30,641 --> 00:01:33,115</Time-slot>
+		<Original_text lang="en">of reality, kind of started to unravel in my mind,</Original_text>
+		<Translation lang="ar">من الواقع، نوعاً ما بدأت بالظهور في عقلي،</Translation>
+		<Translation lang="fr">de la réalité, a commencé à se démêler dans mon esprit,</Translation>
+	</Segment>
+	<Segment id ="31" >
+		<Time-slot>00:01:33,114 --> 00:01:36,462</Time-slot>
+		<Original_text lang="en">because I realized that this bag and these clothes</Original_text>
+		<Translation lang="ar">لأنني ادركت ان هذه الحقيبة تلك الملابس</Translation>
+		<Translation lang="fr">parce que j'ai réalisé que ce sac et ces vêtements</Translation>
+	</Segment>
+	<Segment id ="32" >
+		<Time-slot>00:01:36,462 --> 00:01:38,846</Time-slot>
+		<Original_text lang="en">and the trampoline you have at home and the pencil sharpener,</Original_text>
+		<Translation lang="ar">و لعبة القفز لديك في منزلك و المبراة،</Translation>
+		<Translation lang="fr">et le trampoline que vous avez chez vous et le taille-crayon,</Translation>
+	</Segment>
+	<Segment id ="33" >
+		<Time-slot>00:01:38,846 --> 00:01:42,979</Time-slot>
+		<Original_text lang="en">everything you have is made out of either a tree or a rock</Original_text>
+		<Translation lang="ar">مل ما تمتلك قم تم تصنيعه من الشجر او الاحجار</Translation>
+		<Translation lang="fr">tout ce que vous avez est fait à partir d'un arbre ou un rocher</Translation>
+	</Segment>
+	<Segment id ="34" >
+		<Time-slot>00:01:42,980 --> 00:01:45,323</Time-slot>
+		<Original_text lang="en">or something we dug out of the ground and did some process to,</Original_text>
+		<Translation lang="ar">او شئ قمنا بإستخراجه من الارض و قمنا بإجراء عمليات عليه،</Translation>
+		<Translation lang="fr">ou quelque chose que nous avons extrait du sol et soumis à un quelconque processus,</Translation>
+	</Segment>
+	<Segment id ="35" >
+		<Time-slot>00:01:45,323 --> 00:01:49,234</Time-slot>
+		<Original_text lang="en">maybe a more complicated one, but still, everything was made that way.</Original_text>
+		<Translation lang="ar">ربما تكون معقدة اكثر، لكن مع ذلك، كل شئ تم صنعه بتلك الطريقة.</Translation>
+		<Translation lang="fr">peut-être plus compliqué, et pourtant, tout a été fait de cette façon.</Translation>
+	</Segment>
+	<Segment id ="36" >
+		<Time-slot>00:01:49,234 --> 00:01:51,426</Time-slot>
+		<Original_text lang="en">And so I had to start studying,</Original_text>
+		<Translation lang="ar">و بذلك كان يجب ان ابدأ الدراسة،</Translation>
+		<Translation lang="fr">Il fallait donc que je me mette à faire des recherches,</Translation>
+	</Segment>
+	<Segment id ="37" >
+		<Time-slot>00:01:51,427 --> 00:01:53,137</Time-slot>
+		<Original_text lang="en">who is it that's making these decisions?</Original_text>
+		<Translation lang="ar">من الذي يقوم بإتخاذ تلك القرارات؟</Translation>
+		<Translation lang="fr">pour savoir qui prend ces décisions.</Translation>
+	</Segment>
+	<Segment id ="38" >
+		<Time-slot>00:01:53,137 --> 00:01:54,945</Time-slot>
+		<Original_text lang="en">Who's making these things? How did they make them?</Original_text>
+		<Translation lang="ar">من الذي يقوم بصنع تلك الاشياء؟ و كيف قاموا بذلك؟</Translation>
+		<Translation lang="fr">Qui fait ces choses ? Comment les ont-ils faites ?</Translation>
+	</Segment>
+	<Segment id ="39" >
+		<Time-slot>00:01:54,945 --> 00:01:56,439</Time-slot>
+		<Original_text lang="en">What stops us from making them?</Original_text>
+		<Translation lang="ar">ما الذي يمنعنا من صنعها؟</Translation>
+		<Translation lang="fr">Qu'est-ce qui nous empêche de les faire ?</Translation>
+	</Segment>
+	<Segment id ="40" >
+		<Time-slot>00:01:56,439 --> 00:01:59,344</Time-slot>
+		<Original_text lang="en">Because this is how reality is created.</Original_text>
+		<Translation lang="ar">ذلك لأنها هى الطريقة التي خُلق بها الواقع.</Translation>
+		<Translation lang="fr">Parce que la réalité se crée comme ça.</Translation>
+	</Segment>
+	<Segment id ="41" >
+		<Time-slot>00:01:59,344 --> 00:02:01,932</Time-slot>
+		<Original_text lang="en">So I started right away. I was at MIT Media Lab,</Original_text>
+		<Translation lang="ar">لذلك بدأت على الفور. لقد كنت بداخل معمل وسائل اعلام معهد ماساتشوستس للتكنلوچيا.</Translation>
+		<Translation lang="fr">J'ai donc commencé tout de suite. J'étais au MIT Media Lab,</Translation>
+	</Segment>
+	<Segment id ="42" >
+		<Time-slot>00:02:01,932 --> 00:02:04,481</Time-slot>
+		<Original_text lang="en">and I was studying the maker movement</Original_text>
+		<Translation lang="ar">و كنت ادرس حركات الصانع</Translation>
+		<Translation lang="fr">et j'étudiais le Maker Movement,</Translation>
+	</Segment>
+	<Segment id ="43" >
+		<Time-slot>00:02:04,480 --> 00:02:06,030</Time-slot>
+		<Original_text lang="en">and makers and creativity.</Original_text>
+		<Translation lang="ar">و الصانع و الابداع.</Translation>
+		<Translation lang="fr">les Makers et la créativité.</Translation>
+	</Segment>
+	<Segment id ="44" >
+		<Time-slot>00:02:06,031 --> 00:02:08,158</Time-slot>
+		<Original_text lang="en">And I started in nature, because I saw these Guaymís</Original_text>
+		<Translation lang="ar">و بدأت بالطبيعة، ذلك لأني رأيت القواميز</Translation>
+		<Translation lang="fr">Et j'ai commencé dans la nature, parce que j'ai vu ces Guaymís</Translation>
+	</Segment>
+	<Segment id ="45" >
+		<Time-slot>00:02:08,157 --> 00:02:11,202</Time-slot>
+		<Original_text lang="en">doing it in nature, and there just seems to be less barriers.</Original_text>
+		<Translation lang="ar">يعملون في الطبيعة، و هنالك على ما يبدو الحواجز اقل.</Translation>
+		<Translation lang="fr">le faire dans la nature et il semble y avoir moins d'obstacles.</Translation>
+	</Segment>
+	<Segment id ="46" >
+		<Time-slot>00:02:11,203 --> 00:02:14,548</Time-slot>
+		<Original_text lang="en">So I went to Vermont to Not Back to School Camp,</Original_text>
+		<Translation lang="ar">هكذا ذهبت لولاية فيرمونت لمخيم المدرسة،</Translation>
+		<Translation lang="fr">Je suis donc allé dans le Vermont au « Not Back to School Camp »,</Translation>
+	</Segment>
+	<Segment id ="47" >
+		<Time-slot>00:02:14,548 --> 00:02:17,800</Time-slot>
+		<Original_text lang="en">where there's unschoolers who are just kind of hanging out</Original_text>
+		<Translation lang="ar">حيث هنالك غير المدرسيين الذين يقومون بالتواجد فقط</Translation>
+		<Translation lang="fr">où des jeunes déscolarisés se rencontrent</Translation>
+	</Segment>
+	<Segment id ="48" >
+		<Time-slot>00:02:17,800 --> 00:02:19,287</Time-slot>
+		<Original_text lang="en">and willing to try anything.</Original_text>
+		<Translation lang="ar">و مستعدون لتجربة اي شئ</Translation>
+		<Translation lang="fr">et sont prêts à essayer n'importe quoi.</Translation>
+	</Segment>
+	<Segment id ="49" >
+		<Time-slot>00:02:19,287 --> 00:02:21,580</Time-slot>
+		<Original_text lang="en">So I said, "Let's go into the woods near this stream</Original_text>
+		<Translation lang="ar">فقلت لهم، "لنذهب الى الغابة قرب هذا المكان</Translation>
+		<Translation lang="fr">Alors j'ai dit : « Allons dans les bois près de ce cours d'eau</Translation>
+	</Segment>
+	<Segment id ="50" >
+		<Time-slot>00:02:21,580 --> 00:02:23,609</Time-slot>
+		<Original_text lang="en">and just put stuff together, you know, make something,</Original_text>
+		<Translation lang="ar">و فقط نقوم بوضع اشياء مع بعضها، انتم تعلمون، نصنع شيئاً</Translation>
+		<Translation lang="fr">et assemblons des choses, fabriquons quelque chose,</Translation>
+	</Segment>
+	<Segment id ="51" >
+		<Time-slot>00:02:23,609 --> 00:02:26,195</Time-slot>
+		<Original_text lang="en">I don't care, geometrical shapes, just grab some junk from around you.</Original_text>
+		<Translation lang="ar">لا تهمني الاشكال الهندسية، فقط قم بإستخدام الاغراض غير المرغوب بها من حولك.</Translation>
+		<Translation lang="fr">n'importe quoi, des formes géométriques, prenez n'importe quoi autour de vous.</Translation>
+	</Segment>
+	<Segment id ="52" >
+		<Time-slot>00:02:26,195 --> 00:02:27,844</Time-slot>
+		<Original_text lang="en">We won't bring anything with us.</Original_text>
+		<Translation lang="ar">لن نجلب معنا شئ.</Translation>
+		<Translation lang="fr">Nous n'apporterons rien avec nous. »</Translation>
+	</Segment>
+	<Segment id ="53" >
+		<Time-slot>00:02:27,844 --> 00:02:30,364</Time-slot>
+		<Original_text lang="en">And, like, within minutes, this is very easy for adults</Original_text>
+		<Translation lang="ar">و في غضون دقائق، هذا عمل سهلُ جداً للكبار</Translation>
+		<Translation lang="fr">Et en quelques minutes, c'est très facile à faire pour les adultes</Translation>
+	</Segment>
+	<Segment id ="54" >
+		<Time-slot>00:02:30,364 --> 00:02:31,451</Time-slot>
+		<Original_text lang="en">and teens to do.</Original_text>
+		<Translation lang="ar">و المراهقين</Translation>
+		<Translation lang="fr">et les adolescents.</Translation>
+	</Segment>
+	<Segment id ="55" >
+		<Time-slot>00:02:31,451 --> 00:02:34,586</Time-slot>
+		<Original_text lang="en">Here's a triangle that was being formed underneath a flowing stream,</Original_text>
+		<Translation lang="ar">و هنا مثلث و الذي كان يجري تشكيله تحت تيار جاري،</Translation>
+		<Translation lang="fr">Voici un triangle qui a été créé sous un ruisseau,</Translation>
+	</Segment>
+	<Segment id ="56" >
+		<Time-slot>00:02:34,586 --> 00:02:37,170</Time-slot>
+		<Original_text lang="en">and the shape of an oak leaf being made</Original_text>
+		<Translation lang="ar">و شكل ورقة البلوط يتم عملها</Translation>
+		<Translation lang="fr">et la forme d'une feuille de chêne faite à partir</Translation>
+	</Segment>
+	<Segment id ="57" >
+		<Time-slot>00:02:37,170 --> 00:02:40,364</Time-slot>
+		<Original_text lang="en">by other small oak leaves being put together.</Original_text>
+		<Translation lang="ar">بواسطة اوراق بلوط صغيرة يتم وضعها مع بعضها.</Translation>
+		<Translation lang="fr">d'autres petites feuilles de chêne assemblées.</Translation>
+	</Segment>
+	<Segment id ="58" >
+		<Time-slot>00:02:40,365 --> 00:02:43,102</Time-slot>
+		<Original_text lang="en">A leaf tied to a stick with a blade of grass.</Original_text>
+		<Translation lang="ar">ورقة رُبطت مع عصاة بشفرة من العشب.</Translation>
+		<Translation lang="fr">Une feuille attachée à un bâton avec un brin d'herbe.</Translation>
+	</Segment>
+	<Segment id ="59" >
+		<Time-slot>00:02:43,102 --> 00:02:45,798</Time-slot>
+		<Original_text lang="en">The materiality and fleshiness and meat of the mushroom</Original_text>
+		<Translation lang="ar">مادية و بدانة و لحم المشروم</Translation>
+		<Translation lang="fr">La matérialité, et la chair du champignon</Translation>
+	</Segment>
+	<Segment id ="60" >
+		<Time-slot>00:02:45,798 --> 00:02:49,170</Time-slot>
+		<Original_text lang="en">being explored by how it can hold up different objects being stuck into it.</Original_text>
+		<Translation lang="ar">يتم استكشافها بإمكانيتها على تثبيت اغراض مختلفة يتم تثيتها عليها.</Translation>
+		<Translation lang="fr">explorées par la capacité de supporter différents objets plantés dedans.</Translation>
+	</Segment>
+	<Segment id ="61" >
+		<Time-slot>00:02:49,169 --> 00:02:52,734</Time-slot>
+		<Original_text lang="en">And after about 45 minutes, you get really intricate projects</Original_text>
+		<Translation lang="ar">و بعد ما يقارب 45 دقيقة، تتحصل على مشاريع معقدة بالفعل</Translation>
+		<Translation lang="fr">Et après environ 45 minutes, vous obtenez des projets vraiment complexes</Translation>
+	</Segment>
+	<Segment id ="62" >
+		<Time-slot>00:02:52,735 --> 00:02:55,962</Time-slot>
+		<Original_text lang="en">like leaves sorted by hue, so you get a color fade</Original_text>
+		<Translation lang="ar">مثل اوراق منظمة بالمسح، حتى تحصل على لون متلاشي</Translation>
+		<Translation lang="fr">comme des feuilles triées par teinte, pour obtenir un fondu de couleurs</Translation>
+	</Segment>
+	<Segment id ="63" >
+		<Time-slot>00:02:55,961 --> 00:02:57,805</Time-slot>
+		<Original_text lang="en">and put in a circle like a wreath.</Original_text>
+		<Translation lang="ar">و تضعه في دائرة كإكليل.</Translation>
+		<Translation lang="fr">et le mettre en cercle comme une couronne.</Translation>
+	</Segment>
+	<Segment id ="64" >
+		<Time-slot>00:02:57,806 --> 00:03:00,422</Time-slot>
+		<Original_text lang="en">And the creator of this, he said,</Original_text>
+		<Translation lang="ar">و قال صانه هذا الإكليل</Translation>
+		<Translation lang="fr">Et celui qui a créé ça a dit,</Translation>
+	</Segment>
+	<Segment id ="65" >
+		<Time-slot>00:03:00,421 --> 00:03:02,091</Time-slot>
+		<Original_text lang="en">"This is fire. I call this fire."</Original_text>
+		<Translation lang="ar">"هذه نار. انا اسميها نار."</Translation>
+		<Translation lang="fr">« C'est un feu. J'appelle ça un feu. »</Translation>
+	</Segment>
+	<Segment id ="66" >
+		<Time-slot>00:03:02,092 --> 00:03:04,319</Time-slot>
+		<Original_text lang="en">And someone asked him, "How do you get those sticks</Original_text>
+		<Translation lang="ar">و يسأله شخص "كيف يمكنك ان تجعل هذه الاعواد</Translation>
+		<Translation lang="fr">Et quelqu'un lui a demandé : « Comment arrives-tu à faire tenir ces bâtons</Translation>
+	</Segment>
+	<Segment id ="67" >
+		<Time-slot>00:03:04,318 --> 00:03:06,079</Time-slot>
+		<Original_text lang="en">to stay on that tree?"</Original_text>
+		<Translation lang="ar">تثبت على تلك الشجرة"</Translation>
+		<Translation lang="fr">accrochés à cet arbre ? »</Translation>
+	</Segment>
+	<Segment id ="68" >
+		<Time-slot>00:03:06,080 --> 00:03:09,190</Time-slot>
+		<Original_text lang="en">And he's like, "I don't know, but I can show you."</Original_text>
+		<Translation lang="ar">"لا اعرف، لكن يمكنني ان اُريك كيف."</Translation>
+		<Translation lang="fr">Et il a répondu, « Je ne sais pas, mais je peux te montrer. »</Translation>
+	</Segment>
+	<Segment id ="69" >
+		<Time-slot>00:03:09,189 --> 00:03:10,822</Time-slot>
+		<Original_text lang="en">And I'm like, "Wow, that's really amazing.</Original_text>
+		<Translation lang="ar">و انا كنت، " واو، هذا مدهش حقاَ.</Translation>
+		<Translation lang="fr">Et je dis, « Ouah, c'est vraiment étonnant.</Translation>
+	</Segment>
+	<Segment id ="70" >
+		<Time-slot>00:03:10,822 --> 00:03:12,205</Time-slot>
+		<Original_text lang="en">He doesn't know, but he can show you."</Original_text>
+		<Translation lang="ar">هو لا يعرف كيف، لكن بإمكانه ان يريك."</Translation>
+		<Translation lang="fr">Il ne sait pas, mais il peut vous montrer. »</Translation>
+	</Segment>
+	<Segment id ="71" >
+		<Time-slot>00:03:12,205 --> 00:03:14,785</Time-slot>
+		<Original_text lang="en">So his hands know and his intuition knows,</Original_text>
+		<Translation lang="ar">يديه و حدسه يعرفان،</Translation>
+		<Translation lang="fr">Donc ses mains et son intuition savent,</Translation>
+	</Segment>
+	<Segment id ="72" >
+		<Time-slot>00:03:14,784 --> 00:03:17,640</Time-slot>
+		<Original_text lang="en">but sometimes what we know gets in the way</Original_text>
+		<Translation lang="ar">لكن احياناً الذي نعلمه يقف في طريقنا</Translation>
+		<Translation lang="fr">mais parfois ce que nous savons bloque l'accès</Translation>
+	</Segment>
+	<Segment id ="73" >
+		<Time-slot>00:03:17,640 --> 00:03:19,677</Time-slot>
+		<Original_text lang="en">of what could be, especially</Original_text>
+		<Translation lang="ar">مما يمكن ان يكون، خاصةً</Translation>
+		<Translation lang="fr">à ce qui pourrait être, en particulier</Translation>
+	</Segment>
+	<Segment id ="74" >
+		<Time-slot>00:03:19,677 --> 00:03:22,604</Time-slot>
+		<Original_text lang="en">when it comes to the human-made, human-built world.</Original_text>
+		<Translation lang="ar">عندما يتعلق الامر بالصناعات و البنايات البشرية</Translation>
+		<Translation lang="fr">quand il s'agit de ce qui est fabriqué par l'homme, le monde créé par l'homme.</Translation>
+	</Segment>
+	<Segment id ="75" >
+		<Time-slot>00:03:22,604 --> 00:03:24,901</Time-slot>
+		<Original_text lang="en">We think we already know how something works,</Original_text>
+		<Translation lang="ar">نفكر اننا نعلم كيف تعمل الاشياء،</Translation>
+		<Translation lang="fr">Nous pensons savoir comment une chose fonctionne,</Translation>
+	</Segment>
+	<Segment id ="76" >
+		<Time-slot>00:03:24,901 --> 00:03:27,044</Time-slot>
+		<Original_text lang="en">so we can't imagine how it could work.</Original_text>
+		<Translation lang="ar">لذلك لا نستطيع التخيل كيف يمكن ان تعمل.</Translation>
+		<Translation lang="fr">donc nous ne pouvons pas imaginer comment elle pourrait fonctionner.</Translation>
+	</Segment>
+	<Segment id ="77" >
+		<Time-slot>00:03:27,044 --> 00:03:28,390</Time-slot>
+		<Original_text lang="en">We know how it's supposed to work,</Original_text>
+		<Translation lang="ar">نعلم كيف من المفترض ان تعمل،</Translation>
+		<Translation lang="fr">Nous savons comment elle est censée marcher,</Translation>
+	</Segment>
+	<Segment id ="78" >
+		<Time-slot>00:03:28,390 --> 00:03:31,798</Time-slot>
+		<Original_text lang="en">so we can't suppose all the things that could be possible.</Original_text>
+		<Translation lang="ar">لذلك لا نستطيع ان نفترض كل الاشياء التي يمكن ان تكون ممكنة.</Translation>
+		<Translation lang="fr">donc, nous ne pouvons pas supposer tout ce qui pourrait être possible.</Translation>
+	</Segment>
+	<Segment id ="79" >
+		<Time-slot>00:03:31,798 --> 00:03:35,645</Time-slot>
+		<Original_text lang="en">So kids don't have as hard of a time with this,</Original_text>
+		<Translation lang="ar">لذلك الاطفال لا يجدون نفس الصعوبة مع هذا،</Translation>
+		<Translation lang="fr">Pour les enfants, ce n'est pas si difficile,</Translation>
+	</Segment>
+	<Segment id ="80" >
+		<Time-slot>00:03:35,645 --> 00:03:38,930</Time-slot>
+		<Original_text lang="en">and I saw in my own son, I gave him this book.</Original_text>
+		<Translation lang="ar">و قد شاهدت ذلك في ابني، اعطيته هذا الكتاب.</Translation>
+		<Translation lang="fr">et je l'ai vu avec mon fils, je lui ai donné ce livre.</Translation>
+	</Segment>
+	<Segment id ="81" >
+		<Time-slot>00:03:38,930 --> 00:03:41,138</Time-slot>
+		<Original_text lang="en">I'm a good hippie dad, so I'm like,</Original_text>
+		<Translation lang="ar">انا اب هيپي جيد، لذلك قد كنت،</Translation>
+		<Translation lang="fr">Je suis un bon papa hippy, donc je dis,</Translation>
+	</Segment>
+	<Segment id ="82" >
+		<Time-slot>00:03:41,138 --> 00:03:43,314</Time-slot>
+		<Original_text lang="en">"Okay, you're going to learn to love the moon.</Original_text>
+		<Translation lang="ar">"حسناً، سوف تتعلم ان تحب القمر.</Translation>
+		<Translation lang="fr">« Bon, tu vas apprendre à aimer la lune.</Translation>
+	</Segment>
+	<Segment id ="83" >
+		<Time-slot>00:03:43,314 --> 00:03:45,647</Time-slot>
+		<Original_text lang="en">I'm going to give you some building blocks</Original_text>
+		<Translation lang="ar">سأعطيك بعض مكعبات البناء</Translation>
+		<Translation lang="fr">Je vais te donner quelques blocs de construction,</Translation>
+	</Segment>
+	<Segment id ="84" >
+		<Time-slot>00:03:45,647 --> 00:03:48,798</Time-slot>
+		<Original_text lang="en">and they're nonrectilinear cactus building blocks,</Original_text>
+		<Translation lang="ar">و هي مكعبات بناء صبارية ليست مستقيمة الخطوط،</Translation>
+		<Translation lang="fr">ce sont des blocs de construction d'un cactus non rectiligne,</Translation>
+	</Segment>
+	<Segment id ="85" >
+		<Time-slot>00:03:48,798 --> 00:03:50,611</Time-slot>
+		<Original_text lang="en">so it's totally legit."</Original_text>
+		<Translation lang="ar">هكذا هى شرعية تماماً</Translation>
+		<Translation lang="fr">c'est donc tout à fait légitime. »</Translation>
+	</Segment>
+	<Segment id ="86" >
+		<Time-slot>00:03:50,611 --> 00:03:52,885</Time-slot>
+		<Original_text lang="en">But he doesn't really know what to do with these.</Original_text>
+		<Translation lang="ar">لكنه لا يعرف ماذا يفعل بها</Translation>
+		<Translation lang="fr">Mais il ne sait pas vraiment quoi en faire.</Translation>
+	</Segment>
+	<Segment id ="87" >
+		<Time-slot>00:03:52,885 --> 00:03:54,457</Time-slot>
+		<Original_text lang="en">I didn't show him.</Original_text>
+		<Translation lang="ar">لم اريه.</Translation>
+		<Translation lang="fr">Je ne lui ai pas montré.</Translation>
+	</Segment>
+	<Segment id ="88" >
+		<Time-slot>00:03:54,457 --> 00:03:55,966</Time-slot>
+		<Original_text lang="en">And so he's like, "Okay, I'll just mess around with this."</Original_text>
+		<Translation lang="ar">و هكذا قد كان، " حسناً، سوف اعبث بها."</Translation>
+		<Translation lang="fr">Et donc il dit, « D'accord, je vais juste bricoler. »</Translation>
+	</Segment>
+	<Segment id ="89" >
+		<Time-slot>00:03:55,966 --> 00:03:59,868</Time-slot>
+		<Original_text lang="en">This is no different than the sticks are to the teens in the forest.</Original_text>
+		<Translation lang="ar">و هذا لا يختلف عن الاعواد للمراهقين في الغابة.</Translation>
+		<Translation lang="fr">Ce n'est pas différent des bâtons dans la forêt pour les adolescents.</Translation>
+	</Segment>
+	<Segment id ="90" >
+		<Time-slot>00:03:59,868 --> 00:04:02,341</Time-slot>
+		<Original_text lang="en">Just going to try to put them in shapes</Original_text>
+		<Translation lang="ar">فقط سيحاول وضعها على الاشكال</Translation>
+		<Translation lang="fr">Il s'agit seulement d'essayer de faire des formes,</Translation>
+	</Segment>
+	<Segment id ="91" >
+		<Time-slot>00:04:02,341 --> 00:04:04,117</Time-slot>
+		<Original_text lang="en">and push on them and stuff.</Original_text>
+		<Translation lang="ar">و يضغط عليهم</Translation>
+		<Translation lang="fr">de pousser dessus etc.</Translation>
+	</Segment>
+	<Segment id ="92" >
+		<Time-slot>00:04:04,116 --> 00:04:06,780</Time-slot>
+		<Original_text lang="en">And before long, he's kind of got this mechanism</Original_text>
+		<Translation lang="ar">و قبل وقت طويل، نوعاً ما قد حصل على هذه الاَلية</Translation>
+		<Translation lang="fr">Et peu de temps après, il a compris le mécanisme</Translation>
+	</Segment>
+	<Segment id ="93" >
+		<Time-slot>00:04:06,781 --> 00:04:10,450</Time-slot>
+		<Original_text lang="en">where you can almost launch and catapult objects around,</Original_text>
+		<Translation lang="ar">حيث يمكنك انشاء و اطلاق الاغراض هنا و هناك</Translation>
+		<Translation lang="fr">par lequel on peut presque lancer et catapulter des objets,</Translation>
+	</Segment>
+	<Segment id ="94" >
+		<Time-slot>00:04:10,450 --> 00:04:12,715</Time-slot>
+		<Original_text lang="en">and he enlists us in helping him.</Original_text>
+		<Translation lang="ar">و ينتقينا لمساعدته.</Translation>
+		<Translation lang="fr">et il nous embauche pour qu'on l'aide.</Translation>
+	</Segment>
+	<Segment id ="95" >
+		<Time-slot>00:04:12,716 --> 00:04:14,651</Time-slot>
+		<Original_text lang="en">And at this point, I'm starting to wonder,</Original_text>
+		<Translation lang="ar">و في تلك النقطة، بدأت اتساءل،</Translation>
+		<Translation lang="fr">Et à ce stade, je commence à me demander,</Translation>
+	</Segment>
+	<Segment id ="96" >
+		<Time-slot>00:04:14,651 --> 00:04:17,451</Time-slot>
+		<Original_text lang="en">what kind of tools can we give people,</Original_text>
+		<Translation lang="ar">ما هو نوع الادوات التي يمكن ان نعطيها للناس،</Translation>
+		<Translation lang="fr">quel genre d'outils on peut donner aux gens,</Translation>
+	</Segment>
+	<Segment id ="97" >
+		<Time-slot>00:04:17,451 --> 00:04:20,406</Time-slot>
+		<Original_text lang="en">especially adults, who know too much,</Original_text>
+		<Translation lang="ar">خاصة الكبار، الذين يعلمون اكثر من اللازم،</Translation>
+		<Translation lang="fr">surtout aux adultes, qui savent trop,</Translation>
+	</Segment>
+	<Segment id ="98" >
+		<Time-slot>00:04:20,406 --> 00:04:22,697</Time-slot>
+		<Original_text lang="en">so that they can see the world as malleable,</Original_text>
+		<Translation lang="ar">حتى يمكنهم رؤية العالم كقبّال للتغيير</Translation>
+		<Translation lang="fr">afin qu'ils puissent considérer que le monde est malléable,</Translation>
+	</Segment>
+	<Segment id ="99" >
+		<Time-slot>00:04:22,697 --> 00:04:24,173</Time-slot>
+		<Original_text lang="en">so they see themselves as agents of change</Original_text>
+		<Translation lang="ar">حتى يروا انفسهم كعوامل للتغيير</Translation>
+		<Translation lang="fr">qu'ils puissent se voir en tant qu'agents du changement</Translation>
+	</Segment>
+	<Segment id ="100" >
+		<Time-slot>00:04:24,173 --> 00:04:25,635</Time-slot>
+		<Original_text lang="en">in their everyday lives.</Original_text>
+		<Translation lang="ar">في حياتهم اليومية.</Translation>
+		<Translation lang="fr">dans leur vie quotidienne.</Translation>
+	</Segment>
+	<Segment id ="101" >
+		<Time-slot>00:04:25,636 --> 00:04:28,122</Time-slot>
+		<Original_text lang="en">Because the most advanced scientists are really</Original_text>
+		<Translation lang="ar">ذلك لأن معظم العلماء المتقدمون هم في الحقيقة</Translation>
+		<Translation lang="fr">Parce que les scientifiques les plus avancés sont vraiment</Translation>
+	</Segment>
+	<Segment id ="102" >
+		<Time-slot>00:04:28,122 --> 00:04:30,854</Time-slot>
+		<Original_text lang="en">just kind of pushing the way the world itself works,</Original_text>
+		<Translation lang="ar">يضغطون على الطريقة التي يعمل بها العالم نفسه،</Translation>
+		<Translation lang="fr">en train de pousser un peu la façon dont le monde-même fonctionne,</Translation>
+	</Segment>
+	<Segment id ="103" >
+		<Time-slot>00:04:30,853 --> 00:04:32,031</Time-slot>
+		<Original_text lang="en">pushing what matter can do,</Original_text>
+		<Translation lang="ar">يضغطون على ما يمكن ان تعمله الماده،</Translation>
+		<Translation lang="fr">de pousser ce que peut faire la matière,</Translation>
+	</Segment>
+	<Segment id ="104" >
+		<Time-slot>00:04:32,031 --> 00:04:34,812</Time-slot>
+		<Original_text lang="en">the most advanced artists are just pushing the medium,</Original_text>
+		<Translation lang="ar">اكثر الفنانون تطوراً فقط يقومون بالضغط على الوسط،</Translation>
+		<Translation lang="fr">les artistes les plus avancés poussent la technique,</Translation>
+	</Segment>
+	<Segment id ="105" >
+		<Time-slot>00:04:34,812 --> 00:04:36,758</Time-slot>
+		<Original_text lang="en">and any sufficiently complicated task,</Original_text>
+		<Translation lang="ar">و اى مهمة معقدة بما فيه الكفاية،</Translation>
+		<Translation lang="fr">et n'importe quelle tâche suffisamment compliquée,</Translation>
+	</Segment>
+	<Segment id ="106" >
+		<Time-slot>00:04:36,757 --> 00:04:39,682</Time-slot>
+		<Original_text lang="en">whether you're a cook or a carpenter or you're raising a child --</Original_text>
+		<Translation lang="ar">سواء ان كنت طباخ او نجار او تربي طفلاً</Translation>
+		<Translation lang="fr">que vous soyez cuisinier ou menuisier ou que vous éleviez un enfant,</Translation>
+	</Segment>
+	<Segment id ="107" >
+		<Time-slot>00:04:39,682 --> 00:04:41,368</Time-slot>
+		<Original_text lang="en">anything that's complicated --</Original_text>
+		<Translation lang="ar">اي شئ معقد</Translation>
+		<Translation lang="fr">tout ce qui est compliqué,</Translation>
+	</Segment>
+	<Segment id ="108" >
+		<Time-slot>00:04:41,369 --> 00:04:43,896</Time-slot>
+		<Original_text lang="en">comes up with problems that aren't solved in the middle of it,</Original_text>
+		<Translation lang="ar">يأتي بمشاكل غير محلولة في داخلها،</Translation>
+		<Translation lang="fr">comporte en soi des problèmes non résolus,</Translation>
+	</Segment>
+	<Segment id ="109" >
+		<Time-slot>00:04:43,896 --> 00:04:47,222</Time-slot>
+		<Original_text lang="en">and you can't do a good job getting it done unless you can say,</Original_text>
+		<Translation lang="ar">و انت لا تستطيع ان تعمل عملاً جيداً بدون ان تقول،</Translation>
+		<Translation lang="fr">et on ne peut pas bien le faire sans pouvoir dire,</Translation>
+	</Segment>
+	<Segment id ="110" >
+		<Time-slot>00:04:47,221 --> 00:04:49,349</Time-slot>
+		<Original_text lang="en">"Okay, well we're just going to have to refigure this.</Original_text>
+		<Translation lang="ar">"حسناً، يجب علينا ان نعيد فهم هذا.</Translation>
+		<Translation lang="fr">« Bon, eh bien on va juste devoir repenser ça.</Translation>
+	</Segment>
+	<Segment id ="111" >
+		<Time-slot>00:04:49,350 --> 00:04:52,028</Time-slot>
+		<Original_text lang="en">I don't care that pencils are supposed to be for writing.</Original_text>
+		<Translation lang="ar">لا اهتم ان كانت الاقلام يفترض ان نكتب بها.</Translation>
+		<Translation lang="fr">Peu importe si les crayons sont censés être fait pour écrire.</Translation>
+	</Segment>
+	<Segment id ="112" >
+		<Time-slot>00:04:52,028 --> 00:04:54,213</Time-slot>
+		<Original_text lang="en">I'm going to use them a different way."</Original_text>
+		<Translation lang="ar">سوف اقوم بإستعمالها بطريقة اخرى."</Translation>
+		<Translation lang="fr">Je vais les utiliser différemment. »</Translation>
+	</Segment>
+	<Segment id ="113" >
+		<Time-slot>00:04:54,213 --> 00:04:59,012</Time-slot>
+		<Original_text lang="en">So let me show you a little demo.</Original_text>
+		<Translation lang="ar">فدعني اريك عرض صغير.</Translation>
+		<Translation lang="fr">Permettez-moi de vous montrer une petite démo.</Translation>
+	</Segment>
+	<Segment id ="114" >
+		<Time-slot>00:04:59,012 --> 00:05:03,574</Time-slot>
+		<Original_text lang="en">This is a little piano circuit right in here,</Original_text>
+		<Translation lang="ar">هذه دائرة كهربية لبيانو صغير،</Translation>
+		<Translation lang="fr">Voici un petit circuit de piano,</Translation>
+	</Segment>
+	<Segment id ="115" >
+		<Time-slot>00:05:03,574 --> 00:05:05,665</Time-slot>
+		<Original_text lang="en">and this is an ordinary paintbrush</Original_text>
+		<Translation lang="ar">و هذه فرشاة تلوين عادية</Translation>
+		<Translation lang="fr">et ceci est un pinceau ordinaire,</Translation>
+	</Segment>
+	<Segment id ="116" >
+		<Time-slot>00:05:05,665 --> 00:05:08,661</Time-slot>
+		<Original_text lang="en">that I smashed it together with. (Beeping)</Original_text>
+		<Translation lang="ar">و التي قمت بضغطها مع بعضها ب. (بيييب)</Translation>
+		<Translation lang="fr">je les ai assemblés. (Bip)</Translation>
+	</Segment>
+	<Segment id ="117" >
+		<Time-slot>00:05:08,661 --> 00:05:10,524</Time-slot>
+		<Original_text lang="en">And so, with some ketchup,</Original_text>
+		<Translation lang="ar">و هكذا، ببعض الكاتشب،</Translation>
+		<Translation lang="fr">Et donc avec un peu de ketchup,</Translation>
+	</Segment>
+	<Segment id ="118" >
+		<Time-slot>00:05:10,524 --> 00:05:13,997</Time-slot>
+		<Original_text lang="en">— (musical notes) —</Original_text>
+		<Translation lang="ar">(نوتة موسيقية)</Translation>
+		<Translation lang="fr">-- (notes de musique) --</Translation>
+	</Segment>
+	<Segment id ="119" >
+		<Time-slot>00:05:13,997 --> 00:05:15,286</Time-slot>
+		<Original_text lang="en">and then I can kind of</Original_text>
+		<Translation lang="ar">و عندها نوعاً ما استطيع</Translation>
+		<Translation lang="fr">et puis je peux</Translation>
+	</Segment>
+	<Segment id ="120" >
+		<Time-slot>00:05:15,286 --> 00:05:21,781</Time-slot>
+		<Original_text lang="en">— (musical notes) —</Original_text>
+		<Translation lang="ar">(نوتة موسيقية)</Translation>
+		<Translation lang="fr">-- (notes de musique) --</Translation>
+	</Segment>
+	<Segment id ="121" >
+		<Time-slot>00:05:21,781 --> 00:05:23,740</Time-slot>
+		<Original_text lang="en">(Laughter) (Applause)</Original_text>
+		<Translation lang="ar">(ضحك) (تصفييق)</Translation>
+		<Translation lang="fr">(Rires) (Applaudissements)</Translation>
+	</Segment>
+	<Segment id ="122" >
+		<Time-slot>00:05:23,740 --> 00:05:26,463</Time-slot>
+		<Original_text lang="en">And that's awesome, right?</Original_text>
+		<Translation lang="ar">و هذا رائع، اليس كذلك؟</Translation>
+		<Translation lang="fr">Et c'est génial, non ?</Translation>
+	</Segment>
+	<Segment id ="123" >
+		<Time-slot>00:05:26,463 --> 00:05:27,774</Time-slot>
+		<Original_text lang="en">But this is not what's awesome.</Original_text>
+		<Translation lang="ar">لكن الرائع ليس هذا.</Translation>
+		<Translation lang="fr">Mais ce n'est pas ça qui est génial.</Translation>
+	</Segment>
+	<Segment id ="124" >
+		<Time-slot>00:05:27,774 --> 00:05:29,336</Time-slot>
+		<Original_text lang="en">What's awesome is what happens</Original_text>
+		<Translation lang="ar">الرائع الذي يحدث</Translation>
+		<Translation lang="fr">Ce qui est génial, c'est ce qui se passe</Translation>
+	</Segment>
+	<Segment id ="125" >
+		<Time-slot>00:05:29,336 --> 00:05:32,754</Time-slot>
+		<Original_text lang="en">when you give the piano circuit to people.</Original_text>
+		<Translation lang="ar">عندما تعطي دائرة البيانو الكهربية للأشخاص.</Translation>
+		<Translation lang="fr">quand vous donnez le circuit de piano aux gens.</Translation>
+	</Segment>
+	<Segment id ="126" >
+		<Time-slot>00:05:32,754 --> 00:05:34,137</Time-slot>
+		<Original_text lang="en">A pencil is not just a pencil.</Original_text>
+		<Translation lang="ar">قلم الرصاص ليس فقط قلم رصاص</Translation>
+		<Translation lang="fr">Un crayon n'est pas qu'un crayon.</Translation>
+	</Segment>
+	<Segment id ="127" >
+		<Time-slot>00:05:34,137 --> 00:05:35,805</Time-slot>
+		<Original_text lang="en">Look what it has in the middle of it.</Original_text>
+		<Translation lang="ar">انظر لمنتصفه.</Translation>
+		<Translation lang="fr">Regardez ce qu'il a au milieu.</Translation>
+	</Segment>
+	<Segment id ="128" >
+		<Time-slot>00:05:35,805 --> 00:05:38,557</Time-slot>
+		<Original_text lang="en">That's a wire running down the middle,</Original_text>
+		<Translation lang="ar">هذا سلك في منتصفه،</Translation>
+		<Translation lang="fr">C'est un fil qui passe au milieu,</Translation>
+	</Segment>
+	<Segment id ="129" >
+		<Time-slot>00:05:38,557 --> 00:05:39,998</Time-slot>
+		<Original_text lang="en">and not only is it a wire,</Original_text>
+		<Translation lang="ar">و ليس فقط سلك</Translation>
+		<Translation lang="fr">et non seulement c'est un fil,</Translation>
+	</Segment>
+	<Segment id ="130" >
+		<Time-slot>00:05:39,999 --> 00:05:42,359</Time-slot>
+		<Original_text lang="en">if you take that piano circuit, you can thumbtack</Original_text>
+		<Translation lang="ar">اذا اخذت دائرة البيانو، يمكنك وضعها و لصقها</Translation>
+		<Translation lang="fr">si vous prenez ce circuit de piano, vous pouvez le punaiser</Translation>
+	</Segment>
+	<Segment id ="131" >
+		<Time-slot>00:05:42,358 --> 00:05:44,298</Time-slot>
+		<Original_text lang="en">into the middle of a pencil,</Original_text>
+		<Translation lang="ar">بداخل منتصف قلم الرصاص</Translation>
+		<Translation lang="fr">au milieu d'un crayon,</Translation>
+	</Segment>
+	<Segment id ="132" >
+		<Time-slot>00:05:44,298 --> 00:05:47,218</Time-slot>
+		<Original_text lang="en">and you can lay out wire on the page, too,</Original_text>
+		<Translation lang="ar">و يمكنك وضع سلك على الصفحة ايضاً،</Translation>
+		<Translation lang="fr">et vous pouvez aussi poser du fil sur la page,</Translation>
+	</Segment>
+	<Segment id ="133" >
+		<Time-slot>00:05:47,218 --> 00:05:49,639</Time-slot>
+		<Original_text lang="en">and get electrical current to run through it.</Original_text>
+		<Translation lang="ar">و تمرير تيار كهربي عبرها</Translation>
+		<Translation lang="fr">et y faire courir un courant électrique.</Translation>
+	</Segment>
+	<Segment id ="134" >
+		<Time-slot>00:05:49,639 --> 00:05:51,521</Time-slot>
+		<Original_text lang="en">And so you can kind of hack a pencil,</Original_text>
+		<Translation lang="ar">و هكذا يمكنك اختراق (هاك) قلم الرصاص نوعاً ما،</Translation>
+		<Translation lang="fr">En quelque sorte vous pouvez donc hacker un crayon,</Translation>
+	</Segment>
+	<Segment id ="135" >
+		<Time-slot>00:05:51,521 --> 00:05:57,042</Time-slot>
+		<Original_text lang="en">just by thumbtacking into it with a little piano electrical circuit.</Original_text>
+		<Translation lang="ar">فقط بوضع دائرة كهربية لبيانو صغير.</Translation>
+		<Translation lang="fr">juste en punaisant à l'intérieur un petit circuit électrique de piano.</Translation>
+	</Segment>
+	<Segment id ="136" >
+		<Time-slot>00:05:57,041 --> 00:05:58,981</Time-slot>
+		<Original_text lang="en">And the electricity runs through your body too.</Original_text>
+		<Translation lang="ar">و تمر الكهرباء عبر جسدك ايضاً.</Translation>
+		<Translation lang="fr">Et l'électricité traverse aussi votre corps.</Translation>
+	</Segment>
+	<Segment id ="137" >
+		<Time-slot>00:05:58,982 --> 00:06:02,328</Time-slot>
+		<Original_text lang="en">And then you can take the little piano circuit off the pencil.</Original_text>
+		<Translation lang="ar">و عندها تستطيع اخذ دائرة البيانو الصغير من قلم الرصاص.</Translation>
+		<Translation lang="fr">Et ensuite vous pouvez enlever le petit circuit de piano du crayon.</Translation>
+	</Segment>
+	<Segment id ="138" >
+		<Time-slot>00:06:02,327 --> 00:06:05,781</Time-slot>
+		<Original_text lang="en">You can make one of these brushes just on the fly.</Original_text>
+		<Translation lang="ar">يمكنك صنع احد هذه الفرش على الطاير.</Translation>
+		<Translation lang="fr">Vous pouvez fabriquer un de ces pinceaux, à la volée.</Translation>
+	</Segment>
+	<Segment id ="139" >
+		<Time-slot>00:06:05,781 --> 00:06:07,588</Time-slot>
+		<Original_text lang="en">All you do is connect to the bristles,</Original_text>
+		<Translation lang="ar">كل ما عليك فعله هو توصيل الشعيرات،</Translation>
+		<Translation lang="fr">Vous le connectez tout simplement aux poils,</Translation>
+	</Segment>
+	<Segment id ="140" >
+		<Time-slot>00:06:07,588 --> 00:06:09,581</Time-slot>
+		<Original_text lang="en">and the bristles are wet, so they conduct,</Original_text>
+		<Translation lang="ar">و الشعيرات مبللة لذلك توصل لاكهرباء،</Translation>
+		<Translation lang="fr">et les poils sont humides, donc ils sont conducteurs,</Translation>
+	</Segment>
+	<Segment id ="141" >
+		<Time-slot>00:06:09,581 --> 00:06:12,150</Time-slot>
+		<Original_text lang="en">and the person's body conducts,</Original_text>
+		<Translation lang="ar">و جسم الانسان يوصل ايضاً،</Translation>
+		<Translation lang="fr">et le corps d'une personne est conducteur,</Translation>
+	</Segment>
+	<Segment id ="142" >
+		<Time-slot>00:06:12,149 --> 00:06:14,149</Time-slot>
+		<Original_text lang="en">and leather is great to paint on,</Original_text>
+		<Translation lang="ar">و الجلد جيد للتلوين عليه،</Translation>
+		<Translation lang="fr">et le cuir est un support idéal pour peindre</Translation>
+	</Segment>
+	<Segment id ="143" >
+		<Time-slot>00:06:14,149 --> 00:06:16,853</Time-slot>
+		<Original_text lang="en">and then you can start hooking to everything,</Original_text>
+		<Translation lang="ar">و عندها يمكنك التوصيل بأي شئ،</Translation>
+		<Translation lang="fr">et ensuite vous pouvez commencer à vous attacher à tout,</Translation>
+	</Segment>
+	<Segment id ="144" >
+		<Time-slot>00:06:16,853 --> 00:06:17,848</Time-slot>
+		<Original_text lang="en">even the kitchen sink.</Original_text>
+		<Translation lang="ar">حتى حوض المطبخ.</Translation>
+		<Translation lang="fr">même à l'évier de la cuisine.</Translation>
+	</Segment>
+	<Segment id ="145" >
+		<Time-slot>00:06:17,848 --> 00:06:19,767</Time-slot>
+		<Original_text lang="en">The metal in the sink is conductive.</Original_text>
+		<Translation lang="ar">المعدن الموجود في الحوض موصل.</Translation>
+		<Translation lang="fr">Le métal dans l'évier est conducteur.</Translation>
+	</Segment>
+	<Segment id ="146" >
+		<Time-slot>00:06:19,767 --> 00:06:23,320</Time-slot>
+		<Original_text lang="en">Flowing water acts like a theremin or a violin.</Original_text>
+		<Translation lang="ar">الماء الجاري يعمل مثل آلة الكمان.</Translation>
+		<Translation lang="fr">L'eau courante agit comme un thérémine, ou un violon.</Translation>
+	</Segment>
+	<Segment id ="147" >
+		<Time-slot>00:06:23,321 --> 00:06:28,303</Time-slot>
+		<Original_text lang="en">(Musical notes)</Original_text>
+		<Translation lang="ar">(نوتة موسيقية)</Translation>
+		<Translation lang="fr">(Notes de musique)</Translation>
+	</Segment>
+	<Segment id ="148" >
+		<Time-slot>00:06:28,302 --> 00:06:29,557</Time-slot>
+		<Original_text lang="en">And you can even hook to the trees.</Original_text>
+		<Translation lang="ar">يمكنك ايضاً التوصيل بالاشجار.</Translation>
+		<Translation lang="fr">Et vous pouvez même vous brancher aux arbres.</Translation>
+	</Segment>
+	<Segment id ="149" >
+		<Time-slot>00:06:29,557 --> 00:06:32,953</Time-slot>
+		<Original_text lang="en">Anything in the world is either conductive or not conductive,</Original_text>
+		<Translation lang="ar">اي شئ في العالم اما موصل او غير موصل،</Translation>
+		<Translation lang="fr">Tout dans le monde est soit conducteur, soit conducteur,</Translation>
+	</Segment>
+	<Segment id ="150" >
+		<Time-slot>00:06:32,952 --> 00:06:34,726</Time-slot>
+		<Original_text lang="en">and you can use those together.</Original_text>
+		<Translation lang="ar">يمكنك استخدامهم سوياً.</Translation>
+		<Translation lang="fr">et vous pouvez les utiliser ensemble.</Translation>
+	</Segment>
+	<Segment id ="151" >
+		<Time-slot>00:06:34,726 --> 00:06:36,182</Time-slot>
+		<Original_text lang="en">So — (Laughter) —</Original_text>
+		<Translation lang="ar">حتى... (ضحك)</Translation>
+		<Translation lang="fr">Ainsi -- (Rires) --</Translation>
+	</Segment>
+	<Segment id ="152" >
+		<Time-slot>00:06:36,182 --> 00:06:39,337</Time-slot>
+		<Original_text lang="en">I took this to those same teens, because those teens are</Original_text>
+		<Translation lang="ar">اخذت هذا لنفس المراهقين، لأنهم..</Translation>
+		<Translation lang="fr">J'ai donné ça aux mêmes adolescents, parce que ces adolescents sont</Translation>
+	</Segment>
+	<Segment id ="153" >
+		<Time-slot>00:06:39,338 --> 00:06:41,795</Time-slot>
+		<Original_text lang="en">really awesome, and they'll try things that I won't try.</Original_text>
+		<Translation lang="ar">حقاً رائعون، سيجربون اشياء لن اجربها.</Translation>
+		<Translation lang="fr">vraiment géniaux, et ils essayent des choses que je n'essaierai pas.</Translation>
+	</Segment>
+	<Segment id ="154" >
+		<Time-slot>00:06:41,795 --> 00:06:44,778</Time-slot>
+		<Original_text lang="en">I don't even have access to a facial piercing if I wanted to.</Original_text>
+		<Translation lang="ar">انا حتى لا املك الوصول الى ثقب الوجه ان اردت.</Translation>
+		<Translation lang="fr">Je n'ai même pas accès à un piercing du visage si je voulais.</Translation>
+	</Segment>
+	<Segment id ="155" >
+		<Time-slot>00:06:44,778 --> 00:06:48,799</Time-slot>
+		<Original_text lang="en">And this young woman, she made what she called a hula-looper,</Original_text>
+		<Translation lang="ar">و هذه المرأة الشابة، صنعت ما تسميه (هولا لوبر)،</Translation>
+		<Translation lang="fr">Et cette jeune femme, elle a fait ce qu'elle appelle un hula-looper,</Translation>
+	</Segment>
+	<Segment id ="156" >
+		<Time-slot>00:06:48,798 --> 00:06:51,211</Time-slot>
+		<Original_text lang="en">and as the hula hoop traveled around her body,</Original_text>
+		<Translation lang="ar">و كما تحركت طارة الهولا حول جسدها،</Translation>
+		<Translation lang="fr">et pendant que le hula hoop tourne autour de son corps,</Translation>
+	</Segment>
+	<Segment id ="157" >
+		<Time-slot>00:06:51,211 --> 00:06:53,983</Time-slot>
+		<Original_text lang="en">she has a circuit taped to her shirt right there.</Original_text>
+		<Translation lang="ar">لديها دائرة ملصقة حول قميصها،</Translation>
+		<Translation lang="fr">elle a un circuit scotché à sa chemise, là.</Translation>
+	</Segment>
+	<Segment id ="158" >
+		<Time-slot>00:06:53,983 --> 00:06:56,024</Time-slot>
+		<Original_text lang="en">You can see her pointing to it in the picture.</Original_text>
+		<Translation lang="ar">يمكنك رؤيتها تشير الى الدائرة في الصورة.</Translation>
+		<Translation lang="fr">Vous voyez qu'elle le montre avec le doigt dans l'image.</Translation>
+	</Segment>
+	<Segment id ="159" >
+		<Time-slot>00:06:56,024 --> 00:06:58,439</Time-slot>
+		<Original_text lang="en">And every time the hula hoop would smush against her body,</Original_text>
+		<Translation lang="ar">و كل ما تضغط الطارة على الدائرة الكهربية،</Translation>
+		<Translation lang="fr">Et chaque fois que le hula hoop passe sur son corps,</Translation>
+	</Segment>
+	<Segment id ="160" >
+		<Time-slot>00:06:58,439 --> 00:07:00,622</Time-slot>
+		<Original_text lang="en">it would connect two little pieces of copper tape,</Original_text>
+		<Translation lang="ar">تتوصل قطعتان من شريط النحاس</Translation>
+		<Translation lang="fr">il connecte deux petits morceaux de cuivre,</Translation>
+	</Segment>
+	<Segment id ="161" >
+		<Time-slot>00:07:00,622 --> 00:07:02,358</Time-slot>
+		<Original_text lang="en">and it would make a sound, and the next sound,</Original_text>
+		<Translation lang="ar">و تصدر صوتاً،</Translation>
+		<Translation lang="fr">et il produit un son, et puis un autre son,</Translation>
+	</Segment>
+	<Segment id ="162" >
+		<Time-slot>00:07:02,358 --> 00:07:04,894</Time-slot>
+		<Original_text lang="en">and it would loop the same sounds over and over again.</Original_text>
+		<Translation lang="ar">و يتكرر نفس الصوت كل مرة</Translation>
+		<Translation lang="fr">et il produit en boucle les mêmes sons encore et encore.</Translation>
+	</Segment>
+	<Segment id ="163" >
+		<Time-slot>00:07:04,894 --> 00:07:06,823</Time-slot>
+		<Original_text lang="en">I ran these workshops everywhere.</Original_text>
+		<Translation lang="ar">قمت بإدارة هذه الورشة في كل مكان</Translation>
+		<Translation lang="fr">J'ai fait ces ateliers partout.</Translation>
+	</Segment>
+	<Segment id ="164" >
+		<Time-slot>00:07:06,824 --> 00:07:09,834</Time-slot>
+		<Original_text lang="en">In Taiwan, at an art museum, this 12-year-old girl</Original_text>
+		<Translation lang="ar">في تايوان، في متحف فني، هذه الفتاة ذات الـ 12 عاماً</Translation>
+		<Translation lang="fr">À Taïwan, dans un musée d'art, cette fille de 12 ans</Translation>
+	</Segment>
+	<Segment id ="165" >
+		<Time-slot>00:07:09,834 --> 00:07:13,495</Time-slot>
+		<Original_text lang="en">made a mushroom organ out of some mushrooms that were from Taiwan</Original_text>
+		<Translation lang="ar">صنعت اورقان عش الغراب (فطر) من اعشاش غراب من تايوان</Translation>
+		<Translation lang="fr">a fait un orgue de champignons à partir de champignons qui provenaient de Taiwan,</Translation>
+	</Segment>
+	<Segment id ="166" >
+		<Time-slot>00:07:13,495 --> 00:07:15,279</Time-slot>
+		<Original_text lang="en">and some electrical tape and hot glue.</Original_text>
+		<Translation lang="ar">و شريط كهرباء و بعض الصمغ الساخن.</Translation>
+		<Translation lang="fr">de ruban isolant et de colle chaude.</Translation>
+	</Segment>
+	<Segment id ="167" >
+		<Time-slot>00:07:15,279 --> 00:07:17,360</Time-slot>
+		<Original_text lang="en">And professional designers were making artifacts</Original_text>
+		<Translation lang="ar">و المصممون المحترفون كانوا يصنعون تحف فنية</Translation>
+		<Translation lang="fr">Et les designers professionnels faisaient des objets</Translation>
+	</Segment>
+	<Segment id ="168" >
+		<Time-slot>00:07:17,360 --> 00:07:19,139</Time-slot>
+		<Original_text lang="en">with this thing strapped onto it.</Original_text>
+		<Translation lang="ar">بهذا الشئ مدبس حوله.</Translation>
+		<Translation lang="fr">avec ce truc attaché dessus.</Translation>
+	</Segment>
+	<Segment id ="169" >
+		<Time-slot>00:07:19,139 --> 00:07:21,353</Time-slot>
+		<Original_text lang="en">And big companies like Intel</Original_text>
+		<Translation lang="ar">و شركات كبيرة كشركة آنتل</Translation>
+		<Translation lang="fr">Et de grandes entreprises comme Intel,</Translation>
+	</Segment>
+	<Segment id ="170" >
+		<Time-slot>00:07:21,353 --> 00:07:25,007</Time-slot>
+		<Original_text lang="en">or smaller design firms like Ideo or startups like Bump,</Original_text>
+		<Translation lang="ar">او اخرى اصغر كـ إديو او شركات جديدة كـ بمپ،</Translation>
+		<Translation lang="fr">de plus petites entreprise comme Ideo ou des startups comme Bump,</Translation>
+	</Segment>
+	<Segment id ="171" >
+		<Time-slot>00:07:25,007 --> 00:07:26,559</Time-slot>
+		<Original_text lang="en">were inviting me to give workshops,</Original_text>
+		<Translation lang="ar">كانوا يدعونني لأعطي ورشات عمل</Translation>
+		<Translation lang="fr">m'ont invité à tenir des ateliers,</Translation>
+	</Segment>
+	<Segment id ="172" >
+		<Time-slot>00:07:26,559 --> 00:07:28,954</Time-slot>
+		<Original_text lang="en">just to practice this idea of smashing electronics</Original_text>
+		<Translation lang="ar">فقط لتدريب فكرة خلط الالكترونيات</Translation>
+		<Translation lang="fr">rien que pour exercer cette idée de mélanger l'électronique</Translation>
+	</Segment>
+	<Segment id ="173" >
+		<Time-slot>00:07:28,954 --> 00:07:30,786</Time-slot>
+		<Original_text lang="en">and everyday objects together.</Original_text>
+		<Translation lang="ar">بالأغراض اليومية</Translation>
+		<Translation lang="fr">et les objets du quotidien.</Translation>
+	</Segment>
+	<Segment id ="174" >
+		<Time-slot>00:07:30,786 --> 00:07:33,447</Time-slot>
+		<Original_text lang="en">And then we came up with this idea</Original_text>
+		<Translation lang="ar">و عندها توصلنا على هذه الفكرة</Translation>
+		<Translation lang="fr">Et ensuite nous avons eu l'idée</Translation>
+	</Segment>
+	<Segment id ="175" >
+		<Time-slot>00:07:33,447 --> 00:07:35,235</Time-slot>
+		<Original_text lang="en">to not just use electronics,</Original_text>
+		<Translation lang="ar">ليس فقط استخدام الالكترونيات،</Translation>
+		<Translation lang="fr">de ne pas simplement utiliser de l'électronique,</Translation>
+	</Segment>
+	<Segment id ="176" >
+		<Time-slot>00:07:35,235 --> 00:07:38,206</Time-slot>
+		<Original_text lang="en">but let's just smash computers with everyday objects</Original_text>
+		<Translation lang="ar">لكن خلط الحاسوب بالاغراض اليومية</Translation>
+		<Translation lang="fr">mais d'assembler des ordinateurs avec les objets du quotidien</Translation>
+	</Segment>
+	<Segment id ="177" >
+		<Time-slot>00:07:38,206 --> 00:07:40,766</Time-slot>
+		<Original_text lang="en">and see how that goes over.</Original_text>
+		<Translation lang="ar">و مشاهدة ما سيحدث</Translation>
+		<Translation lang="fr">et voir comment ça se passe.</Translation>
+	</Segment>
+	<Segment id ="178" >
+		<Time-slot>00:07:40,766 --> 00:07:44,365</Time-slot>
+		<Original_text lang="en">And so I just want to do a quick demo.</Original_text>
+		<Translation lang="ar">و هكذا فقط اردت ان اقوم بعرض سريع.</Translation>
+		<Translation lang="fr">Je veux juste faire une démonstration rapide.</Translation>
+	</Segment>
+	<Segment id ="179" >
+		<Time-slot>00:07:44,365 --> 00:07:46,990</Time-slot>
+		<Original_text lang="en">So this is the MaKey MaKey circuit,</Original_text>
+		<Translation lang="ar">هذه دائرة ماكيي ماكيي</Translation>
+		<Translation lang="fr">Voici le circuit MaKey MaKey,</Translation>
+	</Segment>
+	<Segment id ="180" >
+		<Time-slot>00:07:46,990 --> 00:07:49,889</Time-slot>
+		<Original_text lang="en">and I'm just going to set it up from the beginning in front of you.</Original_text>
+		<Translation lang="ar">سأقوم بتركيبها من البداية امامكم.</Translation>
+		<Translation lang="fr">et je vais le monter entièrement devant vous.</Translation>
+	</Segment>
+	<Segment id ="181" >
+		<Time-slot>00:07:49,889 --> 00:07:53,923</Time-slot>
+		<Original_text lang="en">So I'll just plug it in, and now it's on by USB.</Original_text>
+		<Translation lang="ar">سأقوم بتوصيلها، الان هي موصلة بواسطة (USB)</Translation>
+		<Translation lang="fr">Donc je vais le brancher, et maintenant il est activé par l'USB.</Translation>
+	</Segment>
+	<Segment id ="182" >
+		<Time-slot>00:07:53,923 --> 00:07:56,560</Time-slot>
+		<Original_text lang="en">And I'll just hook up the forward arrow.</Original_text>
+		<Translation lang="ar">و سأقوم فقط بتوصيل السهم الامامي.</Translation>
+		<Translation lang="fr">Et je vais connecter la flèche vers l'avant.</Translation>
+	</Segment>
+	<Segment id ="183" >
+		<Time-slot>00:07:56,560 --> 00:08:00,999</Time-slot>
+		<Original_text lang="en">You guys are facing that way, so I'll hook it to this one.</Original_text>
+		<Translation lang="ar">انتم مواجهون تلك الناحية، لذا سأوصل هذه.</Translation>
+		<Translation lang="fr">Vous regardez dans cette direction, donc je vais l'accrocher à celle-ci.</Translation>
+	</Segment>
+	<Segment id ="184" >
+		<Time-slot>00:08:00,999 --> 00:08:03,646</Time-slot>
+		<Original_text lang="en">And I'll just hook up a little ground wire to it.</Original_text>
+		<Translation lang="ar">و سأقوم بتأريضه</Translation>
+		<Translation lang="fr">Et je vais lui brancher un petit fil de mise à la terre.</Translation>
+	</Segment>
+	<Segment id ="185" >
+		<Time-slot>00:08:03,646 --> 00:08:06,170</Time-slot>
+		<Original_text lang="en">And now, if I touch this piece of pizza,</Original_text>
+		<Translation lang="ar">الان، اذا لمست قطعة البيزا هذه</Translation>
+		<Translation lang="fr">Et maintenant, si je touche ce morceau de pizza,</Translation>
+	</Segment>
+	<Segment id ="186" >
+		<Time-slot>00:08:06,170 --> 00:08:09,235</Time-slot>
+		<Original_text lang="en">the slides that I showed you before should go forward.</Original_text>
+		<Translation lang="ar">الشرائح التي اريتكم اياها من قبل ستتحرك للأمام.</Translation>
+		<Translation lang="fr">les diapositives que je vous ai montrées avant devraient avancer.</Translation>
+	</Segment>
+	<Segment id ="187" >
+		<Time-slot>00:08:09,235 --> 00:08:12,667</Time-slot>
+		<Original_text lang="en">And now if I hook up this wire just by connecting it</Original_text>
+		<Translation lang="ar">و الآن اذا قمت بتوصيل هذا السلك</Translation>
+		<Translation lang="fr">Et maintenant, si je branche ce fil en le connectant</Translation>
+	</Segment>
+	<Segment id ="188" >
+		<Time-slot>00:08:12,666 --> 00:08:15,938</Time-slot>
+		<Original_text lang="en">to the left arrow, I'm kind of programming it by where I hook it up,</Original_text>
+		<Translation lang="ar">الى السهم اليسار، انا اقوم ببرمجته نوعاً ما بالمكان الذي اقوم بالتوصيل منه،</Translation>
+		<Translation lang="fr">à la flèche vers la gauche, je le programme en quelque sorte selon où je le branche,</Translation>
+	</Segment>
+	<Segment id ="189" >
+		<Time-slot>00:08:15,939 --> 00:08:18,960</Time-slot>
+		<Original_text lang="en">now I have a left arrow and a right arrow,</Original_text>
+		<Translation lang="ar">الان لدي سهم يسار و سهم يمين،</Translation>
+		<Translation lang="fr">maintenant j'ai une flèche vers la gauche et une flèche vers la droite,</Translation>
+	</Segment>
+	<Segment id ="190" >
+		<Time-slot>00:08:18,959 --> 00:08:21,159</Time-slot>
+		<Original_text lang="en">so I should be able to go forwards and backwards</Original_text>
+		<Translation lang="ar">لذلك ينبغي ان تكون قادرة على التحرك الى الامام و الى الخلف</Translation>
+		<Translation lang="fr">donc je devrais être capable d'aller en avant et en arrière</Translation>
+	</Segment>
+	<Segment id ="191" >
+		<Time-slot>00:08:21,160 --> 00:08:24,264</Time-slot>
+		<Original_text lang="en">and forwards and backwards. Awesome.</Original_text>
+		<Translation lang="ar">و الى الامام و الى الخلف، رائع.</Translation>
+		<Translation lang="fr">et en avant et en arrière. Génial.</Translation>
+	</Segment>
+	<Segment id ="192" >
+		<Time-slot>00:08:24,264 --> 00:08:26,807</Time-slot>
+		<Original_text lang="en">And so we're like, "We gotta put a video out about this."</Original_text>
+		<Translation lang="ar">و هكذا قد كنا ك "يجب وضع ڨديو عن هذا."</Translation>
+		<Translation lang="fr">Et donc, « Nous devons en faire une vidéo. »</Translation>
+	</Segment>
+	<Segment id ="193" >
+		<Time-slot>00:08:26,807 --> 00:08:29,375</Time-slot>
+		<Original_text lang="en">Because no one really believed that this was important</Original_text>
+		<Translation lang="ar">لأنه لم يكن هنالك شخص يؤمن ان هذا مهم</Translation>
+		<Translation lang="fr">Parce que personne ne croyait vraiment que c'était important</Translation>
+	</Segment>
+	<Segment id ="194" >
+		<Time-slot>00:08:29,375 --> 00:08:32,355</Time-slot>
+		<Original_text lang="en">or meaningful except me and, like, one other guy.</Original_text>
+		<Translation lang="ar">أو أنه ذا معنى في ما عداي و شخص آخر.</Translation>
+		<Translation lang="fr">ou significatif sauf moi et un autre gars.</Translation>
+	</Segment>
+	<Segment id ="195" >
+		<Time-slot>00:08:32,355 --> 00:08:34,039</Time-slot>
+		<Original_text lang="en">So we made a video to prove that</Original_text>
+		<Translation lang="ar">لذا قمنا بتصوير فيديو لأثبات ان</Translation>
+		<Translation lang="fr">Donc, nous avons fait une vidéo pour prouver</Translation>
+	</Segment>
+	<Segment id ="196" >
+		<Time-slot>00:08:34,039 --> 00:08:35,579</Time-slot>
+		<Original_text lang="en">there's lots of stuff you can do.</Original_text>
+		<Translation lang="ar">هنالك كثير من الاشياء يمكنك عملها.</Translation>
+		<Translation lang="fr">qu'on peut faire beaucoup de choses.</Translation>
+	</Segment>
+	<Segment id ="197" >
+		<Time-slot>00:08:35,580 --> 00:08:37,612</Time-slot>
+		<Original_text lang="en">You can kind of sketch with Play-Doh</Original_text>
+		<Translation lang="ar">يمكنك ان ترسم بإستخدام (play Doh)</Translation>
+		<Translation lang="fr">On peut dessiner avec de la pâte à modeler</Translation>
+	</Segment>
+	<Segment id ="198" >
+		<Time-slot>00:08:37,611 --> 00:08:41,545</Time-slot>
+		<Original_text lang="en">and just Google for game controllers.</Original_text>
+		<Translation lang="ar">و فقط قوقل لوحدات التحكم في اللعبة.</Translation>
+		<Translation lang="fr">et chercher sur Google des contrôleurs de jeu.</Translation>
+	</Segment>
+	<Segment id ="199" >
+		<Time-slot>00:08:41,546 --> 00:08:44,233</Time-slot>
+		<Original_text lang="en">Just ordinary Play-Doh, nothing special.</Original_text>
+		<Translation lang="ar">فقط (Play Doh) عادية، لا شئ اكثر</Translation>
+		<Translation lang="fr">De la pâte à modeler normale, rien de spécial.</Translation>
+	</Segment>
+	<Segment id ="200" >
+		<Time-slot>00:08:44,232 --> 00:08:45,933</Time-slot>
+		<Original_text lang="en">And you can literally draw joysticks</Original_text>
+		<Translation lang="ar">و يمكنك حرفياً رسم عصا التحكم</Translation>
+		<Translation lang="fr">Et vous pouvez littéralement dessiner des manettes de jeu,</Translation>
+	</Segment>
+	<Segment id ="201" >
+		<Time-slot>00:08:45,933 --> 00:08:53,057</Time-slot>
+		<Original_text lang="en">and just find Pacman on your computer and then just hook it up. (Video game noises)</Original_text>
+		<Translation lang="ar">و توصيلها على حاسوبك و لعب پاك مان. (اصوات العاب الفيديو)</Translation>
+		<Translation lang="fr">trouver Pacman sur votre ordinateur et le brancher. (Bruits de jeux vidéo)</Translation>
+	</Segment>
+	<Segment id ="202" >
+		<Time-slot>00:08:53,057 --> 00:08:56,560</Time-slot>
+		<Original_text lang="en">And you know the little plastic drawers you can get at Target?</Original_text>
+		<Translation lang="ar">و انت تعرف ادراج الپلاستيك الصغيرة التي يمكن ان تحصل عليها من (تارقت)؟</Translation>
+		<Translation lang="fr">Et vous savez, les petits tiroirs en plastique que vous achetez chez Target ?</Translation>
+	</Segment>
+	<Segment id ="203" >
+		<Time-slot>00:08:56,559 --> 00:08:58,767</Time-slot>
+		<Original_text lang="en">Well, if you take those out, they hold water great,</Original_text>
+		<Translation lang="ar">اذا اخذتهم، يمكنهم حفظ الماء بصورة جيدة،</Translation>
+		<Translation lang="fr">Eh bien, si vous les sortez, ils peuvent contenir de l'eau,</Translation>
+	</Segment>
+	<Segment id ="204" >
+		<Time-slot>00:08:58,768 --> 00:09:00,903</Time-slot>
+		<Original_text lang="en">but you can totally cut your toes,</Original_text>
+		<Translation lang="ar">لكن يمكنك تماماً قطع اصابعك،</Translation>
+		<Translation lang="fr">mais vous pouvez vous couper les orteils,</Translation>
+	</Segment>
+	<Segment id ="205" >
+		<Time-slot>00:09:00,903 --> 00:09:03,591</Time-slot>
+		<Original_text lang="en">so yeah, just be careful.</Original_text>
+		<Translation lang="ar">كن حذراً</Translation>
+		<Translation lang="fr">donc, faites attention.</Translation>
+	</Segment>
+	<Segment id ="206" >
+		<Time-slot>00:09:03,591 --> 00:09:06,463</Time-slot>
+		<Original_text lang="en">You know the Happiness Project, where the experts</Original_text>
+		<Translation lang="ar">انت تعرف مشروع السعادة، حيث الخبراء</Translation>
+		<Translation lang="fr">Vous connaissez le Happiness Project où les experts</Translation>
+	</Segment>
+	<Segment id ="207" >
+		<Time-slot>00:09:06,464 --> 00:09:09,222</Time-slot>
+		<Original_text lang="en">are setting up the piano stairs, and how cool that is?</Original_text>
+		<Translation lang="ar">يقومون بتركيب سلم الپيانو، و كم رائع ذلك؟</Translation>
+		<Translation lang="fr">installent l'escalier piano, c'est cool pas vrai ?</Translation>
+	</Segment>
+	<Segment id ="208" >
+		<Time-slot>00:09:09,221 --> 00:09:10,432</Time-slot>
+		<Original_text lang="en">Well, I think it's cool,</Original_text>
+		<Translation lang="ar">اظن ذلك جيداً،</Translation>
+		<Translation lang="fr">Eh bien, je pense que c'est cool,</Translation>
+	</Segment>
+	<Segment id ="209" >
+		<Time-slot>00:09:10,432 --> 00:09:12,774</Time-slot>
+		<Original_text lang="en">but we should be doing that stuff ourselves.</Original_text>
+		<Translation lang="ar">لكن يجب علينا ان نفعل تلك الاشياء بنفسنا</Translation>
+		<Translation lang="fr">mais on devrait faire ce genre de choses nous-mêmes .</Translation>
+	</Segment>
+	<Segment id ="210" >
+		<Time-slot>00:09:12,774 --> 00:09:15,857</Time-slot>
+		<Original_text lang="en">It shouldn't be a set of experts engineering the way the world works.</Original_text>
+		<Translation lang="ar">لا يجب ان يكونوا مجموعة من المهندسين الخبراء كما يعمل العالم.</Translation>
+		<Translation lang="fr">Le monde ne devrait pas fonctionner grâce à un groupe d’ingénieurs experts.</Translation>
+	</Segment>
+	<Segment id ="211" >
+		<Time-slot>00:09:15,857 --> 00:09:17,832</Time-slot>
+		<Original_text lang="en">We should all be participating</Original_text>
+		<Translation lang="ar">ينبغي علينا جميعاً المشاركة</Translation>
+		<Translation lang="fr">On devrait tous participer</Translation>
+	</Segment>
+	<Segment id ="212" >
+		<Time-slot>00:09:17,832 --> 00:09:19,752</Time-slot>
+		<Original_text lang="en">in changing the way the world works together.</Original_text>
+		<Translation lang="ar">في تغيير الطريقة التي يعمل بها العالم سوياً.</Translation>
+		<Translation lang="fr">en changeant la façon dont le monde fonctionne.</Translation>
+	</Segment>
+	<Segment id ="213" >
+		<Time-slot>00:09:19,753 --> 00:09:21,940</Time-slot>
+		<Original_text lang="en">Aluminum foil. Everybody has a cat.</Original_text>
+		<Translation lang="ar">ورق الالمنيوم. الكل لديه قِط.</Translation>
+		<Translation lang="fr">Du papier d'aluminium. Tout le monde a un chat.</Translation>
+	</Segment>
+	<Segment id ="214" >
+		<Time-slot>00:09:21,940 --> 00:09:25,124</Time-slot>
+		<Original_text lang="en">Get a bowl of water. This is just Photo Booth on your Mac OS.</Original_text>
+		<Translation lang="ar">احضر وعاء من الماء. هذا فقط (photo booth) بجهاز (mac os).</Translation>
+		<Translation lang="fr">Prenez un bol d'eau. C'est juste Photo Booth sur votre Mac.</Translation>
+	</Segment>
+	<Segment id ="215" >
+		<Time-slot>00:09:25,124 --> 00:09:27,183</Time-slot>
+		<Original_text lang="en">Hover the mouse over the "take a photo" button,</Original_text>
+		<Translation lang="ar">قم بتحريك المؤشر فوق ايقونة (take a photo)</Translation>
+		<Translation lang="fr">Passez la souris sur le bouton « prendre une photo »,</Translation>
+	</Segment>
+	<Segment id ="216" >
+		<Time-slot>00:09:27,183 --> 00:09:28,759</Time-slot>
+		<Original_text lang="en">and you've got a little cat photo booth.</Original_text>
+		<Translation lang="ar">و الان لديك كشك صور القط صغير</Translation>
+		<Translation lang="fr">et vous avez une instantané du chat.</Translation>
+	</Segment>
+	<Segment id ="217" >
+		<Time-slot>00:09:28,759 --> 00:09:31,447</Time-slot>
+		<Original_text lang="en">And so we needed hundreds of people to buy this.</Original_text>
+		<Translation lang="ar">قد احتجنا لمئات من الاشخاص أن يشتروا هذا.</Translation>
+		<Translation lang="fr">Il fallait que des centaines de gens l’achètent.</Translation>
+	</Segment>
+	<Segment id ="218" >
+		<Time-slot>00:09:31,447 --> 00:09:34,535</Time-slot>
+		<Original_text lang="en">If hundreds of people didn't buy this, we couldn't put it on the market.</Original_text>
+		<Translation lang="ar">اذا لم يشتريه المئات لا يمكننا وضعه في السوق.</Translation>
+		<Translation lang="fr">Si des centaines de personnes ne l'avaient pas acheté, nous n'aurions pas pu le mettre sur le marché.</Translation>
+	</Segment>
+	<Segment id ="219" >
+		<Time-slot>00:09:34,535 --> 00:09:37,436</Time-slot>
+		<Original_text lang="en">And so we put it up on Kickstarter,</Original_text>
+		<Translation lang="ar">و هكذا وضعناه في (kickstarter)</Translation>
+		<Translation lang="fr">Et donc nous l'avons mis sur Kickstarter,</Translation>
+	</Segment>
+	<Segment id ="220" >
+		<Time-slot>00:09:37,437 --> 00:09:40,432</Time-slot>
+		<Original_text lang="en">and hundreds of people bought it in the first day.</Original_text>
+		<Translation lang="ar">المئات من الاشخاص اشتروه في اليوم الاول.</Translation>
+		<Translation lang="fr">et des centaines de personnes l'ont acheté le premier jour.</Translation>
+	</Segment>
+	<Segment id ="221" >
+		<Time-slot>00:09:40,432 --> 00:09:41,457</Time-slot>
+		<Original_text lang="en">And then 30 days later,</Original_text>
+		<Translation lang="ar">و بعد 30 يوم</Translation>
+		<Translation lang="fr">Et puis 30 jours plus tard,</Translation>
+	</Segment>
+	<Segment id ="222" >
+		<Time-slot>00:09:41,457 --> 00:09:44,725</Time-slot>
+		<Original_text lang="en">11,000 people had backed the project.</Original_text>
+		<Translation lang="ar">11،000 من الاشخاص قاموا بإختراق المشروع.</Translation>
+		<Translation lang="fr">11 000 personnes soutenaient le projet.</Translation>
+	</Segment>
+	<Segment id ="223" >
+		<Time-slot>00:09:44,725 --> 00:09:46,840</Time-slot>
+		<Original_text lang="en">And then what the best part is, we started getting</Original_text>
+		<Translation lang="ar">و افضل ما في ذلك، بدأنا في الحصول على</Translation>
+		<Translation lang="fr">Le meilleur, c'est que nous avons été inondés</Translation>
+	</Segment>
+	<Segment id ="224" >
+		<Time-slot>00:09:46,840 --> 00:09:50,912</Time-slot>
+		<Original_text lang="en">a flood of videos in of people doing crazy things with it.</Original_text>
+		<Translation lang="ar">الكثير من الڨيديوهات لأشخاص يفعلون اشياء مجنونة بها.</Translation>
+		<Translation lang="fr">de vidéos de gens qui en faisaient des choses insensées.</Translation>
+	</Segment>
+	<Segment id ="225" >
+		<Time-slot>00:09:50,912 --> 00:09:53,574</Time-slot>
+		<Original_text lang="en">So this is "The Star-Spangled Banner" by eating lunch,</Original_text>
+		<Translation lang="ar">هذا هو "شعار نجمة لامعة" من خلال تناول الغداء</Translation>
+		<Translation lang="fr">Donc, voici « La Bannière étoilée » en déjeunant,</Translation>
+	</Segment>
+	<Segment id ="226" >
+		<Time-slot>00:09:53,573 --> 00:09:55,647</Time-slot>
+		<Original_text lang="en">including drinking Listerine.</Original_text>
+		<Translation lang="ar">بالأضافة الى شرب الليسترين.</Translation>
+		<Translation lang="fr">y compris boire du Listerine.</Translation>
+	</Segment>
+	<Segment id ="227" >
+		<Time-slot>00:09:55,648 --> 00:09:57,114</Time-slot>
+		<Original_text lang="en">And we actually sent this guy materials.</Original_text>
+		<Translation lang="ar">و في الواقع قمنا بإرسال مواد لهذا الشخص.</Translation>
+		<Translation lang="fr">Et nous avons effectivement envoyé des matériaux à ce mec.</Translation>
+	</Segment>
+	<Segment id ="228" >
+		<Time-slot>00:09:57,114 --> 00:09:58,595</Time-slot>
+		<Original_text lang="en">We're like, "We're sponsoring you, man.</Original_text>
+		<Translation lang="ar">قد كنا، "نحن نرعاك يا رجل.</Translation>
+		<Translation lang="fr">« Nous te sponsorisons, mon gars.</Translation>
+	</Segment>
+	<Segment id ="229" >
+		<Time-slot>00:09:58,595 --> 00:10:00,705</Time-slot>
+		<Original_text lang="en">You're, like, a pro maker."</Original_text>
+		<Translation lang="ar">انت كصانع محترف."</Translation>
+		<Translation lang="fr">Tu es un pro. »</Translation>
+	</Segment>
+	<Segment id ="230" >
+		<Time-slot>00:10:00,705 --> 00:10:04,320</Time-slot>
+		<Original_text lang="en">Okay, just wait for this one. This is good.</Original_text>
+		<Translation lang="ar">حسناً، فقط انتظر هذه انها جيدة</Translation>
+		<Translation lang="fr">Bon, attendez juste celui-ci. Celui-ci est super.</Translation>
+	</Segment>
+	<Segment id ="231" >
+		<Time-slot>00:10:04,320 --> 00:10:06,139</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="232" >
+		<Time-slot>00:10:06,139 --> 00:10:09,624</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+	<Segment id ="233" >
+		<Time-slot>00:10:09,624 --> 00:10:11,500</Time-slot>
+		<Original_text lang="en">And these guys at the exploratorium are</Original_text>
+		<Translation lang="ar">و هؤلاء الشباب في الاستكشافية</Translation>
+		<Translation lang="fr">Et ces gars de l'Exploratorium</Translation>
+	</Segment>
+	<Segment id ="234" >
+		<Time-slot>00:10:11,500 --> 00:10:14,466</Time-slot>
+		<Original_text lang="en">playing house plants as if they were drums.</Original_text>
+		<Translation lang="ar">يلعبان بنباتات المنزل كما ان كانت طبول.</Translation>
+		<Translation lang="fr">jouent des plantes d'intérieur comme si c'était des tambours.</Translation>
+	</Segment>
+	<Segment id ="235" >
+		<Time-slot>00:10:16,722 --> 00:10:20,296</Time-slot>
+		<Original_text lang="en">And dads and daughters are completing circuits in special ways.</Original_text>
+		<Translation lang="ar">الآباء و البنات يكملون دوائر بطرق خاصة.</Translation>
+		<Translation lang="fr">Pères et filles réalisent des circuits de manière spéciale.</Translation>
+	</Segment>
+	<Segment id ="236" >
+		<Time-slot>00:10:20,297 --> 00:10:22,649</Time-slot>
+		<Original_text lang="en">And then this brother -- look at this diagram.</Original_text>
+		<Translation lang="ar">و عندها هذا الاخانظروا الى هذا الرسم البياني.</Translation>
+		<Translation lang="fr">Et puis ce frère -- regardez ce schéma.</Translation>
+	</Segment>
+	<Segment id ="237" >
+		<Time-slot>00:10:22,649 --> 00:10:23,937</Time-slot>
+		<Original_text lang="en">See where it says "sister"?</Original_text>
+		<Translation lang="ar">انظروا حيث تقول "اخوات"؟.</Translation>
+		<Translation lang="fr">Vous voyez où ça dit « sœur » ?</Translation>
+	</Segment>
+	<Segment id ="238" >
+		<Time-slot>00:10:23,937 --> 00:10:26,393</Time-slot>
+		<Original_text lang="en">I love when people put humans on the diagram.</Original_text>
+		<Translation lang="ar">احب عندما يضع الاشخاص بشر على الرسم البياني</Translation>
+		<Translation lang="fr">J'aime quand les gens mettent les humains sur le diagramme.</Translation>
+	</Segment>
+	<Segment id ="239" >
+		<Time-slot>00:10:26,393 --> 00:10:28,860</Time-slot>
+		<Original_text lang="en">I always add humans to any technical --</Original_text>
+		<Translation lang="ar">دائماً اضيف البشر الى اي تكنيك</Translation>
+		<Translation lang="fr">J'ajoute toujours des humains aux détails techniques --</Translation>
+	</Segment>
+	<Segment id ="240" >
+		<Time-slot>00:10:28,860 --> 00:10:30,992</Time-slot>
+		<Original_text lang="en">if you're drawing a technical diagram, put a human in it.</Original_text>
+		<Translation lang="ar">اذا كنت ترسم رسم بياني تقني، ضع فيه انسان</Translation>
+		<Translation lang="fr">Si vous dessinez un schéma technique, mettez-y une personne.</Translation>
+	</Segment>
+	<Segment id ="241" >
+		<Time-slot>00:10:30,993 --> 00:10:35,463</Time-slot>
+		<Original_text lang="en">And this kid is so sweet. He made this trampoline slideshow advancer for his sister</Original_text>
+		<Translation lang="ar">و هذا الطفل حلو جداً، قام بعمل عرض شرائح للعبة القفز لأخته</Translation>
+		<Translation lang="fr">Et cet enfant est si adorable. Il a fait ce diaporama trampoline pour sa sœur</Translation>
+	</Segment>
+	<Segment id ="242" >
+		<Time-slot>00:10:35,462 --> 00:10:37,535</Time-slot>
+		<Original_text lang="en">so that on her birthday, she could be the star of the show,</Original_text>
+		<Translation lang="ar">و ذلك حتى يكون نجم الحفل في عيد ميلادها</Translation>
+		<Translation lang="fr">pour que le jour de son anniversaire, elle puisse être la vedette de l'émission,</Translation>
+	</Segment>
+	<Segment id ="243" >
+		<Time-slot>00:10:37,535 --> 00:10:40,280</Time-slot>
+		<Original_text lang="en">jumping on the trampoline to advance the slides.</Original_text>
+		<Translation lang="ar">يقفز على لعبة القفز حتى يتقدم في الشرائح.</Translation>
+		<Translation lang="fr">sauter sur le trampoline pour faire avancer les diapos.</Translation>
+	</Segment>
+	<Segment id ="244" >
+		<Time-slot>00:10:40,280 --> 00:10:43,288</Time-slot>
+		<Original_text lang="en">And this guy rounded up his dogs and he made a dog piano.</Original_text>
+		<Translation lang="ar">و هذا الشخص وضع كلابه على شكل دائرة و قام بصنع پيانو كلبي</Translation>
+		<Translation lang="fr">Et ce mec a rassemblé ses chiens et il a fait un piano pour chien.</Translation>
+	</Segment>
+	<Segment id ="245" >
+		<Time-slot>00:10:46,134 --> 00:10:48,579</Time-slot>
+		<Original_text lang="en">And this is fun,</Original_text>
+		<Translation lang="ar">و هذا ممتع،</Translation>
+		<Translation lang="fr">C'est amusant,</Translation>
+	</Segment>
+	<Segment id ="246" >
+		<Time-slot>00:10:48,578 --> 00:10:51,465</Time-slot>
+		<Original_text lang="en">and what could be more useful than feeling alive and fun?</Original_text>
+		<Translation lang="ar">و ماذا يمكن ان يكون اكثر إفادة من الاحساس بالحياة و المرح</Translation>
+		<Translation lang="fr">et quoi de plus utile que de se sentir vivant et s'amuser ?</Translation>
+	</Segment>
+	<Segment id ="247" >
+		<Time-slot>00:10:51,466 --> 00:10:53,985</Time-slot>
+		<Original_text lang="en">But it's also very serious because</Original_text>
+		<Translation lang="ar">لكنه ايضاً جاد جداً لأن</Translation>
+		<Translation lang="fr">Mais c'est aussi très sérieux parce que</Translation>
+	</Segment>
+	<Segment id ="248" >
+		<Time-slot>00:10:53,985 --> 00:10:56,153</Time-slot>
+		<Original_text lang="en">all this accessibility stuff started coming up,</Original_text>
+		<Translation lang="ar">كل الاشياء التي يمكن الوصول اليها بدأت بالظهور،</Translation>
+		<Translation lang="fr">tous ces trucs d'accessibilité ont commencé à sortir</Translation>
+	</Segment>
+	<Segment id ="249" >
+		<Time-slot>00:10:56,153 --> 00:10:59,110</Time-slot>
+		<Original_text lang="en">where people can't use computers, necessarily.</Original_text>
+		<Translation lang="ar">حيث الناس لا يمكنهم استعمال الحواسيب بالضرورة.</Translation>
+		<Translation lang="fr">où les gens peuvent utiliser des ordinateurs, nécessairement.</Translation>
+	</Segment>
+	<Segment id ="250" >
+		<Time-slot>00:10:59,110 --> 00:11:01,802</Time-slot>
+		<Original_text lang="en">Like this dad who wrote us, his son has cerebral palsy</Original_text>
+		<Translation lang="ar">كهذا الاب الذي كتب لنا ان ابنه مصاب بالشلل الدماغي</Translation>
+		<Translation lang="fr">Comme ce père qui nous a écrit, son fils a une paralysie cérébrale</Translation>
+	</Segment>
+	<Segment id ="251" >
+		<Time-slot>00:11:01,802 --> 00:11:03,673</Time-slot>
+		<Original_text lang="en">and he can't use a normal keyboard.</Original_text>
+		<Translation lang="ar">و لا يمكنه استعمال لوحة المفاتيح العادية.</Translation>
+		<Translation lang="fr">et il ne peut pas utiliser un clavier normal.</Translation>
+	</Segment>
+	<Segment id ="252" >
+		<Time-slot>00:11:03,673 --> 00:11:07,245</Time-slot>
+		<Original_text lang="en">And so his dad couldn't necessarily afford</Original_text>
+		<Translation lang="ar">و هو لا يمكنه بالضرورة تحمل تكلفة</Translation>
+		<Translation lang="fr">Et son père ne pouvait pas nécessairement se permettre</Translation>
+	</Segment>
+	<Segment id ="253" >
+		<Time-slot>00:11:07,245 --> 00:11:09,086</Time-slot>
+		<Original_text lang="en">to buy all these custom controllers.</Original_text>
+		<Translation lang="ar">شراء وحدات تحكم خاصة.</Translation>
+		<Translation lang="fr">d'acheter tous ces contrôleurs personnalisés.</Translation>
+	</Segment>
+	<Segment id ="254" >
+		<Time-slot>00:11:09,086 --> 00:11:10,712</Time-slot>
+		<Original_text lang="en">And so, with the MaKey MaKey, he planned to make</Original_text>
+		<Translation lang="ar">و هكذا بواسطة ماكيي ماكيي، خطط ان يعمل</Translation>
+		<Translation lang="fr">Et donc, avec MaKey MaKey, il a prévu de faire</Translation>
+	</Segment>
+	<Segment id ="255" >
+		<Time-slot>00:11:10,712 --> 00:11:13,606</Time-slot>
+		<Original_text lang="en">these gloves to allow him to navigate the web.</Original_text>
+		<Translation lang="ar">قفازات تسمح لإبنه ان يتصفح الشبكة</Translation>
+		<Translation lang="fr">ces gants pour lui permettre de naviguer sur le web.</Translation>
+	</Segment>
+	<Segment id ="256" >
+		<Time-slot>00:11:13,606 --> 00:11:15,766</Time-slot>
+		<Original_text lang="en">And a huge eruption of discussion</Original_text>
+		<Translation lang="ar">و ثوران كبير للمناقشة</Translation>
+		<Translation lang="fr">Une énorme discussion sur l'accessibilité</Translation>
+	</Segment>
+	<Segment id ="257" >
+		<Time-slot>00:11:15,767 --> 00:11:18,722</Time-slot>
+		<Original_text lang="en">around accessibility came, and we're really excited about that.</Original_text>
+		<Translation lang="ar">حول امكانية الوصول، و نحن متحمسون جداً لذلك</Translation>
+		<Translation lang="fr">en est sortie et nous sommes vraiment enthousiastes.</Translation>
+	</Segment>
+	<Segment id ="258" >
+		<Time-slot>00:11:18,721 --> 00:11:20,622</Time-slot>
+		<Original_text lang="en">We didn't plan for that at all.</Original_text>
+		<Translation lang="ar">لم نخطط لذلك ابداً</Translation>
+		<Translation lang="fr">Nous ne l'avions pas prévu du tout.</Translation>
+	</Segment>
+	<Segment id ="259" >
+		<Time-slot>00:11:20,623 --> 00:11:23,431</Time-slot>
+		<Original_text lang="en">And then all these professional musicians started using it,</Original_text>
+		<Translation lang="ar">و عندها بدأ كل هؤلاء الموسيقيين المحترفين بإستخدامه</Translation>
+		<Translation lang="fr">Et puis tous ces musiciens professionnels ont commencé à l'utiliser,</Translation>
+	</Segment>
+	<Segment id ="260" >
+		<Time-slot>00:11:23,431 --> 00:11:25,559</Time-slot>
+		<Original_text lang="en">like at Coachella, just this weekend</Original_text>
+		<Translation lang="ar">مثل عند كوتشيلا. في عطلة الاسبوع الاسبوع الماضي</Translation>
+		<Translation lang="fr">comme à Coachella, ce week-end</Translation>
+	</Segment>
+	<Segment id ="261" >
+		<Time-slot>00:11:25,558 --> 00:11:28,711</Time-slot>
+		<Original_text lang="en">Jurassic 5 was using this onstage,</Original_text>
+		<Translation lang="ar">چراسيك 5 استخدموه في المسرح.</Translation>
+		<Translation lang="fr">Jurassic 5 l'utilisait sur scène,</Translation>
+	</Segment>
+	<Segment id ="262" >
+		<Time-slot>00:11:28,711 --> 00:11:32,412</Time-slot>
+		<Original_text lang="en">and this D.J. is just from Brooklyn, right around here,</Original_text>
+		<Translation lang="ar">و هذا الدي چي من بروكلين. من هنا</Translation>
+		<Translation lang="fr">et ce D.J. est de Brooklyn, ici dans les environs</Translation>
+	</Segment>
+	<Segment id ="263" >
+		<Time-slot>00:11:32,412 --> 00:11:34,423</Time-slot>
+		<Original_text lang="en">and he put this up last month.</Original_text>
+		<Translation lang="ar">و قام ببناء هذا الشهر الماضي</Translation>
+		<Translation lang="fr">et il a mis ça en place le mois dernier.</Translation>
+	</Segment>
+	<Segment id ="264" >
+		<Time-slot>00:11:34,423 --> 00:11:36,527</Time-slot>
+		<Original_text lang="en">And I love the carrot on the turntable.</Original_text>
+		<Translation lang="ar">احب الجزرة على القرص الدوار.</Translation>
+		<Translation lang="fr">Et j'adore la carotte sur le plateau tournant.</Translation>
+	</Segment>
+	<Segment id ="265" >
+		<Time-slot>00:11:36,527 --> 00:11:43,355</Time-slot>
+		<Original_text lang="en">(Music: Massive Attack — "Teardrop")</Original_text>
+		<Translation lang="ar">(موسيقى: Massive Attack="Tear drop")</Translation>
+		<Translation lang="fr">(Musique : Massive Attack — « Teardrop »)</Translation>
+	</Segment>
+	<Segment id ="266" >
+		<Time-slot>00:11:43,355 --> 00:11:46,100</Time-slot>
+		<Original_text lang="en">Most people cannot play them that way. (Laughter)</Original_text>
+		<Translation lang="ar">معظم الناس لا يمكنهم العزف عليهم بتلك الطريقة (ضحك)</Translation>
+		<Translation lang="fr">La plupart des gens ne peuvent pas jouer de cette façon. (Rires)</Translation>
+	</Segment>
+	<Segment id ="267" >
+		<Time-slot>00:11:46,100 --> 00:11:47,523</Time-slot>
+		<Original_text lang="en">And when this started to get serious,</Original_text>
+		<Translation lang="ar">و عندما اصبح هذا جاداً،</Translation>
+		<Translation lang="fr">Et quand ça a commencé à devenir sérieux,</Translation>
+	</Segment>
+	<Segment id ="268" >
+		<Time-slot>00:11:47,523 --> 00:11:50,950</Time-slot>
+		<Original_text lang="en">I thought, I'd better put a really serious warning label on the box that this comes in,</Original_text>
+		<Translation lang="ar">فكرت انه من الافضل وضع علامة تحذير جادة على العلبة التي يأتي بها الجهاز.</Translation>
+		<Translation lang="fr">j'ai pensé, que je ferais mieux de mettre une étiquette d'avertissement sérieuse sur la boîte</Translation>
+	</Segment>
+	<Segment id ="269" >
+		<Time-slot>00:11:50,950 --> 00:11:52,652</Time-slot>
+		<Original_text lang="en">because otherwise people are going to be getting this</Original_text>
+		<Translation lang="ar">و ذلك لأنه عدا ذلك سوف يتحصل الناس على هذا</Translation>
+		<Translation lang="fr">parce que sinon les gens vont le prendre</Translation>
+	</Segment>
+	<Segment id ="270" >
+		<Time-slot>00:11:52,652 --> 00:11:54,891</Time-slot>
+		<Original_text lang="en">and they're going to be turning into agents of creative change,</Original_text>
+		<Translation lang="ar">و سوف يتحولون الى عوامل للتغيير الابداعية،</Translation>
+		<Translation lang="fr">et ils vont se transformer en agents de changement créatif,</Translation>
+	</Segment>
+	<Segment id ="271" >
+		<Time-slot>00:11:54,890 --> 00:11:56,182</Time-slot>
+		<Original_text lang="en">and governments will be crumbling,</Original_text>
+		<Translation lang="ar">و الحكومات ستتكوم على نفسها</Translation>
+		<Translation lang="fr">et les gouvernements vont s'écrouler,</Translation>
+	</Segment>
+	<Segment id ="272" >
+		<Time-slot>00:11:56,182 --> 00:11:58,542</Time-slot>
+		<Original_text lang="en">and I wouldn't have told people, so I thought I'd better warn them.</Original_text>
+		<Translation lang="ar">و لم اكن لأقول للناس، ففكرت انه من الافضل تحذيرهم.</Translation>
+		<Translation lang="fr">et je ne l'aurais pas dit aux gens, alors j'ai pensé que ce serait mieux de les prévenir.</Translation>
+	</Segment>
+	<Segment id ="273" >
+		<Time-slot>00:11:58,542 --> 00:12:00,870</Time-slot>
+		<Original_text lang="en">And I also put this little surprise. When you open the lid</Original_text>
+		<Translation lang="ar">و ايضاً قمت بعمل هذه المفاجئة الصغيرة. عندما تفتح الغطاء</Translation>
+		<Translation lang="fr">Et j'ai mis aussi cette petite surprise. Lorsque vous ouvrez le couvercle</Translation>
+	</Segment>
+	<Segment id ="274" >
+		<Time-slot>00:12:00,870 --> 00:12:03,730</Time-slot>
+		<Original_text lang="en">of the box, it says, "The world is a construction kit."</Original_text>
+		<Translation lang="ar">العلبة، ستقول "العالم هو مجموعة بناء."</Translation>
+		<Translation lang="fr">de la boîte, il y a écrit : « Le monde est un kit de construction. »</Translation>
+	</Segment>
+	<Segment id ="275" >
+		<Time-slot>00:12:03,730 --> 00:12:05,577</Time-slot>
+		<Original_text lang="en">And as you start to mess around this way,</Original_text>
+		<Translation lang="ar">و حين تبدأ باللعب حول هذه الطريقة،</Translation>
+		<Translation lang="fr">Et lorsque vous commencez à bricoler,</Translation>
+	</Segment>
+	<Segment id ="276" >
+		<Time-slot>00:12:05,577 --> 00:12:08,677</Time-slot>
+		<Original_text lang="en">I think that, in some small ways, you do start to see</Original_text>
+		<Translation lang="ar">افكر ان، بطرق صغيرة انت تبدأ برؤية</Translation>
+		<Translation lang="fr">je pense que, à certains égards, vous commencez à voir</Translation>
+	</Segment>
+	<Segment id ="277" >
+		<Time-slot>00:12:08,677 --> 00:12:10,729</Time-slot>
+		<Original_text lang="en">the landscape of your everyday life</Original_text>
+		<Translation lang="ar">المناظر في حياتك اليومية</Translation>
+		<Translation lang="fr">le paysage de votre vie quotidienne</Translation>
+	</Segment>
+	<Segment id ="278" >
+		<Time-slot>00:12:10,729 --> 00:12:13,622</Time-slot>
+		<Original_text lang="en">a little bit more like something you could express yourself with,</Original_text>
+		<Translation lang="ar">كأنه شيئ يمكنك ان تعبر به عن نفسك</Translation>
+		<Translation lang="fr">un peu plus comme quelque chose avec quoi vous pourriez vous exprimer,</Translation>
+	</Segment>
+	<Segment id ="279" >
+		<Time-slot>00:12:13,621 --> 00:12:15,860</Time-slot>
+		<Original_text lang="en">and a little bit more like you could participate</Original_text>
+		<Translation lang="ar">و قليلاً يمكنك ان تشارك</Translation>
+		<Translation lang="fr">et un peu plus comme si vous pouviez participer</Translation>
+	</Segment>
+	<Segment id ="280" >
+		<Time-slot>00:12:15,860 --> 00:12:18,325</Time-slot>
+		<Original_text lang="en">in designing the future of the way the world works.</Original_text>
+		<Translation lang="ar">بتصميم المستقبل بالطريقة التي يعمل بها العالم.</Translation>
+		<Translation lang="fr">à la conception de l'avenir de la façon dont le monde fonctionne.</Translation>
+	</Segment>
+	<Segment id ="281" >
+		<Time-slot>00:12:18,325 --> 00:12:22,113</Time-slot>
+		<Original_text lang="en">And so next time you're on an escalator</Original_text>
+		<Translation lang="ar">و في المرة القادمة و انت في السلم المتحرك</Translation>
+		<Translation lang="fr">Et donc la prochaine fois que vous serez sur un escalator</Translation>
+	</Segment>
+	<Segment id ="282" >
+		<Time-slot>00:12:22,113 --> 00:12:23,789</Time-slot>
+		<Original_text lang="en">and you drop an M&amp;M by accident,</Original_text>
+		<Translation lang="ar">و تقع منك حبة إم اند إم بدون قصد</Translation>
+		<Translation lang="fr">et que vous faites tomber un M&amp;M accidentellement,</Translation>
+	</Segment>
+	<Segment id ="283" >
+		<Time-slot>00:12:23,788 --> 00:12:26,948</Time-slot>
+		<Original_text lang="en">you know, maybe that's an M&amp;M surfboard, not an escalator,</Original_text>
+		<Translation lang="ar">انت تعلم ربما ذلك عبارة عن مزلجة إم اند إم و ليس سلم متحرك</Translation>
+		<Translation lang="fr">peut-être que c'est une planche de surf pour M&amp;M, pas un escalator,</Translation>
+	</Segment>
+	<Segment id ="284" >
+		<Time-slot>00:12:26,948 --> 00:12:28,155</Time-slot>
+		<Original_text lang="en">so don't pick it up right away.</Original_text>
+		<Translation lang="ar">لذا لا ترفعها فوراً.</Translation>
+		<Translation lang="fr">donc ne le ramassez pas.</Translation>
+	</Segment>
+	<Segment id ="285" >
+		<Time-slot>00:12:28,155 --> 00:12:30,343</Time-slot>
+		<Original_text lang="en">Maybe take some more stuff out of your pockets</Original_text>
+		<Translation lang="ar">خذ مزيد من الاغراض من جيبك</Translation>
+		<Translation lang="fr">Sortez peut-être autre chose de vos poches</Translation>
+	</Segment>
+	<Segment id ="286" >
+		<Time-slot>00:12:30,344 --> 00:12:33,653</Time-slot>
+		<Original_text lang="en">and throw it down, and maybe some chapstick, whatever.</Original_text>
+		<Translation lang="ar">و ارمهم، ربما قليل من التشاب ستيك او اي شيئ</Translation>
+		<Translation lang="fr">et jetez-le par terre, un baume à lèvres, n'importe quoi.</Translation>
+	</Segment>
+	<Segment id ="287" >
+		<Time-slot>00:12:33,653 --> 00:12:38,615</Time-slot>
+		<Original_text lang="en">I used to want to design a utopian society</Original_text>
+		<Translation lang="ar">كنت اريد ان اصمم مجتمع طوباوي</Translation>
+		<Translation lang="fr">Je voulais créer une société utopique</Translation>
+	</Segment>
+	<Segment id ="288" >
+		<Time-slot>00:12:38,615 --> 00:12:40,986</Time-slot>
+		<Original_text lang="en">or a perfect world or something like that.</Original_text>
+		<Translation lang="ar">او عالم مثالي او ما شابه ذلك.</Translation>
+		<Translation lang="fr">ou un monde parfait, ou quelque chose comme ça.</Translation>
+	</Segment>
+	<Segment id ="289" >
+		<Time-slot>00:12:40,986 --> 00:12:42,440</Time-slot>
+		<Original_text lang="en">But as I'm kind of getting older</Original_text>
+		<Translation lang="ar">لكن كما انني ازيد في العمر</Translation>
+		<Translation lang="fr">Mais je vieillis</Translation>
+	</Segment>
+	<Segment id ="290" >
+		<Time-slot>00:12:42,441 --> 00:12:44,017</Time-slot>
+		<Original_text lang="en">and kind of messing with all this stuff,</Original_text>
+		<Translation lang="ar">و اقوم باللعب بهذه الاغراض</Translation>
+		<Translation lang="fr">et en m'amusant avec tous ces trucs,</Translation>
+	</Segment>
+	<Segment id ="291" >
+		<Time-slot>00:12:44,017 --> 00:12:46,785</Time-slot>
+		<Original_text lang="en">I'm realizing that my idea of a perfect world</Original_text>
+		<Translation lang="ar">انا ادرك ان فكرتي عن العالم المثالي</Translation>
+		<Translation lang="fr">je me rends compte que mon idée d'un monde parfait</Translation>
+	</Segment>
+	<Segment id ="292" >
+		<Time-slot>00:12:46,784 --> 00:12:48,800</Time-slot>
+		<Original_text lang="en">really can't be designed by one person</Original_text>
+		<Translation lang="ar">لا يمكن ان ثصمم بواسطة شخص واحد</Translation>
+		<Translation lang="fr">ne peut pas vraiment être conçue par une seule personne</Translation>
+	</Segment>
+	<Segment id ="293" >
+		<Time-slot>00:12:48,801 --> 00:12:50,357</Time-slot>
+		<Original_text lang="en">or even by a million experts.</Original_text>
+		<Translation lang="ar">او حتى مليون خبير</Translation>
+		<Translation lang="fr">ou même par des un million d'experts.</Translation>
+	</Segment>
+	<Segment id ="294" >
+		<Time-slot>00:12:50,356 --> 00:12:53,524</Time-slot>
+		<Original_text lang="en">It's really going to be seven billion pairs of hands,</Original_text>
+		<Translation lang="ar">يجب ان تكون 7 بليون زوج من الايادي</Translation>
+		<Translation lang="fr">Ça va vraiment être 7 milliards de paires de mains,</Translation>
+	</Segment>
+	<Segment id ="295" >
+		<Time-slot>00:12:53,524 --> 00:12:55,932</Time-slot>
+		<Original_text lang="en">each following their own passions,</Original_text>
+		<Translation lang="ar">الكل يسري خلف شغفه</Translation>
+		<Translation lang="fr">chacune suivant ses propres passions,</Translation>
+	</Segment>
+	<Segment id ="296" >
+		<Time-slot>00:12:55,932 --> 00:12:58,120</Time-slot>
+		<Original_text lang="en">and each kind of like a mosaic coming up</Original_text>
+		<Translation lang="ar">و كل منهم كفسيفساء قادمة</Translation>
+		<Translation lang="fr">et chacune, un peu comme une mosaïque</Translation>
+	</Segment>
+	<Segment id ="297" >
+		<Time-slot>00:12:58,120 --> 00:12:59,621</Time-slot>
+		<Original_text lang="en">and creating this world in their backyards</Original_text>
+		<Translation lang="ar">و تخلق هذا العالم في الفناء الخلفي</Translation>
+		<Translation lang="fr">qui crée ce monde dans son jardin</Translation>
+	</Segment>
+	<Segment id ="298" >
+		<Time-slot>00:12:59,621 --> 00:13:01,129</Time-slot>
+		<Original_text lang="en">and in their kitchens.</Original_text>
+		<Translation lang="ar">و في مطابخهم.</Translation>
+		<Translation lang="fr">et dans sa cuisine.</Translation>
+	</Segment>
+	<Segment id ="299" >
+		<Time-slot>00:13:01,129 --> 00:13:03,696</Time-slot>
+		<Original_text lang="en">And that's the world I really want to live in.</Original_text>
+		<Translation lang="ar">هذا هو العالم الذي ارغب بالعيش فيه</Translation>
+		<Translation lang="fr">Et c'est le monde où je veux vraiment vivre.</Translation>
+	</Segment>
+	<Segment id ="300" >
+		<Time-slot>00:13:03,696 --> 00:13:05,080</Time-slot>
+		<Original_text lang="en">Thank you.</Original_text>
+		<Translation lang="ar">شكراً لكم</Translation>
+		<Translation lang="fr">Merci.</Translation>
+	</Segment>
+	<Segment id ="301" >
+		<Time-slot>00:13:05,080 --> 00:13:10,610</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+</Talk>
+</MulTed>

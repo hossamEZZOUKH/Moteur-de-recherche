@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MulTed>
+
+<Talk Speaker = "Robin Chase" Title= " Excuse me, may I rent your car" >
+	<Segment id ="1" >
+		<Time-slot>00:00:16,917 --> 00:00:20,679</Time-slot>
+		<Original_text lang="en">Twelve years ago, I founded Zipcar.</Original_text>
+		<Translation lang="ar">منذ اثنى عشر عام مضت, أسست "زيبكار".</Translation>
+		<Translation lang="fr">Il y a douze ans, j'ai fondé Zipcar.</Translation>
+	</Segment>
+	<Segment id ="2" >
+		<Time-slot>00:00:20,678 --> 00:00:23,524</Time-slot>
+		<Original_text lang="en">Zipcar buys cars and parks them</Original_text>
+		<Translation lang="ar">"زيبكار" تشتري السيارات و تركنهم</Translation>
+		<Translation lang="fr">Zipcar achète des voitures et les gare</Translation>
+	</Segment>
+	<Segment id ="3" >
+		<Time-slot>00:00:23,524 --> 00:00:26,100</Time-slot>
+		<Original_text lang="en">throughout dense metropolitan areas</Original_text>
+		<Translation lang="ar">في جميع أنحاء المناطق الحضارية الكثيفة</Translation>
+		<Translation lang="fr">un peu partout à travers les zones métropolitaines densément peuplées</Translation>
+	</Segment>
+	<Segment id ="4" >
+		<Time-slot>00:00:26,100 --> 00:00:29,228</Time-slot>
+		<Original_text lang="en">for people to use, by the hour and by the day,</Original_text>
+		<Translation lang="ar">حتي يستعملها الناس, بالساعة أو باليوم,</Translation>
+		<Translation lang="fr">pour que les gens puissent les utiliser, à l'heure et à la journée,</Translation>
+	</Segment>
+	<Segment id ="5" >
+		<Time-slot>00:00:29,228 --> 00:00:31,518</Time-slot>
+		<Original_text lang="en">instead of owning their own cars.</Original_text>
+		<Translation lang="ar">بدلاً من امتلاك سياراتهم الخاصة.</Translation>
+		<Translation lang="fr">au lieu de posséder leur propre voiture.</Translation>
+	</Segment>
+	<Segment id ="6" >
+		<Time-slot>00:00:31,518 --> 00:00:35,402</Time-slot>
+		<Original_text lang="en">Each Zipcar replaces 15 personal cars,</Original_text>
+		<Translation lang="ar">كل "زيبكار" تعوض عن خمسة عشر سيارة شخصية,</Translation>
+		<Translation lang="fr">Chaque Zipcar remplace 15 voitures personnelles,</Translation>
+	</Segment>
+	<Segment id ="7" >
+		<Time-slot>00:00:35,402 --> 00:00:38,506</Time-slot>
+		<Original_text lang="en">and each driver drives about 80 percent less</Original_text>
+		<Translation lang="ar">وكل سائق يقود حوالي ثمانين بالمائة أقل</Translation>
+		<Translation lang="fr">et chaque conducteur conduit environ 80% moins</Translation>
+	</Segment>
+	<Segment id ="8" >
+		<Time-slot>00:00:38,506 --> 00:00:40,865</Time-slot>
+		<Original_text lang="en">because they're now paying the full cost,</Original_text>
+		<Translation lang="ar">لأنهم الآن يدفعون التكلفه الكاملة,</Translation>
+		<Translation lang="fr">car il paie désormais le coût complet,</Translation>
+	</Segment>
+	<Segment id ="9" >
+		<Time-slot>00:00:40,865 --> 00:00:43,442</Time-slot>
+		<Original_text lang="en">all at once, in real time.</Original_text>
+		<Translation lang="ar">كلها في الحال, في الوقت الحقيقي.</Translation>
+		<Translation lang="fr">d'un même coup, en temps réel.</Translation>
+	</Segment>
+	<Segment id ="10" >
+		<Time-slot>00:00:43,442 --> 00:00:47,686</Time-slot>
+		<Original_text lang="en">But what Zipcar really did was make sharing the norm.</Original_text>
+		<Translation lang="ar">ولكن ما فعلته "زيبكار" في الواقع هو جعل المشاركة نمط عام.</Translation>
+		<Translation lang="fr">Mais ce qu'a vraiment fait Zipcar, c'est faire du partage une norme.</Translation>
+	</Segment>
+	<Segment id ="11" >
+		<Time-slot>00:00:47,686 --> 00:00:51,937</Time-slot>
+		<Original_text lang="en">Now, a decade later, it's really time to push the envelope a little bit,</Original_text>
+		<Translation lang="ar">الآن, بعد عقد من الزمن, حان الوقت حقاً لتوسيع النطاق قليلاً,</Translation>
+		<Translation lang="fr">Une décennie plus tard, il est grand temps de repousser un peu les limites.</Translation>
+	</Segment>
+	<Segment id ="12" >
+		<Time-slot>00:00:51,938 --> 00:00:53,923</Time-slot>
+		<Original_text lang="en">and so a couple years ago I moved to Paris</Original_text>
+		<Translation lang="ar">ولذلك منذ عامين انتقلت الى باريس,</Translation>
+		<Translation lang="fr">donc il y a quelques années j'ai déménagé à Paris</Translation>
+	</Segment>
+	<Segment id ="13" >
+		<Time-slot>00:00:53,923 --> 00:00:56,602</Time-slot>
+		<Original_text lang="en">with my husband and youngest child,</Original_text>
+		<Translation lang="ar">مع زوجي وطفلي الأصغر,</Translation>
+		<Translation lang="fr">avec mon mari et mon plus jeune enfant,</Translation>
+	</Segment>
+	<Segment id ="14" >
+		<Time-slot>00:00:56,601 --> 00:00:59,821</Time-slot>
+		<Original_text lang="en">and we launched Buzzcar a year ago.</Original_text>
+		<Translation lang="ar">وانشأنا "بزكار" منذ عام.</Translation>
+		<Translation lang="fr">et nous avons lancé Buzzcar il y a un an.</Translation>
+	</Segment>
+	<Segment id ="15" >
+		<Time-slot>00:00:59,822 --> 00:01:03,079</Time-slot>
+		<Original_text lang="en">Buzzcar lets people rent out their own cars</Original_text>
+		<Translation lang="ar">"بزكار" تمكن الافراد من تأجير سياراتهم الخاصة</Translation>
+		<Translation lang="fr">Buzzcar permet aux gens de louer leurs propres voitures</Translation>
+	</Segment>
+	<Segment id ="16" >
+		<Time-slot>00:01:03,079 --> 00:01:04,745</Time-slot>
+		<Original_text lang="en">to their friends and neighbors.</Original_text>
+		<Translation lang="ar">لأصدقائهم وجيرانهم.</Translation>
+		<Translation lang="fr">à leurs amis et voisins.</Translation>
+	</Segment>
+	<Segment id ="17" >
+		<Time-slot>00:01:04,745 --> 00:01:10,001</Time-slot>
+		<Original_text lang="en">Instead of investing in a car, we invest in a community.</Original_text>
+		<Translation lang="ar">بدلاً من الإستثمار في سيارة, نستثمر في مجتمع.</Translation>
+		<Translation lang="fr">Plutôt que d'investir dans un voiture, nous investissons dans une communauté.</Translation>
+	</Segment>
+	<Segment id ="18" >
+		<Time-slot>00:01:10,001 --> 00:01:12,328</Time-slot>
+		<Original_text lang="en">We bring the power of a corporation</Original_text>
+		<Translation lang="ar">نجلب قوة الشركة</Translation>
+		<Translation lang="fr">Nous amenons la puissance d'une corporation</Translation>
+	</Segment>
+	<Segment id ="19" >
+		<Time-slot>00:01:12,328 --> 00:01:15,441</Time-slot>
+		<Original_text lang="en">to individuals who add their cars to the network.</Original_text>
+		<Translation lang="ar">للأفراد الذين أضافوا سياراتهم للشبكة.</Translation>
+		<Translation lang="fr">à des individus qui ajoutent leur voiture au réseau.</Translation>
+	</Segment>
+	<Segment id ="20" >
+		<Time-slot>00:01:15,441 --> 00:01:19,129</Time-slot>
+		<Original_text lang="en">Some people call this peer-to-peer.</Original_text>
+		<Translation lang="ar">بعض الناس يسمون هذا الفرد - للفرد.</Translation>
+		<Translation lang="fr">Certains appellent ça du pair-à-pair.</Translation>
+	</Segment>
+	<Segment id ="21" >
+		<Time-slot>00:01:19,129 --> 00:01:22,417</Time-slot>
+		<Original_text lang="en">This does express the humanity of what's going on,</Original_text>
+		<Translation lang="ar">هذا فعلاً يعبر عن إنسانية ما يجري,</Translation>
+		<Translation lang="fr">Ça exprime bien le côté humain du projet,</Translation>
+	</Segment>
+	<Segment id ="22" >
+		<Time-slot>00:01:22,418 --> 00:01:24,855</Time-slot>
+		<Original_text lang="en">and the personal relationships,</Original_text>
+		<Translation lang="ar">والعلاقات الشخصية</Translation>
+		<Translation lang="fr">et les relations personnelles,</Translation>
+	</Segment>
+	<Segment id ="23" >
+		<Time-slot>00:01:24,855 --> 00:01:27,551</Time-slot>
+		<Original_text lang="en">but that is also like saying that it's the same thing</Original_text>
+		<Translation lang="ar">لكن ذلك أيضا كقول أنه نفس الشيء</Translation>
+		<Translation lang="fr">mais aussi que c'est comme</Translation>
+	</Segment>
+	<Segment id ="24" >
+		<Time-slot>00:01:27,551 --> 00:01:30,403</Time-slot>
+		<Original_text lang="en">as a yard sale or a bake sale or babysitting.</Original_text>
+		<Translation lang="ar">مثل ساحه بيع او بيع الخبز او مجالسة الأطفال.</Translation>
+		<Translation lang="fr">un vide-grenier ou une vente de gâteaux ou du baby-sitting.</Translation>
+	</Segment>
+	<Segment id ="25" >
+		<Time-slot>00:01:30,403 --> 00:01:31,628</Time-slot>
+		<Original_text lang="en">That's peer-to-peer.</Original_text>
+		<Translation lang="ar">هذا هو الفرد - للفرد.</Translation>
+		<Translation lang="fr">C'est du pair-à-pair.</Translation>
+	</Segment>
+	<Segment id ="26" >
+		<Time-slot>00:01:31,629 --> 00:01:36,516</Time-slot>
+		<Original_text lang="en">It's like saying yard sales are the same thing as eBay,</Original_text>
+		<Translation lang="ar">أنه مثل القول أن ساحات المبيعات هي نفس الشئ مثل موقع "ايباي",</Translation>
+		<Translation lang="fr">Autant dire que les vide-greniers sont la même chose qu'eBay,</Translation>
+	</Segment>
+	<Segment id ="27" >
+		<Time-slot>00:01:36,516 --> 00:01:44,088</Time-slot>
+		<Original_text lang="en">or craft fairs are the same thing as Etsy.</Original_text>
+		<Translation lang="ar">أو معارض المشغولات الحرفية هي نفس الشئ مثل موقع "إيتسي".</Translation>
+		<Translation lang="fr">ou que les foires d'artisanat sont la même chose qu'Etsy.</Translation>
+	</Segment>
+	<Segment id ="28" >
+		<Time-slot>00:01:44,087 --> 00:01:46,449</Time-slot>
+		<Original_text lang="en">But what's really happening is that we've got the power</Original_text>
+		<Translation lang="ar">ولكن ما يحدث في الواقع هو أنه لدينا قوة</Translation>
+		<Translation lang="fr">Mais ce qui se passe en vérité, c'est que nous avons la puissance</Translation>
+	</Segment>
+	<Segment id ="29" >
+		<Time-slot>00:01:46,450 --> 00:01:48,655</Time-slot>
+		<Original_text lang="en">of a free and open Internet,</Original_text>
+		<Translation lang="ar">الإنترت المجاني والمفتوح,</Translation>
+		<Translation lang="fr">d'un Internet libre et accessible,</Translation>
+	</Segment>
+	<Segment id ="30" >
+		<Time-slot>00:01:48,655 --> 00:01:51,859</Time-slot>
+		<Original_text lang="en">and on top of that we're putting a platform for participation,</Original_text>
+		<Translation lang="ar">وفوق كل ذلك وضعنا قاعدة للمشاركة,</Translation>
+		<Translation lang="fr">et en plus, nous mettons en place une plateforme participative</Translation>
+	</Segment>
+	<Segment id ="31" >
+		<Time-slot>00:01:51,859 --> 00:01:55,546</Time-slot>
+		<Original_text lang="en">and the peers are now in partnership with the company,</Original_text>
+		<Translation lang="ar">والأفراد أصبحوا الآن في شراكة مع الشركة,</Translation>
+		<Translation lang="fr">et il y a maintenant des partenariats entre les pairs et la compagnie,</Translation>
+	</Segment>
+	<Segment id ="32" >
+		<Time-slot>00:01:55,546 --> 00:01:58,763</Time-slot>
+		<Original_text lang="en">creating shared value on shared values,</Original_text>
+		<Translation lang="ar">يخلقون قيماً مشتركة على قيم مشتركة,</Translation>
+		<Translation lang="fr">ce qui crée de plus en plus de valeur partagée,</Translation>
+	</Segment>
+	<Segment id ="33" >
+		<Time-slot>00:01:58,763 --> 00:02:03,732</Time-slot>
+		<Original_text lang="en">and each strengthening the other, and doing what the other can't do.</Original_text>
+		<Translation lang="ar">و كل واحدة تعزز الأخرى, وتفعل ما لا يستطيع الآخرين فعله.</Translation>
+		<Translation lang="fr">chacun renforçant l'autre et faisant ce que les autres ne peuvent faire.</Translation>
+	</Segment>
+	<Segment id ="34" >
+		<Time-slot>00:02:03,733 --> 00:02:06,775</Time-slot>
+		<Original_text lang="en">I call this Peers, Inc.</Original_text>
+		<Translation lang="ar">أنا أسمي هذا "شركة الأقران".</Translation>
+		<Translation lang="fr">J'appelle ça Pairs, S.A..</Translation>
+	</Segment>
+	<Segment id ="35" >
+		<Time-slot>00:02:06,775 --> 00:02:09,336</Time-slot>
+		<Original_text lang="en">The incorporated side, the company,</Original_text>
+		<Translation lang="ar">الطرف المدرج, الشركة,</Translation>
+		<Translation lang="fr">L'aspect société, la compagnie,</Translation>
+	</Segment>
+	<Segment id ="36" >
+		<Time-slot>00:02:09,336 --> 00:02:12,153</Time-slot>
+		<Original_text lang="en">is doing things that it does really well.</Original_text>
+		<Translation lang="ar">تقوم بأشياء تقوم بها بشكل جيد حقاً.</Translation>
+		<Translation lang="fr">fait certaines choses avec efficacité.</Translation>
+	</Segment>
+	<Segment id ="37" >
+		<Time-slot>00:02:12,152 --> 00:02:15,921</Time-slot>
+		<Original_text lang="en">What does it do really well? It creates economies of scale,</Original_text>
+		<Translation lang="ar">وما الذي تفعله بشكل جيد حقاً؟ هو خلق فورات الحجم,</Translation>
+		<Translation lang="fr">Que fait-elle avec efficacité? Elle crée des économies d'échelle,</Translation>
+	</Segment>
+	<Segment id ="38" >
+		<Time-slot>00:02:15,921 --> 00:02:19,664</Time-slot>
+		<Original_text lang="en">significant and long-term resource investment,</Original_text>
+		<Translation lang="ar">استثمار لمورد كبير وطويل الأجل,</Translation>
+		<Translation lang="fr">des investissements de ressources importants et à long terme,</Translation>
+	</Segment>
+	<Segment id ="39" >
+		<Time-slot>00:02:19,664 --> 00:02:22,469</Time-slot>
+		<Original_text lang="en">the expertise of many different kinds of people</Original_text>
+		<Translation lang="ar">خبرات من أنواع عديدة من الأشخاص</Translation>
+		<Translation lang="fr">l'expertise de nombreux types de personnes</Translation>
+	</Segment>
+	<Segment id ="40" >
+		<Time-slot>00:02:22,469 --> 00:02:25,457</Time-slot>
+		<Original_text lang="en">and different kinds of minds, and for individuals,</Original_text>
+		<Translation lang="ar">وانواع مختلفة من العقول, وبالنسبة للأفراد,</Translation>
+		<Translation lang="fr">et d'esprits différents, et pour les particuliers,</Translation>
+	</Segment>
+	<Segment id ="41" >
+		<Time-slot>00:02:25,457 --> 00:02:28,722</Time-slot>
+		<Original_text lang="en">consumers, it's bringing the standards, rules and recourse</Original_text>
+		<Translation lang="ar">المستهلكين, أنها تجلب المعايير, والقوانيين و الموارد</Translation>
+		<Translation lang="fr">pour les consommateurs, elle apporte des standards, des règles et des recours</Translation>
+	</Segment>
+	<Segment id ="42" >
+		<Time-slot>00:02:28,722 --> 00:02:31,042</Time-slot>
+		<Original_text lang="en">that we really want as consumers,</Original_text>
+		<Translation lang="ar">التي نريدها حقاً كمستهلكين</Translation>
+		<Translation lang="fr">que nous désirons vraiment en tant que consommateurs</Translation>
+	</Segment>
+	<Segment id ="43" >
+		<Time-slot>00:02:31,042 --> 00:02:33,985</Time-slot>
+		<Original_text lang="en">and this is kind of bound up in a brand promise,</Original_text>
+		<Translation lang="ar">وهذا نوع من الالتزام في وعد العلامة التجارية,</Translation>
+		<Translation lang="fr">et c'est en quelque sorte lié à une promesse de la marque.</Translation>
+	</Segment>
+	<Segment id ="44" >
+		<Time-slot>00:02:33,985 --> 00:02:39,025</Time-slot>
+		<Original_text lang="en">and the companies are providing this on a platform for participation.</Original_text>
+		<Translation lang="ar">والشركات توفر هذا على منصة من أجل المشاركة.</Translation>
+		<Translation lang="fr">Les compagnies offrent ça sur une plateforme participative.</Translation>
+	</Segment>
+	<Segment id ="45" >
+		<Time-slot>00:02:39,025 --> 00:02:41,361</Time-slot>
+		<Original_text lang="en">Peers are giving and doing things</Original_text>
+		<Translation lang="ar">الأقران يقدمون ويفعلون أشياء</Translation>
+		<Translation lang="fr">Les pairs donnent et font des choses</Translation>
+	</Segment>
+	<Segment id ="46" >
+		<Time-slot>00:02:41,361 --> 00:02:44,368</Time-slot>
+		<Original_text lang="en">that are incredibly expensive for companies to do.</Original_text>
+		<Translation lang="ar">التي تعتبر مكلفة بشكل غير طبيعي بالنسبه للشركات لتفعله.</Translation>
+		<Translation lang="fr">qui sont incroyablement coûteuses pour les compagnies.</Translation>
+	</Segment>
+	<Segment id ="47" >
+		<Time-slot>00:02:44,368 --> 00:02:48,193</Time-slot>
+		<Original_text lang="en">What do they bring? They bring this fabulous diversity,</Original_text>
+		<Translation lang="ar">ماذا يقدمون؟ انهم يقدمون التنوع الرائع,</Translation>
+		<Translation lang="fr">Qu'apportent-ils? Ils apportent leur fabuleuse diversité,</Translation>
+	</Segment>
+	<Segment id ="48" >
+		<Time-slot>00:02:48,193 --> 00:02:50,850</Time-slot>
+		<Original_text lang="en">expensive for companies. And what does that deliver?</Original_text>
+		<Translation lang="ar">مكلف للشركات. وماذا يقدم ذلك؟</Translation>
+		<Translation lang="fr">qui est très coûteuse pour les compagnies. Et qu'est-ce que ça procure?</Translation>
+	</Segment>
+	<Segment id ="49" >
+		<Time-slot>00:02:50,849 --> 00:02:53,610</Time-slot>
+		<Original_text lang="en">It delivers localization and customization,</Original_text>
+		<Translation lang="ar">انه يقدم التوطين والتخصيص,</Translation>
+		<Translation lang="fr">Ça procure la localisation et la personnalisation,</Translation>
+	</Segment>
+	<Segment id ="50" >
+		<Time-slot>00:02:53,610 --> 00:02:57,018</Time-slot>
+		<Original_text lang="en">specialization, and all of this aspect about social networks</Original_text>
+		<Translation lang="ar">والتخصص, و كل هذه الجوانب عن الشبكات الاجتماعية</Translation>
+		<Translation lang="fr">la spécialisation. Et tout l'aspect relatif aux réseaux sociaux</Translation>
+	</Segment>
+	<Segment id ="51" >
+		<Time-slot>00:02:57,018 --> 00:02:59,866</Time-slot>
+		<Original_text lang="en">and how companies are yearning and eager to get inside there?</Original_text>
+		<Translation lang="ar">وكيف تكون الشركات متشوقة ومتحمسة لكي تدخل هناك؟</Translation>
+		<Translation lang="fr">et la façon dont les compagnies aspirent avec enthousiasme à s'y impliquer ?</Translation>
+	</Segment>
+	<Segment id ="52" >
+		<Time-slot>00:02:59,866 --> 00:03:03,962</Time-slot>
+		<Original_text lang="en">It's natural for me. Me and my friends, I can connect to them easily.</Original_text>
+		<Translation lang="ar">هذا طبيعي بالنسبة لي. أنا وأصدقائي, أستطيع أن أتواصل معهم بسهولة.</Translation>
+		<Translation lang="fr">C'est pour moi naturel. Moi et mes amis, nous pouvons facilement nous entendre avec eux.</Translation>
+	</Segment>
+	<Segment id ="53" >
+		<Time-slot>00:03:03,961 --> 00:03:07,524</Time-slot>
+		<Original_text lang="en">And it also delivers really fabulous innovation,</Original_text>
+		<Translation lang="ar">ويقدم ذلك أيضاً ابتكار رائع حقاً,</Translation>
+		<Translation lang="fr">Et ça procure également une innovation fabuleuse,</Translation>
+	</Segment>
+	<Segment id ="54" >
+		<Time-slot>00:03:07,525 --> 00:03:08,941</Time-slot>
+		<Original_text lang="en">and I'll talk about that later.</Original_text>
+		<Translation lang="ar">وسوف أتحدث عن ذلك لاحقاً.</Translation>
+		<Translation lang="fr">dont je parlerai plus tard.</Translation>
+	</Segment>
+	<Segment id ="55" >
+		<Time-slot>00:03:08,941 --> 00:03:12,356</Time-slot>
+		<Original_text lang="en">So we have the peers that are providing the services and the product,</Original_text>
+		<Translation lang="ar">اذاً لدينا الأقران الذين يقدمون الخدمات والمنتج,</Translation>
+		<Translation lang="fr">Nous avons donc des pairs qui fournissent les services et le produit,</Translation>
+	</Segment>
+	<Segment id ="56" >
+		<Time-slot>00:03:12,356 --> 00:03:16,937</Time-slot>
+		<Original_text lang="en">and the company that's doing the stuff that companies do.</Original_text>
+		<Translation lang="ar">والشركة التي تفعل الأشياء التي تفعلها الشركات.</Translation>
+		<Translation lang="fr">et la compagnie qui fait les trucs que les compagnies savent faire.</Translation>
+	</Segment>
+	<Segment id ="57" >
+		<Time-slot>00:03:16,937 --> 00:03:21,301</Time-slot>
+		<Original_text lang="en">The two of these are delivering the best of both worlds.</Original_text>
+		<Translation lang="ar">هؤلاء الإثنان يقدمان افضل مافي العالمين.</Translation>
+		<Translation lang="fr">Ces deux-là offrent le meilleur des deux mondes.</Translation>
+	</Segment>
+	<Segment id ="58" >
+		<Time-slot>00:03:21,300 --> 00:03:23,288</Time-slot>
+		<Original_text lang="en">Some of my favorite examples:</Original_text>
+		<Translation lang="ar">بعض من الأمثلة المفضلة لدي:</Translation>
+		<Translation lang="fr">Voici certains de mes exemples favoris:</Translation>
+	</Segment>
+	<Segment id ="59" >
+		<Time-slot>00:03:23,288 --> 00:03:27,241</Time-slot>
+		<Original_text lang="en">in transportation, Carpooling.com. Ten years old,</Original_text>
+		<Translation lang="ar">في المواصلات, "موقع كاربولينج" عمره عشر سنوات,</Translation>
+		<Translation lang="fr">pour les transports, Carpooling.com. Il existe depuis dix ans,</Translation>
+	</Segment>
+	<Segment id ="60" >
+		<Time-slot>00:03:27,241 --> 00:03:28,644</Time-slot>
+		<Original_text lang="en">three and a half million people have joined up,</Original_text>
+		<Translation lang="ar">ثلاثة ملايين ونصف شخص قد انضموا إلى الموقع,</Translation>
+		<Translation lang="fr">trois millions et demi de personnes s'y sont inscrites,</Translation>
+	</Segment>
+	<Segment id ="61" >
+		<Time-slot>00:03:28,645 --> 00:03:31,203</Time-slot>
+		<Original_text lang="en">and a million rides are shared every day.</Original_text>
+		<Translation lang="ar">و مليون رحلة يتم تقاسمها كل يوم.</Translation>
+		<Translation lang="fr">et un million de trajets sont partagés en voiture chaque jour.</Translation>
+	</Segment>
+	<Segment id ="62" >
+		<Time-slot>00:03:31,203 --> 00:03:34,435</Time-slot>
+		<Original_text lang="en">It's a phenomenal thing. It's the equivalent</Original_text>
+		<Translation lang="ar">انه شيء اعتيادي. انه المكافئ</Translation>
+		<Translation lang="fr">C'est phénoménal. C'est l'équivalent</Translation>
+	</Segment>
+	<Segment id ="63" >
+		<Time-slot>00:03:34,435 --> 00:03:37,521</Time-slot>
+		<Original_text lang="en">of 2,500 TGV trains,</Original_text>
+		<Translation lang="ar">لألفين و خمسمئة قطار فائق السرعة,</Translation>
+		<Translation lang="fr">de 2 500 TGV,</Translation>
+	</Segment>
+	<Segment id ="64" >
+		<Time-slot>00:03:37,521 --> 00:03:41,497</Time-slot>
+		<Original_text lang="en">and just think, they didn't have to lay a track or buy a car.</Original_text>
+		<Translation lang="ar">وفكروا فقط, أنهم لم يضطروا الي وضع سكة قطار أو شراء سيارة.</Translation>
+		<Translation lang="fr">et pensez-y, ils n'ont pas eu besoin de poser des rails ou d'acheter une voiture.</Translation>
+	</Segment>
+	<Segment id ="65" >
+		<Time-slot>00:03:41,497 --> 00:03:44,241</Time-slot>
+		<Original_text lang="en">This is all happening with excess capacity.</Original_text>
+		<Translation lang="ar">هذا كله يحدث مع قدرة استيعاب متزايدة.</Translation>
+		<Translation lang="fr">Tout ça est possible grâce à la surcapacité.</Translation>
+	</Segment>
+	<Segment id ="66" >
+		<Time-slot>00:03:44,241 --> 00:03:47,728</Time-slot>
+		<Original_text lang="en">And it's not just with transportation, my love,</Original_text>
+		<Translation lang="ar">وهذا ليس فقط مع المواصلات, حبي,</Translation>
+		<Translation lang="fr">Et ce n'est pas limité aux transports,</Translation>
+	</Segment>
+	<Segment id ="67" >
+		<Time-slot>00:03:47,729 --> 00:03:50,882</Time-slot>
+		<Original_text lang="en">but of course in other realms. Here's Fiverr.com.</Original_text>
+		<Translation lang="ar">لكن طبعاً في عوالم أخرى. هذا "موقع فيفير".</Translation>
+		<Translation lang="fr">mais évidemment c'est aussi dans d'autres domaines. Voici Fiverr.com.</Translation>
+	</Segment>
+	<Segment id ="68" >
+		<Time-slot>00:03:50,882 --> 00:03:53,693</Time-slot>
+		<Original_text lang="en">I met these founders just weeks after they had launched,</Original_text>
+		<Translation lang="ar">قد قابلت هؤلاء المؤسسين بعد أسابيع فقط من إطلاق الموقع,</Translation>
+		<Translation lang="fr">J'ai rencontré ses fondateurs quelques semaine à peine après son lancement,</Translation>
+	</Segment>
+	<Segment id ="69" >
+		<Time-slot>00:03:53,693 --> 00:03:58,149</Time-slot>
+		<Original_text lang="en">and now, in two years, what would you do for five dollars?</Original_text>
+		<Translation lang="ar">والآن, بعد عامين, ماذا قد تفعل بخمسة دولارات؟</Translation>
+		<Translation lang="fr">et dites-moi, dans deux ans, que feriez-vous pour cinq dollars?</Translation>
+	</Segment>
+	<Segment id ="70" >
+		<Time-slot>00:03:58,149 --> 00:04:02,417</Time-slot>
+		<Original_text lang="en">Seven hundred and fifty thousand gigs are now posted after two years,</Original_text>
+		<Translation lang="ar">سبعمئة وخمسين ألف طلب يوضعون حالياً بعد مرور سنتين,</Translation>
+		<Translation lang="fr">Après deux ans, 750 000 offres de petits boulots ont été publiées,</Translation>
+	</Segment>
+	<Segment id ="71" >
+		<Time-slot>00:04:02,417 --> 00:04:05,241</Time-slot>
+		<Original_text lang="en">what people would do for five dollars.</Original_text>
+		<Translation lang="ar">ماذا قد يفعل الناس لخمسة دولارات.</Translation>
+		<Translation lang="fr">des choses que des gens feraient pour cinq dollars.</Translation>
+	</Segment>
+	<Segment id ="72" >
+		<Time-slot>00:04:05,241 --> 00:04:08,927</Time-slot>
+		<Original_text lang="en">And not just easy things that anyone can do.</Original_text>
+		<Translation lang="ar">وليست فقط أشياءً سهلة يستطيع أي شخص فعلها.</Translation>
+		<Translation lang="fr">Et pas uniquement des choses faciles que n'importe qui peut faire.</Translation>
+	</Segment>
+	<Segment id ="73" >
+		<Time-slot>00:04:08,927 --> 00:04:13,704</Time-slot>
+		<Original_text lang="en">This Peers, Inc. concept is in a very difficult and complex realm.</Original_text>
+		<Translation lang="ar">مبدأ "شركة الأقران" هذه يوجد في عالم صعب ومعقد جداً.</Translation>
+		<Translation lang="fr">Ce concept de Pairs, S.A. est dans un domaine très difficile et complexe.</Translation>
+	</Segment>
+	<Segment id ="74" >
+		<Time-slot>00:04:13,704 --> 00:04:17,900</Time-slot>
+		<Original_text lang="en">TopCoder has 400,000 engineers who are delivering</Original_text>
+		<Translation lang="ar">موقع "توب كودر" يمتلك أربعمئة ألف مهندس يقدمون</Translation>
+		<Translation lang="fr">TopCoder a 400 000 ingénieurs qui procurent</Translation>
+	</Segment>
+	<Segment id ="75" >
+		<Time-slot>00:04:17,899 --> 00:04:21,699</Time-slot>
+		<Original_text lang="en">complex design and engineering services.</Original_text>
+		<Translation lang="ar">تصميماً معقداً وخدمات هندسية.</Translation>
+		<Translation lang="fr">des services complexes de design et d'ingénierie.</Translation>
+	</Segment>
+	<Segment id ="76" >
+		<Time-slot>00:04:21,699 --> 00:04:24,252</Time-slot>
+		<Original_text lang="en">When I talked to their CEO, he had this great line.</Original_text>
+		<Translation lang="ar">عندما تحدثت مع مديرهم التنفيذي, كان لديه هذه المقولة الرائعة.</Translation>
+		<Translation lang="fr">Quand j'ai parlé à leur PDG,</Translation>
+	</Segment>
+	<Segment id ="77" >
+		<Time-slot>00:04:24,252 --> 00:04:29,043</Time-slot>
+		<Original_text lang="en">He said, "We have a community that owns its own company."</Original_text>
+		<Translation lang="ar">لقد قال: "لدينا مجتمع يمتلك شركته الخاصة",</Translation>
+		<Translation lang="fr">il m'a dit, "Nous avons une communauté qui possède sa propre compagnie."</Translation>
+	</Segment>
+	<Segment id ="78" >
+		<Time-slot>00:04:29,043 --> 00:04:31,314</Time-slot>
+		<Original_text lang="en">And then my all-time favorite, Etsy.</Original_text>
+		<Translation lang="ar">وموقعي المفضل دائماً, "ايتسي".</Translation>
+		<Translation lang="fr">Et puis mon exemple favori entre tous, Etsy.</Translation>
+	</Segment>
+	<Segment id ="79" >
+		<Time-slot>00:04:31,314 --> 00:04:34,586</Time-slot>
+		<Original_text lang="en">Etsy is providing goods that people make themselves</Original_text>
+		<Translation lang="ar">"ايتسي" يقدم منتجات يصنعها الناس بأنفسهم</Translation>
+		<Translation lang="fr">Etsy offre des biens que les gens font eux-mêmes</Translation>
+	</Segment>
+	<Segment id ="80" >
+		<Time-slot>00:04:34,586 --> 00:04:36,252</Time-slot>
+		<Original_text lang="en">and they're selling it in a marketplace.</Original_text>
+		<Translation lang="ar">وهم يبيعونها في السوق.</Translation>
+		<Translation lang="fr">et qu'ils vendent sur un marché en ligne.</Translation>
+	</Segment>
+	<Segment id ="81" >
+		<Time-slot>00:04:36,252 --> 00:04:39,667</Time-slot>
+		<Original_text lang="en">It just celebrated its seventh anniversary,</Original_text>
+		<Translation lang="ar">لقد احتفلوا لتوهم بذكرى عامهم السابع,</Translation>
+		<Translation lang="fr">Il vient de célébrer son septième anniversaire,</Translation>
+	</Segment>
+	<Segment id ="82" >
+		<Time-slot>00:04:39,666 --> 00:04:42,234</Time-slot>
+		<Original_text lang="en">and after seven years, last year it delivered</Original_text>
+		<Translation lang="ar">وبعد سبع سنوات, السنة الماضية قد قدمت</Translation>
+		<Translation lang="fr">et après sept ans, l'année dernière il a distribué</Translation>
+	</Segment>
+	<Segment id ="83" >
+		<Time-slot>00:04:42,235 --> 00:04:47,727</Time-slot>
+		<Original_text lang="en">530 million dollars' worth of sales to all those individuals</Original_text>
+		<Translation lang="ar">خمسمئة وثلاثون مليون دولار من قيمة المبيعات لهولاء الأشخاص</Translation>
+		<Translation lang="fr">530 millions de dollars issus des ventes à tous les individus</Translation>
+	</Segment>
+	<Segment id ="84" >
+		<Time-slot>00:04:47,726 --> 00:04:50,882</Time-slot>
+		<Original_text lang="en">who have been making those objects.</Original_text>
+		<Translation lang="ar">الذين كانوا يصنعون هذه الأشياء.</Translation>
+		<Translation lang="fr">qui fabriquent ces objets.</Translation>
+	</Segment>
+	<Segment id ="85" >
+		<Time-slot>00:04:50,882 --> 00:04:53,641</Time-slot>
+		<Original_text lang="en">I know you guys out there who are businesspeople,</Original_text>
+		<Translation lang="ar">وأنا أعلم يا رفاق أن منكم الذين هم من رجال الأعمال,</Translation>
+		<Translation lang="fr">Je sais que vous, les gens d'affaire,</Translation>
+	</Segment>
+	<Segment id ="86" >
+		<Time-slot>00:04:53,641 --> 00:04:56,057</Time-slot>
+		<Original_text lang="en">are thinking, "Oh my God, I want to build one of those.</Original_text>
+		<Translation lang="ar">يفكرون, "يا إلهي, أريد بناء واحدة من هذه".</Translation>
+		<Translation lang="fr">pensez, "Oh mon Dieu, je veux créer un truc semblable.</Translation>
+	</Segment>
+	<Segment id ="87" >
+		<Time-slot>00:04:56,057 --> 00:04:57,735</Time-slot>
+		<Original_text lang="en">I see this incredible speed and scale.</Original_text>
+		<Translation lang="ar">أرى هذه االسرعة والنطاق الذي لا يصدق.</Translation>
+		<Translation lang="fr">Je constate la vitesse et l'échelle incroyables du projet.</Translation>
+	</Segment>
+	<Segment id ="88" >
+		<Time-slot>00:04:57,735 --> 00:05:00,244</Time-slot>
+		<Original_text lang="en">You mean all I have to do is build a platform and all these people are going</Original_text>
+		<Translation lang="ar">تعني أن كل ما علي القيام به هو بناء منصة وجميع هؤلاء الناس سوف يقومون</Translation>
+		<Translation lang="fr">Vous dites que tout ce que je dois faire, c'est créer une plateforme et toutes ces personnes vont</Translation>
+	</Segment>
+	<Segment id ="89" >
+		<Time-slot>00:05:00,244 --> 00:05:03,012</Time-slot>
+		<Original_text lang="en">to put their stuff on top and I sit back and roll it in?"</Original_text>
+		<Translation lang="ar">بوضع أشيائهم عليها وأجلس أنا واستلمها؟"</Translation>
+		<Translation lang="fr">y mettre leur trucs et moi, je m'assois et laisse l'argent affluer ?"</Translation>
+	</Segment>
+	<Segment id ="90" >
+		<Time-slot>00:05:03,012 --> 00:05:08,062</Time-slot>
+		<Original_text lang="en">Building these platforms for participation are so nontrivial to do.</Original_text>
+		<Translation lang="ar">بناء هذه المنصات للمشاركة ليس قليلاً القيام به.</Translation>
+		<Translation lang="fr">Créer ces plateformes participatives est loin d'être si simple.</Translation>
+	</Segment>
+	<Segment id ="91" >
+		<Time-slot>00:05:08,062 --> 00:05:12,075</Time-slot>
+		<Original_text lang="en">I think of the difference of Google Video versus YouTube.</Original_text>
+		<Translation lang="ar">أفكر بالفرق بين "جوجل فيديو" مقابل "يوتيوب".</Translation>
+		<Translation lang="fr">Je pense à la différence entre Google Videos et Youtube.</Translation>
+	</Segment>
+	<Segment id ="92" >
+		<Time-slot>00:05:12,076 --> 00:05:15,265</Time-slot>
+		<Original_text lang="en">Who would have thought that two young guys and a start-up</Original_text>
+		<Translation lang="ar">من كان يظن أن اثنين من الشباب ومبتدأ</Translation>
+		<Translation lang="fr">Qui aurait crû que deux jeunes hommes et une start-up</Translation>
+	</Segment>
+	<Segment id ="93" >
+		<Time-slot>00:05:15,264 --> 00:05:17,447</Time-slot>
+		<Original_text lang="en">would beat out Google Video? Why?</Original_text>
+		<Translation lang="ar">سوف يهزمون "جوجل فيديو"؟ لماذا؟</Translation>
+		<Translation lang="fr">triompherait de Google Video ? Pourquoi ?</Translation>
+	</Segment>
+	<Segment id ="94" >
+		<Time-slot>00:05:17,447 --> 00:05:19,539</Time-slot>
+		<Original_text lang="en">I actually have no idea why. I didn't talk to them.</Original_text>
+		<Translation lang="ar">في الواقع ليس لدى فكرة لماذا. لم أتحدث إليهم.</Translation>
+		<Translation lang="fr">En fait je n'en ai la moindre idée. Je ne leur ai pas parlé.</Translation>
+	</Segment>
+	<Segment id ="95" >
+		<Time-slot>00:05:19,540 --> 00:05:22,172</Time-slot>
+		<Original_text lang="en">But I'm thinking, you know, they probably had</Original_text>
+		<Translation lang="ar">لكنني أفكر, كما تعلمون, أنهم ربما كان لديهم</Translation>
+		<Translation lang="fr">Mais je crois qu'ils avaient probablement</Translation>
+	</Segment>
+	<Segment id ="96" >
+		<Time-slot>00:05:22,172 --> 00:05:24,151</Time-slot>
+		<Original_text lang="en">the "share" button a little bit brighter and to the right,</Original_text>
+		<Translation lang="ar">زر "مشاركة" أكثر إشراقا قليلاً, وإلى اليمين,</Translation>
+		<Translation lang="fr">un bouton "Partager" un peu plus voyant et un peu plus à droite,</Translation>
+	</Segment>
+	<Segment id ="97" >
+		<Time-slot>00:05:24,151 --> 00:05:27,145</Time-slot>
+		<Original_text lang="en">and so it was easier and more convenient for the two sides</Original_text>
+		<Translation lang="ar">وبالتالي كان أسهل وأكثر ملاءمة للجانبين</Translation>
+		<Translation lang="fr">donc c'était plus facile et plus pratique pour tous ceux</Translation>
+	</Segment>
+	<Segment id ="98" >
+		<Time-slot>00:05:27,144 --> 00:05:30,224</Time-slot>
+		<Original_text lang="en">that are always participating on these networks.</Original_text>
+		<Translation lang="ar">الذين دائماً ما يشاركون في هذه الشبكات.</Translation>
+		<Translation lang="fr">qui participent constamment sur ces réseaux.</Translation>
+	</Segment>
+	<Segment id ="99" >
+		<Time-slot>00:05:30,225 --> 00:05:34,424</Time-slot>
+		<Original_text lang="en">So I actually know a lot about building a peer platform now,</Original_text>
+		<Translation lang="ar">اذاً أنا فعلاً أعرف الكثير عن بناء منصة أقران الآن,</Translation>
+		<Translation lang="fr">Donc j'en sais beaucoup maintenant sur la création d'une plateforme pour les pairs</Translation>
+	</Segment>
+	<Segment id ="100" >
+		<Time-slot>00:05:34,423 --> 00:05:36,284</Time-slot>
+		<Original_text lang="en">and a Peers, Inc. company, because I've spent</Original_text>
+		<Translation lang="ar">و"شركة أقران", لأنني قضيت</Translation>
+		<Translation lang="fr">et sur une compagnie Pairs, S.A.. car j'ai passé</Translation>
+	</Segment>
+	<Segment id ="101" >
+		<Time-slot>00:05:36,285 --> 00:05:39,684</Time-slot>
+		<Original_text lang="en">the last two years doing that in Paris.</Original_text>
+		<Translation lang="ar">العامين الماضيين أقوم بذلك في باريس.</Translation>
+		<Translation lang="fr">les deux dernières années à faire ça à Paris.</Translation>
+	</Segment>
+	<Segment id ="102" >
+		<Time-slot>00:05:39,684 --> 00:05:43,105</Time-slot>
+		<Original_text lang="en">So let me take you back how it's so incredibly different</Original_text>
+		<Translation lang="ar">لذا اسمحوا لي أن أرجع بكم لكيف يختلف بشكل لا يصدق</Translation>
+		<Translation lang="fr">Donc laissez-moi vous montrer les différences incroyables entre</Translation>
+	</Segment>
+	<Segment id ="103" >
+		<Time-slot>00:05:43,105 --> 00:05:45,980</Time-slot>
+		<Original_text lang="en">building Buzzcar than it was building Zipcar,</Original_text>
+		<Translation lang="ar">بناء "بوزكار" من بناء "زيبكار",</Translation>
+		<Translation lang="fr">la création de Buzzcr et celle de Zipcar,</Translation>
+	</Segment>
+	<Segment id ="104" >
+		<Time-slot>00:05:45,980 --> 00:05:48,259</Time-slot>
+		<Original_text lang="en">because now every single thing we do has these two</Original_text>
+		<Translation lang="ar">لأنه الآن كل شيء نقوم به لديه هذه</Translation>
+		<Translation lang="fr">car maintenant je dois tenir compte de deux groupes</Translation>
+	</Segment>
+	<Segment id ="105" >
+		<Time-slot>00:05:48,259 --> 00:05:50,687</Time-slot>
+		<Original_text lang="en">different bodies that I have to be thinking about:</Original_text>
+		<Translation lang="ar">الهيئات المختلفة التي يجب أن أفكر بها:</Translation>
+		<Translation lang="fr">différents dans tout ce que nous concevons :</Translation>
+	</Segment>
+	<Segment id ="106" >
+		<Time-slot>00:05:50,687 --> 00:05:53,550</Time-slot>
+		<Original_text lang="en">the owners who are going to provide the cars</Original_text>
+		<Translation lang="ar">المالكين الذين سوف يوفرون السيارات</Translation>
+		<Translation lang="fr">les propriétaires qui vont fournir les voitures</Translation>
+	</Segment>
+	<Segment id ="107" >
+		<Time-slot>00:05:53,550 --> 00:05:55,997</Time-slot>
+		<Original_text lang="en">and the drivers who are going to rent them.</Original_text>
+		<Translation lang="ar">والسائقين الذين سوف يذهبون لاستئجارها.</Translation>
+		<Translation lang="fr">et les conducteurs qui vont les louer.</Translation>
+	</Segment>
+	<Segment id ="108" >
+		<Time-slot>00:05:55,997 --> 00:05:59,469</Time-slot>
+		<Original_text lang="en">Every single decision, I have to think about what is right for both sides.</Original_text>
+		<Translation lang="ar">كل قرار منفرد, يجب أن نفكر في ما هو صائب لكلا الجانبين.</Translation>
+		<Translation lang="fr">Pour chaque décision, je dois penser à ce qui est juste pour les deux groupes.</Translation>
+	</Segment>
+	<Segment id ="109" >
+		<Time-slot>00:05:59,470 --> 00:06:01,934</Time-slot>
+		<Original_text lang="en">There are many, many examples and I'll give you one</Original_text>
+		<Translation lang="ar">هنالك العديد, العديد من الأمثلة وسوف أعطيكم واحداً</Translation>
+		<Translation lang="fr">Il y a de très nombreux et je vais vous en donner un</Translation>
+	</Segment>
+	<Segment id ="110" >
+		<Time-slot>00:06:01,934 --> 00:06:05,256</Time-slot>
+		<Original_text lang="en">that is not my favorite example: insurance.</Original_text>
+		<Translation lang="ar">هذا هو ليس مثالي المفضل: التأمين.</Translation>
+		<Translation lang="fr">qui n'est pas mon préféré : les assurances.</Translation>
+	</Segment>
+	<Segment id ="111" >
+		<Time-slot>00:06:05,255 --> 00:06:09,784</Time-slot>
+		<Original_text lang="en">It took me a year and a half to get the insurance just right.</Original_text>
+		<Translation lang="ar">استغرق مني سنة ونصف للحصول على التأمين بصورة صحيحة.</Translation>
+		<Translation lang="fr">Il m'a fallu un an et demi pour élaborer les assurances adéquates.</Translation>
+	</Segment>
+	<Segment id ="112" >
+		<Time-slot>00:06:09,785 --> 00:06:12,774</Time-slot>
+		<Original_text lang="en">Hours and hours of sitting with insurers and many companies</Original_text>
+		<Translation lang="ar">ساعات وساعات من الجلوس مع شركات التأمين وشركات كثيرة</Translation>
+		<Translation lang="fr">Des heures et des heures passées avec les assureurs et de nombreuses compagnies</Translation>
+	</Segment>
+	<Segment id ="113" >
+		<Time-slot>00:06:12,774 --> 00:06:16,519</Time-slot>
+		<Original_text lang="en">and their thoughts about risk and how this is totally innovative,</Original_text>
+		<Translation lang="ar">وأفكارهم حول المخاطر وكيف أن هذا مبتكر تماماً,</Translation>
+		<Translation lang="fr">avec leurs réflexions à propos des risques et du caractère novateur</Translation>
+	</Segment>
+	<Segment id ="114" >
+		<Time-slot>00:06:16,519 --> 00:06:18,350</Time-slot>
+		<Original_text lang="en">they'd never thought of it before.</Original_text>
+		<Translation lang="ar">أنهم لم يفكروا فيه من قبل.</Translation>
+		<Translation lang="fr">ils n'y avaient jamais songé auparavant.</Translation>
+	</Segment>
+	<Segment id ="115" >
+		<Time-slot>00:06:18,350 --> 00:06:21,718</Time-slot>
+		<Original_text lang="en">Way too much money, I just can't even go there, with lawyers,</Original_text>
+		<Translation lang="ar">الكثير جداً من المال, لا أستطيع حتى ذكر ذلك, مع المحامين,</Translation>
+		<Translation lang="fr">Beaucoup trop d'argent, je ne peux même pas en parler, avec les avocats</Translation>
+	</Segment>
+	<Segment id ="116" >
+		<Time-slot>00:06:21,718 --> 00:06:24,502</Time-slot>
+		<Original_text lang="en">trying to figure out how this is different, who's responsible to whom,</Original_text>
+		<Translation lang="ar">محاولة اكتشاف كيف يختلف هذا, من المسؤول تجاه من,</Translation>
+		<Translation lang="fr">à essayer de comprendre en quoi c'est différent, qui est responsable envers qui.</Translation>
+	</Segment>
+	<Segment id ="117" >
+		<Time-slot>00:06:24,502 --> 00:06:28,090</Time-slot>
+		<Original_text lang="en">and the result was that we were able to provide owners</Original_text>
+		<Translation lang="ar">وكانت النتيجة أننا كنا قادرين على تزوييد المالكيين</Translation>
+		<Translation lang="fr">Au final, nous avons pu fournir aux propriétaires</Translation>
+	</Segment>
+	<Segment id ="118" >
+		<Time-slot>00:06:28,089 --> 00:06:32,381</Time-slot>
+		<Original_text lang="en">protection for their own driving records and their own history.</Original_text>
+		<Translation lang="ar">بالحماية لسجلات قيادتهم الخاصة وتاريخهم الخاص.</Translation>
+		<Translation lang="fr">une protection pour leur propre dossier de conducteur et leurs propres antécédents.</Translation>
+	</Segment>
+	<Segment id ="119" >
+		<Time-slot>00:06:32,382 --> 00:06:34,197</Time-slot>
+		<Original_text lang="en">The cars are completely insured during the rental,</Original_text>
+		<Translation lang="ar">السيارات مؤمنة تماماً خلال الأستئجار,</Translation>
+		<Translation lang="fr">Les voitures sont complètement assurées pendant la location,</Translation>
+	</Segment>
+	<Segment id ="120" >
+		<Time-slot>00:06:34,197 --> 00:06:37,861</Time-slot>
+		<Original_text lang="en">and it gives drivers what they need, and what do they need?</Original_text>
+		<Translation lang="ar">وتعطي السائقين ما يحتاجون إليه, وما هو الذي يحتاجونه؟</Translation>
+		<Translation lang="fr">et ça offre aux conducteurs ce dont ils ont besoin, et de quoi ont-ils besoin ?</Translation>
+	</Segment>
+	<Segment id ="121" >
+		<Time-slot>00:06:37,862 --> 00:06:40,367</Time-slot>
+		<Original_text lang="en">They need a low deductible,</Original_text>
+		<Translation lang="ar">أنهم بحاجة لخصم منخفض,</Translation>
+		<Translation lang="fr">Ils ont besoin d'une franchise basse,</Translation>
+	</Segment>
+	<Segment id ="122" >
+		<Time-slot>00:06:40,367 --> 00:06:42,615</Time-slot>
+		<Original_text lang="en">and 24-hour roadside assistance.</Original_text>
+		<Translation lang="ar">ومساعدة على الطريق على مدار الأربع والعشرين ساعة.</Translation>
+		<Translation lang="fr">et d'une assistance routière 24 heures sur 24.</Translation>
+	</Segment>
+	<Segment id ="123" >
+		<Time-slot>00:06:42,615 --> 00:06:45,499</Time-slot>
+		<Original_text lang="en">So this was a trick to get these two sides.</Original_text>
+		<Translation lang="ar">لذا كان صعباً الحصول على هذين الجانبين.</Translation>
+		<Translation lang="fr">C'était donc délicat d'obtenir ces deux aspects.</Translation>
+	</Segment>
+	<Segment id ="124" >
+		<Time-slot>00:06:45,499 --> 00:06:49,747</Time-slot>
+		<Original_text lang="en">So now I want to take you to the moment of --</Original_text>
+		<Translation lang="ar">اذاً الآن أريد أن آخذكم إلى لحظة --</Translation>
+		<Translation lang="fr">Maintenant je veux vous parler du moment où —</Translation>
+	</Segment>
+	<Segment id ="125" >
+		<Time-slot>00:06:49,747 --> 00:06:53,715</Time-slot>
+		<Original_text lang="en">When you're an entrepreneur, and you've started a new company,</Original_text>
+		<Translation lang="ar">عندما تكون متعهد, وكنت قد بدأت شركة جديدة,</Translation>
+		<Translation lang="fr">Si vous êtes un entrepreneur, et que vous avez fondé une nouvelle compagnie,</Translation>
+	</Segment>
+	<Segment id ="126" >
+		<Time-slot>00:06:53,714 --> 00:06:56,108</Time-slot>
+		<Original_text lang="en">there's the, here's all the stuff we do beforehand,</Original_text>
+		<Translation lang="ar">وهناك, ها هي جميع الأشياء التي نقوم بها مسبقاً,</Translation>
+		<Translation lang="fr">il y a tout le travail préparatoire,</Translation>
+	</Segment>
+	<Segment id ="127" >
+		<Time-slot>00:06:56,108 --> 00:07:00,034</Time-slot>
+		<Original_text lang="en">and then the service launches. What happens?</Original_text>
+		<Translation lang="ar">ومن ثم تطلق هذه الخدمة. ماذا يحدث؟</Translation>
+		<Translation lang="fr">et puis il y a le lancement du service. Que se passe-t-il?</Translation>
+	</Segment>
+	<Segment id ="128" >
+		<Time-slot>00:07:00,035 --> 00:07:04,435</Time-slot>
+		<Original_text lang="en">So all those months of work, they come into play.</Original_text>
+		<Translation lang="ar">اذاً جميع تلك الشهور من العمل, تأتي إلى فائدة.</Translation>
+		<Translation lang="fr">Tous ces mois de travail entrent en jeu.</Translation>
+	</Segment>
+	<Segment id ="129" >
+		<Time-slot>00:07:04,435 --> 00:07:08,632</Time-slot>
+		<Original_text lang="en">Last June 1, we launched. It was an exciting moment.</Original_text>
+		<Translation lang="ar">يوم واحد من يونيو "حزيران" الماضي, أفتتحنا. كانت لحظة مثيرة.</Translation>
+		<Translation lang="fr">Notre lancement a eu lieu le premier juin dernier. Ça a été un moment excitant.</Translation>
+	</Segment>
+	<Segment id ="130" >
+		<Time-slot>00:07:08,632 --> 00:07:12,242</Time-slot>
+		<Original_text lang="en">And all the owners are adding their cars. It's really exciting.</Original_text>
+		<Translation lang="ar">وجميع المالكيين أضافوا سياراتهم. أنه حقاً مثير.</Translation>
+		<Translation lang="fr">Et tous les propriétaires ajoutent leurs voitures. C'est très excitant.</Translation>
+	</Segment>
+	<Segment id ="131" >
+		<Time-slot>00:07:12,242 --> 00:07:14,668</Time-slot>
+		<Original_text lang="en">All the drivers are becoming members. It's excellent.</Original_text>
+		<Translation lang="ar">كافة السائقيين يصبحون أعضاء. أنه لأمر رائع.</Translation>
+		<Translation lang="fr">Tous les conducteurs deviennent des membres. C'est excellent.</Translation>
+	</Segment>
+	<Segment id ="132" >
+		<Time-slot>00:07:14,668 --> 00:07:19,115</Time-slot>
+		<Original_text lang="en">The reservations start coming in, and here,</Original_text>
+		<Translation lang="ar">الحجوزات تبدء بالقدوم, وهنالك,</Translation>
+		<Translation lang="fr">Les réservations commencent à nous parvenir et</Translation>
+	</Segment>
+	<Segment id ="133" >
+		<Time-slot>00:07:19,115 --> 00:07:22,182</Time-slot>
+		<Original_text lang="en">owners who were getting text messages and emails</Original_text>
+		<Translation lang="ar">المالكين الذين كانوا يستلمون رسائل نصية ورسائل البريد الإلكتروني</Translation>
+		<Translation lang="fr">les propriétaires reçoivent des SMS et des emails</Translation>
+	</Segment>
+	<Segment id ="134" >
+		<Time-slot>00:07:22,182 --> 00:07:25,275</Time-slot>
+		<Original_text lang="en">that said, "Hey, Joe wants to rent your car for the weekend.</Original_text>
+		<Translation lang="ar">التي تقول, "مهلاً، جو يريد أن يستأجر سيارتك لعطلة نهاية الأسبوع.</Translation>
+		<Translation lang="fr">disant, "Hé, Joe veut louer votre voiture pour le week-end.</Translation>
+	</Segment>
+	<Segment id ="135" >
+		<Time-slot>00:07:25,274 --> 00:07:29,678</Time-slot>
+		<Original_text lang="en">You can earn 60 euros. Isn't that great? Yes or no?"</Original_text>
+		<Translation lang="ar">يمكنك الحصول على ستين يورو. أليس رائعاً؟ نعم أو لا؟"</Translation>
+		<Translation lang="fr">Vous pouvez gagner 60 euros. N'est-ce pas génial ? Oui ou non ?"</Translation>
+	</Segment>
+	<Segment id ="136" >
+		<Time-slot>00:07:29,678 --> 00:07:33,175</Time-slot>
+		<Original_text lang="en">No reply. Like, a huge proportion of them</Original_text>
+		<Translation lang="ar">لا رد. مثل, أن نسبة كبيرة منهم</Translation>
+		<Translation lang="fr">Aucune réponse. Une immense proportion</Translation>
+	</Segment>
+	<Segment id ="137" >
+		<Time-slot>00:07:33,175 --> 00:07:37,185</Time-slot>
+		<Original_text lang="en">couldn't be bothered after they had just started, they just signed up, to reply.</Original_text>
+		<Translation lang="ar">لم تزعج نفسها بعد أن بدأت للتو, لقد سجلوا للتو, ليردوا.</Translation>
+		<Translation lang="fr">ne se donnait pas la même après avoir commencé, après s'être inscrit, de répondre.</Translation>
+	</Segment>
+	<Segment id ="138" >
+		<Time-slot>00:07:37,185 --> 00:07:40,813</Time-slot>
+		<Original_text lang="en">So I thought, "Duh, Robin, this is the difference between</Original_text>
+		<Translation lang="ar">ولذلك أعتقدت, "من الواضح, يا روبن, أن هذا هو الفرق بين</Translation>
+		<Translation lang="fr">Alors j'ai pensé, "Euh, Robin, c'est la différence entre</Translation>
+	</Segment>
+	<Segment id ="139" >
+		<Time-slot>00:07:40,814 --> 00:07:43,956</Time-slot>
+		<Original_text lang="en">industrial production and peer production."</Original_text>
+		<Translation lang="ar">الإنتاج الصناعي وإنتاج الأقران."</Translation>
+		<Translation lang="fr">la production industrielle et la production par les pairs."</Translation>
+	</Segment>
+	<Segment id ="140" >
+		<Time-slot>00:07:43,956 --> 00:07:47,069</Time-slot>
+		<Original_text lang="en">Industrial production, the whole point of industrial production</Original_text>
+		<Translation lang="ar">الإنتاج الصناعي, كل المقصد من الإنتاج الصناعي</Translation>
+		<Translation lang="fr">La production industrielle, le but de la production industrielle</Translation>
+	</Segment>
+	<Segment id ="141" >
+		<Time-slot>00:07:47,069 --> 00:07:50,543</Time-slot>
+		<Original_text lang="en">is to provide a standardized, exact service model</Original_text>
+		<Translation lang="ar">أن يوفير نموذج خدمة واضح, موحد</Translation>
+		<Translation lang="fr">est de fournir un modèle de service normalisé et exact</Translation>
+	</Segment>
+	<Segment id ="142" >
+		<Time-slot>00:07:50,543 --> 00:07:52,754</Time-slot>
+		<Original_text lang="en">that is consistent every single time,</Original_text>
+		<Translation lang="ar">هذا متسق في كل مرة,</Translation>
+		<Translation lang="fr">qui est consistant à chaque fois,</Translation>
+	</Segment>
+	<Segment id ="143" >
+		<Time-slot>00:07:52,754 --> 00:07:55,755</Time-slot>
+		<Original_text lang="en">and I'm really thankful that my smartphone is made</Original_text>
+		<Translation lang="ar">وأنا في غاية الإمتنان لأن هاتفي النقال مصنوع</Translation>
+		<Translation lang="fr">et je suis très reconnaissante que mon Smartphone soit fabriqué</Translation>
+	</Segment>
+	<Segment id ="144" >
+		<Time-slot>00:07:55,755 --> 00:07:57,128</Time-slot>
+		<Original_text lang="en">using industrial production.</Original_text>
+		<Translation lang="ar">بأستخدام الإنتاج الصناعي.</Translation>
+		<Translation lang="fr">par une production industrielle.</Translation>
+	</Segment>
+	<Segment id ="145" >
+		<Time-slot>00:07:57,129 --> 00:07:59,867</Time-slot>
+		<Original_text lang="en">And Zipcar provides a very nice, consistent service</Original_text>
+		<Translation lang="ar">ويوفر "زيبكار" خدمة جيدة جداً, مستمرة</Translation>
+		<Translation lang="fr">Et Zipcar fournit un service très bon et consistant</Translation>
+	</Segment>
+	<Segment id ="146" >
+		<Time-slot>00:07:59,867 --> 00:08:01,451</Time-slot>
+		<Original_text lang="en">that works fabulously.</Original_text>
+		<Translation lang="ar">التي تعمل بصورة مذهلة.</Translation>
+		<Translation lang="fr">qui fonctionne merveilleusement.</Translation>
+	</Segment>
+	<Segment id ="147" >
+		<Time-slot>00:08:01,451 --> 00:08:04,593</Time-slot>
+		<Original_text lang="en">But what does peer production do? Peer production</Original_text>
+		<Translation lang="ar">ولكن ماذا يفعل إنتاج الأقران؟ إنتاج الأقران</Translation>
+		<Translation lang="fr">Mais que fait la production par les pairs ? La production par les pairs</Translation>
+	</Segment>
+	<Segment id ="148" >
+		<Time-slot>00:08:04,593 --> 00:08:07,886</Time-slot>
+		<Original_text lang="en">is this completely different way of doing things,</Original_text>
+		<Translation lang="ar">هو هذه الطريقة المختلفة كلياً للقيام بالأمور,</Translation>
+		<Translation lang="fr">est une façon complètement différente de faire les choses</Translation>
+	</Segment>
+	<Segment id ="149" >
+		<Time-slot>00:08:07,886 --> 00:08:12,958</Time-slot>
+		<Original_text lang="en">and you have a big quality range, and so eBay, cleverly,</Original_text>
+		<Translation lang="ar">ولديك مدى واسع من الجودة, واذاً موقع "اي باي", بذكاء,</Translation>
+		<Translation lang="fr">et il y a une large gamme de qualité, et eBay,</Translation>
+	</Segment>
+	<Segment id ="150" >
+		<Time-slot>00:08:12,958 --> 00:08:16,279</Time-slot>
+		<Original_text lang="en">the first peer production, Peer, Inc. company, I'd say,</Original_text>
+		<Translation lang="ar">أول انتاج أقران, "شركة الأقران", أود القول,</Translation>
+		<Translation lang="fr">la première compagnie Pair. S.A.. de production par les pairs,</Translation>
+	</Segment>
+	<Segment id ="151" >
+		<Time-slot>00:08:16,278 --> 00:08:20,877</Time-slot>
+		<Original_text lang="en">they figured out early on, we need to have ratings</Original_text>
+		<Translation lang="ar">انهم اكتشفوا مبكراً, انهم بحاجة إلى إضافة التصنيفات</Translation>
+		<Translation lang="fr">a vite compris qu'il nous faut des évaluations</Translation>
+	</Segment>
+	<Segment id ="152" >
+		<Time-slot>00:08:20,877 --> 00:08:24,261</Time-slot>
+		<Original_text lang="en">and commentaries and all that yucky side stuff.</Original_text>
+		<Translation lang="ar">والتعليقات و كل تلك الأشياء الجانبية المزعجة.</Translation>
+		<Translation lang="fr">et des commentaires et tous les trucs moches de ce genre.</Translation>
+	</Segment>
+	<Segment id ="153" >
+		<Time-slot>00:08:24,261 --> 00:08:27,509</Time-slot>
+		<Original_text lang="en">We can flag that and we can put it to the side, and people</Original_text>
+		<Translation lang="ar">نستطيع أن نعلم ذلك ونضعه على جنب, والناس</Translation>
+		<Translation lang="fr">On peut les signaler et les mettre de côté. Les gens</Translation>
+	</Segment>
+	<Segment id ="154" >
+		<Time-slot>00:08:27,509 --> 00:08:31,824</Time-slot>
+		<Original_text lang="en">who are buyers and consumers don't have to deal with it.</Original_text>
+		<Translation lang="ar">الذين هم المشترين والمستهلكين لن يضطروا للتعامل معها.</Translation>
+		<Translation lang="fr">qui sont des acheteurs et des consommateurs peuvent ne pas avoir affaire à eux.</Translation>
+	</Segment>
+	<Segment id ="155" >
+		<Time-slot>00:08:31,824 --> 00:08:36,882</Time-slot>
+		<Original_text lang="en">So going back, this is my look of excitement and joy,</Original_text>
+		<Translation lang="ar">اذاً بالعودة إلى الوراء, هذه هي نظرة الإثارة والفرح لدي,</Translation>
+		<Translation lang="fr">Revenons en arrière, voici mon regard excité et enjoué,</Translation>
+	</Segment>
+	<Segment id ="156" >
+		<Time-slot>00:08:36,881 --> 00:08:39,315</Time-slot>
+		<Original_text lang="en">because all this stuff that I'd also been hoping for</Original_text>
+		<Translation lang="ar">لأن كل هذه الأشياء التي كنت أيضاً أتمناها</Translation>
+		<Translation lang="fr">car tout ce que j'espérais</Translation>
+	</Segment>
+	<Segment id ="157" >
+		<Time-slot>00:08:39,316 --> 00:08:41,343</Time-slot>
+		<Original_text lang="en">actually really did happen, and what's that?</Original_text>
+		<Translation lang="ar">قد حدثت بالفعل حقاً, وما هو ذلك؟</Translation>
+		<Translation lang="fr">s'est en fait concrétisé, et de quoi s'agit-il ?</Translation>
+	</Segment>
+	<Segment id ="158" >
+		<Time-slot>00:08:41,342 --> 00:08:44,155</Time-slot>
+		<Original_text lang="en">That is the diversity of what's going on.</Original_text>
+		<Translation lang="ar">ذلك هو التنوع في ما يجري.</Translation>
+		<Translation lang="fr">Il s'agit de la diversité qui s'affiche.</Translation>
+	</Segment>
+	<Segment id ="159" >
+		<Time-slot>00:08:44,155 --> 00:08:46,787</Time-slot>
+		<Original_text lang="en">You have these different fabulous owners</Original_text>
+		<Translation lang="ar">لديك هؤلاء المالكيين المذهلين المتعددين</Translation>
+		<Translation lang="fr">Il y a tous ces formidables propriétaires différents</Translation>
+	</Segment>
+	<Segment id ="160" >
+		<Time-slot>00:08:46,788 --> 00:08:50,217</Time-slot>
+		<Original_text lang="en">and their different cars, different prices,</Original_text>
+		<Translation lang="ar">وسياراتهم المختلفة, وأسعار مختلفة,</Translation>
+		<Translation lang="fr">et leurs voitures différentes, des prix différents,</Translation>
+	</Segment>
+	<Segment id ="161" >
+		<Time-slot>00:08:50,217 --> 00:08:52,355</Time-slot>
+		<Original_text lang="en">different locations. (Laughter)</Original_text>
+		<Translation lang="ar">مواقع مختلفة. (ضحك)</Translation>
+		<Translation lang="fr">des lieux différents. (Rires)</Translation>
+	</Segment>
+	<Segment id ="162" >
+		<Time-slot>00:08:52,355 --> 00:08:57,503</Time-slot>
+		<Original_text lang="en">They dress differently, and they look different,</Original_text>
+		<Translation lang="ar">يلبسون بشكل مختلف, ويبدون مختلفين,</Translation>
+		<Translation lang="fr">Ils s'habillent différemment, ils sont physiquement différents,</Translation>
+	</Segment>
+	<Segment id ="163" >
+		<Time-slot>00:08:57,503 --> 00:09:03,223</Time-slot>
+		<Original_text lang="en">and, really, I love these photos every time I look at them.</Original_text>
+		<Translation lang="ar">وحقاً, أحب هذه الصور في كل مرة أنظر إليها.</Translation>
+		<Translation lang="fr">et, vraiment, j'adore ces photos à chaque fois que je les regarde.</Translation>
+	</Segment>
+	<Segment id ="164" >
+		<Time-slot>00:09:03,222 --> 00:09:06,332</Time-slot>
+		<Original_text lang="en">Cool guys, excited guys,</Original_text>
+		<Translation lang="ar">شباب رائعين, شباب متحمسين,</Translation>
+		<Translation lang="fr">Des types cools, des types enthousiastes,</Translation>
+	</Segment>
+	<Segment id ="165" >
+		<Time-slot>00:09:06,332 --> 00:09:11,111</Time-slot>
+		<Original_text lang="en">and here is Selma, who -- I love this driver.</Original_text>
+		<Translation lang="ar">وهاهي "سلمى", التي -- أحب هذه السائقة.</Translation>
+		<Translation lang="fr">et voici Selma, qui -- j'adore cette conductrice.</Translation>
+	</Segment>
+	<Segment id ="166" >
+		<Time-slot>00:09:11,111 --> 00:09:13,731</Time-slot>
+		<Original_text lang="en">And after a year, we have 1,000 cars</Original_text>
+		<Translation lang="ar">وبعد سنة, لدينا ألف سيارة</Translation>
+		<Translation lang="fr">Et après un an, nous avons mille voitures</Translation>
+	</Segment>
+	<Segment id ="167" >
+		<Time-slot>00:09:13,731 --> 00:09:17,131</Time-slot>
+		<Original_text lang="en">that are parked across France and 6,000 people</Original_text>
+		<Translation lang="ar">التي هي مركونة عبر فرنسا وستة آلاف شخص</Translation>
+		<Translation lang="fr">garées à travers la France, et six mille</Translation>
+	</Segment>
+	<Segment id ="168" >
+		<Time-slot>00:09:17,131 --> 00:09:19,500</Time-slot>
+		<Original_text lang="en">who are members and eager to drive them.</Original_text>
+		<Translation lang="ar">ممن هم أعضاء وتواقون لقيادتها.</Translation>
+		<Translation lang="fr">membres impatients de les conduire.</Translation>
+	</Segment>
+	<Segment id ="169" >
+		<Time-slot>00:09:19,500 --> 00:09:23,668</Time-slot>
+		<Original_text lang="en">This would not be possible to do that in economic fashion</Original_text>
+		<Translation lang="ar">هذا لم يكن من الممكن القيام به بطريقة اقتصادية</Translation>
+		<Translation lang="fr">Ce ne serait pas possible de faire çad 'une manière économique</Translation>
+	</Segment>
+	<Segment id ="170" >
+		<Time-slot>00:09:23,668 --> 00:09:26,029</Time-slot>
+		<Original_text lang="en">for a traditional company.</Original_text>
+		<Translation lang="ar">لشركة تقليدية.</Translation>
+		<Translation lang="fr">pour un compagnie traditionnelle.</Translation>
+	</Segment>
+	<Segment id ="171" >
+		<Time-slot>00:09:26,029 --> 00:09:28,172</Time-slot>
+		<Original_text lang="en">Back to this spectrum.</Original_text>
+		<Translation lang="ar">بالعودة إلى هذا الطيف.</Translation>
+		<Translation lang="fr">Revenons à cette gamme de qualité.</Translation>
+	</Segment>
+	<Segment id ="172" >
+		<Time-slot>00:09:28,172 --> 00:09:30,888</Time-slot>
+		<Original_text lang="en">So what's happening is, we had the yuck side,</Original_text>
+		<Translation lang="ar">اذاً ماذا يحدث الآن, لدينا الجانب المقزز,</Translation>
+		<Translation lang="fr">Ce qui se passe, c'est que nous avions le côté mauvais</Translation>
+	</Segment>
+	<Segment id ="173" >
+		<Time-slot>00:09:30,888 --> 00:09:33,112</Time-slot>
+		<Original_text lang="en">but we actually had this real wow side.</Original_text>
+		<Translation lang="ar">ولكن في الواقع لدينا هذا الجانب الباهر حقيقيةً.</Translation>
+		<Translation lang="fr">mais nous avions en fait aussi le côté génial.</Translation>
+	</Segment>
+	<Segment id ="174" >
+		<Time-slot>00:09:33,111 --> 00:09:35,851</Time-slot>
+		<Original_text lang="en">And I can tell you two great stories.</Original_text>
+		<Translation lang="ar">وأستطيع أن أخبركم اثنين من القصص العظيمة.</Translation>
+		<Translation lang="fr">Et je peux vous raconter deux excellentes anecdotes.</Translation>
+	</Segment>
+	<Segment id ="175" >
+		<Time-slot>00:09:35,851 --> 00:09:38,818</Time-slot>
+		<Original_text lang="en">A driver was telling me that they went to rent a car</Original_text>
+		<Translation lang="ar">سائق كان يخبرني أنه ذهب لتأجير سيارة</Translation>
+		<Translation lang="fr">Un conducteur me disait qu'il était allé louer une voiture</Translation>
+	</Segment>
+	<Segment id ="176" >
+		<Time-slot>00:09:38,818 --> 00:09:42,553</Time-slot>
+		<Original_text lang="en">to go up the coast of France and the owner gave it to them,</Original_text>
+		<Translation lang="ar">ليذهب نحو سواحل فرنسا والمالك أعطاها لهم,</Translation>
+		<Translation lang="fr">pour aller sur la côte française et le propriétaire lui a donné</Translation>
+	</Segment>
+	<Segment id ="177" >
+		<Time-slot>00:09:42,553 --> 00:09:44,545</Time-slot>
+		<Original_text lang="en">and said, "You know what, here's where the cliffs are,</Original_text>
+		<Translation lang="ar">وقال: "أتعرف ماذا, هنا يوجد المنحدر,</Translation>
+		<Translation lang="fr">et a dit, "Tu sais quoi, voilà où sont les falaises,</Translation>
+	</Segment>
+	<Segment id ="178" >
+		<Time-slot>00:09:44,546 --> 00:09:47,066</Time-slot>
+		<Original_text lang="en">and here's all the beaches, and this is my best beach,</Original_text>
+		<Translation lang="ar">وهنا جميع الشواطئ, وهذا هو شاطئي المفضل,</Translation>
+		<Translation lang="fr">et voilà où sont les plages, et ça, c'est la meilleure plage,</Translation>
+	</Segment>
+	<Segment id ="179" >
+		<Time-slot>00:09:47,066 --> 00:09:49,865</Time-slot>
+		<Original_text lang="en">and this is where the best fish restaurant is."</Original_text>
+		<Translation lang="ar">وهنا حيث يوجد أفضل مطعم أسماك ".</Translation>
+		<Translation lang="fr">et voilà où se trouve le meilleur restaurant de poissons."</Translation>
+	</Segment>
+	<Segment id ="180" >
+		<Time-slot>00:09:49,865 --> 00:09:52,701</Time-slot>
+		<Original_text lang="en">And the peers also become,</Original_text>
+		<Translation lang="ar">والأقران أصبحت أيضاً,</Translation>
+		<Translation lang="fr">Et les pairs deviennent aussi --</Translation>
+	</Segment>
+	<Segment id ="181" >
+		<Time-slot>00:09:52,701 --> 00:09:54,962</Time-slot>
+		<Original_text lang="en">peers and owners create relationships,</Original_text>
+		<Translation lang="ar">الأقران والمالكين ينشئون علاقات,</Translation>
+		<Translation lang="fr">les pairs et les propriétaires créent des liens,</Translation>
+	</Segment>
+	<Segment id ="182" >
+		<Time-slot>00:09:54,962 --> 00:09:57,233</Time-slot>
+		<Original_text lang="en">and so at the last minute people can --</Original_text>
+		<Translation lang="ar">واذاً حتى اللحظة الأخيرة يمكن للناس --</Translation>
+		<Translation lang="fr">donc à la dernière minute les gens peuvent --</Translation>
+	</Segment>
+	<Segment id ="183" >
+		<Time-slot>00:09:57,234 --> 00:09:59,891</Time-slot>
+		<Original_text lang="en">a driver can say, "Hey, you know what, I really need the car,</Original_text>
+		<Translation lang="ar">السائق يمكن أن يقول, "مهلاً, أتعرف ماذا, أنا حقاً بحاجة إلى السيارة,</Translation>
+		<Translation lang="fr">un conducteur peut dire, "Hé, tu sais quoi, j'ai vraiment besoin de la voiture,</Translation>
+	</Segment>
+	<Segment id ="184" >
+		<Time-slot>00:09:59,890 --> 00:10:01,380</Time-slot>
+		<Original_text lang="en">is it available?" And that person will say,</Original_text>
+		<Translation lang="ar">هل هي متوفرة؟" وسوف يقول ذلك الشخص,</Translation>
+		<Translation lang="fr">est-elle disponible ?" Et la personne dira,</Translation>
+	</Segment>
+	<Segment id ="185" >
+		<Time-slot>00:10:01,380 --> 00:10:04,491</Time-slot>
+		<Original_text lang="en">"Sure, my wife's at home. Go pick up the keys. Go do it."</Original_text>
+		<Translation lang="ar">"بالتأكيد, زوجتي في المنزل. أذهب لأخذ المفاتيح. اذهب للقيام بذلك".</Translation>
+		<Translation lang="fr">"Bien sûr, ma femme est à la maison. Va prendre les clés, vas-y."</Translation>
+	</Segment>
+	<Segment id ="186" >
+		<Time-slot>00:10:04,491 --> 00:10:07,890</Time-slot>
+		<Original_text lang="en">So you can have these really nice things that can't happen,</Original_text>
+		<Translation lang="ar">اذاً يمكن أن يكون لديك هذه الأشياء الجميلة حقاً التي لا يمكن أن تحدث,</Translation>
+		<Translation lang="fr">Des trucs très sympas et improbables peuvent se passer</Translation>
+	</Segment>
+	<Segment id ="187" >
+		<Time-slot>00:10:07,890 --> 00:10:11,722</Time-slot>
+		<Original_text lang="en">and it's a kind of "Wow!" and I want to say "Wow!"</Original_text>
+		<Translation lang="ar">وهي نوع من "نجاح باهر!". وأنا أريد أن أقول "نجاح باهر!"</Translation>
+		<Translation lang="fr">et c'est fascinant, ce qui se passe</Translation>
+	</Segment>
+	<Segment id ="188" >
+		<Time-slot>00:10:11,722 --> 00:10:14,202</Time-slot>
+		<Original_text lang="en">type of thing that's happening here, because individuals,</Original_text>
+		<Translation lang="ar">نوع الأشياء الذي يحدث هنا, بسبب الأفراد,</Translation>
+		<Translation lang="fr">parce que des individus --</Translation>
+	</Segment>
+	<Segment id ="189" >
+		<Time-slot>00:10:14,202 --> 00:10:17,073</Time-slot>
+		<Original_text lang="en">if you're a company, what happens is you might have</Original_text>
+		<Translation lang="ar">إذا كنت شركة, ما قد يحدث اذا كان لديك</Translation>
+		<Translation lang="fr">une compagnie pourrait avoir</Translation>
+	</Segment>
+	<Segment id ="190" >
+		<Time-slot>00:10:17,073 --> 00:10:18,823</Time-slot>
+		<Original_text lang="en">10 people who are in charge of innovation,</Original_text>
+		<Translation lang="ar">عشرة أشخاص مسؤولين عن الابتكار,</Translation>
+		<Translation lang="fr">10 personnes en charge de l'innovation</Translation>
+	</Segment>
+	<Segment id ="191" >
+		<Time-slot>00:10:18,823 --> 00:10:20,781</Time-slot>
+		<Original_text lang="en">or 100 people who are in charge of innovation.</Original_text>
+		<Translation lang="ar">أو مئة شخص مسؤولين عن الابتكار.</Translation>
+		<Translation lang="fr">ou 100 personnes en charge de l'innovation.</Translation>
+	</Segment>
+	<Segment id ="192" >
+		<Time-slot>00:10:20,782 --> 00:10:24,286</Time-slot>
+		<Original_text lang="en">What happens in Peer, Inc. companies is that you have</Original_text>
+		<Translation lang="ar">ماذا يحدث في "شركة الأقران" أن يكون لديك</Translation>
+		<Translation lang="fr">Avec les compagnies Pairs, S.A., on a plutôt</Translation>
+	</Segment>
+	<Segment id ="193" >
+		<Time-slot>00:10:24,285 --> 00:10:27,357</Time-slot>
+		<Original_text lang="en">tens and hundreds and thousands and even millions</Original_text>
+		<Translation lang="ar">عشرات ومئات وآلاف وحتى ملايين</Translation>
+		<Translation lang="fr">des dizaines, des centaines, des milliers et même des millions</Translation>
+	</Segment>
+	<Segment id ="194" >
+		<Time-slot>00:10:27,357 --> 00:10:30,460</Time-slot>
+		<Original_text lang="en">of people who are creating experiments on this model,</Original_text>
+		<Translation lang="ar">من الناس الذين يخلقون التجارب على هذا النموذج,</Translation>
+		<Translation lang="fr">de personnes qui expérimentent sur ce modèle,</Translation>
+	</Segment>
+	<Segment id ="195" >
+		<Time-slot>00:10:30,461 --> 00:10:33,046</Time-slot>
+		<Original_text lang="en">and so out of all that influence and that effort,</Original_text>
+		<Translation lang="ar">ومن كل ذلك النفوذ وذلك الجهد,</Translation>
+		<Translation lang="fr">et il résulte de toute cette influence et de</Translation>
+	</Segment>
+	<Segment id ="196" >
+		<Time-slot>00:10:33,046 --> 00:10:37,437</Time-slot>
+		<Original_text lang="en">you are having this exceptional amount of innovation</Original_text>
+		<Translation lang="ar">يكون لديك هذا المقدار الإستثنائي للابتكار</Translation>
+		<Translation lang="fr">tout cet effort une somme</Translation>
+	</Segment>
+	<Segment id ="197" >
+		<Time-slot>00:10:37,437 --> 00:10:39,855</Time-slot>
+		<Original_text lang="en">that is coming out.</Original_text>
+		<Translation lang="ar">الذي يظهر.</Translation>
+		<Translation lang="fr">exceptionnelle d'innovation.</Translation>
+	</Segment>
+	<Segment id ="198" >
+		<Time-slot>00:10:39,855 --> 00:10:43,224</Time-slot>
+		<Original_text lang="en">So one of the reasons, if we come back to why did I</Original_text>
+		<Translation lang="ar">اذاً أحد الأسباب, إذا عدنا إلى لماذا</Translation>
+		<Translation lang="fr">Donc revenons à la raison pour laquelle</Translation>
+	</Segment>
+	<Segment id ="199" >
+		<Time-slot>00:10:43,224 --> 00:10:46,065</Time-slot>
+		<Original_text lang="en">call it Buzzcar? I wanted to remind all of us</Original_text>
+		<Translation lang="ar">سميتها "بوزكار"؟ أردت أن أذكرنا جميعاً</Translation>
+		<Translation lang="fr">j'ai appelé cela Buzzcar. Je voulais nous rappeler à tous</Translation>
+	</Segment>
+	<Segment id ="200" >
+		<Time-slot>00:10:46,065 --> 00:10:48,941</Time-slot>
+		<Original_text lang="en">about the power of the hive,</Original_text>
+		<Translation lang="ar">بقوة الخلية,</Translation>
+		<Translation lang="fr">le pouvoir d'une véritable ruche</Translation>
+	</Segment>
+	<Segment id ="201" >
+		<Time-slot>00:10:48,941 --> 00:10:51,877</Time-slot>
+		<Original_text lang="en">and its incredible facility to create this platform</Original_text>
+		<Translation lang="ar">وبمرافقها التي لا تصدق لإنشاء هذه المنصة</Translation>
+		<Translation lang="fr">et sa facilité incroyable à créer cette plateforme</Translation>
+	</Segment>
+	<Segment id ="202" >
+		<Time-slot>00:10:51,876 --> 00:10:55,897</Time-slot>
+		<Original_text lang="en">that individuals want to participate and innovate on.</Original_text>
+		<Translation lang="ar">أن الأفراد يريدون المشاركة والابتكار.</Translation>
+		<Translation lang="fr">à laquelle les individus veulent participer pour innover.</Translation>
+	</Segment>
+	<Segment id ="203" >
+		<Time-slot>00:10:55,898 --> 00:10:59,317</Time-slot>
+		<Original_text lang="en">And for me, when I think about our future,</Original_text>
+		<Translation lang="ar">وبالنسبة لي, عندما أفكر في مستقبلنا,</Translation>
+		<Translation lang="fr">Et à mon avis, lorsque je pense à notre avenir,</Translation>
+	</Segment>
+	<Segment id ="204" >
+		<Time-slot>00:10:59,317 --> 00:11:02,645</Time-slot>
+		<Original_text lang="en">and all of those problems that seem incredibly large,</Original_text>
+		<Translation lang="ar">وكل هذه المشاكل التي تبدو كبيرة بشكل لا يصدق,</Translation>
+		<Translation lang="fr">et à tous ces problèmes qui semblent incroyablement gros,</Translation>
+	</Segment>
+	<Segment id ="205" >
+		<Time-slot>00:11:02,645 --> 00:11:05,731</Time-slot>
+		<Original_text lang="en">the scale is impossible, the urgency is there,</Original_text>
+		<Translation lang="ar">النطاق مستحيل, الحاجة الملحة متواجدة,</Translation>
+		<Translation lang="fr">l'échelle est invraisemblable, l'urgence existe.</Translation>
+	</Segment>
+	<Segment id ="206" >
+		<Time-slot>00:11:05,731 --> 00:11:08,765</Time-slot>
+		<Original_text lang="en">Peers, Inc. provides the speed and scale</Original_text>
+		<Translation lang="ar">"شركة الأقران" توفر السرعة والحجم</Translation>
+		<Translation lang="fr">Pairs, S.A.. fournit la rapidité, l'échelle,</Translation>
+	</Segment>
+	<Segment id ="207" >
+		<Time-slot>00:11:08,765 --> 00:11:13,351</Time-slot>
+		<Original_text lang="en">and the innovation and the creativity that is going to answer these problems.</Original_text>
+		<Translation lang="ar">والابتكار والإبداع الذي سيرد على هذه المشاكل.</Translation>
+		<Translation lang="fr">l'innovation et la créativité qui va répondre à ces problèmes.</Translation>
+	</Segment>
+	<Segment id ="208" >
+		<Time-slot>00:11:13,351 --> 00:11:18,668</Time-slot>
+		<Original_text lang="en">All we have to do is create a fabulous platform for participation -- nontrivial.</Original_text>
+		<Translation lang="ar">كل ما علينا القيام به هو إنشاء منصة رائعة للمشاركة -- ليس ذلك ضئيلاً.</Translation>
+		<Translation lang="fr">Tous ce que nous avons à faire, c'est créer une fabuleuse plateforme participative et sérieuse.</Translation>
+	</Segment>
+	<Segment id ="209" >
+		<Time-slot>00:11:18,668 --> 00:11:21,446</Time-slot>
+		<Original_text lang="en">So I continue to think that</Original_text>
+		<Translation lang="ar">لذا ما زلت أعتقد أن</Translation>
+		<Translation lang="fr">Je continue donc à penser que</Translation>
+	</Segment>
+	<Segment id ="210" >
+		<Time-slot>00:11:21,446 --> 00:11:24,701</Time-slot>
+		<Original_text lang="en">transportation is the center of the hard universe.</Original_text>
+		<Translation lang="ar">النقل هو مركز الكون الثابت.</Translation>
+		<Translation lang="fr">les transports sont le centre de l'univers.</Translation>
+	</Segment>
+	<Segment id ="211" >
+		<Time-slot>00:11:24,701 --> 00:11:27,024</Time-slot>
+		<Original_text lang="en">All problems come back to transportation for me.</Original_text>
+		<Translation lang="ar">جميع المشاكل تعود إلى النقل بالنسبة لي.</Translation>
+		<Translation lang="fr">À mon avis, tous les problèmes découlent des transports.</Translation>
+	</Segment>
+	<Segment id ="212" >
+		<Time-slot>00:11:27,024 --> 00:11:30,871</Time-slot>
+		<Original_text lang="en">But there are all these other areas that are these profound,</Original_text>
+		<Translation lang="ar">ولكن توجد جميع هذه المجالات الأخرى التي هي عميقة,</Translation>
+		<Translation lang="fr">Mais il y a -- tous ces autres domaines qui sont des gros</Translation>
+	</Segment>
+	<Segment id ="213" >
+		<Time-slot>00:11:30,871 --> 00:11:34,236</Time-slot>
+		<Original_text lang="en">big problems that I know that we can work on,</Original_text>
+		<Translation lang="ar">مشاكل كبيرة أعلم أننا نستطيع أن نعمل عليها,</Translation>
+		<Translation lang="fr">problèmes profonds sur lesquels je sais que nous pouvons travailler,</Translation>
+	</Segment>
+	<Segment id ="214" >
+		<Time-slot>00:11:34,236 --> 00:11:37,012</Time-slot>
+		<Original_text lang="en">and people are working on them in many different sectors,</Original_text>
+		<Translation lang="ar">والناس يعملون عليها في العديد من القطاعات المختلفة,</Translation>
+		<Translation lang="fr">et des gens y travaillent dans plusieurs secteurs différents</Translation>
+	</Segment>
+	<Segment id ="215" >
+		<Time-slot>00:11:37,013 --> 00:11:39,557</Time-slot>
+		<Original_text lang="en">but there's this really fabulous group of things</Original_text>
+		<Translation lang="ar">ولكن هناك هذه المجموعة الرائعة حقاً من الأشياء</Translation>
+		<Translation lang="fr">mais il y a un fabuleux rassemblement de choses</Translation>
+	</Segment>
+	<Segment id ="216" >
+		<Time-slot>00:11:39,557 --> 00:11:44,043</Time-slot>
+		<Original_text lang="en">with the power of this Peers, Inc. model.</Original_text>
+		<Translation lang="ar">بها قوة نموذج "شركة الأقران".</Translation>
+		<Translation lang="fr">avec le pouvoir du modèle Pairs, S.A.</Translation>
+	</Segment>
+	<Segment id ="217" >
+		<Time-slot>00:11:44,043 --> 00:11:50,528</Time-slot>
+		<Original_text lang="en">So over the last decade, we've been reveling in</Original_text>
+		<Translation lang="ar">اذاً, على مدى العقد الماضي, كنا نكشف</Translation>
+		<Translation lang="fr">Ces 10 dernières années, nous avons savouré</Translation>
+	</Segment>
+	<Segment id ="218" >
+		<Time-slot>00:11:50,528 --> 00:11:54,032</Time-slot>
+		<Original_text lang="en">the power of the Internet and how it's empowered individuals,</Original_text>
+		<Translation lang="ar">قوة الإنترنت وكيف أنها أمدت الأفراد بالقوة,</Translation>
+		<Translation lang="fr">la puissance d'Internet et le pouvoir qu'il a apporté aux individus</Translation>
+	</Segment>
+	<Segment id ="219" >
+		<Time-slot>00:11:54,032 --> 00:11:56,628</Time-slot>
+		<Original_text lang="en">and for me, what Peers, Inc. does</Original_text>
+		<Translation lang="ar">و بالنسبة لي, ما تفعله "شركة الأقران"</Translation>
+		<Translation lang="fr">et à mon avis, Pairs, S.A.</Translation>
+	</Segment>
+	<Segment id ="220" >
+		<Time-slot>00:11:56,628 --> 00:12:00,464</Time-slot>
+		<Original_text lang="en">is it takes it up a notch. We're now bringing the power</Original_text>
+		<Translation lang="ar">هو أنها ترفعه درجة أعلى قليلاً. نحن الآن نجلب قوة</Translation>
+		<Translation lang="fr">relève la barre. Nous rassemblons maintenant le pouvoir</Translation>
+	</Segment>
+	<Segment id ="221" >
+		<Time-slot>00:12:00,464 --> 00:12:03,460</Time-slot>
+		<Original_text lang="en">of the company and the corporation</Original_text>
+		<Translation lang="ar">الشركة والمؤسسة</Translation>
+		<Translation lang="fr">de la compagnie et de la corporation</Translation>
+	</Segment>
+	<Segment id ="222" >
+		<Time-slot>00:12:03,460 --> 00:12:06,325</Time-slot>
+		<Original_text lang="en">and supercharging individuals.</Original_text>
+		<Translation lang="ar">و الأفراد النشطون.</Translation>
+		<Translation lang="fr">pour galvaniser les individus.</Translation>
+	</Segment>
+	<Segment id ="223" >
+		<Time-slot>00:12:06,325 --> 00:12:09,870</Time-slot>
+		<Original_text lang="en">So for me, it's a collaboration.</Original_text>
+		<Translation lang="ar">اذاً بالنسبة لي, أنه التعاون.</Translation>
+		<Translation lang="fr">Donc à mon avis, c'est une collaboration.</Translation>
+	</Segment>
+	<Segment id ="224" >
+		<Time-slot>00:12:09,870 --> 00:12:14,154</Time-slot>
+		<Original_text lang="en">Together, we can. (Applause)</Original_text>
+		<Translation lang="ar">معاً, نستطيع. (تصفيق)</Translation>
+		<Translation lang="fr">Ensemble, nous pouvons agir. (Applaudissements)</Translation>
+	</Segment>
+	<Segment id ="225" >
+		<Time-slot>00:12:14,154 --> 00:12:16,740</Time-slot>
+		<Original_text lang="en">Thank you. (Applause)</Original_text>
+		<Translation lang="ar">شكراً. (تصفيق)</Translation>
+		<Translation lang="fr">Merci. (Applaudissements)</Translation>
+	</Segment>
+</Talk>
+</MulTed>

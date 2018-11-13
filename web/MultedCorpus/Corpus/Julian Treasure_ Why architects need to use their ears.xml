@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MulTed>
+
+<Talk Speaker = "Julian Treasure" Title= " Why architects need to use their ears" >
+	<Segment id ="1" >
+		<Time-slot>00:00:16,309 --> 00:00:20,100</Time-slot>
+		<Original_text lang="en">It's time to start designing for our ears.</Original_text>
+		<Translation lang="ar">حان الوقت لنصمم من أجل آذاننا.</Translation>
+		<Translation lang="fr">Il est temps de commencer à concevoir pour nos oreilles.</Translation>
+	</Segment>
+	<Segment id ="2" >
+		<Time-slot>00:00:20,100 --> 00:00:22,180</Time-slot>
+		<Original_text lang="en">Architects and designers tend to focus</Original_text>
+		<Translation lang="ar">المعماريون والمصممون يميلون إلى التركيز</Translation>
+		<Translation lang="fr">Architectes et designers ont tendance à se focaliser</Translation>
+	</Segment>
+	<Segment id ="3" >
+		<Time-slot>00:00:22,181 --> 00:00:23,707</Time-slot>
+		<Original_text lang="en">exclusively on these.</Original_text>
+		<Translation lang="ar">حصريا على هذه.</Translation>
+		<Translation lang="fr">uniquement sur ça.</Translation>
+	</Segment>
+	<Segment id ="4" >
+		<Time-slot>00:00:23,707 --> 00:00:26,821</Time-slot>
+		<Original_text lang="en">They use these to design with and they design for them,</Original_text>
+		<Translation lang="ar">يستخدمون هذه للتصميم ويصممون من أجلها،</Translation>
+		<Translation lang="fr">Ils les utilisent pour concevoir et ne conçoivent que pour eux,</Translation>
+	</Segment>
+	<Segment id ="5" >
+		<Time-slot>00:00:26,821 --> 00:00:29,149</Time-slot>
+		<Original_text lang="en">which is why we end up sitting in restaurants that look</Original_text>
+		<Translation lang="ar">وهو ما يؤدي بنا إلى الجلوس في مطاعم تبدو</Translation>
+		<Translation lang="fr">et c'est pourquoi on se retrouve assis dans des restaurants</Translation>
+	</Segment>
+	<Segment id ="6" >
+		<Time-slot>00:00:29,149 --> 00:00:30,946</Time-slot>
+		<Original_text lang="en">like this — (loud crowd noise) — and sound like this,</Original_text>
+		<Translation lang="ar">هكذا – (ضوضاء حشود عالية) – وتُسمع هكذا،</Translation>
+		<Translation lang="fr">qui ressemblent à ça -- (bruyante cacophonie) -- et qui sonnent un peu près comme ça,</Translation>
+	</Segment>
+	<Segment id ="7" >
+		<Time-slot>00:00:30,946 --> 00:00:33,493</Time-slot>
+		<Original_text lang="en">shouting from a foot away to try and be heard</Original_text>
+		<Translation lang="ar">نصرخ على بعد قدم لإسماع صوتنا</Translation>
+		<Translation lang="fr">à crier pour essayer de se faire entendre</Translation>
+	</Segment>
+	<Segment id ="8" >
+		<Time-slot>00:00:33,493 --> 00:00:34,795</Time-slot>
+		<Original_text lang="en">by our dinner companion,</Original_text>
+		<Translation lang="ar">لرفيق عشائنا،</Translation>
+		<Translation lang="fr">à l'autre bout de la table,</Translation>
+	</Segment>
+	<Segment id ="9" >
+		<Time-slot>00:00:34,795 --> 00:00:38,018</Time-slot>
+		<Original_text lang="en">or why we get on airplanes -- (flight attendant announcements) -- which cost 200 million pounds,</Original_text>
+		<Translation lang="ar">أو لماذا نركب طائرات - (إعلانات مضيفات) - تكلف 200 مليون جنيه استرليني،</Translation>
+		<Translation lang="fr">ou pourquoi est-ce qu'on se retrouve à bord d'avions -- (annonces du personnel de bord) -- qui coûtent 250 millions d'euros,</Translation>
+	</Segment>
+	<Segment id ="10" >
+		<Time-slot>00:00:38,018 --> 00:00:41,861</Time-slot>
+		<Original_text lang="en">with somebody talking through an old-fashioned telephone handset</Original_text>
+		<Translation lang="ar">مع شخص يتحدث من خلال سماعة هاتف من الطراز القديم</Translation>
+		<Translation lang="fr">avec quelqu'un utilisant encore un combiné téléphonique des plus démodés</Translation>
+	</Segment>
+	<Segment id ="11" >
+		<Time-slot>00:00:41,860 --> 00:00:43,396</Time-slot>
+		<Original_text lang="en">on a cheap stereo system,</Original_text>
+		<Translation lang="ar">بنظام ستيريو رخيص،</Translation>
+		<Translation lang="fr">sur un système stéréo bon marché,</Translation>
+	</Segment>
+	<Segment id ="12" >
+		<Time-slot>00:00:43,396 --> 00:00:46,049</Time-slot>
+		<Original_text lang="en">making us jump out of our skins.</Original_text>
+		<Translation lang="ar">مما يجعلنا نقفز من أماكننا.</Translation>
+		<Translation lang="fr">qui nous fait sauter au plafond.</Translation>
+	</Segment>
+	<Segment id ="13" >
+		<Time-slot>00:00:46,049 --> 00:00:49,433</Time-slot>
+		<Original_text lang="en">We're designing environments that make us crazy. (Laughter)</Original_text>
+		<Translation lang="ar">إننا تقوم بتصميم بيئات تصيبنا بالجنون. (ضحك)</Translation>
+		<Translation lang="fr">Nous concevons des environnements qui nous rendent dingues. (Rires)</Translation>
+	</Segment>
+	<Segment id ="14" >
+		<Time-slot>00:00:49,433 --> 00:00:52,146</Time-slot>
+		<Original_text lang="en">And it's not just our quality of life which suffers.</Original_text>
+		<Translation lang="ar">وليست جودة حياتنا هي وحدها التي تتضرر فقط.</Translation>
+		<Translation lang="fr">Et ce n'est pas seulement notre qualité de vie qui en pâtit.</Translation>
+	</Segment>
+	<Segment id ="15" >
+		<Time-slot>00:00:52,146 --> 00:00:53,920</Time-slot>
+		<Original_text lang="en">It's our health,</Original_text>
+		<Translation lang="ar">فصحتنا،</Translation>
+		<Translation lang="fr">C'est notre santé,</Translation>
+	</Segment>
+	<Segment id ="16" >
+		<Time-slot>00:00:53,920 --> 00:00:57,932</Time-slot>
+		<Original_text lang="en">our social behavior, and our productivity as well.</Original_text>
+		<Translation lang="ar">وسلوكنا الاجتماعي، وإنتاجيتنا تتضرر كذلك.</Translation>
+		<Translation lang="fr">notre comportement social, et aussi notre productivité.</Translation>
+	</Segment>
+	<Segment id ="17" >
+		<Time-slot>00:00:57,932 --> 00:00:59,574</Time-slot>
+		<Original_text lang="en">How does this work? Well, two ways.</Original_text>
+		<Translation lang="ar">كيف يعمل هذا؟ حسناً، هناك طريقتان.</Translation>
+		<Translation lang="fr">Comment ça marche? Eh bien, de deux façons.</Translation>
+	</Segment>
+	<Segment id ="18" >
+		<Time-slot>00:00:59,573 --> 00:01:03,012</Time-slot>
+		<Original_text lang="en">First of all, ambience. I have a whole TEDTalk about this.</Original_text>
+		<Translation lang="ar">بادئ ذي بدء، الأجواء. ولي محادثة TED كاملة حول ذلك.</Translation>
+		<Translation lang="fr">Premièrement, l'ambiance. J'ai une TEDTalk complète sur le sujet.</Translation>
+	</Segment>
+	<Segment id ="19" >
+		<Time-slot>00:01:03,012 --> 00:01:06,444</Time-slot>
+		<Original_text lang="en">Sound affects us physiologically, psychologically,</Original_text>
+		<Translation lang="ar">الصوت يؤثر علينا من الناحية الفسيولوجية والنفسية،</Translation>
+		<Translation lang="fr">L'environnement sonore nous affecte physiologiquement, psychologiquement,</Translation>
+	</Segment>
+	<Segment id ="20" >
+		<Time-slot>00:01:06,444 --> 00:01:08,644</Time-slot>
+		<Original_text lang="en">cognitively and behaviorally all the time.</Original_text>
+		<Translation lang="ar">ومعرفياً وسلوكياً طوال الوقت.</Translation>
+		<Translation lang="fr">de façon cognitive et comportementale constamment.</Translation>
+	</Segment>
+	<Segment id ="21" >
+		<Time-slot>00:01:08,644 --> 00:01:10,381</Time-slot>
+		<Original_text lang="en">The sound around us is affecting us</Original_text>
+		<Translation lang="ar">الصوت المحيط بنا يؤثر علينا</Translation>
+		<Translation lang="fr">L'environment sonore nous affecte</Translation>
+	</Segment>
+	<Segment id ="22" >
+		<Time-slot>00:01:10,381 --> 00:01:12,703</Time-slot>
+		<Original_text lang="en">even though we're not conscious of it.</Original_text>
+		<Translation lang="ar">على الرغم من أننا لسنا واعين بذلك.</Translation>
+		<Translation lang="fr">même si nous n'en avons pas conscience.</Translation>
+	</Segment>
+	<Segment id ="23" >
+		<Time-slot>00:01:12,703 --> 00:01:14,459</Time-slot>
+		<Original_text lang="en">There's a second way though, as well.</Original_text>
+		<Translation lang="ar">لكن هناك طريقة ثانية كذلك.</Translation>
+		<Translation lang="fr">Il existe également un second phénomène.</Translation>
+	</Segment>
+	<Segment id ="24" >
+		<Time-slot>00:01:14,459 --> 00:01:17,835</Time-slot>
+		<Original_text lang="en">That's interference. Communication requires sending</Original_text>
+		<Translation lang="ar">وهو التشويش. يتطلب الاتصال الإرسال</Translation>
+		<Translation lang="fr">C'est l'interférence. Pour communiquer il nous faut envoyer</Translation>
+	</Segment>
+	<Segment id ="25" >
+		<Time-slot>00:01:17,835 --> 00:01:21,736</Time-slot>
+		<Original_text lang="en">and receiving, and I have another whole TEDTalk</Original_text>
+		<Translation lang="ar">والاستلام، ولدى محادثة TED كاملة أخرى</Translation>
+		<Translation lang="fr">et recevoir, et j'ai une autre TEDTalk complète</Translation>
+	</Segment>
+	<Segment id ="26" >
+		<Time-slot>00:01:21,736 --> 00:01:24,200</Time-slot>
+		<Original_text lang="en">about the importance of conscious listening,</Original_text>
+		<Translation lang="ar">حول أهمية الاستماع الواعي،</Translation>
+		<Translation lang="fr">sur l'importance de l'écoute attentive,</Translation>
+	</Segment>
+	<Segment id ="27" >
+		<Time-slot>00:01:24,200 --> 00:01:26,234</Time-slot>
+		<Original_text lang="en">but I can send as well as I like,</Original_text>
+		<Translation lang="ar">ولكن يمكنني أن أرسل بالجودة التي أريدها،</Translation>
+		<Translation lang="fr">mais je peux envoyer autant que je veux,</Translation>
+	</Segment>
+	<Segment id ="28" >
+		<Time-slot>00:01:26,233 --> 00:01:28,647</Time-slot>
+		<Original_text lang="en">and you can be brilliant conscious listeners.</Original_text>
+		<Translation lang="ar">ويمكن أن تكون مستمعاً واعياً ولامعاً.</Translation>
+		<Translation lang="fr">et vous avez beau être de parfaits auditeurs attentifs.</Translation>
+	</Segment>
+	<Segment id ="29" >
+		<Time-slot>00:01:28,647 --> 00:01:32,147</Time-slot>
+		<Original_text lang="en">If the space I'm sending it in is not effective,</Original_text>
+		<Translation lang="ar">إن لم يكن الفضاء الذي أرسلها فيه فعالاً،</Translation>
+		<Translation lang="fr">Si l'espace dans lequel j'envoie n'est pas efficace,</Translation>
+	</Segment>
+	<Segment id ="30" >
+		<Time-slot>00:01:32,147 --> 00:01:34,641</Time-slot>
+		<Original_text lang="en">that communication can't happen.</Original_text>
+		<Translation lang="ar">فإن التواصل لن يحصل.</Translation>
+		<Translation lang="fr">cette communication est vouée à l'échec.</Translation>
+	</Segment>
+	<Segment id ="31" >
+		<Time-slot>00:01:34,641 --> 00:01:37,171</Time-slot>
+		<Original_text lang="en">Spaces tend to include noise and acoustics.</Original_text>
+		<Translation lang="ar">تميل الفضاءات على أن تشمل الضوضاء والصوتيات.</Translation>
+		<Translation lang="fr">Les espaces ont tendance à inclure des bruits et un degré d'acoustique.</Translation>
+	</Segment>
+	<Segment id ="32" >
+		<Time-slot>00:01:37,171 --> 00:01:40,871</Time-slot>
+		<Original_text lang="en">A room like this has acoustics, this one very good acoustics.</Original_text>
+		<Translation lang="ar">غرفة مثل هذه فيها صوتيات، وفي هذه بالذات صوتيات جيدة جداً.</Translation>
+		<Translation lang="fr">Une salle comme celle-ci possède une très bonne acoustique.</Translation>
+	</Segment>
+	<Segment id ="33" >
+		<Time-slot>00:01:40,871 --> 00:01:43,040</Time-slot>
+		<Original_text lang="en">Many rooms are not so good.</Original_text>
+		<Translation lang="ar">غرف كثيرة ليست بتلك الجودة.</Translation>
+		<Translation lang="fr">Beaucoup de salles n'ont pas cette chance.</Translation>
+	</Segment>
+	<Segment id ="34" >
+		<Time-slot>00:01:43,040 --> 00:01:45,071</Time-slot>
+		<Original_text lang="en">Let me give you some examples from a couple of areas</Original_text>
+		<Translation lang="ar">واسمحوا لي أن أقدم لكم بعض الأمثلة من نوعين من المجالات</Translation>
+		<Translation lang="fr">Laissez-moi vous donner quelques exemples d'endroits</Translation>
+	</Segment>
+	<Segment id ="35" >
+		<Time-slot>00:01:45,070 --> 00:01:48,543</Time-slot>
+		<Original_text lang="en">which I think we all care about: health and education.</Original_text>
+		<Translation lang="ar">التي أعتقد أننا جميعا نهتم لها: الصحة والتعليم.</Translation>
+		<Translation lang="fr">qui je pense sont importants pour chacun d'entre nous: santé et éducation</Translation>
+	</Segment>
+	<Segment id ="36" >
+		<Time-slot>00:01:48,543 --> 00:01:50,775</Time-slot>
+		<Original_text lang="en">(Hospital noises) When I was visiting my terminally ill father</Original_text>
+		<Translation lang="ar">(ضجيج مستشفى) عندما كنت أزور والدي المصاب بمرض عضال</Translation>
+		<Translation lang="fr">(Bruits d'hôpital) Quand je rendais visite à mon père, malade en phase terminale</Translation>
+	</Segment>
+	<Segment id ="37" >
+		<Time-slot>00:01:50,775 --> 00:01:52,807</Time-slot>
+		<Original_text lang="en">in a hospital, I was asking myself,</Original_text>
+		<Translation lang="ar">في مستشفى، كنت أسأل نفسي،</Translation>
+		<Translation lang="fr">dans un hôpital, je me demandais,</Translation>
+	</Segment>
+	<Segment id ="38" >
+		<Time-slot>00:01:52,808 --> 00:01:56,945</Time-slot>
+		<Original_text lang="en">how does anybody get well in a place that sounds like this?</Original_text>
+		<Translation lang="ar">كيف يتعافي أي شخص في مكان كهذا؟</Translation>
+		<Translation lang="fr">comment est-ce que quelqu'un peux guérir avec un boucan pareil ?</Translation>
+	</Segment>
+	<Segment id ="39" >
+		<Time-slot>00:01:56,944 --> 00:01:59,252</Time-slot>
+		<Original_text lang="en">Hospital sound is getting worse all the time.</Original_text>
+		<Translation lang="ar">يزداد صوت المستشفى سوء طوال الوقت.</Translation>
+		<Translation lang="fr">L'environment sonore hospitalier s'aggrave constamment.</Translation>
+	</Segment>
+	<Segment id ="40" >
+		<Time-slot>00:01:59,253 --> 00:02:01,259</Time-slot>
+		<Original_text lang="en">Noise levels in hospitals have doubled</Original_text>
+		<Translation lang="ar">وقد تضاعفت مستويات الضوضاء في المستشفيات</Translation>
+		<Translation lang="fr">Le niveau sonore des hôpitaux a doublé</Translation>
+	</Segment>
+	<Segment id ="41" >
+		<Time-slot>00:02:01,259 --> 00:02:04,862</Time-slot>
+		<Original_text lang="en">in the last few years, and it affects not just the patients</Original_text>
+		<Translation lang="ar">في السنوات القليلة الماضية، وهي لا تؤثر فقط على المرضى</Translation>
+		<Translation lang="fr">en quelques années, et cela n'affecte pas seulement les patients</Translation>
+	</Segment>
+	<Segment id ="42" >
+		<Time-slot>00:02:04,862 --> 00:02:06,679</Time-slot>
+		<Original_text lang="en">but also the people working there.</Original_text>
+		<Translation lang="ar">ولكن على من يعمل هناك كذلك.</Translation>
+		<Translation lang="fr">mais aussi le personnel hospitalier.</Translation>
+	</Segment>
+	<Segment id ="43" >
+		<Time-slot>00:02:06,679 --> 00:02:10,556</Time-slot>
+		<Original_text lang="en">I think we would like for dispensing errors to be zero,</Original_text>
+		<Translation lang="ar">وأعتقد أننا نود القضاء على أخطاء تركيب الأدوية،</Translation>
+		<Translation lang="fr">Je pense qu'on aimerait tous que les erreurs de prescription se rapprochent de zéro,</Translation>
+	</Segment>
+	<Segment id ="44" >
+		<Time-slot>00:02:10,556 --> 00:02:14,021</Time-slot>
+		<Original_text lang="en">wouldn't we? And yet, as noise levels go up, so do</Original_text>
+		<Translation lang="ar">أليس كذلك؟ وحتى الآن، فإنه بارتفاع مستويات الضوضاء، ترتفع كذلك</Translation>
+		<Translation lang="fr">n'est-ce pas ? Et pourtant, quand le niveau sonore augmente,</Translation>
+	</Segment>
+	<Segment id ="45" >
+		<Time-slot>00:02:14,020 --> 00:02:17,574</Time-slot>
+		<Original_text lang="en">the errors in dispensing made by the staff in hospitals.</Original_text>
+		<Translation lang="ar">الأخطاء في تركيب الأدوية من طرف الموظفين في المستشفيات.</Translation>
+		<Translation lang="fr">les mauvaises prescriptions ordonnées par le personnel hospitalier en font de même.</Translation>
+	</Segment>
+	<Segment id ="46" >
+		<Time-slot>00:02:17,574 --> 00:02:20,629</Time-slot>
+		<Original_text lang="en">Most of all, though, it affects the patients,</Original_text>
+		<Translation lang="ar">لكن الأهم من ذلك كله، فهذا يؤثر على المرضى،</Translation>
+		<Translation lang="fr">Mais au final, cela affecte davantage les patients,</Translation>
+	</Segment>
+	<Segment id ="47" >
+		<Time-slot>00:02:20,629 --> 00:02:22,837</Time-slot>
+		<Original_text lang="en">and that could be you, it could be me.</Original_text>
+		<Translation lang="ar">والذي قد يكون أنت أو أنا.</Translation>
+		<Translation lang="fr">et ça pourrait être vous, ça pourrait bien être moi.</Translation>
+	</Segment>
+	<Segment id ="48" >
+		<Time-slot>00:02:22,837 --> 00:02:25,176</Time-slot>
+		<Original_text lang="en">Sleep is absolutely crucial for recovery.</Original_text>
+		<Translation lang="ar">النوم له أهمية قصوى للنقاهة.</Translation>
+		<Translation lang="fr">Le sommeil est une phase cruciale de la guérison.</Translation>
+	</Segment>
+	<Segment id ="49" >
+		<Time-slot>00:02:25,176 --> 00:02:28,216</Time-slot>
+		<Original_text lang="en">It's when we regenerate, when we rebuild ourselves,</Original_text>
+		<Translation lang="ar">إنه الوقت الذي نتجدد فيه ونعيد بناء ذواتنا،</Translation>
+		<Translation lang="fr">C'est en dormant qu'on se régénère, qu'on se reconstruit,</Translation>
+	</Segment>
+	<Segment id ="50" >
+		<Time-slot>00:02:28,217 --> 00:02:30,600</Time-slot>
+		<Original_text lang="en">and with threatening noise like this going on,</Original_text>
+		<Translation lang="ar">ومع ضوضاء مهدّدة مسموعة كهذه،</Translation>
+		<Translation lang="fr">et avec des bruits menaçants de la sorte,</Translation>
+	</Segment>
+	<Segment id ="51" >
+		<Time-slot>00:02:30,600 --> 00:02:33,752</Time-slot>
+		<Original_text lang="en">your body, even if you are able to sleep, your body</Original_text>
+		<Translation lang="ar">فإن جسمك، حتى وإن كنت قادراً على النوم، فجسمك</Translation>
+		<Translation lang="fr">même si vous pouvez trouver le sommeil, votre corps</Translation>
+	</Segment>
+	<Segment id ="52" >
+		<Time-slot>00:02:33,752 --> 00:02:36,795</Time-slot>
+		<Original_text lang="en">is telling you, "I'm under threat. This is dangerous."</Original_text>
+		<Translation lang="ar">يخبرك، "أنا تحت التهديد. هذا خطير. "</Translation>
+		<Translation lang="fr">vous dit, « Je me sens attaqué. Je me sens en danger. »</Translation>
+	</Segment>
+	<Segment id ="53" >
+		<Time-slot>00:02:36,795 --> 00:02:40,025</Time-slot>
+		<Original_text lang="en">And the quality of sleep is degraded, and so is our recovery.</Original_text>
+		<Translation lang="ar">فتتدهور جودة النوم، وتتدهور معها نقاهتنا.</Translation>
+		<Translation lang="fr">Et la qualité du sommeil s'en retrouve dégradée, tout comme la qualité de notre guérison.</Translation>
+	</Segment>
+	<Segment id ="54" >
+		<Time-slot>00:02:40,025 --> 00:02:42,176</Time-slot>
+		<Original_text lang="en">There are just huge benefits to come</Original_text>
+		<Translation lang="ar">وهناك فوائد ضخمة تتاح</Translation>
+		<Translation lang="fr">Concevoir pour nos oreilles dans nos hôpitaux</Translation>
+	</Segment>
+	<Segment id ="55" >
+		<Time-slot>00:02:42,176 --> 00:02:45,213</Time-slot>
+		<Original_text lang="en">from designing for the ears in our health care.</Original_text>
+		<Translation lang="ar">من خلال تصميم رعاية صحية تراعي الأذنين.</Translation>
+		<Translation lang="fr">pourrait être extrêmement avantageux.</Translation>
+	</Segment>
+	<Segment id ="56" >
+		<Time-slot>00:02:45,213 --> 00:02:48,121</Time-slot>
+		<Original_text lang="en">This is an area I intend to take on this year.</Original_text>
+		<Translation lang="ar">وهذا مجال أعتزم تبنيه هذه السنة.</Translation>
+		<Translation lang="fr">Voici un domaine que je veux explorer cette année.</Translation>
+	</Segment>
+	<Segment id ="57" >
+		<Time-slot>00:02:48,121 --> 00:02:50,086</Time-slot>
+		<Original_text lang="en">Education.</Original_text>
+		<Translation lang="ar">التعليم.</Translation>
+		<Translation lang="fr">L'éducation.</Translation>
+	</Segment>
+	<Segment id ="58" >
+		<Time-slot>00:02:50,086 --> 00:02:51,682</Time-slot>
+		<Original_text lang="en">When I see a classroom that looks like this,</Original_text>
+		<Translation lang="ar">عندما أرى أحد الفصول الدراسية التي تبدو مثل هذا،</Translation>
+		<Translation lang="fr">Quand je vois une salle de classe qui ressemble à ça,</Translation>
+	</Segment>
+	<Segment id ="59" >
+		<Time-slot>00:02:51,681 --> 00:02:53,558</Time-slot>
+		<Original_text lang="en">can you imagine how this sounds?</Original_text>
+		<Translation lang="ar">يمكنك أن تتخيل كيف يُسمع هذا؟</Translation>
+		<Translation lang="fr">pouvez-vous imaginer son acoustique ?</Translation>
+	</Segment>
+	<Segment id ="60" >
+		<Time-slot>00:02:53,558 --> 00:02:55,889</Time-slot>
+		<Original_text lang="en">I am forced to ask myself a question.</Original_text>
+		<Translation lang="ar">أنا مضطر لأطرح على نفسي سؤالاً.</Translation>
+		<Translation lang="fr">Je suis forcé de me poser la question.</Translation>
+	</Segment>
+	<Segment id ="61" >
+		<Time-slot>00:02:55,889 --> 00:02:58,466</Time-slot>
+		<Original_text lang="en">("Do architects have ears?") (Laughter)</Original_text>
+		<Translation lang="ar">("هل لدى المعماريين آذان؟") (ضحك)</Translation>
+		<Translation lang="fr">Les architectes ont-ils des oreilles ? (Rires)</Translation>
+	</Segment>
+	<Segment id ="62" >
+		<Time-slot>00:02:58,467 --> 00:03:01,134</Time-slot>
+		<Original_text lang="en">Now, that's a little unfair. Some of my best friends</Original_text>
+		<Translation lang="ar">الآن، ذلك غير عادل نوعا ما. بعض أعز أصدقائي</Translation>
+		<Translation lang="fr">Alors, c'est un petit peu injuste. Certains de mes meilleurs amis</Translation>
+	</Segment>
+	<Segment id ="63" >
+		<Time-slot>00:03:01,133 --> 00:03:04,022</Time-slot>
+		<Original_text lang="en">are architects. (Laughter) And they definitely do have ears.</Original_text>
+		<Translation lang="ar">هم من المعماريين. (ضحك) وبالتأكيد لديهم أذنين.</Translation>
+		<Translation lang="fr">sont architectes. (Rires) Et sans aucun doute, ils ont des oreilles.</Translation>
+	</Segment>
+	<Segment id ="64" >
+		<Time-slot>00:03:04,022 --> 00:03:06,087</Time-slot>
+		<Original_text lang="en">But I think sometimes they don't use them</Original_text>
+		<Translation lang="ar">ولكنني أعتقد أنهم لا يستخدمونها أحيانا</Translation>
+		<Translation lang="fr">Mais je pense que de temps en temps, ils ne les utilisent pas</Translation>
+	</Segment>
+	<Segment id ="65" >
+		<Time-slot>00:03:06,087 --> 00:03:08,751</Time-slot>
+		<Original_text lang="en">when they're designing buildings. Here's a case in point.</Original_text>
+		<Translation lang="ar">عندما يقومون بتصميم المباني. هذا مثال على ذلك.</Translation>
+		<Translation lang="fr">quand ils conçoivent des bâtiments. En voici un exemple.</Translation>
+	</Segment>
+	<Segment id ="66" >
+		<Time-slot>00:03:08,751 --> 00:03:12,442</Time-slot>
+		<Original_text lang="en">This is a 32-million-pound flagship academy school</Original_text>
+		<Translation lang="ar">هذه مدرسة حكومية رائدة بميزانية 32 مليون جنيه</Translation>
+		<Translation lang="fr">Une école avoisinant les 40 millions d'euros</Translation>
+	</Segment>
+	<Segment id ="67" >
+		<Time-slot>00:03:12,442 --> 00:03:14,447</Time-slot>
+		<Original_text lang="en">which was built quite recently in the U.K. and designed</Original_text>
+		<Translation lang="ar">تم بناؤها مؤخرا في المملكة المتحدة. وهي مصممة</Translation>
+		<Translation lang="fr">qui fut construite récemment en Angleterre et conçue</Translation>
+	</Segment>
+	<Segment id ="68" >
+		<Time-slot>00:03:14,447 --> 00:03:17,593</Time-slot>
+		<Original_text lang="en">by one of Britain's top architects.</Original_text>
+		<Translation lang="ar">من طرف أحد أكبر المعماريين في بريطانيا.</Translation>
+		<Translation lang="fr">par l'un des meilleurs designers anglais.</Translation>
+	</Segment>
+	<Segment id ="69" >
+		<Time-slot>00:03:17,593 --> 00:03:19,418</Time-slot>
+		<Original_text lang="en">Unfortunately, it was designed like a corporate</Original_text>
+		<Translation lang="ar">ولسوء الحظ، فقد صممت مثل الشركات</Translation>
+		<Translation lang="fr">Malheureusement, ce bâtiment a été conçu comme un quartier général</Translation>
+	</Segment>
+	<Segment id ="70" >
+		<Time-slot>00:03:19,419 --> 00:03:21,818</Time-slot>
+		<Original_text lang="en">headquarters, with a vast central atrium</Original_text>
+		<Translation lang="ar">مقر رئيسي، مع ردهة واسعة في الوسط</Translation>
+		<Translation lang="fr">d'entreprise, avec un vaste atrium</Translation>
+	</Segment>
+	<Segment id ="71" >
+		<Time-slot>00:03:21,818 --> 00:03:26,092</Time-slot>
+		<Original_text lang="en">and classrooms leading off it with no back walls at all.</Original_text>
+		<Translation lang="ar">وفصول دراسية منبثقة عنها من دون جدران خلفية على الإطلاق.</Translation>
+		<Translation lang="fr">et des salles de classe donnant sur cet atrium sans même avoir de mur.</Translation>
+	</Segment>
+	<Segment id ="72" >
+		<Time-slot>00:03:26,092 --> 00:03:28,018</Time-slot>
+		<Original_text lang="en">The children couldn't hear their teachers.</Original_text>
+		<Translation lang="ar">لم يستطع الأطفال سماع معلميهم.</Translation>
+		<Translation lang="fr">Les élèves ne pouvaient pas entendre leurs professeurs.</Translation>
+	</Segment>
+	<Segment id ="73" >
+		<Time-slot>00:03:28,018 --> 00:03:30,739</Time-slot>
+		<Original_text lang="en">They had to go back in and spend 600,000 pounds</Original_text>
+		<Translation lang="ar">كان عليهم أن يعودوا وينفقوا 600,000 جنيه</Translation>
+		<Translation lang="fr">Ils ont été forcés de réinvestir 750 000 euros</Translation>
+	</Segment>
+	<Segment id ="74" >
+		<Time-slot>00:03:30,739 --> 00:03:33,819</Time-slot>
+		<Original_text lang="en">putting the walls in. Let's stop this madness</Original_text>
+		<Translation lang="ar">لوضع الجدران. دعونا نوقف هذا الجنون</Translation>
+		<Translation lang="fr">pour construire des murs. Arrêtons dès maintenant cette folie</Translation>
+	</Segment>
+	<Segment id ="75" >
+		<Time-slot>00:03:33,818 --> 00:03:37,881</Time-slot>
+		<Original_text lang="en">of open plan classrooms right now, please.</Original_text>
+		<Translation lang="ar">لفصول دراسية بفضاء مفتوح، على الفور رجاء.</Translation>
+		<Translation lang="fr">de salles de classe en espace ouvert, je vous en prie.</Translation>
+	</Segment>
+	<Segment id ="76" >
+		<Time-slot>00:03:37,881 --> 00:03:41,408</Time-slot>
+		<Original_text lang="en">It's not just these modern buildings which suffer.</Original_text>
+		<Translation lang="ar">ليست هذه المباني الحديثة وحدها هي التي تعاني.</Translation>
+		<Translation lang="fr">Ce n'est pas seulement ces bâtiments modernes qui souffrent.</Translation>
+	</Segment>
+	<Segment id ="77" >
+		<Time-slot>00:03:41,408 --> 00:03:43,745</Time-slot>
+		<Original_text lang="en">Old-fashioned classrooms suffer too.</Original_text>
+		<Translation lang="ar">الفصول الدراسية من الطراز القديم تعاني كذلك.</Translation>
+		<Translation lang="fr">Les vieilles salles de classe souffrent aussi.</Translation>
+	</Segment>
+	<Segment id ="78" >
+		<Time-slot>00:03:43,746 --> 00:03:45,939</Time-slot>
+		<Original_text lang="en">A study in Florida just a few years ago found</Original_text>
+		<Translation lang="ar">توصلت دراسة أجريت في ولاية فلوريدا قبل بضع سنوات</Translation>
+		<Translation lang="fr">Une étude conduite en Floride il y a quelques années a démontré</Translation>
+	</Segment>
+	<Segment id ="79" >
+		<Time-slot>00:03:45,939 --> 00:03:47,616</Time-slot>
+		<Original_text lang="en">that if you're sitting where this photograph was taken</Original_text>
+		<Translation lang="ar">إلى أنه إذا كنت جالساً حيث التقطت هذه الصورة</Translation>
+		<Translation lang="fr">que si vous vous tenez là où cette photo a été prise</Translation>
+	</Segment>
+	<Segment id ="80" >
+		<Time-slot>00:03:47,616 --> 00:03:50,816</Time-slot>
+		<Original_text lang="en">in the classroom, row four, speech intelligibility</Original_text>
+		<Translation lang="ar">في الفصول الدراسية، في الصف الرابع، وضوح الكلام</Translation>
+		<Translation lang="fr">dans la classe, quatrième rang, l'intelligibilité</Translation>
+	</Segment>
+	<Segment id ="81" >
+		<Time-slot>00:03:50,817 --> 00:03:53,268</Time-slot>
+		<Original_text lang="en">is just 50 percent.</Original_text>
+		<Translation lang="ar">هو 50 في المائة فقط.</Translation>
+		<Translation lang="fr">n'est que de 50 pour cent.</Translation>
+	</Segment>
+	<Segment id ="82" >
+		<Time-slot>00:03:53,268 --> 00:03:55,467</Time-slot>
+		<Original_text lang="en">Children are losing one word in two.</Original_text>
+		<Translation lang="ar">يفقد الأطفال كلمة واحدة من اثنتين.</Translation>
+		<Translation lang="fr">Les élèves ne reçoivent qu'un mot sur deux.</Translation>
+	</Segment>
+	<Segment id ="83" >
+		<Time-slot>00:03:55,467 --> 00:03:58,112</Time-slot>
+		<Original_text lang="en">Now that doesn't mean they only get half their education,</Original_text>
+		<Translation lang="ar">الآن هذا لا يعني أنهم يحصلون فقط على نصف تعليمهم،</Translation>
+		<Translation lang="fr">Enfin, cela ne veut pas dire qu'ils n'obtiennent que la moitié de leur éducation,</Translation>
+	</Segment>
+	<Segment id ="84" >
+		<Time-slot>00:03:58,112 --> 00:03:59,824</Time-slot>
+		<Original_text lang="en">but it does mean they have to work very hard</Original_text>
+		<Translation lang="ar">ولكن هذا يعني عليهم العمل بجد</Translation>
+		<Translation lang="fr">mais cela signifie qu'ils doivent travailler dur</Translation>
+	</Segment>
+	<Segment id ="85" >
+		<Time-slot>00:03:59,824 --> 00:04:02,800</Time-slot>
+		<Original_text lang="en">to join the dots and understand what's going on.</Original_text>
+		<Translation lang="ar">لربط النقاط ببعضها البعض، وفهم ما يجري.</Translation>
+		<Translation lang="fr">pour tirer des conclusions et comprendre ce qu'il se passe.</Translation>
+	</Segment>
+	<Segment id ="86" >
+		<Time-slot>00:04:02,800 --> 00:04:05,573</Time-slot>
+		<Original_text lang="en">This is affected massively by reverberation time,</Original_text>
+		<Translation lang="ar">وهذا يتأثر بشكل واسع بسبب زمن الارتداد،</Translation>
+		<Translation lang="fr">Cet effet est étroitement lié au temps de réverbération,</Translation>
+	</Segment>
+	<Segment id ="87" >
+		<Time-slot>00:04:05,574 --> 00:04:07,474</Time-slot>
+		<Original_text lang="en">how reverberant a room is.</Original_text>
+		<Translation lang="ar">ومدى ارتدادية الغرفة.</Translation>
+		<Translation lang="fr">au niveau acoustique de la salle.</Translation>
+	</Segment>
+	<Segment id ="88" >
+		<Time-slot>00:04:07,473 --> 00:04:11,031</Time-slot>
+		<Original_text lang="en">In a classroom with a reverberation time of 1.2 seconds,</Original_text>
+		<Translation lang="ar">وفي فصل ذي زمن ارتدادي من 1.2 ثانية،</Translation>
+		<Translation lang="fr">Dans des salles de classe avec un temps de réverbération avoisinant les 1,2 secondes,</Translation>
+	</Segment>
+	<Segment id ="89" >
+		<Time-slot>00:04:11,032 --> 00:04:14,728</Time-slot>
+		<Original_text lang="en">which is pretty common, this is what it sounds like.</Original_text>
+		<Translation lang="ar">وهو أمر شائع جداً، وهذا ما يُسمع.</Translation>
+		<Translation lang="fr">ce qui est assez commun, voilà ce qu'on entend.</Translation>
+	</Segment>
+	<Segment id ="90" >
+		<Time-slot>00:04:14,728 --> 00:04:27,031</Time-slot>
+		<Original_text lang="en">(Inaudible echoing voice)</Original_text>
+		<Translation lang="ar">(صوت متردد غير مسموع)</Translation>
+		<Translation lang="fr">(écho de voix inaudible)</Translation>
+	</Segment>
+	<Segment id ="91" >
+		<Time-slot>00:04:27,031 --> 00:04:28,848</Time-slot>
+		<Original_text lang="en">Not so good, is it?</Original_text>
+		<Translation lang="ar">ليس بتلك الجودة، أليس كذلك؟</Translation>
+		<Translation lang="fr">Pas top, n'est-ce pas ?</Translation>
+	</Segment>
+	<Segment id ="92" >
+		<Time-slot>00:04:28,848 --> 00:04:33,307</Time-slot>
+		<Original_text lang="en">If you take that 1.2 seconds down to 0.4 seconds</Original_text>
+		<Translation lang="ar">إذا قلصت مدة 1.2 ثانية تلك، وصولاً إلى 0.4 ثانية</Translation>
+		<Translation lang="fr">Si vous passez de 1,2 secondes à 0,4 secondes</Translation>
+	</Segment>
+	<Segment id ="93" >
+		<Time-slot>00:04:33,307 --> 00:04:36,255</Time-slot>
+		<Original_text lang="en">by installing acoustic treatments, sound absorbing materials</Original_text>
+		<Translation lang="ar">عن طريق تثبيت معالجات صوتية، ومواد تمتص الصوت</Translation>
+		<Translation lang="fr">en installant des traitements acoustiques, des matériaux qui absorbent le son</Translation>
+	</Segment>
+	<Segment id ="94" >
+		<Time-slot>00:04:36,255 --> 00:04:38,963</Time-slot>
+		<Original_text lang="en">and so forth, this is what you get.</Original_text>
+		<Translation lang="ar">وهلم جرا، هذا ما تحصل عليه.</Translation>
+		<Translation lang="fr">et ainsi de suite, voilà ce que vous obtenez.</Translation>
+	</Segment>
+	<Segment id ="95" >
+		<Time-slot>00:04:38,963 --> 00:04:42,824</Time-slot>
+		<Original_text lang="en">Voice: In language, infinitely many words can be written</Original_text>
+		<Translation lang="ar">صوت: في اللغة، يمكن كتابة عدد لا نهاية له من الكلمات</Translation>
+		<Translation lang="fr">Voix: En language, un nombre infini de mots peut-être écrit</Translation>
+	</Segment>
+	<Segment id ="96" >
+		<Time-slot>00:04:42,824 --> 00:04:45,697</Time-slot>
+		<Original_text lang="en">with a small set of letters. In arithmetic,</Original_text>
+		<Translation lang="ar">بمجموعة صغيرة من الحروف. في علم الحساب،</Translation>
+		<Translation lang="fr">à partir de quelques lettres. En arithmétique,</Translation>
+	</Segment>
+	<Segment id ="97" >
+		<Time-slot>00:04:45,697 --> 00:04:48,050</Time-slot>
+		<Original_text lang="en">infinitely many numbers can be composed</Original_text>
+		<Translation lang="ar">يمكن تكوين ما لا نهاية له من الأرقام</Translation>
+		<Translation lang="fr">un nombre infini de nombre peut être écrit</Translation>
+	</Segment>
+	<Segment id ="98" >
+		<Time-slot>00:04:48,050 --> 00:04:51,652</Time-slot>
+		<Original_text lang="en">from just a few digits with the help of the simple zero.</Original_text>
+		<Translation lang="ar">انطلاقا من بضعة أرقام فقط وبمساعدة الصفر البسيط.</Translation>
+		<Translation lang="fr">à partir de quelques chiffres et à l'aide du simple zéro.</Translation>
+	</Segment>
+	<Segment id ="99" >
+		<Time-slot>00:04:51,653 --> 00:04:53,217</Time-slot>
+		<Original_text lang="en">Julian Treasure: What a difference.</Original_text>
+		<Translation lang="ar">جوليان تريجر: يا له من فرق.</Translation>
+		<Translation lang="fr">Julian Treasure : Quelle différence.</Translation>
+	</Segment>
+	<Segment id ="100" >
+		<Time-slot>00:04:53,216 --> 00:04:55,056</Time-slot>
+		<Original_text lang="en">Now that education you would receive,</Original_text>
+		<Translation lang="ar">الآن فهذا تعليم يمكنكم تلقيه،</Translation>
+		<Translation lang="fr">Maintenant c'est une véritable éducation que vous allez recevoir,</Translation>
+	</Segment>
+	<Segment id ="101" >
+		<Time-slot>00:04:55,057 --> 00:04:57,987</Time-slot>
+		<Original_text lang="en">and thanks to the British acoustician Adrian James</Original_text>
+		<Translation lang="ar">وشكرا لخبير الصوتيات البريطاني (جيمس أدريان)</Translation>
+		<Translation lang="fr">et grâce à l'acousticien anglais Adrian James</Translation>
+	</Segment>
+	<Segment id ="102" >
+		<Time-slot>00:04:57,987 --> 00:05:00,676</Time-slot>
+		<Original_text lang="en">for those simulations. The signal was the same,</Original_text>
+		<Translation lang="ar">على تلك المحاكاة. الإشارة كانت نفسها،</Translation>
+		<Translation lang="fr">qui a réalisé ces simulations. Le signal était le même,</Translation>
+	</Segment>
+	<Segment id ="103" >
+		<Time-slot>00:05:00,675 --> 00:05:02,074</Time-slot>
+		<Original_text lang="en">the background noise was the same.</Original_text>
+		<Translation lang="ar">وضجيج الخلفية كان نفسه.</Translation>
+		<Translation lang="fr">le fond sonore n'a pas changé.</Translation>
+	</Segment>
+	<Segment id ="104" >
+		<Time-slot>00:05:02,074 --> 00:05:04,517</Time-slot>
+		<Original_text lang="en">All that changed was the acoustics of the classroom</Original_text>
+		<Translation lang="ar">كل ما تغير هو صوتيات الفصول الدراسية</Translation>
+		<Translation lang="fr">La seule chose différente, c'est l'acoustique de la salle de classe</Translation>
+	</Segment>
+	<Segment id ="105" >
+		<Time-slot>00:05:04,517 --> 00:05:06,191</Time-slot>
+		<Original_text lang="en">in those two examples.</Original_text>
+		<Translation lang="ar">في هذين المثالين.</Translation>
+		<Translation lang="fr">qui varie entre les deux simulations.</Translation>
+	</Segment>
+	<Segment id ="106" >
+		<Time-slot>00:05:06,192 --> 00:05:08,612</Time-slot>
+		<Original_text lang="en">If education can be likened to watering a garden,</Original_text>
+		<Translation lang="ar">إذا كان ممكنا تشبيه التعليم بسقي حديقة،</Translation>
+		<Translation lang="fr">Si on pouvait comparer l'éducation à l'arrosage d'un jardin,</Translation>
+	</Segment>
+	<Segment id ="107" >
+		<Time-slot>00:05:08,612 --> 00:05:12,778</Time-slot>
+		<Original_text lang="en">which is a fair metaphor, sadly, much of the water</Original_text>
+		<Translation lang="ar">وهو استعارة عادلة، للأسف، فالكثير من المياه</Translation>
+		<Translation lang="fr">ce qui est une métaphore assez juste, malheureusement une grande partie de l'eau</Translation>
+	</Segment>
+	<Segment id ="108" >
+		<Time-slot>00:05:12,778 --> 00:05:15,834</Time-slot>
+		<Original_text lang="en">is evaporating before it reaches the flowers,</Original_text>
+		<Translation lang="ar">يتبخر قبل أن يصل إلى الزهور،</Translation>
+		<Translation lang="fr">s'évapore avant même d'atteindre les fleurs,</Translation>
+	</Segment>
+	<Segment id ="109" >
+		<Time-slot>00:05:15,834 --> 00:05:17,866</Time-slot>
+		<Original_text lang="en">especially for some groups,</Original_text>
+		<Translation lang="ar">خاصة بالنسبة لبعض المجموعات،</Translation>
+		<Translation lang="fr">en particulier pour certains groupes,</Translation>
+	</Segment>
+	<Segment id ="110" >
+		<Time-slot>00:05:17,867 --> 00:05:21,242</Time-slot>
+		<Original_text lang="en">for example, those with hearing impairment.</Original_text>
+		<Translation lang="ar">على سبيل المثال، ضعاف السمع.</Translation>
+		<Translation lang="fr">par exemple, les personnes souffrant de déficience auditive.</Translation>
+	</Segment>
+	<Segment id ="111" >
+		<Time-slot>00:05:21,242 --> 00:05:23,995</Time-slot>
+		<Original_text lang="en">Now that's not just deaf children. That could be any child</Original_text>
+		<Translation lang="ar">ليس فقط الأطفال الصم. بل يمكن أن يكون أي طفل</Translation>
+		<Translation lang="fr">Et je ne parle pas essentiellement des enfants sourds. Cela s'applique à n'importe quel enfant</Translation>
+	</Segment>
+	<Segment id ="112" >
+		<Time-slot>00:05:23,995 --> 00:05:26,430</Time-slot>
+		<Original_text lang="en">who's got a cold, glue ear, an ear infection,</Original_text>
+		<Translation lang="ar">مصاب بالبرد أو ذي أذن صمغية أو مصاب بعدوى في الأذن،</Translation>
+		<Translation lang="fr">qui aurait attrapé un rhume, une otite, une infection de l'oreille,</Translation>
+	</Segment>
+	<Segment id ="113" >
+		<Time-slot>00:05:26,430 --> 00:05:28,805</Time-slot>
+		<Original_text lang="en">even hay fever. On a given day, one in eight children</Original_text>
+		<Translation lang="ar">أو حتى حمى القش. وفي أي يوم، واحد من كل ثمانية أطفال</Translation>
+		<Translation lang="fr">ou bien même une crise d'allergie. Quotidiennement, un enfant sur huit</Translation>
+	</Segment>
+	<Segment id ="114" >
+		<Time-slot>00:05:28,805 --> 00:05:31,621</Time-slot>
+		<Original_text lang="en">fall into that group, on any given day.</Original_text>
+		<Translation lang="ar">يقع ضمن تلك المجموعة، في أي يوم من الأيام.</Translation>
+		<Translation lang="fr">est concerné, tous les jours.</Translation>
+	</Segment>
+	<Segment id ="115" >
+		<Time-slot>00:05:31,622 --> 00:05:34,798</Time-slot>
+		<Original_text lang="en">Then you have children for whom English is a second language,</Original_text>
+		<Translation lang="ar">ثم لديك الأطفال الذين يتحدثون الإنجليزية كلغة ثانية،</Translation>
+		<Translation lang="fr">Et puis il y a aussi les enfants qui pratiquent l'anglais en tant que seconde langue,</Translation>
+	</Segment>
+	<Segment id ="116" >
+		<Time-slot>00:05:34,798 --> 00:05:37,733</Time-slot>
+		<Original_text lang="en">or whatever they're being taught in is a second language.</Original_text>
+		<Translation lang="ar">أو أيا كان ما يدرّسون به، لغة ثانية.</Translation>
+		<Translation lang="fr">qui reçoivent l'intégralité de leur éducation dans leur seconde langue.</Translation>
+	</Segment>
+	<Segment id ="117" >
+		<Time-slot>00:05:37,733 --> 00:05:41,317</Time-slot>
+		<Original_text lang="en">In the U.K., that's more than 10 percent of the school population.</Original_text>
+		<Translation lang="ar">في المملكة المتحدة، ذلك أكثر من 10 في المائة من تلاميذ المدارس.</Translation>
+		<Translation lang="fr">En Angleterre, cela représente plus de 10 pour cent des élèves.</Translation>
+	</Segment>
+	<Segment id ="118" >
+		<Time-slot>00:05:41,317 --> 00:05:44,978</Time-slot>
+		<Original_text lang="en">And finally, after Susan Cain's wonderful TEDTalk in February,</Original_text>
+		<Translation lang="ar">وأخيراً، وبعد محادثة TED الرائع لسوزان كين في فبراير،</Translation>
+		<Translation lang="fr">Et finalement, grâce à l'excellente TEDTalk donnée par Susan Cain en février dernier,</Translation>
+	</Segment>
+	<Segment id ="119" >
+		<Time-slot>00:05:44,978 --> 00:05:48,194</Time-slot>
+		<Original_text lang="en">we know that introverts find it very difficult to relate</Original_text>
+		<Translation lang="ar">نعلم أن الانطوائيين يجدون أن الاندماج صعب جداً</Translation>
+		<Translation lang="fr">nous savons qu'il est très difficile pour les élèves les plus introvertis</Translation>
+	</Segment>
+	<Segment id ="120" >
+		<Time-slot>00:05:48,194 --> 00:05:50,891</Time-slot>
+		<Original_text lang="en">when they're in a noisy environment doing group work.</Original_text>
+		<Translation lang="ar">عندما يكونون في بيئة صاخبة ويقومون بعمل فريق.</Translation>
+		<Translation lang="fr">de s'investir dans des travaux en groupe au sein d'un environnement bruyant.</Translation>
+	</Segment>
+	<Segment id ="121" >
+		<Time-slot>00:05:50,891 --> 00:05:53,552</Time-slot>
+		<Original_text lang="en">Add those up. That is a lot of children</Original_text>
+		<Translation lang="ar">أضف ذلك إلى بعضه. ذلك عدد كبير من الأطفال</Translation>
+		<Translation lang="fr">Faites le calcul. Cela représente beaucoup d'élèves</Translation>
+	</Segment>
+	<Segment id ="122" >
+		<Time-slot>00:05:53,552 --> 00:05:55,963</Time-slot>
+		<Original_text lang="en">who are not receiving their education properly.</Original_text>
+		<Translation lang="ar">الذين لا يتلقون تعليمهم بشكل صحيح.</Translation>
+		<Translation lang="fr">qui ne sont pas éduqués correctement.</Translation>
+	</Segment>
+	<Segment id ="123" >
+		<Time-slot>00:05:55,963 --> 00:05:58,199</Time-slot>
+		<Original_text lang="en">It's not just the children who are affected, though.</Original_text>
+		<Translation lang="ar">لكن ليس فقط الأطفال هم الذين يتأثرون.</Translation>
+		<Translation lang="fr">Une fois encore, ce n'est pas seulement les élèves qui souffrent.</Translation>
+	</Segment>
+	<Segment id ="124" >
+		<Time-slot>00:05:58,199 --> 00:05:59,783</Time-slot>
+		<Original_text lang="en">(Noisy conversation) This study in Germany found</Original_text>
+		<Translation lang="ar">(محادثة صاخبة) هذه الدراسة في ألمانيا، وجدت أن</Translation>
+		<Translation lang="fr">(Conversation bruyante) Cette étude conduite en Allemagne a démontré</Translation>
+	</Segment>
+	<Segment id ="125" >
+		<Time-slot>00:05:59,783 --> 00:06:03,338</Time-slot>
+		<Original_text lang="en">the average noise level in classrooms is 65 decibels.</Original_text>
+		<Translation lang="ar">مستوى الضوضاء المتوسط في الفصول الدراسية هو 65 ديسيبل.</Translation>
+		<Translation lang="fr">que le niveau sonore moyen dans les salles de classe avoisinait les 65 décibels.</Translation>
+	</Segment>
+	<Segment id ="126" >
+		<Time-slot>00:06:03,338 --> 00:06:07,564</Time-slot>
+		<Original_text lang="en">I have to really raise my voice to talk over 65 decibels</Original_text>
+		<Translation lang="ar">لا بد لي من حقاً رفع صوتي للحديث أكثر من 65 ديسيبل</Translation>
+		<Translation lang="fr">Je dois me forcer à hausser le ton pour aller au-delà des 65 décibels</Translation>
+	</Segment>
+	<Segment id ="127" >
+		<Time-slot>00:06:07,564 --> 00:06:11,348</Time-slot>
+		<Original_text lang="en">of sound, and teachers are not just raising their voices.</Original_text>
+		<Translation lang="ar">من الصوت، والمدرسين لا يرفعون فقط أصواتهم.</Translation>
+		<Translation lang="fr">et les professeurs ne haussent pas seulement le ton.</Translation>
+	</Segment>
+	<Segment id ="128" >
+		<Time-slot>00:06:11,348 --> 00:06:14,156</Time-slot>
+		<Original_text lang="en">This chart maps the teacher's heart rate</Original_text>
+		<Translation lang="ar">هذا المبيان يرصد معدل ضربات القلب</Translation>
+		<Translation lang="fr">Ce graphique nous montre la fréquence cardiaque du professeur</Translation>
+	</Segment>
+	<Segment id ="129" >
+		<Time-slot>00:06:14,156 --> 00:06:16,579</Time-slot>
+		<Original_text lang="en">against the noise level.</Original_text>
+		<Translation lang="ar">في مقابل مستوى الضوضاء.</Translation>
+		<Translation lang="fr">en fonction du niveau sonore.</Translation>
+	</Segment>
+	<Segment id ="130" >
+		<Time-slot>00:06:16,579 --> 00:06:19,286</Time-slot>
+		<Original_text lang="en">Noise goes up, heart rate goes up.</Original_text>
+		<Translation lang="ar">ترتفع معدل ضربات القلب بارتفاع الضوضاء.</Translation>
+		<Translation lang="fr">Lorsque le niveau sonore augmente, la fréquence cardiaque en fait de même.</Translation>
+	</Segment>
+	<Segment id ="131" >
+		<Time-slot>00:06:19,286 --> 00:06:21,435</Time-slot>
+		<Original_text lang="en">That is not good for you.</Original_text>
+		<Translation lang="ar">وهذا ليس جيدة بالنسبة لك.</Translation>
+		<Translation lang="fr">Ce n'est pas une bonne chose.</Translation>
+	</Segment>
+	<Segment id ="132" >
+		<Time-slot>00:06:21,435 --> 00:06:25,515</Time-slot>
+		<Original_text lang="en">In fact, 65 decibels is the very level at which this big survey</Original_text>
+		<Translation lang="ar">وفي الواقع، فإن 65 ديسيبل هو ذاتها المستوى الذي وجدت هذه الدراسة</Translation>
+		<Translation lang="fr">En réalité, 65 décibels est le seuil limite défini par cette étude,</Translation>
+	</Segment>
+	<Segment id ="133" >
+		<Time-slot>00:06:25,516 --> 00:06:29,044</Time-slot>
+		<Original_text lang="en">of all the evidence on noise and health found that, that is</Original_text>
+		<Translation lang="ar">لجميع الأدلة على الضوضاء والصحة أنه، أنه</Translation>
+		<Translation lang="fr">après analyse du niveau sonore et de ses conséquences sur la santé,</Translation>
+	</Segment>
+	<Segment id ="134" >
+		<Time-slot>00:06:29,043 --> 00:06:33,750</Time-slot>
+		<Original_text lang="en">the threshold for the danger of myocardial infarction.</Original_text>
+		<Translation lang="ar">عتبة لخطر احتشاء عضلة القلب.</Translation>
+		<Translation lang="fr">c'est le seuil de danger à partir duquel on risque la crise cardiaque.</Translation>
+	</Segment>
+	<Segment id ="135" >
+		<Time-slot>00:06:33,750 --> 00:06:36,599</Time-slot>
+		<Original_text lang="en">To you and me, that's a heart attack.</Original_text>
+		<Translation lang="ar">بالنسبة لك ولي، فإن ذلك نوبة قلبية.</Translation>
+		<Translation lang="fr">Pour vous et moi, c'est une crise cardiaque.</Translation>
+	</Segment>
+	<Segment id ="136" >
+		<Time-slot>00:06:36,600 --> 00:06:39,319</Time-slot>
+		<Original_text lang="en">It may not be pushing the boat out too far to suggest</Original_text>
+		<Translation lang="ar">ولا يعتبر من المبالغة اقتراح</Translation>
+		<Translation lang="fr">Il paraît raisonnable de suggérer</Translation>
+	</Segment>
+	<Segment id ="137" >
+		<Time-slot>00:06:39,319 --> 00:06:43,619</Time-slot>
+		<Original_text lang="en">that many teachers are losing significant life expectancy</Original_text>
+		<Translation lang="ar">أن العديد من المعلمين يفقدون الكثير من متوسط عمرهم المتوقع</Translation>
+		<Translation lang="fr">que travailler tous les jours dans un environnement pareil</Translation>
+	</Segment>
+	<Segment id ="138" >
+		<Time-slot>00:06:43,619 --> 00:06:47,891</Time-slot>
+		<Original_text lang="en">by teaching in environments like that day after day.</Original_text>
+		<Translation lang="ar">بالتدريس في بيئات مثل تلك يوما بعد يوم.</Translation>
+		<Translation lang="fr">viendrait réduire la durée de vie de la plupart des professeurs.</Translation>
+	</Segment>
+	<Segment id ="139" >
+		<Time-slot>00:06:47,891 --> 00:06:49,947</Time-slot>
+		<Original_text lang="en">What does it cost to treat a classroom</Original_text>
+		<Translation lang="ar">ما هي تكلفة علاج أحد الفصول</Translation>
+		<Translation lang="fr">Combien ça coûte de rénover une salle de classe</Translation>
+	</Segment>
+	<Segment id ="140" >
+		<Time-slot>00:06:49,947 --> 00:06:52,716</Time-slot>
+		<Original_text lang="en">down to that 0.4-second reverberation time?</Original_text>
+		<Translation lang="ar">وصولاً إلى زمن ارتداد 0.4 ثانية ذاك؟</Translation>
+		<Translation lang="fr">de manière à réduire le temps de réverbération à 0,4 secondes?</Translation>
+	</Segment>
+	<Segment id ="141" >
+		<Time-slot>00:06:52,716 --> 00:06:55,450</Time-slot>
+		<Original_text lang="en">Two and a half thousand pounds.</Original_text>
+		<Translation lang="ar">ألفان وخمسمئة جنيه استرليني.</Translation>
+		<Translation lang="fr">Trois mille euros.</Translation>
+	</Segment>
+	<Segment id ="142" >
+		<Time-slot>00:06:55,451 --> 00:06:58,627</Time-slot>
+		<Original_text lang="en">And the Essex study which has just been done in the U.K.,</Original_text>
+		<Translation lang="ar">ودراسة إسيكس والتي أنجزت مؤخرا في المملكة المتحدة،</Translation>
+		<Translation lang="fr">Une étude conduite par l'université d'Essex en Angleterre</Translation>
+	</Segment>
+	<Segment id ="143" >
+		<Time-slot>00:06:58,627 --> 00:07:00,968</Time-slot>
+		<Original_text lang="en">which incidentally showed that when you do this,</Original_text>
+		<Translation lang="ar">أظهرت صدفة أنه عند القيام بذلك،</Translation>
+		<Translation lang="fr">a démontré que rénover une salle de classe,</Translation>
+	</Segment>
+	<Segment id ="144" >
+		<Time-slot>00:07:00,968 --> 00:07:03,331</Time-slot>
+		<Original_text lang="en">you do not just make a room that's suitable</Original_text>
+		<Translation lang="ar">فإنك لا تعدّ فقط غرفة مناسبة</Translation>
+		<Translation lang="fr">ne la rend pas seulement plus adaptée</Translation>
+	</Segment>
+	<Segment id ="145" >
+		<Time-slot>00:07:03,331 --> 00:07:04,927</Time-slot>
+		<Original_text lang="en">for hearing-impaired children, you make a room</Original_text>
+		<Translation lang="ar">للأطفال ضعاف السمع، بل تعدّ غرفة</Translation>
+		<Translation lang="fr">pour les enfants malentendants, mais aussi</Translation>
+	</Segment>
+	<Segment id ="146" >
+		<Time-slot>00:07:04,927 --> 00:07:10,211</Time-slot>
+		<Original_text lang="en">where behavior improves, and results improve significantly,</Original_text>
+		<Translation lang="ar">حيث يتحسن السلوك، وتتحسن النتائج إلى حد كبير،</Translation>
+		<Translation lang="fr">plus efficace pour l'éducation en général. Le comportement et les résultats s'améliorent sensiblement.</Translation>
+	</Segment>
+	<Segment id ="147" >
+		<Time-slot>00:07:10,211 --> 00:07:14,204</Time-slot>
+		<Original_text lang="en">this found that sending a child out of area to a school</Original_text>
+		<Translation lang="ar">وقد وجودوا أن إرسال طفل خارج المنطقة إلى مدرسة</Translation>
+		<Translation lang="fr">Au final, envoyer un enfant dans une école</Translation>
+	</Segment>
+	<Segment id ="148" >
+		<Time-slot>00:07:14,204 --> 00:07:16,834</Time-slot>
+		<Original_text lang="en">that does have such a room, if you don't have one,</Original_text>
+		<Translation lang="ar">لديها مثل هذه الغرفة، إذا لم يكن لديكم مثلها،</Translation>
+		<Translation lang="fr">qui ne serait pas dotée de ce type de salle, si vous n'en n’avez pas,</Translation>
+	</Segment>
+	<Segment id ="149" >
+		<Time-slot>00:07:16,834 --> 00:07:20,296</Time-slot>
+		<Original_text lang="en">costs 90,000 pounds a year.</Original_text>
+		<Translation lang="ar">يكلف 90,000 جنيه استرليني في السنة.</Translation>
+		<Translation lang="fr">pourrait coûter près de 110 000 euros par an.</Translation>
+	</Segment>
+	<Segment id ="150" >
+		<Time-slot>00:07:20,297 --> 00:07:22,684</Time-slot>
+		<Original_text lang="en">I think the economics are pretty clear on this.</Original_text>
+		<Translation lang="ar">وأعتقد أن الجانب المادي واضح جداً في هذا.</Translation>
+		<Translation lang="fr">Je pense que dans ce cas-là, le calcul économique est assez évident.</Translation>
+	</Segment>
+	<Segment id ="151" >
+		<Time-slot>00:07:22,684 --> 00:07:24,703</Time-slot>
+		<Original_text lang="en">I'm glad that debate is happening on this.</Original_text>
+		<Translation lang="ar">أنا سعيد لأن النقاش يدور حول هذا.</Translation>
+		<Translation lang="fr">Je me réjouis de voir qu'on commence à parler de ce problème.</Translation>
+	</Segment>
+	<Segment id ="152" >
+		<Time-slot>00:07:24,702 --> 00:07:27,268</Time-slot>
+		<Original_text lang="en">I just moderated a major conference in London</Original_text>
+		<Translation lang="ar">قمت مؤخرا بالإشراف على مؤتمر كبير في لندن</Translation>
+		<Translation lang="fr">Je viens de modérer une importante conférence qui s'est tenue à Londres</Translation>
+	</Segment>
+	<Segment id ="153" >
+		<Time-slot>00:07:27,269 --> 00:07:29,317</Time-slot>
+		<Original_text lang="en">a few weeks ago called Sound Education,</Original_text>
+		<Translation lang="ar">قبل أسابيع قليلة يدعى "التربية الصوتية"،</Translation>
+		<Translation lang="fr">il y a quelques semaines,sur l’éducation au son</Translation>
+	</Segment>
+	<Segment id ="154" >
+		<Time-slot>00:07:29,317 --> 00:07:31,115</Time-slot>
+		<Original_text lang="en">which brought together top acousticians,</Original_text>
+		<Translation lang="ar">والذي جمع بين أفضل خبراء الصوتيات،</Translation>
+		<Translation lang="fr">et qui a rassemblé la crème des acousticiens,</Translation>
+	</Segment>
+	<Segment id ="155" >
+		<Time-slot>00:07:31,115 --> 00:07:33,136</Time-slot>
+		<Original_text lang="en">government people, teachers, and so forth.</Original_text>
+		<Translation lang="ar">ورجال الحكومة، والمعلمين، وما إلى ذلك.</Translation>
+		<Translation lang="fr">responsables gouvernementaux, professeurs et autres acteurs.</Translation>
+	</Segment>
+	<Segment id ="156" >
+		<Time-slot>00:07:33,136 --> 00:07:37,335</Time-slot>
+		<Original_text lang="en">We're at last starting to debate this issue, and the benefits</Original_text>
+		<Translation lang="ar">لقد بدأنا أخير في مناقشة هذه المسألة، وفوائد</Translation>
+		<Translation lang="fr">Nous commençons enfin à parler de ce problème et des avantages</Translation>
+	</Segment>
+	<Segment id ="157" >
+		<Time-slot>00:07:37,334 --> 00:07:40,034</Time-slot>
+		<Original_text lang="en">that are available for designing for the ears in education,</Original_text>
+		<Translation lang="ar">أن تتوافر تصاميم تراعي الأذنين في التعليم،</Translation>
+		<Translation lang="fr">que pourrait générer une conception à l'oreille de l'éducation,</Translation>
+	</Segment>
+	<Segment id ="158" >
+		<Time-slot>00:07:40,035 --> 00:07:41,846</Time-slot>
+		<Original_text lang="en">unbelievable.</Original_text>
+		<Translation lang="ar">أمر لا يصدق.</Translation>
+		<Translation lang="fr">incroyable.</Translation>
+	</Segment>
+	<Segment id ="159" >
+		<Time-slot>00:07:41,846 --> 00:07:44,915</Time-slot>
+		<Original_text lang="en">Out of that conference, incidentally, also came</Original_text>
+		<Translation lang="ar">ومن هذا المؤتمر، وبالمناسبة، تم إطلاق</Translation>
+		<Translation lang="fr">Suite à cette conférence, accessoirement, est aussi sorti</Translation>
+	</Segment>
+	<Segment id ="160" >
+		<Time-slot>00:07:44,915 --> 00:07:47,917</Time-slot>
+		<Original_text lang="en">a free app which is designed to help children study</Original_text>
+		<Translation lang="ar">تطبيق مجاني يهدف إلى مساعدة الأطفال على الدراسة</Translation>
+		<Translation lang="fr">une application gratuite conçue pour aider les enfants à étudier</Translation>
+	</Segment>
+	<Segment id ="161" >
+		<Time-slot>00:07:47,916 --> 00:07:50,287</Time-slot>
+		<Original_text lang="en">if they're having to work at home, for example,</Original_text>
+		<Translation lang="ar">إذا كان عليهم العمل في المنزل، على سبيل المثال،</Translation>
+		<Translation lang="fr">lorsqu'ils font leurs devoirs à la maison, par exemple,</Translation>
+	</Segment>
+	<Segment id ="162" >
+		<Time-slot>00:07:50,288 --> 00:07:51,879</Time-slot>
+		<Original_text lang="en">in a noisy kitchen.</Original_text>
+		<Translation lang="ar">في مطبخ صاخب.</Translation>
+		<Translation lang="fr">dans le brouhaha de la cuisine.</Translation>
+	</Segment>
+	<Segment id ="163" >
+		<Time-slot>00:07:51,879 --> 00:07:55,117</Time-slot>
+		<Original_text lang="en">And that's free out of that conference.</Original_text>
+		<Translation lang="ar">وذلك مجاني من ذلك المؤتمر.</Translation>
+		<Translation lang="fr">Voilà un outil gratuit émanant de cette conférence.</Translation>
+	</Segment>
+	<Segment id ="164" >
+		<Time-slot>00:07:55,117 --> 00:07:58,069</Time-slot>
+		<Original_text lang="en">Let's broaden the perspective a little bit</Original_text>
+		<Translation lang="ar">دعونا نوسع المنظور قليلاً</Translation>
+		<Translation lang="fr">Essayons de prendre une perspective plus globale</Translation>
+	</Segment>
+	<Segment id ="165" >
+		<Time-slot>00:07:58,069 --> 00:07:59,480</Time-slot>
+		<Original_text lang="en">and look at cities.</Original_text>
+		<Translation lang="ar">ونلقي نظرة على المدن.</Translation>
+		<Translation lang="fr">et de nous pencher sur les cas des villes.</Translation>
+	</Segment>
+	<Segment id ="166" >
+		<Time-slot>00:07:59,480 --> 00:08:01,972</Time-slot>
+		<Original_text lang="en">We have urban planners.</Original_text>
+		<Translation lang="ar">لدينا مخططون حضريون.</Translation>
+		<Translation lang="fr">Nous avons des urbanistes.</Translation>
+	</Segment>
+	<Segment id ="167" >
+		<Time-slot>00:08:01,971 --> 00:08:05,116</Time-slot>
+		<Original_text lang="en">Where are the urban sound planners?</Original_text>
+		<Translation lang="ar">أين هم مخططو الصوت الحضريون؟</Translation>
+		<Translation lang="fr">et de nous pencher sur les cas des villes. Où sont les urbanistes du son ?</Translation>
+	</Segment>
+	<Segment id ="168" >
+		<Time-slot>00:08:05,117 --> 00:08:08,324</Time-slot>
+		<Original_text lang="en">I don't know of one in the world, and the opportunity is there</Original_text>
+		<Translation lang="ar">أنا لا أعرف أحدا في العالم، وهناك فرصة</Translation>
+		<Translation lang="fr">Je n'en connais aucun, et pourtant l'opportunité</Translation>
+	</Segment>
+	<Segment id ="169" >
+		<Time-slot>00:08:08,324 --> 00:08:10,860</Time-slot>
+		<Original_text lang="en">to transform our experience in our cities.</Original_text>
+		<Translation lang="ar">لتحويل خبرتنا إلى مدننا.</Translation>
+		<Translation lang="fr">de transformer notre expérience urbaine est là.</Translation>
+	</Segment>
+	<Segment id ="170" >
+		<Time-slot>00:08:10,860 --> 00:08:12,967</Time-slot>
+		<Original_text lang="en">The World Health Organization estimates</Original_text>
+		<Translation lang="ar">وتشير تقديرات "منظمة الصحة العالمية"</Translation>
+		<Translation lang="fr">L'Organisation Mondiale de la Santé estime</Translation>
+	</Segment>
+	<Segment id ="171" >
+		<Time-slot>00:08:12,966 --> 00:08:15,550</Time-slot>
+		<Original_text lang="en">that a quarter of Europe's population is having its sleep</Original_text>
+		<Translation lang="ar">إلى أن ربع سكان أوروبا يعاني من التدهور</Translation>
+		<Translation lang="fr">qu'un quart de la population européenne voit la qualité de son sommeil</Translation>
+	</Segment>
+	<Segment id ="172" >
+		<Time-slot>00:08:15,550 --> 00:08:19,483</Time-slot>
+		<Original_text lang="en">degraded by noise in cities. We can do better than that.</Original_text>
+		<Translation lang="ar">في النوم بسبب الضوضاء في المدن. يمكننا القيام بأفضل من ذلك.</Translation>
+		<Translation lang="fr">dégradée par l'environnement sonore urbain. On peut certainement mieux faire.</Translation>
+	</Segment>
+	<Segment id ="173" >
+		<Time-slot>00:08:19,483 --> 00:08:22,312</Time-slot>
+		<Original_text lang="en">And in our offices, we spend a lot of time at work.</Original_text>
+		<Translation lang="ar">وفي مكاتبنا، نحن نقضي الكثير من الوقت في العمل.</Translation>
+		<Translation lang="fr">Et dans nos bureaux, nous passons une grande partie de notre temps au bureau.</Translation>
+	</Segment>
+	<Segment id ="174" >
+		<Time-slot>00:08:22,312 --> 00:08:24,971</Time-slot>
+		<Original_text lang="en">Where are the office sound planners?</Original_text>
+		<Translation lang="ar">أين هم مخططو الصوت في المكاتب؟</Translation>
+		<Translation lang="fr">Où sont les architectes du son ?</Translation>
+	</Segment>
+	<Segment id ="175" >
+		<Time-slot>00:08:24,971 --> 00:08:26,858</Time-slot>
+		<Original_text lang="en">People who say, don't sit that team next to this team,</Original_text>
+		<Translation lang="ar">الناس الذين يقولون، لا تجلس هذا الفريق إلى جانب هذا الفريق،</Translation>
+		<Translation lang="fr">Quand on dit, ne place pas cette équipe à côté de celle-là,</Translation>
+	</Segment>
+	<Segment id ="176" >
+		<Time-slot>00:08:26,858 --> 00:08:29,192</Time-slot>
+		<Original_text lang="en">because they like noise and they need quiet.</Original_text>
+		<Translation lang="ar">لأنهم يحبون الضوضاء، ولأن هؤلاء يحتاجون إلى الهدوء.</Translation>
+		<Translation lang="fr">parce que l'une est bruyante et l'autre a besoin de silence.</Translation>
+	</Segment>
+	<Segment id ="177" >
+		<Time-slot>00:08:29,192 --> 00:08:31,930</Time-slot>
+		<Original_text lang="en">Or who say, don't spend all your budget on a huge screen</Original_text>
+		<Translation lang="ar">أو الذين يقولون، لا تنفق كل الميزانية الخاصة بك على شاشة ضخمة</Translation>
+		<Translation lang="fr">Ou quand on dit, pas la peine de couler le budget dans un gigantesque écran plasma</Translation>
+	</Segment>
+	<Segment id ="178" >
+		<Time-slot>00:08:31,930 --> 00:08:32,874</Time-slot>
+		<Original_text lang="en">in the conference room,</Original_text>
+		<Translation lang="ar">في قاعة المؤتمرات،</Translation>
+		<Translation lang="fr">pour la salle de conférence,</Translation>
+	</Segment>
+	<Segment id ="179" >
+		<Time-slot>00:08:32,874 --> 00:08:34,883</Time-slot>
+		<Original_text lang="en">and then place one tiny microphone</Original_text>
+		<Translation lang="ar">ومن ثم تضع ميكروفونا صغيرا واحدا</Translation>
+		<Translation lang="fr">et placer un minuscule microphone</Translation>
+	</Segment>
+	<Segment id ="180" >
+		<Time-slot>00:08:34,883 --> 00:08:38,120</Time-slot>
+		<Original_text lang="en">in the middle of a table for 30 people. (Laughter)</Original_text>
+		<Translation lang="ar">في منتصف طاولة لـ 30 شخصا. (ضحك)</Translation>
+		<Translation lang="fr">au milieu d'une table de 30 personnes. (Rires)</Translation>
+	</Segment>
+	<Segment id ="181" >
+		<Time-slot>00:08:38,120 --> 00:08:40,239</Time-slot>
+		<Original_text lang="en">If you can hear me, you can understand me</Original_text>
+		<Translation lang="ar">إذا كنت تستطيع أن تسمعني، يمكنك فهمي</Translation>
+		<Translation lang="fr">Si vous pouvez m'entendre, vous pouvez me comprendre</Translation>
+	</Segment>
+	<Segment id ="182" >
+		<Time-slot>00:08:40,239 --> 00:08:43,364</Time-slot>
+		<Original_text lang="en">without seeing me. If you can see me without hearing me,</Original_text>
+		<Translation lang="ar">دون رؤيتي. إذا كنت تراني دون الاستماع لي،</Translation>
+		<Translation lang="fr">sans me voir. Si vous pouvez me voir sans m'entendre</Translation>
+	</Segment>
+	<Segment id ="183" >
+		<Time-slot>00:08:43,364 --> 00:08:45,468</Time-slot>
+		<Original_text lang="en">that does not work.</Original_text>
+		<Translation lang="ar">فذلك لن يجدي نفعاً.</Translation>
+		<Translation lang="fr">ça ne marche pas.</Translation>
+	</Segment>
+	<Segment id ="184" >
+		<Time-slot>00:08:45,467 --> 00:08:48,683</Time-slot>
+		<Original_text lang="en">So office sound is a huge area, and incidentally,</Original_text>
+		<Translation lang="ar">وبالتالي فإن صوتيات المكاتب مجال كبير، والمناسبة،</Translation>
+		<Translation lang="fr">L'environnement sonore au bureau, c'est un sacré problème, et soit dit en passant,</Translation>
+	</Segment>
+	<Segment id ="185" >
+		<Time-slot>00:08:48,683 --> 00:08:50,819</Time-slot>
+		<Original_text lang="en">noise in offices has been shown to make people</Original_text>
+		<Translation lang="ar">لقد ثبت أن الضوضاء في المكاتب تجعل الناس</Translation>
+		<Translation lang="fr">il a été démontré que les nuisances sonores dans les bureaux rendent les gens</Translation>
+	</Segment>
+	<Segment id ="186" >
+		<Time-slot>00:08:50,820 --> 00:08:53,443</Time-slot>
+		<Original_text lang="en">less helpful, less enjoy their teamwork,</Original_text>
+		<Translation lang="ar">أقل فائدة، وأقل استمتاعا بالعمل الجماعي،</Translation>
+		<Translation lang="fr">moins serviable, moins à même de s'épanouir dans leur travail d'équipe,</Translation>
+	</Segment>
+	<Segment id ="187" >
+		<Time-slot>00:08:53,442 --> 00:08:55,963</Time-slot>
+		<Original_text lang="en">and less productive at work.</Original_text>
+		<Translation lang="ar">وأقل إنتاجاً في العمل.</Translation>
+		<Translation lang="fr">et moins productif en général.</Translation>
+	</Segment>
+	<Segment id ="188" >
+		<Time-slot>00:08:55,964 --> 00:08:59,017</Time-slot>
+		<Original_text lang="en">Finally, we have homes. We use interior designers.</Original_text>
+		<Translation lang="ar">وأخيراً، لدينا المنازل. نحن نستخدم مصممي الديكور الداخلي.</Translation>
+		<Translation lang="fr">Au final, il reste nos maisons. Nous faisons appel à des architectes d'intérieur.</Translation>
+	</Segment>
+	<Segment id ="189" >
+		<Time-slot>00:08:59,017 --> 00:09:01,252</Time-slot>
+		<Original_text lang="en">Where are the interior sound designers?</Original_text>
+		<Translation lang="ar">أين هم مصممو الصوت الداخلي؟</Translation>
+		<Translation lang="fr">Où sont les architectes d'intérieur du son?</Translation>
+	</Segment>
+	<Segment id ="190" >
+		<Time-slot>00:09:01,251 --> 00:09:04,591</Time-slot>
+		<Original_text lang="en">Hey, let's all be interior sound designers,</Original_text>
+		<Translation lang="ar">مهلا، دعونا نكون جميعا مصممي صوت داخلي،</Translation>
+		<Translation lang="fr">Et si on devenait tous des architectes d'intérieur du son,</Translation>
+	</Segment>
+	<Segment id ="191" >
+		<Time-slot>00:09:04,591 --> 00:09:07,408</Time-slot>
+		<Original_text lang="en">take on listening to our rooms and designing sound</Original_text>
+		<Translation lang="ar">نستمع إلى غرفنا ونصمم صوتا</Translation>
+		<Translation lang="fr">tendre l'oreille dans nos maisons pour concevoir un son</Translation>
+	</Segment>
+	<Segment id ="192" >
+		<Time-slot>00:09:07,408 --> 00:09:08,927</Time-slot>
+		<Original_text lang="en">that's effective and appropriate.</Original_text>
+		<Translation lang="ar">فعالاً ومناسباً.</Translation>
+		<Translation lang="fr">efficace et approprié.</Translation>
+	</Segment>
+	<Segment id ="193" >
+		<Time-slot>00:09:08,927 --> 00:09:11,468</Time-slot>
+		<Original_text lang="en">My friend Richard Mazuch, an architect in London,</Original_text>
+		<Translation lang="ar">صديقي (ريتشارد مازوخ)، معماري في لندن،</Translation>
+		<Translation lang="fr">Mon ami Richard Mazuch, un architecte londonien,</Translation>
+	</Segment>
+	<Segment id ="194" >
+		<Time-slot>00:09:11,467 --> 00:09:14,353</Time-slot>
+		<Original_text lang="en">coined the phrase "invisible architecture."</Original_text>
+		<Translation lang="ar">صاغ عبارة "الهندسة المعمارية غير مرئية".</Translation>
+		<Translation lang="fr">a inventé l'expression « architecture invisible ».</Translation>
+	</Segment>
+	<Segment id ="195" >
+		<Time-slot>00:09:14,354 --> 00:09:15,903</Time-slot>
+		<Original_text lang="en">I love that phrase.</Original_text>
+		<Translation lang="ar">أنا أحب هذه العبارة.</Translation>
+		<Translation lang="fr">J'adore cette expression.</Translation>
+	</Segment>
+	<Segment id ="196" >
+		<Time-slot>00:09:15,903 --> 00:09:20,984</Time-slot>
+		<Original_text lang="en">It's about designing, not appearance, but experience,</Original_text>
+		<Translation lang="ar">إنها حول التصميم، ليس المظهر، ولكن التجربة،</Translation>
+		<Translation lang="fr">Elle décrit la conception, non pas d'une apparence, mais d'une expérience,</Translation>
+	</Segment>
+	<Segment id ="197" >
+		<Time-slot>00:09:20,984 --> 00:09:24,591</Time-slot>
+		<Original_text lang="en">so that we have spaces that sound as good as they look,</Original_text>
+		<Translation lang="ar">حتى يكون لدينا فضاء يُسمع بنفس الجودة التي يبدو عليها،</Translation>
+		<Translation lang="fr">pour obtenir des espaces dont la qualité sonore avoisine la qualité visuelle,</Translation>
+	</Segment>
+	<Segment id ="198" >
+		<Time-slot>00:09:24,591 --> 00:09:28,101</Time-slot>
+		<Original_text lang="en">that are fit for purpose, that improve our quality of life,</Original_text>
+		<Translation lang="ar">أن يكون لائقا لغرضه، وأن يحسّن من نوعية حياتنا،</Translation>
+		<Translation lang="fr">adaptés pour leur usage, qui améliore notre qualité de vie,</Translation>
+	</Segment>
+	<Segment id ="199" >
+		<Time-slot>00:09:28,101 --> 00:09:31,342</Time-slot>
+		<Original_text lang="en">our health and well being, our social behavior</Original_text>
+		<Translation lang="ar">وصحتنا وعيشنا الكريم وسلوكنا الاجتماعي</Translation>
+		<Translation lang="fr">notre santé et notre bien-être, notre comportement social</Translation>
+	</Segment>
+	<Segment id ="200" >
+		<Time-slot>00:09:31,342 --> 00:09:33,218</Time-slot>
+		<Original_text lang="en">and our productivity.</Original_text>
+		<Translation lang="ar">وإنتاجيتنا.</Translation>
+		<Translation lang="fr">et notre productivité.</Translation>
+	</Segment>
+	<Segment id ="201" >
+		<Time-slot>00:09:33,219 --> 00:09:36,725</Time-slot>
+		<Original_text lang="en">It's time to start designing for the ears.</Original_text>
+		<Translation lang="ar">لقد حان الوقت لنصمّم مع مراعاة الأذنين.</Translation>
+		<Translation lang="fr">Il est grand temps de commencer à concevoir pour nos oreilles.</Translation>
+	</Segment>
+	<Segment id ="202" >
+		<Time-slot>00:09:36,725 --> 00:09:39,555</Time-slot>
+		<Original_text lang="en">Thank you. (Applause)</Original_text>
+		<Translation lang="ar">شكرا لكم. (تصفيق)</Translation>
+		<Translation lang="fr">Merci. (Applaudissements)</Translation>
+	</Segment>
+	<Segment id ="203" >
+		<Time-slot>00:09:39,554 --> 00:09:41,086</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+	<Segment id ="204" >
+		<Time-slot>00:09:41,086 --> 00:09:45,842</Time-slot>
+		<Original_text lang="en">Thank you. (Applause)</Original_text>
+		<Translation lang="ar">شكرا لكم. (تصفيق)</Translation>
+		<Translation lang="fr">Merci. (Applaudissements)</Translation>
+	</Segment>
+</Talk>
+</MulTed>

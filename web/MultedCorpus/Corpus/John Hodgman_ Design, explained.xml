@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MulTed>
+
+<Talk Speaker = "John Hodgman" Title= " Design, explained" >
+	<Segment id ="1" >
+		<Time-slot>00:00:15,670 --> 00:00:17,930</Time-slot>
+		<Original_text lang="en">Today I'm going to unpack for you</Original_text>
+		<Translation lang="ar">سأقوم اليوم بتفكيك</Translation>
+		<Translation lang="fr">Aujourd'hui je vais vous présenter</Translation>
+	</Segment>
+	<Segment id ="2" >
+		<Time-slot>00:00:17,931 --> 00:00:20,661</Time-slot>
+		<Original_text lang="en">three examples of iconic design,</Original_text>
+		<Translation lang="ar">ثلاثة أمثلة عن التصميم الأيقوني،</Translation>
+		<Translation lang="fr">trois exemples de design emblématique</Translation>
+	</Segment>
+	<Segment id ="3" >
+		<Time-slot>00:00:20,661 --> 00:00:21,946</Time-slot>
+		<Original_text lang="en">and it makes perfect sense</Original_text>
+		<Translation lang="ar">و من المنطقي جدا</Translation>
+		<Translation lang="fr">et il est tout à fait logique</Translation>
+	</Segment>
+	<Segment id ="4" >
+		<Time-slot>00:00:21,946 --> 00:00:24,635</Time-slot>
+		<Original_text lang="en">that I should be the one to do it</Original_text>
+		<Translation lang="ar">أن أكون أنا الشخص المناسب للقيام بذلك</Translation>
+		<Translation lang="fr">que ce soit moi qui vous les présente</Translation>
+	</Segment>
+	<Segment id ="5" >
+		<Time-slot>00:00:24,635 --> 00:00:28,562</Time-slot>
+		<Original_text lang="en">because I have a Bachelor's degree in Literature.</Original_text>
+		<Translation lang="ar">لأني أحمل شهادة البكالوريوس في الأدب.</Translation>
+		<Translation lang="fr">puisque je suis titulaire d'une licence en lettres modernes.</Translation>
+	</Segment>
+	<Segment id ="6" >
+		<Time-slot>00:00:28,562 --> 00:00:29,908</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="7" >
+		<Time-slot>00:00:29,908 --> 00:00:31,331</Time-slot>
+		<Original_text lang="en">But I'm also a famous</Original_text>
+		<Translation lang="ar">لكنني أيضا مشهور</Translation>
+		<Translation lang="fr">Je suis également une célèbre</Translation>
+	</Segment>
+	<Segment id ="8" >
+		<Time-slot>00:00:31,330 --> 00:00:33,391</Time-slot>
+		<Original_text lang="en">minor television personality</Original_text>
+		<Translation lang="ar">بكوني شخصية تلفزيونية بسيطة</Translation>
+		<Translation lang="fr">personnalité mineure de la télé</Translation>
+	</Segment>
+	<Segment id ="9" >
+		<Time-slot>00:00:33,392 --> 00:00:35,462</Time-slot>
+		<Original_text lang="en">and an avid collector of</Original_text>
+		<Translation lang="ar">ولكوني مُجَّمع هاوٍ</Translation>
+		<Translation lang="fr">et un fervent collectionneur des</Translation>
+	</Segment>
+	<Segment id ="10" >
+		<Time-slot>00:00:35,462 --> 00:00:37,038</Time-slot>
+		<Original_text lang="en">Design Within Reach catalogs,</Original_text>
+		<Translation lang="ar">لفهارس "التصميم في متناول الجميع"،</Translation>
+		<Translation lang="fr">catalogues Design Within Reach,</Translation>
+	</Segment>
+	<Segment id ="11" >
+		<Time-slot>00:00:37,037 --> 00:00:39,344</Time-slot>
+		<Original_text lang="en">so I pretty much know</Original_text>
+		<Translation lang="ar">وبالتالي فأنا أعرف إلى حد كبير</Translation>
+		<Translation lang="fr">donc je m'y connais</Translation>
+	</Segment>
+	<Segment id ="12" >
+		<Time-slot>00:00:39,344 --> 00:00:40,865</Time-slot>
+		<Original_text lang="en">everything there is.</Original_text>
+		<Translation lang="ar">كل شيء بهذا الخصوص.</Translation>
+		<Translation lang="fr">plutôt bien.</Translation>
+	</Segment>
+	<Segment id ="13" >
+		<Time-slot>00:00:40,865 --> 00:00:42,236</Time-slot>
+		<Original_text lang="en">Now, I'm sure you</Original_text>
+		<Translation lang="ar">الآن، أنا متأكد أنكم</Translation>
+		<Translation lang="fr">Alors, je suis sûr que</Translation>
+	</Segment>
+	<Segment id ="14" >
+		<Time-slot>00:00:42,235 --> 00:00:43,570</Time-slot>
+		<Original_text lang="en">recognize this object;</Original_text>
+		<Translation lang="ar">تعرفون هذا الشئ؛</Translation>
+		<Translation lang="fr">vous reconnaissez cet objet ;</Translation>
+	</Segment>
+	<Segment id ="15" >
+		<Time-slot>00:00:43,570 --> 00:00:45,265</Time-slot>
+		<Original_text lang="en">many of you probably saw it</Original_text>
+		<Translation lang="ar">الكثير منكم على الأرجح قد رآه</Translation>
+		<Translation lang="fr">beaucoup d'entre vous l'ont probablement vu</Translation>
+	</Segment>
+	<Segment id ="16" >
+		<Time-slot>00:00:45,265 --> 00:00:46,733</Time-slot>
+		<Original_text lang="en">as you were landing your private zeppelins</Original_text>
+		<Translation lang="ar">وأنتم تهبطون بمناطيد زبلين الخاصة بكم</Translation>
+		<Translation lang="fr">lorsque vous atterrissiez avec vos zeppelins privés</Translation>
+	</Segment>
+	<Segment id ="17" >
+		<Time-slot>00:00:46,732 --> 00:00:49,220</Time-slot>
+		<Original_text lang="en">at Los Angeles International Airport</Original_text>
+		<Translation lang="ar">في مطار لوس انجليس الدولي</Translation>
+		<Translation lang="fr">à l'aéroport international de Los Angeles</Translation>
+	</Segment>
+	<Segment id ="18" >
+		<Time-slot>00:00:49,220 --> 00:00:51,413</Time-slot>
+		<Original_text lang="en">over the past couple of days.</Original_text>
+		<Translation lang="ar">خلال الأيام الماضية.</Translation>
+		<Translation lang="fr">ces deux derniers jours.</Translation>
+	</Segment>
+	<Segment id ="19" >
+		<Time-slot>00:00:51,414 --> 00:00:54,757</Time-slot>
+		<Original_text lang="en">This is known as the Theme Building;</Original_text>
+		<Translation lang="ar">هذا يعرف على أنه "بناء الموضوع"؛</Translation>
+		<Translation lang="fr">Il est connu sous le nom de Theme Building ;</Translation>
+	</Segment>
+	<Segment id ="20" >
+		<Time-slot>00:00:54,756 --> 00:00:56,496</Time-slot>
+		<Original_text lang="en">that is its name for reasons</Original_text>
+		<Translation lang="ar">هذا هو إسمه لأسباب</Translation>
+		<Translation lang="fr">pourquoi ce nom ?</Translation>
+	</Segment>
+	<Segment id ="21" >
+		<Time-slot>00:00:56,496 --> 00:00:59,247</Time-slot>
+		<Original_text lang="en">that are still very murky.</Original_text>
+		<Translation lang="ar">لا تزال غامضة جدا.</Translation>
+		<Translation lang="fr">Les raisons en demeurent obscures.</Translation>
+	</Segment>
+	<Segment id ="22" >
+		<Time-slot>00:00:59,247 --> 00:01:00,668</Time-slot>
+		<Original_text lang="en">And it is perhaps</Original_text>
+		<Translation lang="ar">وهو ربما</Translation>
+		<Translation lang="fr">C'est sans doute</Translation>
+	</Segment>
+	<Segment id ="23" >
+		<Time-slot>00:01:00,668 --> 00:01:03,958</Time-slot>
+		<Original_text lang="en">the best example we have in Los Angeles</Original_text>
+		<Translation lang="ar">أفضل مثال لدينا في لوس انجليس</Translation>
+		<Translation lang="fr">le meilleur exemple que nous ayons à Los Angeles</Translation>
+	</Segment>
+	<Segment id ="24" >
+		<Time-slot>00:01:03,959 --> 00:01:08,977</Time-slot>
+		<Original_text lang="en">of ancient extraterrestrial architecture.</Original_text>
+		<Translation lang="ar">على الهندسة المعمارية العتيقة من خارج الأرض.</Translation>
+		<Translation lang="fr">d'architecture extraterrestre antique.</Translation>
+	</Segment>
+	<Segment id ="25" >
+		<Time-slot>00:01:08,977 --> 00:01:11,790</Time-slot>
+		<Original_text lang="en">It was first excavated in 1961</Original_text>
+		<Translation lang="ar">تم التنقيب عنه لأول مرة سنة 1961</Translation>
+		<Translation lang="fr">Il a été déterré pour la première fois en 1961</Translation>
+	</Segment>
+	<Segment id ="26" >
+		<Time-slot>00:01:11,790 --> 00:01:13,680</Time-slot>
+		<Original_text lang="en">as they were building LAX,</Original_text>
+		<Translation lang="ar">حين كان يتم بناء مطار لوس أنجليس،</Translation>
+		<Translation lang="fr">lors de la construction de LAX [aéroport de Los Angeles]</Translation>
+	</Segment>
+	<Segment id ="27" >
+		<Time-slot>00:01:13,680 --> 00:01:15,329</Time-slot>
+		<Original_text lang="en">although scientists believe that</Original_text>
+		<Translation lang="ar">على الرغم من أن العلماء يعتقدون أن</Translation>
+		<Translation lang="fr">mais les scientifiques pensent</Translation>
+	</Segment>
+	<Segment id ="28" >
+		<Time-slot>00:01:15,328 --> 00:01:17,915</Time-slot>
+		<Original_text lang="en">it dates back to the year 2000</Original_text>
+		<Translation lang="ar">تاريخه يرجع إلى سنة 2000</Translation>
+		<Translation lang="fr">qu'il date des années 2000</Translation>
+	</Segment>
+	<Segment id ="29" >
+		<Time-slot>00:01:17,915 --> 00:01:19,980</Time-slot>
+		<Original_text lang="en">Before Common Era,</Original_text>
+		<Translation lang="ar">قبل الميلاد،</Translation>
+		<Translation lang="fr">avant notre ère,</Translation>
+	</Segment>
+	<Segment id ="30" >
+		<Time-slot>00:01:19,980 --> 00:01:21,321</Time-slot>
+		<Original_text lang="en">when it was used as</Original_text>
+		<Translation lang="ar">عندما كانت يستخدم</Translation>
+		<Translation lang="fr">du temps où il servait</Translation>
+	</Segment>
+	<Segment id ="31" >
+		<Time-slot>00:01:21,322 --> 00:01:23,697</Time-slot>
+		<Original_text lang="en">a busy transdimensional space port</Original_text>
+		<Translation lang="ar">كميناء فضائي مزدحم عابر للأبعاد</Translation>
+		<Translation lang="fr">de cosmodrome transdimensionnel très fréquenté</Translation>
+	</Segment>
+	<Segment id ="32" >
+		<Time-slot>00:01:23,697 --> 00:01:25,745</Time-slot>
+		<Original_text lang="en">by the ancient astronauts</Original_text>
+		<Translation lang="ar">من قبل رواد الفضاء القدماء</Translation>
+		<Translation lang="fr">par les astronautes de l'époque</Translation>
+	</Segment>
+	<Segment id ="33" >
+		<Time-slot>00:01:25,745 --> 00:01:27,826</Time-slot>
+		<Original_text lang="en">who first colonized this planet</Original_text>
+		<Translation lang="ar">الذين استعمروا هذا الكوكب أولا</Translation>
+		<Translation lang="fr">qui furent les premiers à coloniser notre planète</Translation>
+	</Segment>
+	<Segment id ="34" >
+		<Time-slot>00:01:27,826 --> 00:01:29,337</Time-slot>
+		<Original_text lang="en">and raised our species</Original_text>
+		<Translation lang="ar">وارتفعوا بصنفنا</Translation>
+		<Translation lang="fr">et sortirent notre espèce</Translation>
+	</Segment>
+	<Segment id ="35" >
+		<Time-slot>00:01:29,337 --> 00:01:31,052</Time-slot>
+		<Original_text lang="en">from savagery by giving us</Original_text>
+		<Translation lang="ar">من الهمجية بإعطائنا</Translation>
+		<Translation lang="fr">de la barbarie en nous faisant</Translation>
+	</Segment>
+	<Segment id ="36" >
+		<Time-slot>00:01:31,052 --> 00:01:32,746</Time-slot>
+		<Original_text lang="en">the gift of written language</Original_text>
+		<Translation lang="ar">هبة اللغة المكتوبة</Translation>
+		<Translation lang="fr">le don du langage écrit</Translation>
+	</Segment>
+	<Segment id ="37" >
+		<Time-slot>00:01:32,746 --> 00:01:34,545</Time-slot>
+		<Original_text lang="en">and technology and</Original_text>
+		<Translation lang="ar">والتكنولوجيا</Translation>
+		<Translation lang="fr">et de la technologie et</Translation>
+	</Segment>
+	<Segment id ="38" >
+		<Time-slot>00:01:34,545 --> 00:01:37,025</Time-slot>
+		<Original_text lang="en">the gift of revolving restaurants.</Original_text>
+		<Translation lang="ar">وهبة المطاعم الدوارة.</Translation>
+		<Translation lang="fr">celui des restaurants panoramiques tournants.</Translation>
+	</Segment>
+	<Segment id ="39" >
+		<Time-slot>00:01:37,025 --> 00:01:40,078</Time-slot>
+		<Original_text lang="en">It is thought to have been</Original_text>
+		<Translation lang="ar">ويعتقد أنه كان يوجد</Translation>
+		<Translation lang="fr">On pense qu'il a</Translation>
+	</Segment>
+	<Segment id ="40" >
+		<Time-slot>00:01:40,078 --> 00:01:42,700</Time-slot>
+		<Original_text lang="en">a replacement for the older space ports</Original_text>
+		<Translation lang="ar">بديل للموانئ الفضائية الأقدم</Translation>
+		<Translation lang="fr">remplacé les cosmodromes plus anciens</Translation>
+	</Segment>
+	<Segment id ="41" >
+		<Time-slot>00:01:42,700 --> 00:01:45,552</Time-slot>
+		<Original_text lang="en">located, of course, at Stonehenge</Original_text>
+		<Translation lang="ar">والتي تقع، بطبيعة الحال، في ستونهنج</Translation>
+		<Translation lang="fr">situés, bien entendu, à Stonehenge.</Translation>
+	</Segment>
+	<Segment id ="42" >
+		<Time-slot>00:01:45,552 --> 00:01:46,748</Time-slot>
+		<Original_text lang="en">and considered to be</Original_text>
+		<Translation lang="ar">وتعتبر</Translation>
+		<Translation lang="fr">On considère qu'il</Translation>
+	</Segment>
+	<Segment id ="43" >
+		<Time-slot>00:01:46,748 --> 00:01:47,875</Time-slot>
+		<Original_text lang="en">quite an improvement</Original_text>
+		<Translation lang="ar">تحسنا إلى حد كبير</Translation>
+		<Translation lang="fr">constitue une réelle amélioration</Translation>
+	</Segment>
+	<Segment id ="44" >
+		<Time-slot>00:01:47,876 --> 00:01:49,953</Time-slot>
+		<Original_text lang="en">due to the uncluttered design,</Original_text>
+		<Translation lang="ar">نظرا للتصميم المرتب،</Translation>
+		<Translation lang="fr">par son design épuré,</Translation>
+	</Segment>
+	<Segment id ="45" >
+		<Time-slot>00:01:49,953 --> 00:01:52,573</Time-slot>
+		<Original_text lang="en">the lack of druids hanging around all the time</Original_text>
+		<Translation lang="ar">لعدم وجود كهنة يتسكعون طوال الوقت</Translation>
+		<Translation lang="fr">l'absence de druides traînant tout le temps autour</Translation>
+	</Segment>
+	<Segment id ="46" >
+		<Time-slot>00:01:52,572 --> 00:01:54,361</Time-slot>
+		<Original_text lang="en">and obviously, the much better</Original_text>
+		<Translation lang="ar">وبالطبع، وصول أفضل</Translation>
+		<Translation lang="fr">et évidemment, le bien meilleur</Translation>
+	</Segment>
+	<Segment id ="47" >
+		<Time-slot>00:01:54,361 --> 00:01:56,081</Time-slot>
+		<Original_text lang="en">access to parking.</Original_text>
+		<Translation lang="ar">إلى مواقف السيارات.</Translation>
+		<Translation lang="fr">accès à des espaces de stationnement.</Translation>
+	</Segment>
+	<Segment id ="48" >
+		<Time-slot>00:01:56,081 --> 00:01:58,371</Time-slot>
+		<Original_text lang="en">When it was uncovered,</Original_text>
+		<Translation lang="ar">عندما تم الكشف عنه،</Translation>
+		<Translation lang="fr">Sa découverte a marqué</Translation>
+	</Segment>
+	<Segment id ="49" >
+		<Time-slot>00:01:58,371 --> 00:02:00,578</Time-slot>
+		<Original_text lang="en">it ushered in a new era</Original_text>
+		<Translation lang="ar">بشّر بعهد جديد</Translation>
+		<Translation lang="fr">l'entrée dans une nouvelle ère,</Translation>
+	</Segment>
+	<Segment id ="50" >
+		<Time-slot>00:02:00,578 --> 00:02:03,841</Time-slot>
+		<Original_text lang="en">of streamlined, archaically futuristic design</Original_text>
+		<Translation lang="ar">من التصميم المستقبلي المبسط على نحو بال</Translation>
+		<Translation lang="fr">celle d'un design dépouillé et archaïquement futuriste</Translation>
+	</Segment>
+	<Segment id ="51" >
+		<Time-slot>00:02:03,841 --> 00:02:05,271</Time-slot>
+		<Original_text lang="en">called Googie,</Original_text>
+		<Translation lang="ar">يدعى غوغي،</Translation>
+		<Translation lang="fr">appelé Googie,</Translation>
+	</Segment>
+	<Segment id ="52" >
+		<Time-slot>00:02:05,271 --> 00:02:07,153</Time-slot>
+		<Original_text lang="en">which came to be synonymous with</Original_text>
+		<Translation lang="ar">والذي صار مرادفا</Translation>
+		<Translation lang="fr">qui devint, improprement, synonyme de</Translation>
+	</Segment>
+	<Segment id ="53" >
+		<Time-slot>00:02:07,153 --> 00:02:09,352</Time-slot>
+		<Original_text lang="en">the Jet Age, a misnomer.</Original_text>
+		<Translation lang="ar">لعصر الطائرة النفاثة، تسمية خاطئة.</Translation>
+		<Translation lang="fr">l'ère de l'avion à réaction.</Translation>
+	</Segment>
+	<Segment id ="54" >
+		<Time-slot>00:02:09,352 --> 00:02:12,086</Time-slot>
+		<Original_text lang="en">After all, the ancient astronauts who used it</Original_text>
+		<Translation lang="ar">مع ذلك، رواد الفضاء القدماء الذين استخدموه</Translation>
+		<Translation lang="fr">Après tout, les astronautes antiques qui s'en servaient</Translation>
+	</Segment>
+	<Segment id ="55" >
+		<Time-slot>00:02:12,086 --> 00:02:13,924</Time-slot>
+		<Original_text lang="en">did not travel by jet very often,</Original_text>
+		<Translation lang="ar">لم يسافروا على متن طائرة نفاثة في كثير من الأحيان،</Translation>
+		<Translation lang="fr">ne voyageaient pas souvent en jet,</Translation>
+	</Segment>
+	<Segment id ="56" >
+		<Time-slot>00:02:13,924 --> 00:02:17,212</Time-slot>
+		<Original_text lang="en">preferring instead to travel by feathered serpent</Original_text>
+		<Translation lang="ar">بل معظمهم فضل اللجوء للسفر بواسطة ثعبان مريّش</Translation>
+		<Translation lang="fr">ils préféraient le voyage en serpent à plumes</Translation>
+	</Segment>
+	<Segment id ="57" >
+		<Time-slot>00:02:17,211 --> 00:02:19,867</Time-slot>
+		<Original_text lang="en">powered by crystal skulls.</Original_text>
+		<Translation lang="ar">مدعوم بجماجم الكريستال.</Translation>
+		<Translation lang="fr">alimenté par des crânes de cristal.</Translation>
+	</Segment>
+	<Segment id ="58" >
+		<Time-slot>00:02:19,867 --> 00:02:22,150</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+	<Segment id ="59" >
+		<Time-slot>00:02:22,150 --> 00:02:25,736</Time-slot>
+		<Original_text lang="en">(Music)</Original_text>
+		<Translation lang="ar">(موسيقى)</Translation>
+		<Translation lang="fr">(Musique)</Translation>
+	</Segment>
+	<Segment id ="60" >
+		<Time-slot>00:02:25,735 --> 00:02:29,397</Time-slot>
+		<Original_text lang="en">Ah yes, a table.</Original_text>
+		<Translation lang="ar">آه نعم، طاولة.</Translation>
+		<Translation lang="fr">Ah oui, une table.</Translation>
+	</Segment>
+	<Segment id ="61" >
+		<Time-slot>00:02:29,397 --> 00:02:30,858</Time-slot>
+		<Original_text lang="en">We use these every day.</Original_text>
+		<Translation lang="ar">نستخدم هذه كل يوم.</Translation>
+		<Translation lang="fr">On en utilise tous les jours.</Translation>
+	</Segment>
+	<Segment id ="62" >
+		<Time-slot>00:02:30,858 --> 00:02:32,604</Time-slot>
+		<Original_text lang="en">And on top of it,</Original_text>
+		<Translation lang="ar">وفوقها،</Translation>
+		<Translation lang="fr">Et sur cette table,</Translation>
+	</Segment>
+	<Segment id ="63" >
+		<Time-slot>00:02:32,604 --> 00:02:34,759</Time-slot>
+		<Original_text lang="en">the juicy salif.</Original_text>
+		<Translation lang="ar">عاصر الليمون.</Translation>
+		<Translation lang="fr">le Juicy Salif.</Translation>
+	</Segment>
+	<Segment id ="64" >
+		<Time-slot>00:02:34,758 --> 00:02:36,212</Time-slot>
+		<Original_text lang="en">This is a design by Philippe Starck,</Original_text>
+		<Translation lang="ar">هذا تصميم لفيليب ستارك،</Translation>
+		<Translation lang="fr">C'est un objet créé par le designer Philippe Starck,</Translation>
+	</Segment>
+	<Segment id ="65" >
+		<Time-slot>00:02:36,212 --> 00:02:38,275</Time-slot>
+		<Original_text lang="en">who I believe is in the audience at this very moment.</Original_text>
+		<Translation lang="ar">والذي أعتقد أنه موجود في الحضور في هذه اللحظة بالذات.</Translation>
+		<Translation lang="fr">qui, je crois savoir, se trouve actuellement dans le public.</Translation>
+	</Segment>
+	<Segment id ="66" >
+		<Time-slot>00:02:38,276 --> 00:02:40,191</Time-slot>
+		<Original_text lang="en">And you can tell it is a Starck design</Original_text>
+		<Translation lang="ar">ويمكنك معرفة أنه تصميم لستارك</Translation>
+		<Translation lang="fr">Et vous savez que c'est du Starck</Translation>
+	</Segment>
+	<Segment id ="67" >
+		<Time-slot>00:02:40,191 --> 00:02:43,616</Time-slot>
+		<Original_text lang="en">by its precision, its playfulness,</Original_text>
+		<Translation lang="ar">بدقته ولعوبيته،</Translation>
+		<Translation lang="fr">par sa précision, son côté ludique</Translation>
+	</Segment>
+	<Segment id ="68" >
+		<Time-slot>00:02:43,616 --> 00:02:45,858</Time-slot>
+		<Original_text lang="en">its innovation and</Original_text>
+		<Translation lang="ar">من ابتكاره</Translation>
+		<Translation lang="fr">et innovant et</Translation>
+	</Segment>
+	<Segment id ="69" >
+		<Time-slot>00:02:45,858 --> 00:02:49,110</Time-slot>
+		<Original_text lang="en">its promise of imminent violence.</Original_text>
+		<Translation lang="ar">وإيحائه بعنف وشيك.</Translation>
+		<Translation lang="fr">sa promesse de violence imminente.</Translation>
+	</Segment>
+	<Segment id ="70" >
+		<Time-slot>00:02:49,110 --> 00:02:51,175</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="71" >
+		<Time-slot>00:02:51,175 --> 00:02:54,133</Time-slot>
+		<Original_text lang="en">It is a design that challenges your intuition --</Original_text>
+		<Translation lang="ar">إنه تصميم يتحدى حدسكم --</Translation>
+		<Translation lang="fr">C'est du design qui défie votre intuition,</Translation>
+	</Segment>
+	<Segment id ="72" >
+		<Time-slot>00:02:54,133 --> 00:02:56,481</Time-slot>
+		<Original_text lang="en">it is not what you think it is when you first see it.</Original_text>
+		<Translation lang="ar">إنه ليس ما تعتقده حين تراه لأول مرة.</Translation>
+		<Translation lang="fr">ce n'est pas ce que vous croyez au premier coup d'œil.</Translation>
+	</Segment>
+	<Segment id ="73" >
+		<Time-slot>00:02:56,481 --> 00:02:58,305</Time-slot>
+		<Original_text lang="en">It is not a fork designed</Original_text>
+		<Translation lang="ar">إنها ليست بشوكة مصممة</Translation>
+		<Translation lang="fr">Ce n'est pas une fourchette conçue pour</Translation>
+	</Segment>
+	<Segment id ="74" >
+		<Time-slot>00:02:58,305 --> 00:03:01,679</Time-slot>
+		<Original_text lang="en">to grab three hors d'oeuvres at a time,</Original_text>
+		<Translation lang="ar">للإمساك بثلاثة مقبلات في آن واحد،</Translation>
+		<Translation lang="fr">piquer trois hors-d'œuvres à la fois,</Translation>
+	</Segment>
+	<Segment id ="75" >
+		<Time-slot>00:03:01,679 --> 00:03:03,455</Time-slot>
+		<Original_text lang="en">which would be useful out in the lobby,</Original_text>
+		<Translation lang="ar">والذي يمكن أن يكون مفيدا خارجا في الردهة،</Translation>
+		<Translation lang="fr">ce qui serait bien utile ici dans le hall,</Translation>
+	</Segment>
+	<Segment id ="76" >
+		<Time-slot>00:03:03,455 --> 00:03:04,624</Time-slot>
+		<Original_text lang="en">I would say.</Original_text>
+		<Translation lang="ar">يمكنني القول.</Translation>
+		<Translation lang="fr">il me semble.</Translation>
+	</Segment>
+	<Segment id ="77" >
+		<Time-slot>00:03:04,623 --> 00:03:05,893</Time-slot>
+		<Original_text lang="en">And despite its obvious</Original_text>
+		<Translation lang="ar">وعلى الرغم من واضح</Translation>
+		<Translation lang="fr">Et malgré l'évidente</Translation>
+	</Segment>
+	<Segment id ="78" >
+		<Time-slot>00:03:05,893 --> 00:03:07,649</Time-slot>
+		<Original_text lang="en">influence by the ancient astronauts</Original_text>
+		<Translation lang="ar">تأثير رواد الفضاء القدماء</Translation>
+		<Translation lang="fr">influence des astronautes antiques,</Translation>
+	</Segment>
+	<Segment id ="79" >
+		<Time-slot>00:03:07,649 --> 00:03:11,838</Time-slot>
+		<Original_text lang="en">and its space agey-ness and tripodism,</Original_text>
+		<Translation lang="ar">فضائية عمره وقوائمه الثلاثة،</Translation>
+		<Translation lang="fr">son style spatial et ses trois pieds,</Translation>
+	</Segment>
+	<Segment id ="80" >
+		<Time-slot>00:03:11,838 --> 00:03:13,281</Time-slot>
+		<Original_text lang="en">it is not something</Original_text>
+		<Translation lang="ar">هو ليس بشئ</Translation>
+		<Translation lang="fr">ce n'est pas un objet</Translation>
+	</Segment>
+	<Segment id ="81" >
+		<Time-slot>00:03:13,281 --> 00:03:15,412</Time-slot>
+		<Original_text lang="en">designed to attach to your brain</Original_text>
+		<Translation lang="ar">مصمم للالتصاق بدماغك</Translation>
+		<Translation lang="fr">conçu pour se fixer à votre cerveau</Translation>
+	</Segment>
+	<Segment id ="82" >
+		<Time-slot>00:03:15,418 --> 00:03:17,588</Time-slot>
+		<Original_text lang="en">and suck out your thoughts.</Original_text>
+		<Translation lang="ar">وامتصاص أفكارك.</Translation>
+		<Translation lang="fr">et aspirer vos pensées.</Translation>
+	</Segment>
+	<Segment id ="83" >
+		<Time-slot>00:03:17,588 --> 00:03:19,913</Time-slot>
+		<Original_text lang="en">It is in fact a citrus juicer</Original_text>
+		<Translation lang="ar">هو في الحقيقة عصارة ليمون</Translation>
+		<Translation lang="fr">C'est en réalité un presse-agrumes</Translation>
+	</Segment>
+	<Segment id ="84" >
+		<Time-slot>00:03:19,913 --> 00:03:21,792</Time-slot>
+		<Original_text lang="en">and when I say that,</Original_text>
+		<Translation lang="ar">وعندما أقول ذلك،</Translation>
+		<Translation lang="fr">et maintenant que j'ai dit cela,</Translation>
+	</Segment>
+	<Segment id ="85" >
+		<Time-slot>00:03:21,793 --> 00:03:24,585</Time-slot>
+		<Original_text lang="en">you never see it as anything else again.</Original_text>
+		<Translation lang="ar">أنت لن تراه كأي شيء آخر مجددا.</Translation>
+		<Translation lang="fr">vous ne le verrez plus jamais comme quelque chose d'autre.</Translation>
+	</Segment>
+	<Segment id ="86" >
+		<Time-slot>00:03:24,585 --> 00:03:28,644</Time-slot>
+		<Original_text lang="en">It is also not a monument to design,</Original_text>
+		<Translation lang="ar">وهو كذلك ليس بنصب تذكاري للتصميم،</Translation>
+		<Translation lang="fr">Ce n'est pas un objet à la gloire du design</Translation>
+	</Segment>
+	<Segment id ="87" >
+		<Time-slot>00:03:28,644 --> 00:03:31,236</Time-slot>
+		<Original_text lang="en">it is a monument to design's utility.</Original_text>
+		<Translation lang="ar">إنه نصب تذكاري لنفعية التصميم.</Translation>
+		<Translation lang="fr">mais à l'utilité du design.</Translation>
+	</Segment>
+	<Segment id ="88" >
+		<Time-slot>00:03:31,236 --> 00:03:33,308</Time-slot>
+		<Original_text lang="en">You can take it home with you,</Original_text>
+		<Translation lang="ar">بإمكانك أخذها للبيت معك،</Translation>
+		<Translation lang="fr">Vous pouvez le ramener chez vous</Translation>
+	</Segment>
+	<Segment id ="89" >
+		<Time-slot>00:03:33,308 --> 00:03:35,137</Time-slot>
+		<Original_text lang="en">unlike the Theme Building,</Original_text>
+		<Translation lang="ar">على خلاف "بناء الموضوع"،</Translation>
+		<Translation lang="fr">contrairement au Theme Building,</Translation>
+	</Segment>
+	<Segment id ="90" >
+		<Time-slot>00:03:35,137 --> 00:03:37,698</Time-slot>
+		<Original_text lang="en">which will stay where it is forever.</Original_text>
+		<Translation lang="ar">والذي سيبقى حيث هو إلى الأبد.</Translation>
+		<Translation lang="fr">qui restera là où il est pour toujours.</Translation>
+	</Segment>
+	<Segment id ="91" >
+		<Time-slot>00:03:37,698 --> 00:03:39,272</Time-slot>
+		<Original_text lang="en">This is affordable</Original_text>
+		<Translation lang="ar">هذا في المتناول</Translation>
+		<Translation lang="fr">Cet objet a un prix abordable</Translation>
+	</Segment>
+	<Segment id ="92" >
+		<Time-slot>00:03:39,271 --> 00:03:40,881</Time-slot>
+		<Original_text lang="en">and can come home with you</Original_text>
+		<Translation lang="ar">ويمكنه أن يعود معك إلى البيت</Translation>
+		<Translation lang="fr">et vous pouvez le ramener chez vous</Translation>
+	</Segment>
+	<Segment id ="93" >
+		<Time-slot>00:03:40,881 --> 00:03:42,941</Time-slot>
+		<Original_text lang="en">and, as such, it can sit</Original_text>
+		<Translation lang="ar">وعلى هذا النحو يمكنه أن يجلس</Translation>
+		<Translation lang="fr">et, ainsi, il peut trôner</Translation>
+	</Segment>
+	<Segment id ="94" >
+		<Time-slot>00:03:42,941 --> 00:03:45,329</Time-slot>
+		<Original_text lang="en">on your kitchen counter --</Original_text>
+		<Translation lang="ar">على طاولة المطبخ --</Translation>
+		<Translation lang="fr">sur le plan de travail de votre cuisine,</Translation>
+	</Segment>
+	<Segment id ="95" >
+		<Time-slot>00:03:45,329 --> 00:03:46,435</Time-slot>
+		<Original_text lang="en">it can't go in your drawers;</Original_text>
+		<Translation lang="ar">لا يمكن أن يوضع في أدراجك؛</Translation>
+		<Translation lang="fr">il n'ira pas dans vos tiroirs ;</Translation>
+	</Segment>
+	<Segment id ="96" >
+		<Time-slot>00:03:46,435 --> 00:03:49,155</Time-slot>
+		<Original_text lang="en">trust me, I found that out the hard way --</Original_text>
+		<Translation lang="ar">ثق بي، لقد اكتشفت ذلك بالطريقة الصعبة --</Translation>
+		<Translation lang="fr">croyez-moi, j'ai découvert cela à mes dépens,</Translation>
+	</Segment>
+	<Segment id ="97" >
+		<Time-slot>00:03:49,155 --> 00:03:51,140</Time-slot>
+		<Original_text lang="en">and make your kitchen counter into</Original_text>
+		<Translation lang="ar">واجعل من طاولة المطبخ الخاص بك</Translation>
+		<Translation lang="fr">et faire de votre plan de travail</Translation>
+	</Segment>
+	<Segment id ="98" >
+		<Time-slot>00:03:51,140 --> 00:03:52,713</Time-slot>
+		<Original_text lang="en">a monument to design.</Original_text>
+		<Translation lang="ar">نصبا تذكاريا للتصميم.</Translation>
+		<Translation lang="fr">un monument à la gloire du design.</Translation>
+	</Segment>
+	<Segment id ="99" >
+		<Time-slot>00:03:52,713 --> 00:03:53,984</Time-slot>
+		<Original_text lang="en">One other thing about it,</Original_text>
+		<Translation lang="ar">شيء آخر حول هذا الموضوع،</Translation>
+		<Translation lang="fr">Autre information sur cet objet,</Translation>
+	</Segment>
+	<Segment id ="100" >
+		<Time-slot>00:03:53,985 --> 00:03:55,531</Time-slot>
+		<Original_text lang="en">if you do have one at home,</Original_text>
+		<Translation lang="ar">إن كان لديك واحد في المنزل،</Translation>
+		<Translation lang="fr">si vous en avez un à la maison,</Translation>
+	</Segment>
+	<Segment id ="101" >
+		<Time-slot>00:03:55,531 --> 00:03:57,750</Time-slot>
+		<Original_text lang="en">let me tell you one of the features you may not know:</Original_text>
+		<Translation lang="ar">دعوني أخبركم عن أحد الميزات التي قد لا تعرفونها:</Translation>
+		<Translation lang="fr">laissez-moi vous parler d'une des caractéristiques que vous ne connaissez sans doute pas:</Translation>
+	</Segment>
+	<Segment id ="102" >
+		<Time-slot>00:03:57,750 --> 00:03:59,695</Time-slot>
+		<Original_text lang="en">when you fall asleep,</Original_text>
+		<Translation lang="ar">عندما تغفو،</Translation>
+		<Translation lang="fr">une fois que vous êtes endormi,</Translation>
+	</Segment>
+	<Segment id ="103" >
+		<Time-slot>00:03:59,695 --> 00:04:03,086</Time-slot>
+		<Original_text lang="en">it comes alive</Original_text>
+		<Translation lang="ar">يصبح حياً</Translation>
+		<Translation lang="fr">il prend vie,</Translation>
+	</Segment>
+	<Segment id ="104" >
+		<Time-slot>00:04:03,086 --> 00:04:05,328</Time-slot>
+		<Original_text lang="en">and it walks around your house</Original_text>
+		<Translation lang="ar">ويمشي حول منزلك</Translation>
+		<Translation lang="fr">se promène dans votre maison,</Translation>
+	</Segment>
+	<Segment id ="105" >
+		<Time-slot>00:04:05,329 --> 00:04:06,668</Time-slot>
+		<Original_text lang="en">and goes through your mail</Original_text>
+		<Translation lang="ar">ويفتش في بريدك</Translation>
+		<Translation lang="fr">lit votre courrier</Translation>
+	</Segment>
+	<Segment id ="106" >
+		<Time-slot>00:04:06,668 --> 00:04:08,918</Time-slot>
+		<Original_text lang="en">and watches you as you sleep.</Original_text>
+		<Translation lang="ar">ويراقبك وأنت نائم.</Translation>
+		<Translation lang="fr">et vous regarde dormir.</Translation>
+	</Segment>
+	<Segment id ="107" >
+		<Time-slot>00:04:08,918 --> 00:04:13,099</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+	<Segment id ="108" >
+		<Time-slot>00:04:13,099 --> 00:04:18,704</Time-slot>
+		<Original_text lang="en">Okay, what is this object?</Original_text>
+		<Translation lang="ar">حسنا، ما هو هذا الشيء؟</Translation>
+		<Translation lang="fr">OK, c'est quoi cet objet?</Translation>
+	</Segment>
+	<Segment id ="109" >
+		<Time-slot>00:04:19,550 --> 00:04:23,192</Time-slot>
+		<Original_text lang="en">I have no idea. I don't know what that thing is.</Original_text>
+		<Translation lang="ar">ليس لدي فكرة. أنا لا أعرف ما هذا الشيء .</Translation>
+		<Translation lang="fr">Aucune idée. Je ne sais pas ce que c'est.</Translation>
+	</Segment>
+	<Segment id ="110" >
+		<Time-slot>00:04:23,192 --> 00:04:24,994</Time-slot>
+		<Original_text lang="en">It looks terrible. Is it a little hot plate?</Original_text>
+		<Translation lang="ar">إنه يبدو رهيبا. هل هي لوحة ساخنة صغيرة؟</Translation>
+		<Translation lang="fr">C'est moche. Est-ce une mini plaque chauffante ?</Translation>
+	</Segment>
+	<Segment id ="111" >
+		<Time-slot>00:04:24,994 --> 00:04:26,402</Time-slot>
+		<Original_text lang="en">I don't get it.</Original_text>
+		<Translation lang="ar">لست أفهم الأمر.</Translation>
+		<Translation lang="fr">Je ne comprends pas.</Translation>
+	</Segment>
+	<Segment id ="112" >
+		<Time-slot>00:04:26,401 --> 00:04:28,478</Time-slot>
+		<Original_text lang="en">Does anyone know? Chi?</Original_text>
+		<Translation lang="ar">هل يعرف أحدكم؟ تشي؟</Translation>
+		<Translation lang="fr">Quelqu'un peut me dire ? Chi ?</Translation>
+	</Segment>
+	<Segment id ="113" >
+		<Time-slot>00:04:28,478 --> 00:04:30,281</Time-slot>
+		<Original_text lang="en">It's an ... iPhone. iPhone.</Original_text>
+		<Translation lang="ar">إنه ... آيفون. آيفون.</Translation>
+		<Translation lang="fr">C'est un ... iPhone. iPhone.</Translation>
+	</Segment>
+	<Segment id ="114" >
+		<Time-slot>00:04:30,281 --> 00:04:32,596</Time-slot>
+		<Original_text lang="en">Oh yes, that's right, I remember those;</Original_text>
+		<Translation lang="ar">أوه نعم، هذا صحيح، وأنا أتذكر ذلك؛</Translation>
+		<Translation lang="fr">Ah oui, c'est vrai, je m'en souviens ;</Translation>
+	</Segment>
+	<Segment id ="115" >
+		<Time-slot>00:04:32,596 --> 00:04:34,576</Time-slot>
+		<Original_text lang="en">I had my whole bathroom tiles</Original_text>
+		<Translation lang="ar">كنت قد أجريت على بلاط حمامي بكامله</Translation>
+		<Translation lang="fr">j'avais fait recarreler ma salle de bain</Translation>
+	</Segment>
+	<Segment id ="116" >
+		<Time-slot>00:04:34,576 --> 00:04:37,846</Time-slot>
+		<Original_text lang="en">redone with those back in the good old days.</Original_text>
+		<Translation lang="ar">عملية إعادة تبليط باستخدام تلك في الأيام الخوالي.</Translation>
+		<Translation lang="fr">avec ces objets dans le temps.</Translation>
+	</Segment>
+	<Segment id ="117" >
+		<Time-slot>00:04:37,846 --> 00:04:39,855</Time-slot>
+		<Original_text lang="en">No, I have an iPhone. Of course I do.</Original_text>
+		<Translation lang="ar">لا، لدي آيفون. بالطبع لدي.</Translation>
+		<Translation lang="fr">Non, j'ai un iPhone. Forcément.</Translation>
+	</Segment>
+	<Segment id ="118" >
+		<Time-slot>00:04:39,855 --> 00:04:41,571</Time-slot>
+		<Original_text lang="en">Here is my well-loved iPhone.</Original_text>
+		<Translation lang="ar">هذا هو آيفوني المحبوب.</Translation>
+		<Translation lang="fr">Voici mon iPhone bien-aimé.</Translation>
+	</Segment>
+	<Segment id ="119" >
+		<Time-slot>00:04:41,571 --> 00:04:44,615</Time-slot>
+		<Original_text lang="en">I do so many things on this little device.</Original_text>
+		<Translation lang="ar">أقوم بالكثير من الأمور على هذا الجهاز الصغير.</Translation>
+		<Translation lang="fr">Je fais tellement de choses avec ce petit appareil.</Translation>
+	</Segment>
+	<Segment id ="120" >
+		<Time-slot>00:04:44,615 --> 00:04:46,625</Time-slot>
+		<Original_text lang="en">I like to read books on it.</Original_text>
+		<Translation lang="ar">أنا أحب قراءة الكتب عليه.</Translation>
+		<Translation lang="fr">J'aime y lire des livres.</Translation>
+	</Segment>
+	<Segment id ="121" >
+		<Time-slot>00:04:46,625 --> 00:04:49,137</Time-slot>
+		<Original_text lang="en">More than that, I like to buy books on it</Original_text>
+		<Translation lang="ar">أكثر من ذلك، أحب شراء الكتب عليه</Translation>
+		<Translation lang="fr">J'aime même m'en servir pour acheter des livres</Translation>
+	</Segment>
+	<Segment id ="122" >
+		<Time-slot>00:04:49,137 --> 00:04:51,067</Time-slot>
+		<Original_text lang="en">that I never have to feel guilty about not reading</Original_text>
+		<Translation lang="ar">حيث أنني لست مضطرا أبدا للشعور بالذنب حول عدم قراءتها</Translation>
+		<Translation lang="fr">que je ne me sens jamais coupable de ne pas lire</Translation>
+	</Segment>
+	<Segment id ="123" >
+		<Time-slot>00:04:51,067 --> 00:04:52,769</Time-slot>
+		<Original_text lang="en">because they go in here and I never look at them again</Original_text>
+		<Translation lang="ar">لأنها تذهب إلى هنا حيث لا أنظر إليها مجددا</Translation>
+		<Translation lang="fr">parce qu'une fois qu'ils sont dedans je ne les revois plus jamais</Translation>
+	</Segment>
+	<Segment id ="124" >
+		<Time-slot>00:04:52,769 --> 00:04:55,715</Time-slot>
+		<Original_text lang="en">and it's perfect.</Original_text>
+		<Translation lang="ar">والأمر مثالي.</Translation>
+		<Translation lang="fr">et c'est parfait ainsi.</Translation>
+	</Segment>
+	<Segment id ="125" >
+		<Time-slot>00:04:55,714 --> 00:04:57,870</Time-slot>
+		<Original_text lang="en">I use it every day to</Original_text>
+		<Translation lang="ar">أستخدمه كل يوم</Translation>
+		<Translation lang="fr">Je m'en sers tous les jours pour</Translation>
+	</Segment>
+	<Segment id ="126" >
+		<Time-slot>00:04:57,870 --> 00:05:00,305</Time-slot>
+		<Original_text lang="en">measure the weight of an ox,</Original_text>
+		<Translation lang="ar">لقياس وزن ثور،</Translation>
+		<Translation lang="fr">déterminer le poids d'un bœuf,</Translation>
+	</Segment>
+	<Segment id ="127" >
+		<Time-slot>00:05:00,305 --> 00:05:02,067</Time-slot>
+		<Original_text lang="en">for example.</Original_text>
+		<Translation lang="ar">على سبيل المثال.</Translation>
+		<Translation lang="fr">par exemple.</Translation>
+	</Segment>
+	<Segment id ="128" >
+		<Time-slot>00:05:02,067 --> 00:05:03,653</Time-slot>
+		<Original_text lang="en">Every now and then,</Original_text>
+		<Translation lang="ar">بين الحين والآخر،</Translation>
+		<Translation lang="fr">De temps en temps,</Translation>
+	</Segment>
+	<Segment id ="129" >
+		<Time-slot>00:05:03,653 --> 00:05:05,106</Time-slot>
+		<Original_text lang="en">I admit that I complete</Original_text>
+		<Translation lang="ar">أعترف بأنني أكمل</Translation>
+		<Translation lang="fr">je dois reconnaître qu'il m'arrive</Translation>
+	</Segment>
+	<Segment id ="130" >
+		<Time-slot>00:05:05,107 --> 00:05:07,359</Time-slot>
+		<Original_text lang="en">a phone call on it occasionally.</Original_text>
+		<Translation lang="ar">مكالمة هاتفية عن ذلك في بعض الأحيان.</Translation>
+		<Translation lang="fr">d'effectuer un appel avec.</Translation>
+	</Segment>
+	<Segment id ="131" >
+		<Time-slot>00:05:07,358 --> 00:05:11,056</Time-slot>
+		<Original_text lang="en">And yet I forget about it all the time.</Original_text>
+		<Translation lang="ar">ولا أزال أنساه دائماً.</Translation>
+		<Translation lang="fr">Et pourtant, je l'oublie tout le temps.</Translation>
+	</Segment>
+	<Segment id ="132" >
+		<Time-slot>00:05:11,057 --> 00:05:12,838</Time-slot>
+		<Original_text lang="en">This is a design</Original_text>
+		<Translation lang="ar">هذا هو التصميم</Translation>
+		<Translation lang="fr">Le design de cet objet,</Translation>
+	</Segment>
+	<Segment id ="133" >
+		<Time-slot>00:05:12,838 --> 00:05:14,459</Time-slot>
+		<Original_text lang="en">that once you saw it,</Original_text>
+		<Translation lang="ar">الذي إذا شاهدته مرة،</Translation>
+		<Translation lang="fr">une fois que vous l'avez vu,</Translation>
+	</Segment>
+	<Segment id ="134" >
+		<Time-slot>00:05:14,459 --> 00:05:15,701</Time-slot>
+		<Original_text lang="en">you forgot about it.</Original_text>
+		<Translation lang="ar">تنساه بسرعة.</Translation>
+		<Translation lang="fr">vous l'oubliez.</Translation>
+	</Segment>
+	<Segment id ="135" >
+		<Time-slot>00:05:15,701 --> 00:05:18,404</Time-slot>
+		<Original_text lang="en">It is easy to forget the gasp-inducement</Original_text>
+		<Translation lang="ar">فمن السهل أن ننسى لحظات الإغراء</Translation>
+		<Translation lang="fr">C'est facile d'oublier l'ébahissement</Translation>
+	</Segment>
+	<Segment id ="136" >
+		<Time-slot>00:05:18,404 --> 00:05:21,486</Time-slot>
+		<Original_text lang="en">that occurred in 2007 when you first</Original_text>
+		<Translation lang="ar">التي حدثت سنة 2007 حين، ولأول مرة،</Translation>
+		<Translation lang="fr">ressenti en 2007 quand vous avez touché</Translation>
+	</Segment>
+	<Segment id ="137" >
+		<Time-slot>00:05:21,487 --> 00:05:24,257</Time-slot>
+		<Original_text lang="en">touched this thing because it became</Original_text>
+		<Translation lang="ar">لمستم هذا الشيء لأنه صار</Translation>
+		<Translation lang="fr">cet objet pour la première fois car il est</Translation>
+	</Segment>
+	<Segment id ="138" >
+		<Time-slot>00:05:24,257 --> 00:05:25,894</Time-slot>
+		<Original_text lang="en">so quickly pervasive</Original_text>
+		<Translation lang="ar">متفشيا بسرعة</Translation>
+		<Translation lang="fr">très vite devenu omniprésent,</Translation>
+	</Segment>
+	<Segment id ="139" >
+		<Time-slot>00:05:25,894 --> 00:05:28,319</Time-slot>
+		<Original_text lang="en">and because of how instantly</Original_text>
+		<Translation lang="ar">وبسبب مدى فورية</Translation>
+		<Translation lang="fr">et parce qu'on a adopté quasi-instantanément</Translation>
+	</Segment>
+	<Segment id ="140" >
+		<Time-slot>00:05:28,319 --> 00:05:30,689</Time-slot>
+		<Original_text lang="en">we adopted these gestures</Original_text>
+		<Translation lang="ar">تبنينا لهذه الحركات</Translation>
+		<Translation lang="fr">les gestes pour l'utiliser</Translation>
+	</Segment>
+	<Segment id ="141" >
+		<Time-slot>00:05:30,689 --> 00:05:33,685</Time-slot>
+		<Original_text lang="en">and made it an extension of our life.</Original_text>
+		<Translation lang="ar">وجعلناها امتدادا لحياتنا.</Translation>
+		<Translation lang="fr">et qu'on s'est mis à le considérer comme partie intégrante de nos vies.</Translation>
+	</Segment>
+	<Segment id ="142" >
+		<Time-slot>00:05:33,685 --> 00:05:36,190</Time-slot>
+		<Original_text lang="en">Unlike the Theme Building,</Original_text>
+		<Translation lang="ar">وخلافا لـ "بناء الموضوع"،</Translation>
+		<Translation lang="fr">Contrairement au Theme Building,</Translation>
+	</Segment>
+	<Segment id ="143" >
+		<Time-slot>00:05:36,190 --> 00:05:38,213</Time-slot>
+		<Original_text lang="en">this is not alien technology.</Original_text>
+		<Translation lang="ar">هذه ليست تكنولوجيا دخيلة.</Translation>
+		<Translation lang="fr">ceci n'est pas de la technologie extraterrestre.</Translation>
+	</Segment>
+	<Segment id ="144" >
+		<Time-slot>00:05:38,213 --> 00:05:39,975</Time-slot>
+		<Original_text lang="en">Or I should say,</Original_text>
+		<Translation lang="ar">أو ينبغي أن أقول،</Translation>
+		<Translation lang="fr">Ou, devrais-je dire,</Translation>
+	</Segment>
+	<Segment id ="145" >
+		<Time-slot>00:05:39,975 --> 00:05:41,774</Time-slot>
+		<Original_text lang="en">what it did was it took technology</Original_text>
+		<Translation lang="ar">ما فعلته هو أنها أخذت التكنولوجيا</Translation>
+		<Translation lang="fr">cet objet a pris la technologie</Translation>
+	</Segment>
+	<Segment id ="146" >
+		<Time-slot>00:05:41,774 --> 00:05:43,206</Time-slot>
+		<Original_text lang="en">which, unlike people in this room,</Original_text>
+		<Translation lang="ar">والتي، على عكس الأشخاص الموجودين هنا،</Translation>
+		<Translation lang="fr">qui, bien que ce ne soit pas le cas ici,</Translation>
+	</Segment>
+	<Segment id ="147" >
+		<Time-slot>00:05:43,206 --> 00:05:44,300</Time-slot>
+		<Original_text lang="en">to many other people in the world,</Original_text>
+		<Translation lang="ar">والعديد من الأشخاص الآخرين في العالم،</Translation>
+		<Translation lang="fr">demeure pour beaucoup de gens dans le monde</Translation>
+	</Segment>
+	<Segment id ="148" >
+		<Time-slot>00:05:44,300 --> 00:05:45,531</Time-slot>
+		<Original_text lang="en">still feels very alien,</Original_text>
+		<Translation lang="ar">لا تزال تشعِر بغرابة شديدة،</Translation>
+		<Translation lang="fr">quelque chose de quasiment extraterrestre,</Translation>
+	</Segment>
+	<Segment id ="149" >
+		<Time-slot>00:05:45,531 --> 00:05:47,644</Time-slot>
+		<Original_text lang="en">and made it immediately and instantly feel</Original_text>
+		<Translation lang="ar">وجعلتها وبشكل مباشر وفوري تعطي شعورا</Translation>
+		<Translation lang="fr">et en a fait quelque chose d'immédiatement</Translation>
+	</Segment>
+	<Segment id ="150" >
+		<Time-slot>00:05:47,644 --> 00:05:49,883</Time-slot>
+		<Original_text lang="en">familiar and intimate.</Original_text>
+		<Translation lang="ar">بالحميمية والألفة.</Translation>
+		<Translation lang="fr">familier et intime.</Translation>
+	</Segment>
+	<Segment id ="151" >
+		<Time-slot>00:05:49,884 --> 00:05:52,083</Time-slot>
+		<Original_text lang="en">And unlike the juicy salif,</Original_text>
+		<Translation lang="ar">وعلى خلاف عصارة الليمون،</Translation>
+		<Translation lang="fr">Et contrairement au Juicy Salif,</Translation>
+	</Segment>
+	<Segment id ="152" >
+		<Time-slot>00:05:52,083 --> 00:05:53,715</Time-slot>
+		<Original_text lang="en">it does not threaten</Original_text>
+		<Translation lang="ar">فهي لا تهدد</Translation>
+		<Translation lang="fr">il ne vous menace pas</Translation>
+	</Segment>
+	<Segment id ="153" >
+		<Time-slot>00:05:53,714 --> 00:05:55,906</Time-slot>
+		<Original_text lang="en">to attach itself to your brain,</Original_text>
+		<Translation lang="ar">بربط ذاتها بدماغكم،</Translation>
+		<Translation lang="fr">de se fixer à votre cerveau,</Translation>
+	</Segment>
+	<Segment id ="154" >
+		<Time-slot>00:05:55,906 --> 00:05:57,875</Time-slot>
+		<Original_text lang="en">rather, it simply</Original_text>
+		<Translation lang="ar">وإنما ببساطة</Translation>
+		<Translation lang="fr">mais, tout simplement,</Translation>
+	</Segment>
+	<Segment id ="155" >
+		<Time-slot>00:05:57,875 --> 00:05:59,718</Time-slot>
+		<Original_text lang="en">attaches itself to your brain.</Original_text>
+		<Translation lang="ar">تربط ذاتها بدماغكم.</Translation>
+		<Translation lang="fr">il se fixe à votre cerveau.</Translation>
+	</Segment>
+	<Segment id ="156" >
+		<Time-slot>00:05:59,718 --> 00:06:01,786</Time-slot>
+		<Original_text lang="en">(Laughter)</Original_text>
+		<Translation lang="ar">(ضحك)</Translation>
+		<Translation lang="fr">(Rires)</Translation>
+	</Segment>
+	<Segment id ="157" >
+		<Time-slot>00:06:01,786 --> 00:06:04,560</Time-slot>
+		<Original_text lang="en">And you didn't even notice it happened.</Original_text>
+		<Translation lang="ar">وأنتم لم تلاحظوا حتى حدوثها.</Translation>
+		<Translation lang="fr">Et vous ne vous en êtes même pas aperçu.</Translation>
+	</Segment>
+	<Segment id ="158" >
+		<Time-slot>00:06:04,560 --> 00:06:06,682</Time-slot>
+		<Original_text lang="en">So there you go. My name is John Hodgman.</Original_text>
+		<Translation lang="ar">وهذا كل شيء. إسمي جون هودجمان.</Translation>
+		<Translation lang="fr">Voilà. Je m'appelle John Hodgeman.</Translation>
+	</Segment>
+	<Segment id ="159" >
+		<Time-slot>00:06:06,682 --> 00:06:09,907</Time-slot>
+		<Original_text lang="en">I just explained design.</Original_text>
+		<Translation lang="ar">وقد شرحت للتو التصميم.</Translation>
+		<Translation lang="fr">Je viens de vous expliquer le design.</Translation>
+	</Segment>
+	<Segment id ="160" >
+		<Time-slot>00:06:09,906 --> 00:06:11,717</Time-slot>
+		<Original_text lang="en">Thank you very much.</Original_text>
+		<Translation lang="ar">شكرا جزيلا لكم.</Translation>
+		<Translation lang="fr">Merci beaucoup.</Translation>
+	</Segment>
+	<Segment id ="161" >
+		<Time-slot>00:06:11,718 --> 00:06:15,713</Time-slot>
+		<Original_text lang="en">(Applause)</Original_text>
+		<Translation lang="ar">(تصفيق)</Translation>
+		<Translation lang="fr">(Applaudissements)</Translation>
+	</Segment>
+</Talk>
+</MulTed>
